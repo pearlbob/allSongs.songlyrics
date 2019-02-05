@@ -1,2 +1,2 @@
 # allSongs.songlyrics
-repository for www.bsteele.com/bsteeleMusicApp master list
+repository for www.bsteele.com/bsteeleMusicApp master song list
