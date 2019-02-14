@@ -390,107 +390,6 @@
     ]
 }
 },
-{ "file": "A Case of You, cover.songlyrics", "lastModifiedDate": 1549499880000, "song": 
-{
-"title": "A Case of You, cover",
-"artist": "Joni Mitchell",
-"copyright": "1971 Reprise Records",
-"key": "C",
-"defaultBpm": 104,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I:",
-	"C G C D",
-	"",
-	"V1:",
-	"G D Em Em",
-	"Am G D D",
-	"",
-	"V2:",
-	"G D Em Em",
-	"Am G Em Em",
-	"Am D D",
-	"",
-	"C:",
-	"C Bm Am G",
-	"G Em Em Em",
-	"Am D D",
-	"",
-	"T:",
-	"G Em Em Em",
-	"Am D D G"
-    ],
-"lyrics": 
-    [
-	"I: (Instrumental)",
-	"",
-	"V1:",
-	"Just before our love got lost you said",
-	"“I am as constant as the northern star” and I said ",
-	"“Constantly in the darkness, where’s that at? ",
-	"If you want me I’ll be in the bar”",
-	"",
-	"V2:",
-	"On the back of a cotton coaster",
-	"In the blue TV screen light",
-	"I drew a map of Canada, oh Canada",
-	"With your face sketched on it twice",
-	"",
-	"C:",
-	"In my blood like holy wine",
-	"You taste so bitter and so sweet",
-	"Well, I could drink a case of you, ooh darling",
-	"And still be on my feet",
-	"I’d still be on my feet",
-	"",
-	"I: (Instrumental)",
-	"",
-	"V1:",
-	"Oh I am a lonely painter",
-	"I live in a box of paints",
-	"I’m frightened by the devil",
-	"And I’m drawn to the ones that ain’t afraid",
-	"",
-	"V1:",
-	"I remember that time you told me",
-	"“Love is touching souls,” surely you touched mine",
-	"‘Cause part of you pours out of me",
-	"In these lines from time to time",
-	"",
-	"C:",
-	"My blood, my holy wine",
-	"Tastes so bitter and so sweet",
-	"Well, I could drink a case of you, ooh darling",
-	"And still be on my feet",
-	"I’d still be on my feet",
-	"",
-	"I:",
-	"(Instrumental)",
-	"",
-	"V1:",
-	"I met a woman, she had a mouth like yours",
-	"She knew your devils and your deeds and she said",
-	"“Go to him, stay with him",
-	"But be prepared to bleed”",
-	"",
-	"C:",
-	"My blood, my holy wine",
-	"Tastes so bitter and so sweet",
-	"Well, I could drink a case of you, ooh darling",
-	"And still be on my feet",
-	"I’d still be on my feet",
-	"",
-	"I:",
-	"(Instrumental)",
-	"",
-	"T:",
-	"Well, I could drink a case of you, ooh darling",
-	"And still be on my feet",
-	"I’d still be on my feet"
-    ]
-}
-},
 { "file": "A Country Boy Can Survive.songlyrics", "lastModifiedDate": 1534734707888, "song": 
 {
 "title": "A Country Boy Can Survive",
@@ -856,7 +755,7 @@
 	"G - D -",
 	"",
 	"",
-	"O: D - - - x3"
+	"O: D - - - 3x"
     ],
 "lyrics": 
     [
@@ -1043,15 +942,15 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"I: D FG  D -    x2",
+	"I: D FG  D -    2x",
 	"",
 	"V:  ",
-	"D FG D -    x2",
+	"D FG D -    2x",
 	"D G - A ",
 	"A",
 	"",
 	"",
-	"O: D FG D -   x3   "
+	"O: D FG D -   3x   "
     ],
 "lyrics": 
     [
@@ -3503,9 +3402,9 @@
     ]
 }
 },
-{ "file": "Baby Love.songlyrics", "lastModifiedDate": 1536807058234, "song": 
+{ "file": "Baby Love - CORRECTED.songlyrics", "lastModifiedDate": 1536807058234, "song": 
 {
-"title": "Baby Love",
+"title": "Baby Love - CORRECTED",
 "artist": "Supremes",
 "copyright": "Motown",
 "key": "C",
@@ -3513,17 +3412,15 @@
 "timeSignature": "4/4",
 "chords": 
     [
+	"I: F FG",
 	"",
-	"I:",
-	" F F.G.",
-	"V:",
-	" C C7 A Dm",
-	" F C F C",
-	" F C F.Em. Dm.G.",
-	"O:",
-	" C C7 A Dm",
-	" F C F C x3",
-	" C"
+	"V: C C7 A Dm",
+	"F C F C",
+	"F C FEm DmG",
+	"",
+	"O: C C7 A Dm",
+	"F C F C  3x",
+	"C"
     ],
 "lyrics": 
     [
@@ -5611,61 +5508,7 @@
     ]
 }
 },
-{ "file": "Black Is Black.songlyrics", "lastModifiedDate": 1544675744000, "song": 
-{
-"title": "Black Is Black",
-"artist": "Los Bravos",
-"copyright": "Sony/ATV Music Publishing LLC",
-"key": "E",
-"defaultBpm": 120,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I: Em - D -  x2",
-	"",
-	"V: Em - D -",
-	"Em - A A7",
-	"D - Em A",
-	"D -",
-	"",
-	"C: Em F#m G -",
-	"E - A A7B7",
-	"",
-	"O: Em A D -",
-	"BbC D "
-    ],
-"lyrics": 
-    [
-	"I: (instrumental)",
-	"",
-	"V: Black is black, I want my baby back",
-	"It's grey, it's grey, since she went away, oh oh",
-	"What can I do, 'cause I, I'm feelin' blue",
-	"",
-	"V: If I had my way, she'd be here today",
-	"But she'd go in time, and leave me to cry again, oh no",
-	"What can I do, 'cause I, I'm feelin' blue",
-	"",
-	"C: I can't choose, it's too much to lose when our love's too strong",
-	"Maybe if she would come back to me, then I can't go wrong",
-	"",
-	"V: Bad is bad, that I feel so sad",
-	"It's time, it's time, that I felt peace of mind, oh oh",
-	"What can I do, 'cause I, I'm feelin' blue",
-	"",
-	"C: I can't choose, it's too much to lose when our love's too strong",
-	"Maybe if she would come back to me, then I can't go wrong",
-	"",
-	"V: Black is black, I want my baby back",
-	"It's grey, it's grey, since she went away, oh oh",
-	"What can I do, 'cause I, I'm feelin' blue",
-	"",
-	"O: 'Cause I, I'm feelin' blue, ",
-	"(+ instrumental last line)"
-    ]
-}
-},
-{ "file": "Black Magic Woman (1).songlyrics", "lastModifiedDate": 1548796960000, "song": 
+{ "file": "Black Magic Woman (1).songlyrics", "lastModifiedDate": 1548796959648, "song": 
 {
 "title": "Black Magic Woman",
 "artist": "Santana",
@@ -6052,104 +5895,6 @@
     ]
 }
 },
-{ "file": "Blue Moon (5).songlyrics", "lastModifiedDate": 1549428008000, "song": 
-{
-"title": "Blue Moon",
-"artist": "Elvis Presley et al",
-"copyright": "by Lorenz Hart / Richard Rodgers * © Sony/ATV Music Publishing LLC",
-"key": "G",
-"defaultBpm": 106,
-"timeSignature": "2/4",
-"chords": 
-    [
-	"i:",
-	"C Am F G7 x2",
-	"",
-	"v:",
-	"C Am F G7 x4",
-	"",
-	"c: ",
-	"Dm G7 C Am",
-	"Dm G7 C Am",
-	"Dm G7 C Am",
-	"Dm D7 G G7"
-    ],
-"lyrics": 
-    [
-	"i:",
-	"v:",
-	"Blue moon, you saw me standing alone,",
-	"Without a dream in my heart,",
-	"Without a love of my own.",
-	"",
-	"v:",
-	"Blue moon, you knew just what I was there for.",
-	"You heard me saying a prayer for",
-	"Someone I really could care for.",
-	"",
-	"c:",
-	"And then there suddenly appeared before me",
-	"The only one my arms will ever hold.",
-	"I heard somebody whisper \"Please adore me.\"",
-	"And when I looked, the moon had turned to gold!",
-	"",
-	"v:",
-	"Blue moon, now I'm no longer alone,",
-	"Without a dream in my heart,",
-	"Without a love of my own."
-    ]
-}
-},
-{ "file": "Blue Moon (3).songlyrics", "lastModifiedDate": 1547611122000, "song": 
-{
-"title": "Blue Moon",
-"artist": "various",
-"copyright": "Richard Rogers and Lorenz Hart 1934",
-"key": "C",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"i:",
-	"D.",
-	"",
-	"v:",
-	"GEm CD GEm CD",
-	"GEm CD GEm CD",
-	"",
-	"b:",
-	"AmD GEm AmD GEm",
-	"AmD GEm A7 D7",
-	"",
-	"o:",
-	"G"
-    ],
-"lyrics": 
-    [
-	"i:",
-	"V:  Blue Moon, you saw me standing alone ",
-	"Without a dream in my heart ",
-	"Without a love of my own ",
-	"v:",
-	"Blue Moon,  you knew just what I was there for ",
-	"You heard me saying a prayer for ",
-	"Someone I really could care for ",
-	"",
-	"  ",
-	"B: And then there suddenly appeared before me ",
-	"The only one my arms will ever hold ",
-	"I heard somebody whisper, \"Please adore me\" ",
-	"And when I looked, the moon had turned to gold ",
-	"",
-	"",
-	"V: Blue Moon, now I'm no longer alone ",
-	"Without a dream in my heart ",
-	"Without a love of my own ",
-	"",
-	"O: "
-    ]
-}
-},
 { "file": "Blue Skies (1).songlyrics", "lastModifiedDate": 1535594192713, "song": 
 {
 "title": "Blue Skies",
@@ -6257,109 +6002,6 @@
 	"But in my heart there'll always be",
 	"Precious and warm a memory, through the years",
 	"And I still can see blue velvet through my tears"
-    ]
-}
-},
-{ "file": "Blue on Black.songlyrics", "lastModifiedDate": 1549849820772, "song": 
-{
-"title": "Blue on Black",
-"artist": "Kenny Wayne Shepherd",
-"copyright": "1997",
-"key": "G",
-"defaultBpm": 155,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I1:",
-	"D D Cadd9..G G",
-	"D D Cadd9..G G",
-	"",
-	"V:",
-	"D D Cadd9..G G x8",
-	"",
-	"C:",
-	"D D Cadd9..G G",
-	"D D Cadd9..G G",
-	"D D Cadd9..G G",
-	"A A G..G X",
-	"",
-	"PC:",
-	"D D Cadd9..G G",
-	"D D Cadd9..G G",
-	"",
-	"I2:",
-	"D D Cadd9..G G x6",
-	"F F G G",
-	"F F G GX",
-	"",
-	"O:",
-	"D D Cadd9..G G x8"
-    ],
-"lyrics": 
-    [
-	"I1: (Instrumental)",
-	"",
-	"V:",
-	"Night falls and I’m alone",
-	"Skin, yeah, chilled me to the bone",
-	"You turned and you ran, oh yeah",
-	"Oh, slipped, right from my hand",
-	"",
-	"C:",
-	"Hey, blue on black, tears on a river",
-	"Push on a shove, it don’t mean much",
-	"Joker on jack, match on a fire",
-	"Cold on ice, it’s a dead man’s touch",
-	"Whisper on a scream, doesn’t change a thing",
-	"Don’t bring you back",
-	"",
-	"PC:",
-	"Blue on black, oh yeah, blue on black",
-	"",
-	"V:",
-	"Blind, oh, now I see",
-	"Truth, lies, and in between",
-	"Wrong, can’t be undone",
-	"Oh, slipped, from the tip of your tongue",
-	"",
-	"C:",
-	"Hey, blue on black, tears on a river",
-	"Push on a shove, it don’t mean much",
-	"Joker on jack, match on a fire",
-	"Cold on ice, it’s a dead man’s touch",
-	"Whisper on a scream, doesn’t change a thing",
-	"Doesn’t bring you back, yeah",
-	"",
-	"PC:",
-	"Blue on black, oh blue on black, oh yeah",
-	"",
-	"I2: (Instrumental)",
-	"",
-	"C:",
-	"Blue on black, tears on a river",
-	"Push on a shove, it don’t mean much",
-	"Joker on jack, match on a fire",
-	"Cold on ice, it’s a dead man’s touch",
-	"Whisper on a scream, doesn’t change a thing",
-	"Don’t bring you back, yeah",
-	"",
-	"PC:",
-	"Blue on black, oh blue on black, oh yeah",
-	"",
-	"C:",
-	"Blue on black, tears on a river",
-	"Push on a shove, it don’t mean much",
-	"Joker on jack, match on a fire",
-	"Cold on ice, it’s a dead man’s touch",
-	"Whisper on a scream",
-	"Doesn’t change a thing",
-	"Doesn’t bring you back, yeah",
-	"",
-	"PC:",
-	"Blue on black, oh blue on black, oh yeah",
-	"",
-	"O:",
-	"(Instrumental)"
     ]
 }
 },
@@ -7473,16 +7115,16 @@
 "chords": 
     [
 	"v:D#m D#m B B",
-	"C# C# B B x2 ",
+	"C# C# B B 2x ",
 	"",
 	"C: F# F# C# C#",
-	"C# C# B B x2 ",
+	"C# C# B B 2x ",
 	"",
 	"i1: D#m D#m B B",
 	"C# C# B B",
 	"",
 	"i2:",
-	"B  BC# B B  x2"
+	"B  BC# B B  2x"
     ],
 "lyrics": 
     [
@@ -7521,7 +7163,7 @@
 	"And I can tell you my love for you will still be strong",
 	"After the boys of summer have gone.",
 	"",
-	"i2: B  BC# B B x2",
+	"i2: B  BC# B B 2x",
 	"",
 	"v:Out on the road today I saw a Deadhead sticker on a Cadillac.",
 	"A little voice inside my head said:",
@@ -8659,26 +8301,32 @@
     ]
 }
 },
-{ "file": "Call Me the Breeze (1).songlyrics", "lastModifiedDate": 1549427802000, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
-"title": "Call Me the Breeze  ",
+"title": "Call Me The Breeze",
 "artist": "Lynyrd Skynyrd",
-"copyright": "by John J Cale © Carlin America Inc",
+"copyright": "℗© 2009 The All Blacks U.S.A. Inc. Issued Under License To Roadrunner Records From The All Blacks U.S.A. Inc. Roadrunner Records Is A Registered Trademark Of The All Blacks B.V.",
 "key": "A",
 "defaultBpm": 94,
 "timeSignature": "4/4",
 "chords": 
     [
 	"",
-	"I: A A A A",
+	"",
+	"A: ",
+	"   A A A A",
 	"",
 	"V: A A A A ",
 	"   D D A A",
-	"   E D A A"
+	"   E D A A",
+	"",
+	"I: A A A A ",
+	"   D D A A ",
+	"   E D A A x2"
     ],
 "lyrics": 
     [
-	"Intro",
+	"A: (Intro)",
 	"",
 	"V:",
 	"They call me the breeze",
@@ -8695,6 +8343,86 @@
 	"Ain’t no change in me ",
 	"I ain’t hidin’ from nobody",
 	"nobody’s hiding from me",
+	"",
+	"",
+	"I:",
+	"(Instrumental)",
+	"           ",
+	"V:",
+	"I got that green light baby",
+	"I got to keep movin’ on",
+	"Well I got that green light baby",
+	"I got to keep movin’ on",
+	"I might go up to California",
+	"Might go to Georgia",
+	"I don’t know",
+	"",
+	"I:",
+	"(Instrumental)",
+	"",
+	"V:",
+	"Well I dig you Georgia peaches",
+	"Makes me feel right at home",
+	"Well now I dig you Georgia peaches",
+	"Makes me feel right at home",
+	"But I don't love me no one woman",
+	"So I cant stay in Georgia long",
+	"",
+	"V:",
+	"Well now they call me the breeze",
+	"I keep blowin down the road",
+	"Well now they call me the breeze",
+	"I keep blowin down the road",
+	"I ain't got me nobody",
+	"I don't carry me no load",
+	"",
+	"Oooh Mr Breeze"
+    ]
+}
+},
+{ "file": "Call Me The Breeze Lynyrd Skynyrd Version (corrected).songlyrics", "lastModifiedDate": 1550112092776, "song": 
+{
+"title": "Call Me The Breeze Lynyrd Skynyrd Version (corrected)",
+"artist": "J. J. Cale",
+"copyright": "℗© 2009 The All Blacks U.S.A. Inc. Issued Under License To Roadrunner Records From The All Blacks U.S.A. Inc. Roadrunner Records Is A Registered Trademark Of The All Blacks B.V.",
+"key": "A",
+"defaultBpm": 94,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"",
+	"",
+	"A: (intro)",
+	"   A A A A",
+	"",
+	"V: A A A A ",
+	"   D D A A",
+	"   E D A A",
+	"",
+	"I: A A A A ",
+	"   D D A A ",
+	"   E D A A x2"
+    ],
+"lyrics": 
+    [
+	"A: (Intro)",
+	"",
+	"V:",
+	"They call me the breeze",
+	"I keep blowin’ down the road",
+	"Well now They call me the breeze",
+	"I keep blowin’ down the road",
+	"I ain’t got me nobody",
+	"I don’t carry me no load",
+	"",
+	"V:",
+	"Ain’t no change in the weather",
+	"Ain’t no change in me",
+	"Well there ain’t no change in the weather",
+	"Ain’t no change in me ",
+	"I ain’t hidin’ from nobody",
+	"nobody’s hiding from me",
+	"",
 	"",
 	"I:",
 	"(Instrumental)",
@@ -9379,9 +9107,85 @@
     ]
 }
 },
-{ "file": "Cat in the Well, The.songlyrics", "lastModifiedDate": 1542249694473, "song": 
+{ "file": "Cat in the Well, The.songlyrics", "lastModifiedDate": 1541983064430, "song": 
 {
 "title": "Cat in the Well, The",
+"artist": "Merry Macs, The",
+"copyright": "Shapiro Bernstein & Co. Inc.",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I: Cdim - - -",
+	"F G",
+	"",
+	"V: C - FG C",
+	"C - D G",
+	"CF C FG C",
+	"CC7 FFm G C",
+	"",
+	"C: F - G -  2x",
+	"F F7 Bb Bbm",
+	"C - F -",
+	"",
+	"V2: Cm - Fm Cm",
+	"Cm Fm Cm G",
+	"CmFm - - Cm",
+	"Cm Fm G C",
+	"",
+	"O: XX XX Cdim -",
+	"Cdim - CX"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: I woke up this morning with a feeling of despair",
+	"I looked for my pussy but my pussy wasn't there",
+	"Well, well, well",
+	"My cat fell in the well",
+	"Oh puss puss puss poor kitty kitty kitty",
+	"My cat fell in the well",
+	"",
+	"V: I got out a ladder and I climbed down to my pet",
+	"I saw in a jiffy that my puss was soakin' wet",
+	"Well, well, well",
+	"My cat fell in the well",
+	"Oh pussy pussy pussy poor kitty kitty kitty",
+	"My cat fell in the well",
+	"",
+	"C: The doggone hole by the pump",
+	"Was she pushed, or did she jump",
+	"There never was a kitty half as pretty",
+	"As the pussy that fell in the well",
+	"",
+	"V: There never was a pussy that could quite compare with her",
+	"Pretty as a picture with her long and silky fur -",
+	"Well, well, well, well my cat fell in the well, well",
+	"Oh oh oh pussy pussy pussy poor kitty kitty kitty",
+	"My cat fell in the well",
+	"",
+	"V2: Tears I shed were useless when that fatal day arrived",
+	"Still I thought my pussy had at least a dozen lives",
+	"Well, well, well, well, my cat fell in the well",
+	"Oh pussy pussy pussy poor kitty kitty kitty",
+	"My cat fell in the well.",
+	"",
+	"V: If you have a pussy that you wouldn't trade or sell",
+	"Never let her wander or she might fall in a well",
+	"Well, well, well",
+	"My cat fell in the well",
+	"Oh puss puss puss poor kitty kitty kitty",
+	"My cat fell in the well.",
+	"",
+	"O: Fell in the ... [instrumental Cdim] ... well!"
+    ]
+}
+},
+{ "file": "Cat in the Well, The - CORRECTED AGAIN.songlyrics", "lastModifiedDate": 1542249694473, "song": 
+{
+"title": "Cat in the Well, The - CORRECTED AGAIN",
 "artist": "Manhattan Transfer",
 "copyright": "Shapiro Bernstein & Co. Inc.",
 "key": "C",
@@ -9389,29 +9193,24 @@
 "timeSignature": "2/4",
 "chords": 
     [
-	"I:",
-	" Cdim - - -",
+	"I: Cdim - - -",
 	"F G",
 	"",
-	"V:",
-	" C - FG C",
+	"V: C - FG C",
 	"C - D G",
 	"CF C FG C",
 	"CC7 FG# G C",
 	"",
-	"C:",
-	" F BbC F BbC",
+	"C: F BbC F BbC",
 	"F F7 Bb Bbm",
 	"C - F -",
 	"",
-	"V2:",
-	"Cm - Fm Cm",
+	"V2: Cm - Fm Cm",
 	"Cm Fm Cm G",
 	"CmFm - - Cm",
 	"Cm Fm G C",
 	"",
-	"O:",
-	" X X Cdim -",
+	"O: XX XX Cdim -",
 	"Cdim - CX"
     ],
 "lyrics": 
@@ -10192,115 +9991,6 @@
     ]
 }
 },
-{ "file": "Come to Me (1).songlyrics", "lastModifiedDate": 1549854417389, "song": 
-{
-"title": "Come to Me",
-"artist": "Bonnie Raitt",
-"copyright": "1991 Capitol",
-"key": "G",
-"defaultBpm": 172,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I1:",
-	"D DC G GF",
-	"D DC G GF",
-	"",
-	"V:",
-	"D DC G GF x7",
-	"D DC G G",
-	"",
-	"PC:",
-	"A Bm G D",
-	"A Bm G GX",
-	"",
-	"C:",
-	"D DC G GF",
-	"D DC G GF",
-	"D DC G GF",
-	"DX X XAAA AX",
-	"",
-	"I2:",
-	"D DC G GF x7",
-	"D DC G G",
-	"",
-	"O:",
-	"D DC G GF x8"
-    ],
-"lyrics": 
-    [
-	"I1:",
-	"(Instrumental)",
-	"",
-	"V:",
-	"All I ever wanted was our love to be true",
-	"More than just enough to get me by",
-	"I want a love to see me through, yeah",
-	"I don’t need another well-spent night",
-	"Another clever sideways glance",
-	"I wanna look my baby in the eye",
-	"And know there’s nothing left to chance",
-	"",
-	"PC:",
-	"Well if you’re tired of being lonely",
-	"Beat up and confused",
-	"Darling there’s only one thing you can do",
-	"",
-	"C:",
-	"Come to me",
-	"Don’t be the one who’s waiting",
-	"Come to me",
-	"Babe, I got what you need",
-	"Won’t you come to me",
-	"There won’t be no hesitating, babe",
-	"I know what you mean to me",
-	"",
-	"V:",
-	"I’m gonna hold out for no one",
-	"Ain’t gonna settle for less",
-	"‘Cause the kind of love I’m looking for, baby",
-	"You can’t fake, you can’t finesse",
-	"I ain’t looking for the kind of man, baby",
-	"Who can’t stand a little shaky ground",
-	"Who’ll give me fire and tenderness",
-	"And has got the guts to stick around",
-	"",
-	"PC:",
-	"So if you’re tired of being lonely",
-	"Beat up and confused",
-	"Darling there’s only one thing you can ",
-	"",
-	"I2:",
-	"Aah, aah, ooh, aah",
-	"(Instrumental)",
-	"I got what you want now, baby, ooh",
-	"I got what you need",
-	"",
-	"PC:",
-	"Well if you’re tired of being lonely, beat up and confused",
-	"Darling there is only one thing you can do",
-	"",
-	"O:",
-	"Won’t you come",
-	"Be the one who’s waiting",
-	"Come to me",
-	"Ooh, I got what you need",
-	"Won’t you come to me ",
-	"(Won’t you come)",
-	"There won’t be no hesitating, babe",
-	"(Won’t you come)",
-	"Come to me, yeah",
-	"Well I got what you want now, baby",
-	"I got what you need,",
-	"(Won’t you come) ",
-	"Ooh, won’t you bring it on home to me",
-	"(Won’t you come)",
-	"Won’t you come on baby, bring it on home to me",
-	"(Won’t you come)",
-	"Well bring all of your sweet love home"
-    ]
-}
-},
 { "file": "Comforthbly Numb (4).songlyrics", "lastModifiedDate": 1528081619843, "song": 
 {
 "title": "Comforthbly Numb",
@@ -10386,7 +10076,7 @@
     ]
 }
 },
-{ "file": "Coming into Los Angeles (4).songlyrics", "lastModifiedDate": 1544406226000, "song": 
+{ "file": "Coming into Los Angeles (2).songlyrics", "lastModifiedDate": 1543982150148, "song": 
 {
 "title": "Coming into Los Angeles",
 "artist": "Arlo Guthrie",
@@ -10411,7 +10101,6 @@
     ],
 "lyrics": 
     [
-	"v: (instrumental intro)",
 	"v:Coming in from London from over the pole",
 	"Flying in a big airliner",
 	"Chicken flying everywhere around the plane",
@@ -10432,7 +10121,6 @@
 	"Don't touch my bags if you please",
 	"Mister customs man",
 	"v: (instrumental)",
-	"ch: (instrumental)",
 	"v:",
 	"Hip woman walking on the moving floor",
 	"Tripping on the escalator",
@@ -10452,8 +10140,9 @@
 	"Coming into Los Angeles",
 	"Bringing in a couple of ki's",
 	"Don't touch my bags if you please",
-	"v: (instrumental)",
-	"ch: (instrumental)"
+	"Mister customs man, yeah, all right",
+	"v:",
+	"(instrumental outro)"
     ]
 }
 },
@@ -11343,7 +11032,7 @@
 	"B7 - - E7",
 	"E7 D7 B7 -",
 	"",
-	"O: E7 D7 B7 - x2"
+	"O: E7 D7 B7 - 2x"
     ],
 "lyrics": 
     [
@@ -11406,100 +11095,7 @@
     ]
 }
 },
-{ "file": "Crocodile Rock.songlyrics", "lastModifiedDate": 1549657784000, "song": 
-{
-"title": "Crocodile Rock",
-"artist": "Elton John",
-"copyright": "Universal Music Publishing Group",
-"key": "G",
-"defaultBpm": 120,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I: FF# G G ",
-	"Em Em C C",
-	"D D ",
-	"",
-	"V: G G Em Em",
-	"C C D D",
-	"",
-	"C: Em Em A7 A7",
-	"D7 D7 G G",
-	"E E A7 A7",
-	"D7 D7 FFCF FCFC",
-	"",
-	"",
-	"O: G"
-    ],
-"lyrics": 
-    [
-	"I: (instrumental)",
-	"",
-	"V: I remember when rock was young",
-	"Me and Suzie had so much fun",
-	"Holding hands and skimming stones",
-	"Had an old gold Chevy and a place of my own",
-	"",
-	"V: But the biggest kick I ever got",
-	"Was doing a thing called the Crocodile Rock",
-	"While the other kids were Rocking Round the Clock",
-	"We were hopping and bopping to the Crocodile Rock",
-	"",
-	"C: Well Crocodile Rocking is something shocking",
-	"When your feet just can't keep still",
-	"I never knew me a better time and I guess I never will",
-	"Oh Lawdy mama those Friday nights",
-	"When Suzie wore her dresses tight",
-	"And the Crocodile Rocking was out of sight",
-	"",
-	"V: La lalalala la lalalala la lalalala la",
-	"",
-	"V: But the years went by and the rock just died",
-	"Suzie went and left us for some foreign guy",
-	"Long nights crying by the record machine",
-	"Dreaming of my Chevy and my old blue jeans",
-	"",
-	"V: But they'll never kill the thrills we've got",
-	"Burning up to the Crocodile Rock",
-	"Learning fast as the weeks went past",
-	"We really thought the Crocodile Rock would last",
-	"",
-	"C: Well Crocodile Rocking is something shocking",
-	"When your feet just can't keep still",
-	"I never knew me a better time and I guess I never will",
-	"Oh Lawdy mama those Friday nights",
-	"When Suzie wore her dresses tight",
-	"And the Crocodile Rocking was out of sight",
-	"",
-	"V: La lalalala la lalalala la lalalala la",
-	"",
-	"V: I remember when rock was young",
-	"Me and Suzie had so much fun",
-	"Holding hands and skimming stones",
-	"Had an old gold Chevy and a place of my own",
-	"But the biggest kick I ever got",
-	"Was doing a thing called the Crocodile Rock",
-	"While the other kids were Rocking Round the Clock",
-	"We were hopping and bopping to the Crocodile Rock",
-	"",
-	"C: Well Crocodile Rocking is something shocking",
-	"When your feet just can't keep still",
-	"I never knew me a better time and I guess I never will",
-	"Oh Lawdy mama those Friday nights",
-	"When Suzie wore her dresses tight",
-	"And the Crocodile Rocking was out of sight",
-	"",
-	"V: La lalalala la lalalala la lalalala la",
-	"",
-	"V: La lalalala la lalalala la lalalala la",
-	"",
-	"V: La lalalala la lalalala la lalalala la",
-	"",
-	"O: (instrumental)"
-    ]
-}
-},
-{ "file": "Crossroads.songlyrics", "lastModifiedDate": 1545874506000, "song": 
+{ "file": "Crossroads.songlyrics", "lastModifiedDate": 1545874504000, "song": 
 {
 "title": "Crossroads",
 "artist": "Tracy Chapman",
@@ -11618,7 +11214,7 @@
 	"F F G G7",
 	"C  C G G7",
 	"",
-	"C: F - C -  x2",
+	"C: F - C -  2x",
 	"EmAm - Em7 Fm",
 	"C A7 Dm7 G7",
 	"",
@@ -11737,19 +11333,19 @@
 	"",
 	"I: A Asus4 G D A",
 	"",
-	"V: A Asus4 G D A -  x4",
+	"V: A Asus4 G D A -  4x",
 	"",
 	"Br: ",
-	"F#m A -  x3",
+	"F#m A -  3x",
 	"F#m G E7",
 	"",
-	"V: A Asus4 G D A -  x2",
+	"V: A Asus4 G D A -  2x",
 	"",
-	"V: A Asus4 G D A -  x8",
+	"V: A Asus4 G D A -  8x",
 	"",
-	"V: A Asus4 G D A -  x4",
+	"V: A Asus4 G D A -  4x",
 	"",
-	"O: A Asus4 G D A -  x8"
+	"O: A Asus4 G D A -  8x"
     ],
 "lyrics": 
     [
@@ -12061,7 +11657,7 @@
 	"Dm G7 C -",
 	"",
 	"O: F - CBb A",
-	"Dm G7 CCBBb A7  x2",
+	"Dm G7 CCBBb A7  2x",
 	"Dm G7 C.C. F.F. ",
 	"C"
     ],
@@ -12131,7 +11727,7 @@
 	"Gm7 C7 F D7",
 	"",
 	"O: Gm Bbm F D7",
-	"Gm C7 F D7  x2",
+	"Gm C7 F D7  2x",
 	"Gm D7 F -"
     ],
 "lyrics": 
@@ -12759,10 +12355,10 @@
     [
 	"i: Gm Gm7 Gm Gm7",
 	"",
-	"v:Gm Gm7  Gm Gm7 x4",
+	"v:Gm Gm7  Gm Gm7 4x",
 	"",
 	"c: |Cm7 Dm7 Ebmaj7 Dm7",
-	"Gm7 - - - | x2"
+	"Gm7 - - - | 2x"
     ],
 "lyrics": 
     [
@@ -13228,13 +12824,13 @@
 "timeSignature": "6/8",
 "chords": 
     [
-	"V: C Em Bm F G7  x2",
+	"V: C Em Bm F G7  2x",
 	"C Am - - F - ",
 	"G G7",
 	"",
 	"C: C Em F F#dim",
 	"C Am7 F - G -",
-	"C Am C Am   x2",
+	"C Am C Am   2x",
 	"",
 	"O: C"
     ],
@@ -14113,14 +13709,14 @@
 	"F - Fm -",
 	"C G#G C E7",
 	"",
-	"C: A F#m Bm E x3",
+	"C: A F#m Bm E 3x",
 	"A F#m G# G",
 	"",
 	"O: C B7 G# G",
 	"C B7 A A7",
 	"F - Fm -",
 	"C G#G ",
-	"C B7 G# G x3",
+	"C B7 G# G 3x",
 	"C fade"
     ],
 "lyrics": 
@@ -14171,8 +13767,8 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"i: E A B E x2",
-	"v:E A B E x2",
+	"i: E A B E 2x",
+	"v:E A B E 2x",
 	"br: G G C C ",
 	"G G C C..B "
     ],
@@ -14510,7 +14106,7 @@
 	"I: Am - - -",
 	"",
 	"V: Am G Am - - -",
-	"Am - G - Am -  x2",
+	"Am - G - Am -  2x",
 	"Am - G C Am G ",
 	"F - - E -",
 	"",
@@ -14519,7 +14115,7 @@
 	"Am - G -",
 	"F E Am -",
 	"",
-	"O: Am - - -  x2",
+	"O: Am - - -  2x",
 	"AmXX"
     ],
 "lyrics": 
@@ -14627,7 +14223,7 @@
 	"Em Gaug G -",
 	"A A7 D ",
 	"",
-	"O: D - F#m A7  x2",
+	"O: D - F#m A7  2x",
 	"D"
     ],
 "lyrics": 
@@ -15482,6 +15078,95 @@
     ]
 }
 },
+{ "file": "Fat Bottomed Girls.songlyrics", "lastModifiedDate": 1550110427811, "song": 
+{
+"title": "Fat Bottomed Girls",
+"artist": "Queen",
+"copyright": "Sony/ATV Music Publishing LLC",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I: XXXX XXXX XXXX XXXX",
+	"XXXX XXXX XXXX XXXX",
+	"D D",
+	"",
+	"V: D D D A",
+	"D G DA D",
+	"D D..X XXXX",
+	"",
+	"V1: D D D A",
+	"D G DA D",
+	"",
+	"C: D CG D CA",
+	"D G DA DG",
+	"DA D ",
+	"",
+	"Br: GD AD GD AG",
+	"",
+	"O: XXXX DG DG DG ",
+	"DG DG DG DG ",
+	"DXXX DXXX DXXX DXXX"
+    ],
+"lyrics": 
+    [
+	"I: Are you gonna take me home tonight?",
+	"Ah, down beside that red firelight",
+	"Are you gonna let it all hang out?",
+	"Fat bottomed girls",
+	"You make the rockin' world go 'round",
+	"",
+	"V: Hey I was just a skinny lad",
+	"Never knew no good from bad",
+	"But I knew life before I left my nursery, huh",
+	"Left alone with big fat Fanny",
+	"She was such a naughty nanny",
+	"Heap big woman, you made a bad boy out of me",
+	"Hey hey!",
+	"",
+	"V1: I've been singing with my band",
+	"Across the wire, across the land",
+	"I seen every blue eyed floozy on the way, hey",
+	"But their beauty and their style",
+	"Went kind of smooth after a while",
+	"Take me to them dirty ladies every time",
+	"C'mon!",
+	"",
+	"C: Oh, won't you take me home tonight?",
+	"Oh, down beside your red firelight",
+	"Oh, and you give it all you got",
+	"Fat bottomed girls, you make the rockin' world go 'round",
+	"Fat bottomed girls, you make the rockin' world go 'round",
+	"Hey, listen here!",
+	"",
+	"Br: (instrumental)",
+	"",
+	"V1: Now I got mortgages on homes",
+	"I got stiffness in my bones",
+	"Ain't no beauty queens in this locality, I tell you",
+	"Oh, but I still get my pleasure",
+	"Still got my greatest treasure",
+	"Heap big woman, you done made a big man of me",
+	"Now, get this!",
+	"",
+	"C: Oh, (I know) you gonna take me home tonight? (Please)",
+	"Oh, down beside that red firelight",
+	"Are you gonna let it all hang out?",
+	"Fat bottomed girls, you make the rockin' world go 'round, yeah",
+	"Fat bottomed girls, you make the rockin' world go 'round",
+	"",
+	"O: Get on your bikes and ride!",
+	"Ooh yeah, oh yeah, them fat bottomed girls",
+	"Fat bottomed girls",
+	"Yeah yeah yeah",
+	"Alright, ride 'em, c'mon",
+	"Fat bottomed girls, yes yes",
+	"(last measure instr.: 1 = drumbeats",
+	"D!!!D!!! D!!!DX)"
+    ]
+}
+},
 { "file": "Feel It All.songlyrics", "lastModifiedDate": 1534302791419, "song": 
 {
 "title": "Feel It All",
@@ -16003,7 +15688,7 @@
     [
 	"I: ED - - -",
 	"",
-	"V: ED - - - x2",
+	"V: ED - - - 2x",
 	"",
 	"C: AD - - -",
 	"AD - - AB",
@@ -16148,7 +15833,7 @@
 "chords": 
     [
 	"V: C - Am -",
-	"D7 - G7 - x2",
+	"D7 - G7 - | 2x",
 	"",
 	"C: Am - - -",
 	"Am",
@@ -16403,7 +16088,7 @@
 	"V: C Em Am C",
 	"F Bb C -",
 	"",
-	"C: Dm A7 Dm A7  x2",
+	"C: Dm A7 Dm A7  2x",
 	"Dm Gsus4G"
     ],
 "lyrics": 
@@ -17526,12 +17211,12 @@
 	"  Am  Em  D - ",
 	"D  F  G  C",
 	"",
-	"v: C G F G7 x2",
+	"v: C G F G7 2x",
 	"C G F G",
 	"Am Em F G7",
 	"",
 	"",
-	"c:C G F G x2",
+	"c:C G F G 2x",
 	"Am Em Am D",
 	"F G C -",
 	"",
@@ -17541,7 +17226,7 @@
 	"",
 	"",
 	"",
-	"o:C G F G x3"
+	"o:C G F G 3x"
     ],
 "lyrics": 
     [
@@ -17960,7 +17645,7 @@
     ]
 }
 },
-{ "file": "Gentle On My Mind.songlyrics", "lastModifiedDate": 1529435703183, "song": 
+{ "file": "", "lastModifiedDate": 1528831999058, "song": 
 {
 "title": "Gentle On My Mind",
 "artist": "Glen Campbell",
@@ -17971,7 +17656,159 @@
 "chords": 
     [
 	"",
-	"I:",
+	"I: ",
+	"C - Dm7 G7",
+	"",
+	"V: ",
+	"C Cmaj7 C6 Cmaj7 ",
+	"Dm - - -",
+	"Dm Dmaj7 Dm7 G7",
+	"C - - -",
+	"",
+	"C Cmaj7 C6 Cmaj7",
+	"C Cmaj7 Dm -",
+	"Dm - - Dm7",
+	"Dm Dm7 Dmaj7 G7",
+	"C - - -"
+    ],
+"lyrics": 
+    [
+	"",
+	"I: (instrumental)",
+	"V: It's knowing that your door is always open",
+	"And your path is free to walk",
+	"That makes me tend to leave my sleeping bag",
+	"Rolled up and stashed behind your couch",
+	"And it's knowing I'm not shackled",
+	"By forgotten words and bonds",
+	"And the ink stains that are dried upon some line",
+	"That keeps you in the backroads",
+	"By the rivers of my memory",
+	"That keeps you ever gentle on my mind",
+	"",
+	"V: It's not clinging to the rocks and ivy",
+	"Planted on their columns now that bind me",
+	"Or something that somebody said",
+	"Because they thought we fit together walking",
+	"It's just knowing that the world will not be cursing",
+	"Or forgiving when I walk along some railroad track and find",
+	"That you're moving on the backroads",
+	"By the rivers of my memory",
+	"And for hours you're just gentle on my mind",
+	"",
+	"V: Though the wheat fields and the clothes lines",
+	"And the junkyards and the highways come between us",
+	"And some other woman's cryin' to her mother",
+	"'Cause she turned and I was gone",
+	"I still might run in silence tears of joy might stain my face",
+	"And the summer sun might burn me 'til I'm blind",
+	"But not to where I cannot see",
+	"You walkin' on the backroads",
+	"By the rivers flowing gentle on my mind",
+	"",
+	"V: I dip my cup of soup back from a gurglin'",
+	"Cracklin' caldron in some train yard",
+	"My beard a roughening coal pile,",
+	"And a dirty hat pulled low across my face",
+	"Through cupped hands 'round the tin can",
+	"I pretend to hold you to my breast and find",
+	"That you're waiting from the backroads",
+	"By the rivers of my memories",
+	"Ever smilin' ever gentle on my mind"
+    ]
+}
+},
+{ "file": "Gentle On My Mind Vers. 4.songlyrics", "lastModifiedDate": 1534385071755, "song": 
+{
+"title": "Gentle On My Mind Vers. 4",
+"artist": "Glen Campbell",
+"copyright": "John Hartford",
+"key": "C",
+"defaultBpm": 90,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"",
+	"I: ",
+	"C -",
+	"",
+	"V1: ",
+	"C - Dm -",
+	"Dm DmG7 C - ",
+	"",
+	"V2:",
+	"C - - Dm -",
+	"Dm - DmG7 C -",
+	"",
+	"",
+	"O:",
+	"C - - -   "
+    ],
+"lyrics": 
+    [
+	"",
+	"I: (instrumental)",
+	"V1: It's knowing that your door is always open",
+	"And your path is free to walk",
+	"That makes me tend to leave my sleeping bag",
+	"Rolled up and stashed behind your couch",
+	"",
+	"V2: And it's knowing I'm not shackled",
+	"By forgotten words and bonds",
+	"And the ink stains that are dried upon some line",
+	"That keeps you in the backroads",
+	"By the rivers of my memory",
+	"That keeps you ever gentle on my mind",
+	"",
+	"V1: It's not clinging to the rocks and ivy",
+	"Planted on their columns now that bind me",
+	"Or something that somebody said",
+	"Because they thought we fit together walking",
+	"",
+	"V2: It's just knowing that the world will not be cursing",
+	"Or forgiving when I walk along some railroad track and find",
+	"That you're moving on the backroads",
+	"By the rivers of my memory",
+	"And for hours you're just gentle on my mind",
+	"",
+	"V1: Though the wheat fields and the clothes lines",
+	"And the junkyards and the highways come between us",
+	"And some other woman's cryin' to her mother",
+	"'Cause she turned and I was gone",
+	"",
+	"V2: I still might run in silence, tears of joy might stain my face",
+	"And the summer sun might burn me 'til I'm blind",
+	"But not to where I cannot see",
+	"You walkin' on the backroads",
+	"By the rivers flowing gentle on my mind",
+	"",
+	"V1: I dip my cup of soup back from a gurglin'",
+	"Cracklin' cauldron in some train yard",
+	"My beard a roughening coal pile,",
+	"And a dirty hat pulled low across my face",
+	"",
+	"V2: Through cupped hands 'round the tin can",
+	"I pretend to hold you to my breast and find",
+	"That you're waiting from the backroads",
+	"By the rivers of my memories",
+	"Ever smilin' ever gentle on my mind",
+	"",
+	"O:  (instrumental)"
+    ]
+}
+},
+{ "file": "Gentle On My Mind corr.songlyrics", "lastModifiedDate": 1529435703183, "song": 
+{
+"title": "Gentle On My Mind corr",
+"artist": "Glen Campbell",
+"copyright": "John Hartford",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"",
+	"I: ",
 	"C - - -",
 	"",
 	"V1: ",
@@ -17989,7 +17826,7 @@
 	"C -",
 	"",
 	"O:",
-	"C - - -   x2"
+	"C - - -   (x2)"
     ],
 "lyrics": 
     [
@@ -18304,12 +18141,12 @@
 	"",
 	"V: Fm Eb Fm Eb",
 	"Fm Eb Fm Gm",
-	"Ab Bb Bb7 X",
+	"Ab Bb Bb7.",
 	"",
 	"C: Fm Eb Fm Eb",
 	"Fm Eb Fm Eb",
 	"",
-	"O: Fm Eb Fm Eb  x2",
+	"O: Fm Eb Fm Eb  2x",
 	"Ab"
     ],
 "lyrics": 
@@ -18347,7 +18184,7 @@
 	"All right",
 	"",
 	"V: (instrumental) single notes: ",
-	"    F Ab Bb Ab G - C Bb x3",
+	"    F Ab Bb Ab G - C Bb 3x",
 	"    F Ab Bb Ab G - Bb G Ab C Ab C Bb ----",
 	"",
 	"C: Just gimme some kind of sign girl",
@@ -18486,16 +18323,16 @@
 "chords": 
     [
 	"I: ",
-	"E7 E7A7 E7 -  x2",
+	"E7 E7A7 E7 -  2x",
 	"",
-	"V: E A E A  x5",
+	"V: E A E A  5x",
 	"",
 	"C: E G A C",
 	"E A E A",
 	"E A E -",
 	"",
 	"O: E G A C",
-	"E A E A  x3",
+	"E A E A  3x",
 	"E"
     ],
 "lyrics": 
@@ -18632,7 +18469,7 @@
 	"Cm G7 Fm EbG7",
 	"Cm G7 Fm CmG7",
 	"",
-	"ch: Eb Gm/D Fm/C Bb x2",
+	"ch: Eb Gm/D Fm/C Bb 2x",
 	"",
 	"Br:",
 	"Fm C Fm C ",
@@ -18683,161 +18520,6 @@
 	"",
 	"ch:Ah, girl, girl, girl",
 	"Girl"
-    ]
-}
-},
-{ "file": "Girl from Ipanema, The.songlyrics", "lastModifiedDate": 1544586136000, "song": 
-{
-"title": "Girl from Ipanema, The",
-"artist": "Jobim",
-"copyright": "1963",
-"key": "F",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I:",
-	"Fmaj7 Gb9 Fmaj7 Gb9",
-	"",
-	"V:",
-	"Fmaj7 Fmaj7 G7 G7",
-	"Gm7 Gb7 Fmaj7 Gb9",
-	"V2:",
-	"Fmaj7 Fmaj7 G7 G7",
-	"Gm7 Gb7 Fmaj7 Fmaj7",
-	"",
-	"Ch:",
-	"Gbmaj7 Gbmaj B9 B9",
-	"F#m7 F#m7 D9 D9",
-	"Gm7 Gm7 Eb9 Eb9",
-	"Am7 D7b9 Gm7 C7b9 ",
-	"O:",
-	"Fmaj7 Gb7 Fmaj7Gb7 Fmaj7"
-    ],
-"lyrics": 
-    [
-	"I:",
-	"",
-	"V:",
-	"Tall and tan and young and handsome, the boy from Ipanema goes walking, and when he passes,each one he passes goes aah.",
-	"V2:",
-	"When he walks he's like a samba that swings so cool and sways so gentle, that when he passes, each one he passes goes ahhh.",
-	"Ch:",
-	"Oh, but I watch him so sadly, how can I tell him I love him?  Yes, I would give my heart gladly, but each day ",
-	"when he walks to the sea, He looks straight ahead not at me, ",
-	"V:",
-	"Tall and tan and young and handsome, the boy from Ipanema goes walking, and when he passes I smile, but he doesn't see.",
-	"",
-	"V:",
-	"Tall and tan and young and handsome, the boy from Ipanema goes walking, and when he passes,each one he passes goes aah.",
-	"V2:",
-	"When he walks he's like a samba that swings so cool and sways so gentle, that when he passes, each one he passes goes ahhh.",
-	"Ch:",
-	"Oh, but I watch him so sadly, how can I tell him I love him?  Yes, I would give my heart gladly, but each day ",
-	"when he walks to the sea, He looks straight ahead not at me, ",
-	"V:",
-	"Tall and tan and young and handsome, the boy from Ipanema goes walking, and when he passes I smile, but he doesn't see.",
-	"",
-	"O:",
-	"He just doesn't see. No, he doesn't see."
-    ]
-}
-},
-{ "file": "Girls Just Wanna Have Fun, cover by The Mayries.songlyrics", "lastModifiedDate": 1549517306000, "song": 
-{
-"title": "Girls Just Wanna Have Fun, cover by The Mayries",
-"artist": "Cyndi Lauper",
-"copyright": "1983 Portrait Records",
-"key": "C",
-"defaultBpm": 186,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I1:",
-	"C C C C",
-	"Am Am Am Am",
-	"C C C C ",
-	"Am Am Am Am",
-	"",
-	"V:",
-	"C C C C",
-	"Am Am Am Am",
-	"F F F F",
-	"Am G F F",
-	"Am G F F",
-	"",
-	"I2:",
-	"F F",
-	"",
-	"C:",
-	"C C C C",
-	"Am Am Am Am",
-	"F F F F",
-	"Am G F F",
-	"Am G F F",
-	"",
-	"O:",
-	"C C C C",
-	"Am Am Am Am",
-	"F F F F",
-	"Am G F F",
-	"Am G F"
-    ],
-"lyrics": 
-    [
-	"I1: (Instrumental)",
-	"",
-	"V:",
-	"I come home in the morning light",
-	"My mother says, “When you gonna live your life right?”",
-	"Oh mama dear we’re not the fortunate ones",
-	"And girls, they wanna have fun",
-	"Oh girls just wanna have fun",
-	"",
-	"I2: (Instrumental)",
-	"",
-	"V:",
-	"The phone rings in the middle of the night",
-	"My father yells “What you gonna do with your life?”",
-	"Oh daddy dear you know you’re still number one",
-	"But girls, they wanna have fun",
-	"Oh girls just wanna have fun",
-	"",
-	"I2: (Instrumental)",
-	"",
-	"C:",
-	"That’s all they really want",
-	"Some fun",
-	"When the working day is done",
-	"Oh girls, they wanna have fun",
-	"Oh girls just wanna have fun",
-	"",
-	"I2: (Instrumental)",
-	"",
-	"V:",
-	"Some boys take a beautiful girl",
-	"And hide her away from the rest of the world",
-	"I wanna be the one to walk in the sun",
-	"Oh girls. they wanna have fun",
-	"Oh girls just wanna have fun",
-	"",
-	"I2: (Instrumental)",
-	"",
-	"C:",
-	"That’s all they really want",
-	"Some fun",
-	"When the working day is done",
-	"Oh girls, they wanna have fun",
-	"Oh girls just wanna have fun",
-	"",
-	"I2: (Instrumental)",
-	"",
-	"O:",
-	"They just wanna, they just wanna",
-	"They just wanna, they just wanna",
-	"They just wanna, they just wanna",
-	"Girls, they wanna have fun",
-	"Oh girls just wanna have fun"
     ]
 }
 },
@@ -19462,11 +19144,11 @@
 "chords": 
     [
 	"V: C#m G#7 C#m X    ",
-	"E B E X | x2",
+	"E B E X | 2x",
 	"",
-	"C: E A B -  x4  ",
+	"C: E A B -  4x  ",
 	"",
-	"C1: E A B - x3   ",
+	"C1: E A B - 3x   ",
 	"E A E A",
 	"E A E A",
 	"EX X",
@@ -19476,7 +19158,7 @@
 	"X X",
 	"",
 	"V: C#m G#7 C#m X    ",
-	"E B E X | x3"
+	"E B E X | 3x"
     ],
 "lyrics": 
     [
@@ -19742,7 +19424,7 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V: G C D -  x2",
+	"V: G C D -  2x",
 	"",
 	"C: Em - C -",
 	"Em - A -",
@@ -19754,7 +19436,7 @@
 	"Am E C D",
 	"E -",
 	"",
-	"Coda: G C D CD  x2",
+	"Coda: G C D CD  2x",
 	"",
 	"O: C - E -"
     ],
@@ -21061,14 +20743,14 @@
 	"I: C Em D# -",
 	" Dm G7",
 	"",
-	"V: C Dm Em F  x2",
+	"V: C Dm Em F  2x",
 	"Am E7 Am E7",
 	"Am - Dm G7",
 	"",
 	"C: D# Cm Fm G7",
 	"Cm - Fm G7 ",
 	"",
-	"O: C Dm Em F  x2",
+	"O: C Dm Em F  2x",
 	"C"
     ],
 "lyrics": 
@@ -21778,11 +21460,11 @@
 "timeSignature": "2/4",
 "chords": 
     [
-	"V: C Am F G   x2",
+	"V: C Am F G   2x",
 	"Am - Dm G ",
 	"C Am F G",
 	"",
-	"V1: C Am F G   x2",
+	"V1: C Am F G   2x",
 	"Am - Dm G ",
 	"C F C C7",
 	"",
@@ -21791,7 +21473,7 @@
 	"B7 - Em -",
 	"D D7 G G7",
 	"",
-	"O: C Am F G   x3",
+	"O: C Am F G   3x",
 	"C"
     ],
 "lyrics": 
@@ -21882,106 +21564,6 @@
     ]
 }
 },
-{ "file": "Home.songlyrics", "lastModifiedDate": 1549657760000, "song": 
-{
-"title": "Home",
-"artist": "Edward Sharpe and the Magnetic Zeroes",
-"copyright": "Home lyrics © BMG Rights Management",
-"key": "C",
-"defaultBpm": 100,
-"timeSignature": "2/4",
-"chords": 
-    [
-	"i:",
-	"v:",
-	"ch:",
-	"Bm Bm D D",
-	"D D G G",
-	"b:",
-	"Em Em D A A",
-	"Em Em D A Em",
-	"Em D G G",
-	"Bm A Em G G",
-	"A A A A"
-    ],
-"lyrics": 
-    [
-	"i:",
-	"i:",
-	"v:",
-	"Alabama, Arkansas",
-	"I do love my ma and pa",
-	"Not that way that I do love you",
-	"v:",
-	"Holy moley, me oh my",
-	"You're the apple of my eye",
-	"Girl, I've never loved one like you",
-	"v:",
-	"Man, oh man, you're my best friend",
-	"I scream it to the nothingness",
-	"There ain't nothing that I need",
-	"v:",
-	"Well, hot and heavy, pumpkin pie",
-	"Chocolate candy, Jesus Christ",
-	"Ain't nothing please me more than you",
-	"ch:",
-	"Ah, home, let me go home",
-	"Home is wherever I'm with you",
-	"ch:",
-	"Ah, home, let me go home",
-	"Home is wherever I'm with you",
-	"b:",
-	"(inst.) Hey",
-	"(inst)",
-	"(inst)",
-	"La, la, la, la, take me home",
-	"Mommy, I'm coming home",
-	"i: (instrumental)",
-	"i: (instrumental)",
-	"v:I'll follow you into the park",
-	"Through the jungle, through the dark",
-	"Girl, I never loved one like you",
-	"v:Moats and boats and waterfalls",
-	"Alleyways and pay phone calls",
-	"I've been everywhere with you",
-	"v:That's true, laugh until we think we'll die",
-	"Barefoot on a summer night",
-	"Never could be sweeter than with you",
-	"v:And in the streets you run a-free",
-	"Like it's only you and me",
-	"Geez, you're something to see",
-	"ch:Ah, home, let me go home",
-	"Home is wherever I'm with you",
-	"ch:",
-	"Ah, home, let me go home",
-	"Home is wherever I'm with you",
-	"b:",
-	"(inst.) Hey",
-	"(inst)",
-	"(inst)",
-	"La, la, la, la, take me home",
-	"Daddy, I'm coming home",
-	"",
-	"ch:",
-	"Ah, home, let me go home",
-	"Home is wherever I'm with you",
-	"Ah, home, let me go home",
-	"ch:Home is where I'm alone with you",
-	"Home, let me come home",
-	"Home is wherever I'm with you",
-	"ch:Ah, home, yes I am home",
-	"Home is when I'm alone with you",
-	"Alabama, Arkansas",
-	"ch:I do love my ma and pa",
-	"Moats and boats and waterfalls",
-	"Alleyways and pay phone calls",
-	"ch:Ah, home, let me go home",
-	"Home is wherever I'm with you",
-	"ch:Ah, home, let me go home",
-	"Home is where I'm alone with you"
-    ]
-}
-},
 { "file": "Homeward Bound.songlyrics", "lastModifiedDate": 1529882298908, "song": 
 {
 "title": "Homeward Bound",
@@ -22065,7 +21647,7 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V: E - C -  x2",
+	"V: E - C -  2x",
 	"B7 - E -  ",
 	"E - - -",
 	"A7 - E - ",
@@ -22370,7 +21952,7 @@
 "chords": 
     [
 	"I: D - - -",
-	"C - D -  x3",
+	"C - D -  3x",
 	"F Em D -",
 	"D -",
 	"",
@@ -22378,18 +21960,18 @@
 	"Gm6 A7 Gm6 A7",
 	"Dm Dm7 Dm6 -",
 	"Gm6 A7 Gm6 A7",
-	"F#m7 Bm7 Em7 A7  x2",
-	"F Dm7 Gm7 C7    x2",
+	"F#m7 Bm7 Em7 A7  2x",
+	"F Dm7 Gm7 C7    2x",
 	"D - - -",
 	"",
-	"Br: C - D -  x3",
+	"Br: C - D -  3x",
 	"Dm Dm7 Dm6 -",
 	"Gm6 A7 Gm6 A7",
 	"Dm Dm7 Dm6 -",
 	"Gm6 A7 Gm6 A7",
 	"",
 	"",
-	"C: F#m7 Bm7 Em7 A7  x2",
+	"C: F#m7 Bm7 Em7 A7  2x",
 	"F Dm7 Gm7 C7",
 	"F Dm7 Gm7 C7",
 	"D - - -",
@@ -23075,7 +22657,7 @@
     ]
 }
 },
-{ "file": "I Can Help (1).songlyrics", "lastModifiedDate": 1544068700000, "song": 
+{ "file": "I Can Help.songlyrics", "lastModifiedDate": 1544064131972, "song": 
 {
 "title": "I Can Help",
 "artist": "Paul Swan",
@@ -23491,11 +23073,11 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V: D7 - - -  x2",
+	"V: D7 - - -  2x",
 	"Bm G Bm G",
 	"Bm E A A7",
 	"",
-	"O: D7 - - - x3"
+	"O: D7 - - - 3x"
     ],
 "lyrics": 
     [
@@ -23799,9 +23381,63 @@
     ]
 }
 },
-{ "file": "I Just Fall In Love Again.songlyrics", "lastModifiedDate": 1535598469382, "song": 
+{ "file": "I Just Fall In Love Again.songlyrics", "lastModifiedDate": 1534873281522, "song": 
 {
 "title": "I Just Fall In Love Again",
+"artist": "Anne Murray",
+"copyright": "Universal Music Publishing Group",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I: C - D7 -",
+	"F G7 C G7",
+	"",
+	"V: C - D7 -",
+	"F G7 C G7",
+	"C - D7 -",
+	"F D7 F G7",
+	"",
+	"C: Em Am F G7",
+	"C Am D7 G7",
+	"Em Am F E ",
+	"Am D7   (hold last chord)",
+	"C FG C -",
+	"",
+	"T: C FG C -"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: Dreamin', I must be dreamin'",
+	"Or am I really lying here with you?",
+	"Baby, you take me in your arms",
+	"And though I'm wide awake, I know my dream is comin' true",
+	"",
+	"C: And oh I just fall in love again",
+	"Just one touch and then it happens every time",
+	"There I go I, just fall in love again and when I do",
+	"I can't help myself, I fall in love with you",
+	"",
+	"V: Magic, it must be magic",
+	"I hold you and the night just seems to fly",
+	"Easy for you to take me to a star",
+	"Heaven is that moment when I look into your eyes.",
+	"",
+	"C: And oh I just fall in love again",
+	"Just one touch and then it happens every time",
+	"There I go I, just fall in love again and when I do",
+	"I can't help myself, I fall in love with you.",
+	"",
+	"T: Can't help myself, I fall in love with you"
+    ]
+}
+},
+{ "file": "I Just Fall In Love Again - CORRECTED.songlyrics", "lastModifiedDate": 1535598469382, "song": 
+{
+"title": "I Just Fall In Love Again - CORRECTED",
 "artist": "Anne Murray",
 "copyright": "Universal Music Publishing Group",
 "key": "D",
@@ -23809,25 +23445,21 @@
 "timeSignature": "2/4",
 "chords": 
     [
-	"I:",
-	" C - D7 -",
+	"I: C - D7 -",
 	"F G7 C G7",
 	"",
-	"V:",
-	" C - D7 -",
+	"V: C - D7 -",
 	"F G7 C G7",
 	"C - D7 -",
 	"F D7 F G7",
 	"",
-	"C:",
-	" Em Am F G7",
+	"C: Em Am F G7",
 	"C Am D7 G7",
 	"Em Am F E ",
 	"Am D7   (hold last chord)",
 	"C FG C -",
 	"",
-	"O:",
-	" C FG C -",
+	"O: C FG C -",
 	"D7 - F G",
 	"C CX"
     ],
@@ -24071,7 +23703,7 @@
     ]
 }
 },
-{ "file": "I Will Follow You Into the Dark.songlyrics", "lastModifiedDate": 1544674618000, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "I Will Follow You Into the Dark",
 "artist": "Death Cab for Cutie",
@@ -24081,9 +23713,7 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"v:",
 	"C Am F CG x2",
-	"pc:",
 	"Am C F C",
 	"Am C G G",
 	"Am C E Am",
@@ -24091,33 +23721,29 @@
     ],
 "lyrics": 
     [
-	"v:",
-	"v:Love of mine, some day you will die",
+	"Love of mine, some day you will die",
 	"But I'll be close behind",
 	"I'll follow you into the dark",
 	"No blinding light or tunnels to gates of white",
 	"Just our hands clasped so tight",
 	"Waiting for the hint of a spark",
-	"pc:If Heaven and Hell decide",
-	"That they both are satisfied",
-	"Illuminate the No's on their vacancy signs",
-	"If there's no one beside you",
-	"When your soul embarks",
-	"Then I'll follow you into the dark",
-	"v:",
-	"In Catholic school as vicious as Roman rule",
-	"I got my knuckles bruised by a lady in black",
-	"And I held my tongue as she told me,",
-	"\"Son, fear is the heart of love.\"",
-	"So I never went back",
-	"pc:",
 	"If Heaven and Hell decide",
 	"That they both are satisfied",
 	"Illuminate the No's on their vacancy signs",
 	"If there's no one beside you",
 	"When your soul embarks",
 	"Then I'll follow you into the dark",
-	"v:",
+	"In Catholic school as vicious as Roman rule",
+	"I got my knuckles bruised by a lady in black",
+	"And I held my tongue as she told me,",
+	"\"Son, fear is the heart of love.\"",
+	"So I never went back",
+	"If Heaven and Hell decide",
+	"That they both are satisfied",
+	"Illuminate the No's on their vacancy signs",
+	"If there's no one beside you",
+	"When your soul embarks",
+	"Then I'll follow you into the dark",
 	"You and me have seen everything to see",
 	"From Bangkok to Calgary",
 	"And the soles of your shoes are all worn down",
@@ -24125,7 +23751,6 @@
 	"It's nothing to cry about",
 	"'Cause we'll hold each other soon",
 	"In the blackest of rooms",
-	"pc:",
 	"If Heaven and Hell decide",
 	"That they both are satisfied",
 	"Illuminate the No's on their vacancy signs",
@@ -24133,51 +23758,6 @@
 	"When your soul embarks",
 	"Then I'll follow you into the dark",
 	"Then I'll follow you into the dark"
-    ]
-}
-},
-{ "file": "I'd Rather be Blind (3).songlyrics", "lastModifiedDate": 1547613604000, "song": 
-{
-"title": "I'd Rather be Blind",
-"artist": "Etta James",
-"copyright": " ℗© Lucas Records",
-"key": "C",
-"defaultBpm": 200,
-"timeSignature": "6/8",
-"chords": 
-    [
-	"v:",
-	"ch:",
-	"A A Bm Bm",
-	"Bm Bm A A",
-	"A A Bm Bm",
-	"Bm Bm A A"
-    ],
-"lyrics": 
-    [
-	"v: (instrumental intro)",
-	"v:",
-	"Something told me it was over",
-	"When I saw you and her talking",
-	"Something deep down in my soul said, \"Cry Girl\"",
-	"When I saw you and that girl, walking around",
-	"ch:",
-	"I would rather, I would rather go blind girl",
-	"Than to see you walk away from me child, and all",
-	"So you see, I love you so much",
-	"That I don't want to watch you leave me baby",
-	"Most of all, I just don't, I just don't want to be free no",
-	"v:",
-	"I was just, I was just, I was just sitting here thinking",
-	"Of your kiss and your warm embrace, yeah",
-	"When the reflection in the glass that I held to my lips now baby",
-	"Revealed the tears that was on my face, yeah",
-	"ch:",
-	"And baby, And baby, ",
-	"I would rather, I would rather be blind girl",
-	"Than to see you walk away, see you walk away from me, yeah",
-	"Baby, baby, baby, I'd rather be blind now",
-	"Than to see you walk away, see you walk away from me, yeah"
     ]
 }
 },
@@ -25086,9 +24666,64 @@
     ]
 }
 },
-{ "file": "I'm Looking Through You.songlyrics", "lastModifiedDate": 1545006278317, "song": 
+{ "file": "I'm Looking Through You.songlyrics", "lastModifiedDate": 1545006254854, "song": 
 {
 "title": "I'm Looking Through You",
+"artist": "Beatles, The",
+"copyright": "Sony/ATV",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V: C Am Em D  2x",
+	"Em Am Em D",
+	"Em D C G",
+	"G - -",
+	"",
+	"C: C G D -",
+	"C G Dsus4 D",
+	"",
+	"O: C Am Em D  2x",
+	"Em Am Em D",
+	"Em D C G",
+	"G - - -   2x"
+    ],
+"lyrics": 
+    [
+	"V: I'm looking through you, where did you go",
+	"I thought I knew you, what did I know",
+	"You don't look different, but you have changed",
+	"I'm looking through you, you're not the same",
+	"",
+	"V: Your lips are moving, I cannot hear",
+	"Your voice is soothing, but the words aren't clear",
+	"You don't sound different, I've learned the game",
+	"I'm looking through you, you're not the same",
+	"",
+	"C: Why, tell me why, did you not treat me right?",
+	"Love has a nasty habit of disappearing overnight",
+	"",
+	"V: You're thinking of me the same old way",
+	"You were above me, but not today",
+	"The only difference is you're down there",
+	"I'm looking through you and you're nowhere",
+	"",
+	"C: Why, tell me why, did you not treat me right?",
+	"Love has a nasty habit of disappearing overnight",
+	"",
+	"O: I'm looking through you, where did you go",
+	"I thought I knew you, what did I know",
+	"You don't look different, but you have changed",
+	"I'm looking through you, you're not the same",
+	"Baby, you've changed, ah, I'm looking through you",
+	"You're not the same, I'm looking through you ..."
+    ]
+}
+},
+{ "file": "I'm Looking Through You - CORRECTED.songlyrics", "lastModifiedDate": 1545006278317, "song": 
+{
+"title": "I'm Looking Through You - CORRECTED",
 "artist": "Beatles, The",
 "copyright": "Sony/ATV",
 "key": "C",
@@ -25096,18 +24731,15 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V:",
-	" CF Dm7 Am G  x2",
+	"V: CF Dm7 Am G  2x",
 	"Am GDm7 CF G",
 	"CF Dm7 F7 CF",
 	"CF CF CF ",
 	"",
-	"C:",
-	" F C G -",
+	"C: F C G -",
 	"F C Gsus4 G",
 	"",
-	"O:",
-	" CF CF CF CF x2"
+	"O: CF CF CF CF 2x"
     ],
 "lyrics": 
     [
@@ -25142,7 +24774,7 @@
     ]
 }
 },
-{ "file": "I'm Your Puppet.songlyrics", "lastModifiedDate": 1538351004784, "song": 
+{ "file": "I'm Your Puppet.songlyrics", "lastModifiedDate": 1536807063805, "song": 
 {
 "title": "I'm Your Puppet",
 "artist": "Purify Brothers",
@@ -25152,22 +24784,71 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"I:",
-	" BbCm DmCm BbCm DmCm",
+	"I: BbCm DmCm BbCm DmCm",
 	"",
-	"V:",
-	" BbCm DmCm BbCm DmCm  x2",
+	"V: BbCm DmCm BbCm DmCm  2x",
+	"",
+	"C: Dm Eb Dm Cm",
+	"F Eb Dm CmF",
+	"BbCm DmCm BbCm DmCm",
+	"",
+	"O: BbCm DmCm BbCm DmCm 2x",
+	"Bb"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: Pull the string and I'll wink at you, I'm your puppet",
+	"I'll do funny things if you want me to, I'm your puppet",
+	"I'm yours to have and to hold",
+	"Darling you've got full control of your puppet",
+	"",
+	"V:Pull another string and I'll kiss your lips, I'm your puppet",
+	"Snap your finger and I'll turn you some flips, I'm your puppet",
+	"Listen, your every wish is my command",
+	"All you gotta do is wiggle your little hand",
+	"I'm your puppet, I'm your puppet",
+	"",
+	"C: I'm just a toy, just a funny boy",
+	"That makes you laugh when you're blue",
+	"I'll be wonderful, do just what I'm told",
+	"I'll do anything for you",
+	"I'm your puppet, I'm your puppet",
+	"",
+	"V: Pull them little strings and I'll sing you a song, I'm your puppet",
+	"Make me do right or make me do wrong, I'm your puppet",
+	"Treat me good and I'll do anything",
+	"I'm just a puppet and you hold my string, I'm your puppet",
+	"",
+	"O: I'm your walking, talking, kissing, loving puppet",
+	"I'm hanging on a string, girl I'll do anything,",
+	"I'll love and kiss you ... whoa, whoa, yeah ..."
+    ]
+}
+},
+{ "file": "I'm Your Puppet - CORRECTED.songlyrics", "lastModifiedDate": 1538351004784, "song": 
+{
+"title": "I'm Your Puppet - CORRECTED",
+"artist": "Purify Brothers",
+"copyright": "Sony/ATV",
+"key": "Bb",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I: BbCm DmCm BbCm DmCm",
+	"",
+	"V: BbCm DmCm BbCm DmCm  2x",
 	"Dm Eb Dm EbF",
 	"BbCm DmCm BbCm DmCm",
 	"",
 	"",
-	"C:",
-	" Dm Eb Dm Cm",
+	"C: Dm Eb Dm Cm",
 	"F Eb Dm CmF",
 	"BbCm DmCm BbCm DmCm",
 	"",
-	"O:",
-	" BbCm DmCm BbCm DmCm x2",
+	"O: BbCm DmCm BbCm DmCm 2x",
 	"Bb"
     ],
 "lyrics": 
@@ -25387,52 +25068,6 @@
     ]
 }
 },
-{ "file": "In The Wee Small Hours of the Morning.songlyrics", "lastModifiedDate": 1544672320000, "song": 
-{
-"title": "In The Wee Small Hours of the Morning",
-"artist": "Frank Sinatra",
-"copyright": "Bourne Co.",
-"key": "C",
-"defaultBpm": 70,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"V: Cmaj7 C7 F Fm",
-	"Cmaj7 Am Dm7 G7",
-	"F G7 Em7 A7",
-	"B B7 Em7 G7",
-	"",
-	"V1: Cmaj7 C7 F Fm",
-	"Cmaj7 Em7 A7 -",
-	"F Cdim Em7 A7",
-	"Dm7 G7 C6 G7",
-	"",
-	"O: Cmaj7 C7 F Fm",
-	"Cmaj7 Em7 A7 -",
-	"F Cdim Em7 A7",
-	"Dm7 G7 C6 -"
-    ],
-"lyrics": 
-    [
-	"V: In the wee small hours of the morning",
-	"While the whole wide world is fast asleep",
-	"You lie awake and think about the girl",
-	"And never ever think of counting sheep",
-	"",
-	"V1: When your lonely heart has learned its lesson",
-	"You'd be hers if only she would call",
-	"In the wee small hours of the morning",
-	"That's the time you miss her most of all",
-	"",
-	"V: (instrumental)",
-	"",
-	"O: When your lonely heart has learned its lesson",
-	"You'd be hers if only she would call",
-	"In the wee small hours of the morning",
-	"That's the time you miss her most of all"
-    ]
-}
-},
 { "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "In Your Eyes",
@@ -25515,14 +25150,14 @@
 	"i:Eb - Eb -",
 	"AbBb CmBb Eb Eb",
 	"",
-	"i2:Eb Eb AbBb CmBb x2",
-	"Cm Gm Ab Bb x2",
+	"i2:Eb Eb AbBb CmBb 2x",
+	"Cm Gm Ab Bb 2x",
 	" ",
-	"v: Ab Bb Ab Bb x2",
+	"v: Ab Bb Ab Bb 2x",
 	"",
 	"",
-	"c:Cm Gm Ab Bb  x2",
-	"Cm x4"
+	"c:Cm Gm Ab Bb  2x",
+	"Cm [4x]"
     ],
 "lyrics": 
     [
@@ -25581,10 +25216,10 @@
 	"i: Am Am Am Am",
 	"",
 	"v:Am Am Am AmDm",
-	"Dm Dm Dm DmAm x2",
+	"Dm Dm Dm DmAm 2x",
 	"",
 	"v1:Am Am Am AmDm",
-	"DmE E E Am x2",
+	"DmE E E Am 2x",
 	"",
 	"c:Dm Dm Am Am",
 	"AmE E E7 E7",
@@ -26283,87 +25918,7 @@
     ]
 }
 },
-{ "file": "It Ain't Me Babe (5).songlyrics", "lastModifiedDate": 1549431330000, "song": 
-{
-"title": "It Ain't Me Babe",
-"artist": "Bob Dylan",
-"copyright": "Songwriters: Bob Dylan It Ain't Me Babe lyrics © Audiam, Inc",
-"key": "D",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"",
-	"v:",
-	"Bm Am BmAm G G",
-	"Bm Am BmAm G G",
-	"",
-	"pc:",
-	"Bm Am Bm Am",
-	"Bm Am Bm Am",
-	"C D",
-	"",
-	"ch:",
-	"G CD G CD",
-	"G",
-	"i:",
-	"D C D C",
-	"DD/C D/BD/A G G"
-    ],
-"lyrics": 
-    [
-	"v:",
-	"Go 'way from my window",
-	"Leave at your own chosen speed",
-	"I'm not the one you want, babe",
-	"I'm not the one you need",
-	"pc:",
-	"You say you're lookin' for someone",
-	"Who's never weak but always strong",
-	"To protect you an' defend you",
-	"Whether you are right or wrong",
-	"Someone to open each and every door",
-	"ch:",
-	"But it ain't me, babe",
-	"No, no, no, it ain't me, babe",
-	"It ain't me you're lookin' for, babe.",
-	"i:",
-	"v:",
-	"Go lightly from the ledge, babe",
-	"Go lightly on the ground",
-	"I'm not the one you want, babe",
-	"I will only let you down",
-	"pc:",
-	"You say you're lookin' for someone",
-	"Who will promise never to part",
-	"Someone to close his eyes for you",
-	"Someone to close his heart",
-	"Someone who will die for you an' more",
-	"ch:",
-	"But it ain't me, babe",
-	"No, no, no, it ain't me babe",
-	"It ain't me you're lookin' for, babe.",
-	"i:",
-	"v:",
-	"Go melt back in the night",
-	"Everything inside is made of stone",
-	"There's nothing in here moving",
-	"An' anyway I'm not alone",
-	"pc:",
-	"You say you're looking for someone",
-	"Who'll pick you up each time you fall",
-	"To gather flowers constantly",
-	"An' to come each time you call",
-	"A lover for your life an' nothing more",
-	"ch:",
-	"But it ain't me, babe",
-	"No, no, no, it ain't me, babe",
-	"It ain't me you're lookin' for, babe.",
-	"i:"
-    ]
-}
-},
-{ "file": "It Don't Come Easy.songlyrics", "lastModifiedDate": 1546218212000, "song": 
+{ "file": "It Don't Come Easy.songlyrics", "lastModifiedDate": 1546218210365, "song": 
 {
 "title": "It Don't Come Easy",
 "artist": "Ringo Starr",
@@ -26448,7 +26003,7 @@
     ]
 }
 },
-{ "file": "It's All In The Game.songlyrics", "lastModifiedDate": 1540941530674, "song": 
+{ "file": "It's All In The Game.songlyrics", "lastModifiedDate": 1540344546089, "song": 
 {
 "title": "It's All In The Game",
 "artist": "Tommy Edwards",
@@ -26458,18 +26013,55 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V:",
-	" CAm FG CF C  x2",
+	"V: CAm FG CF C  2x",
 	"C Am CD G",
 	"G D G G7.XX",
 	"",
-	"V1:",
-	" CAm FG CF C  x2",
+	"V1: CAm FG CF C  2x",
 	"C Am EmAm D",
 	"CAm FG CF C",
 	"",
-	"O:",
-	" CF - C"
+	"O: CF - -"
+    ],
+"lyrics": 
+    [
+	"V: Many a tear has to fall but it's all in the game",
+	"All in the wonderful game that we know as love",
+	"You have words with him and your future's looking dim",
+	"But these things your hearts can rise above",
+	"",
+	"V1: Once in a while he won't call but it's all in the game",
+	"Soon he'll be there at your side with a sweet bouquet",
+	"And he'll kiss your lips and caress your waiting fingertips",
+	"And your hearts will fly away",
+	"",
+	"V1: (instrumental + lyrics below)",
+	"Then he'll kiss your lips and caress your waiting fingertips",
+	"And your hearts will fly away",
+	"",
+	"O: doo-doo, n-doo-doo-doo, n-doo"
+    ]
+}
+},
+{ "file": "It's All In The Game - CORRECTED.songlyrics", "lastModifiedDate": 1540941530674, "song": 
+{
+"title": "It's All In The Game - CORRECTED",
+"artist": "Tommy Edwards",
+"copyright": "Music Sales Corporation",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V: CAm FG CF C  2x",
+	"C Am CD G",
+	"G D G G7.XX",
+	"",
+	"V1: CAm FG CF C  2x",
+	"C Am EmAm D",
+	"CAm FG CF C",
+	"",
+	"O: CF - C"
     ],
 "lyrics": 
     [
@@ -26573,70 +26165,6 @@
 	"It's the end of the world as we know it (It's time I had some time alone)",
 	"It's the end of the world as we know it (It's time I had some time alone)",
 	"It's the end of the world as we know it, and I feel fine (It's time I had some time alone)"
-    ]
-}
-},
-{ "file": "I've Got It Made.songlyrics", "lastModifiedDate": 1549427774000, "song": 
-{
-"title": "I've Got It Made",
-"artist": "John Anderson",
-"copyright": "by Max Duane Barnes * © Universal Music Publishing Group",
-"key": "G",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"i:",
-	"D G D G",
-	"",
-	"v:",
-	"D G AG D x2",
-	"",
-	"c:",
-	"G D A D ",
-	"G D A D G",
-	"",
-	"br:",
-	"D A D",
-	"",
-	"o:",
-	"G D A D",
-	"A D"
-    ],
-"lyrics": 
-    [
-	"i:",
-	"",
-	"v:",
-	"A high dollar woman in a low cut dress.",
-	"God never wanted me to have a woman like that, I guess.",
-	"A forty room mansion sitting high on a hill.",
-	"I ain't ever lived in a place like that and I never will.",
-	"",
-	"c:",
-	"But I've got the mornin' sun, I've got the evenin' breeze.",
-	"I got the woman that I love lyin' close to me.",
-	"I've got a few good friends and all my bills are paid.",
-	"I got the moon and stars above and I've got it made.",
-	"",
-	"v:",
-	"I don't need a gold mine or a long limousine.",
-	"I'm not the kind of man to surrender my soul to material things.",
-	"Just give me a cane pole and a shady spot to sit.",
-	"To me that's about as close to heaven as a man can get.",
-	"",
-	"c:",
-	"But I've got the mornin' sun, I've got the evenin' breeze.",
-	"I got the woman that I love lyin' close to me.",
-	"I've got a few good friends and all my bills are paid.",
-	"I got the moon and stars above and I've got it made.",
-	"",
-	"br:",
-	"",
-	"o:",
-	"I've got a few good friends and all my bills are paid.",
-	"I got the moon and stars above and I've got it made.",
-	"I got the moon and stars above and I've got it made."
     ]
 }
 },
@@ -26795,7 +26323,7 @@
     ]
 }
 },
-{ "file": "Java Jive (1).songlyrics", "lastModifiedDate": 1533520638126, "song": 
+{ "file": "Java Jive.songlyrics", "lastModifiedDate": 1530036598502, "song": 
 {
 "title": "Java Jive",
 "artist": "Manhattan Transfer",
@@ -26805,8 +26333,178 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"I:",
-	" C Cdim G -   x2",
+	"I: C Cdim G -   x2",
+	"",
+	"",
+	"V:",
+	"C Cdim G -",
+	"F G C -",
+	"C C7 F Fm",
+	"C G C ",
+	"V1: G",
+	"V2: C7",
+	"",
+	"C:",
+	"F7 - - -",
+	"F7 - C C",
+	"X X X X",
+	"Gdim G X X",
+	"",
+	"O: C7 - - -"
+    ],
+"lyrics": 
+    [
+	"",
+	"I: (instrumental)",
+	"",
+	"V: I love coffee, I love tea",
+	"I love the java jive and it loves me",
+	"Coffee and tea and the java and me",
+	"A cup, a cup, a cup, a cup, a cup ",
+	"V1: boy!",
+	"",
+	"V: I love java, sweet and hot",
+	"Whoops mr. moto, I'm a coffee pot",
+	"Shoot me the pot and I'll pour me a shot",
+	"A cup, a cup, a cup, a cup, a cup",
+	"V2: ooh!",
+	"",
+	"C: Slip me a slug from that wonderful mug",
+	"And I'll cut a rug just snug in a jug",
+	"(vocal only) A sliced up onion and a raw one",
+	"Draw one -",
+	"(vocal only) Waiter, waiter, percolator",
+	"",
+	"V: I love coffee, I love tea",
+	"I love the java jive and it loves me",
+	"Coffee and tea and the java and me",
+	"A cup, a cup, a cup, a cup, a cup",
+	"V1: yeah!",
+	"",
+	"V: Boston bean (soy beans)",
+	"Green bean (cabbage and greens)",
+	"I'm not keen about a bean",
+	"Unless it is a chili chili bean ",
+	"V1: boy!",
+	"",
+	"V: I love java sweet and hot",
+	"Whoops mr. moto I'm a coffee pot (yeah)",
+	"Shoot me the pot and I'll pour me a shot",
+	"A cup, a cup, a cup, a cup, a cup",
+	"V2: (yeah)",
+	"",
+	"C: Slip me a slug of the wonderful mug",
+	"'an I'll cut a rug just as snug in a jug",
+	"(vocal only) Drop a nickel in the pot joe",
+	"Takin' it slow",
+	"(vocal only) Waiter, waiter, percolator",
+	"",
+	"V: I love coffee, I love tea",
+	"I love the java jive and it loves me",
+	"Coffee and tea and the java and me",
+	"A cup, a cup, a cup, a cup, a cup",
+	"V2: oh",
+	"",
+	"O: bo-o-o-o-o-oy!"
+    ]
+}
+},
+{ "file": "Java Jive - Corrected.songlyrics", "lastModifiedDate": 1534385097303, "song": 
+{
+"title": "Java Jive - Corrected",
+"artist": "Manhattan Transfer",
+"copyright": "Milton Drake & Ben Oakland",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I: C Cdim G -   x2",
+	"",
+	"",
+	"V:",
+	"C Cdim G -",
+	"F G C -",
+	"C C7 F Fm",
+	"C G C ",
+	"V1: G",
+	"V2: C7",
+	"",
+	"C:",
+	"F7 - - -",
+	"F7 - C C",
+	"X X X X",
+	"Gdim G7 X X",
+	"",
+	"O: C - - -"
+    ],
+"lyrics": 
+    [
+	"",
+	"I: (instrumental)",
+	"",
+	"V: I love coffee, I love tea",
+	"I love the java jive and it loves me",
+	"Coffee and tea and the java and me",
+	"A cup, a cup, a cup, a cup, a cup ",
+	"V1: boy!",
+	"",
+	"V: I love java, sweet and hot",
+	"Whoops mr. moto, I'm a coffee pot",
+	"Shoot me the pot and I'll pour me a shot",
+	"A cup, a cup, a cup, a cup, a cup",
+	"V2: ooh!",
+	"",
+	"C: Slip me a slug from that wonderful mug",
+	"And I'll cut a rug just snug in a jug",
+	"(vocal only) A sliced up onion and a raw one",
+	"Draw one -",
+	"(vocal only) Waiter, waiter, percolator",
+	"",
+	"V: I love coffee, I love tea",
+	"I love the java jive and it loves me",
+	"Coffee and tea and the java and me",
+	"A cup, a cup, a cup, a cup, a cup",
+	"V1: yeah!",
+	"",
+	"V: Boston bean (soy beans)",
+	"Green bean (cabbage and greens)",
+	"I'm not keen about a bean",
+	"Unless it is a chili chili bean ",
+	"V1: boy!",
+	"",
+	"V: I love java sweet and hot",
+	"Whoops mr. moto I'm a coffee pot (yeah)",
+	"Shoot me the pot and I'll pour me a shot",
+	"A cup, a cup, a cup, a cup, a cup",
+	"V2: (yeah)",
+	"",
+	"C: Slip me a slug of the wonderful mug",
+	"'an I'll cut a rug just as snug in a jug",
+	"(vocal only) Drop a nickel in the pot joe",
+	"Takin' it slow",
+	"(vocal only) Waiter, waiter, percolator",
+	"",
+	"V: I love coffee, I love tea",
+	"I love the java jive and it loves me",
+	"Coffee and tea and the java and me",
+	"A cup, a cup, a cup, a cup, a cup",
+	"",
+	"O: bo-o-o-o-o-oy!"
+    ]
+}
+},
+{ "file": "Java Jive - Corrected Again! (1).songlyrics", "lastModifiedDate": 1533520638126, "song": 
+{
+"title": "Java Jive - Corrected Again!",
+"artist": "Manhattan Transfer",
+"copyright": "Milton Drake & Ben Oakland",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I: C Cdim G -   x2",
 	"",
 	"",
 	"V:",
@@ -26908,110 +26606,7 @@
     ]
 }
 },
-{ "file": "Jet Airliner.songlyrics", "lastModifiedDate": 1549499878000, "song": 
-{
-"title": "Jet Airliner",
-"artist": "Steve Miller Band",
-"copyright": "1977 Capitol",
-"key": "Bb",
-"defaultBpm": 123,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I:",
-	"C C C C",
-	"",
-	"V:",
-	"C FC F C",
-	"C C F C",
-	"C C B♭F C",
-	"C C B♭F C",
-	"",
-	"C1:",
-	"B♭F C B♭F C",
-	"B♭F C B♭F C",
-	"C",
-	"",
-	"C2:",
-	"B♭F C B♭F C",
-	"B♭F C B♭F C"
-    ],
-"lyrics": 
-    [
-	"I:",
-	"(Instrumental)",
-	"",
-	"V:",
-	"Leavin’ home, out on the road",
-	"I’ve been down before",
-	"Ridin’ along in this big ol’ jet plane",
-	"I’ve been thinkin’ about my home",
-	"But my love light seems so far away",
-	"And I feel like it’s all been done",
-	"Somebody’s tryin’ to make me stay",
-	"You know I’ve got to be movin’ on",
-	"",
-	"C1:",
-	"Oh big ol’ jet airliner",
-	"Don’t carry me too far away",
-	"Oh big ol’ jet airliner",
-	"Cause it’s here that I’ve got to stay",
-	"",
-	"V:",
-	"Goodbye to all my friends at home",
-	"Goodbye to people I’ve trusted",
-	"I’ve got to go out and make my way",
-	"I might get rich you know I might get busted",
-	"But my heart keeps calling me backwards",
-	"As I get on the 707",
-	"Ridin’ high I got tears in my eyes",
-	"You know you got to go through hell",
-	"Before you get to heaven",
-	"",
-	"C1:",
-	"Big ol’ jet airliner",
-	"Don’t carry me too far away",
-	"Oh big ol’ jet airliner",
-	"Cause it’s here that I’ve got to stay",
-	"",
-	"V:",
-	"Touchin’ down in New England town",
-	"Feel the heat comin’ down",
-	"I’ve got to keep on keepin’ on",
-	"You know the big wheel keeps on spinnin’ around",
-	"And I’m goin’ with some hesitation",
-	"You know that I can surely see",
-	"That I don’t want to get caught up in any of that",
-	"Funky shit goin’ down in the city",
-	"",
-	"C2:",
-	"Big ol’ jet airliner",
-	"Don’t carry me too far away",
-	"Oh big ol’ jet airliner",
-	"Cause it’s here that I’ve got to stay",
-	"",
-	"C1:",
-	"Oh big ol’ jet airliner",
-	"Don’t carry me too far away",
-	"Oh big ol’ jet airliner",
-	"Cause it’s here that I’ve got to stay",
-	"Yeah, yeah yeah, yeah",
-	"",
-	"C2:",
-	"Big ol’ jet airliner",
-	"Don’t carry me too far away",
-	"Oh big ol’ jet airliner",
-	"Cause it’s here that I’ve got to stay",
-	"",
-	"C1:",
-	"Oh big ol’ jet airliner",
-	"Carry me to my home",
-	"Oh big ol’ jet airliner",
-	"Cause it’s there that I belong"
-    ]
-}
-},
-{ "file": "Jingle Bell Rock (1).songlyrics", "lastModifiedDate": 1543788966000, "song": 
+{ "file": "Jingle Bell Rock (1).songlyrics", "lastModifiedDate": 1543788965967, "song": 
 {
 "title": "Jingle Bell Rock",
 "artist": "Christmas",
@@ -27894,86 +27489,6 @@
 	"o:",
 	"Just between you and me",
 	"Just between you and me"
-    ]
-}
-},
-{ "file": "Kicks.songlyrics", "lastModifiedDate": 1544672316000, "song": 
-{
-"title": "Kicks",
-"artist": "Paul Revere & The Raiders",
-"copyright": "Sony/ATV Music Publishing LLC",
-"key": "D",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I: D Am D Am",
-	"",
-	"V: D Am D Am  x2",
-	"F - AmCaug CD",
-	"F - E -",
-	"",
-	"C: C F C F",
-	"C - E -",
-	"",
-	"V1: A - F#m -",
-	"D - E -",
-	"",
-	"O: C F C F",
-	"C - E -",
-	"C F C F",
-	"C - E -",
-	"A"
-    ],
-"lyrics": 
-    [
-	"I: (instrumental)",
-	"",
-	"V: Girl, you thought you found the answer",
-	"On that magic carpet ride last night",
-	"But when you wake up in the mornin'",
-	"The world still gets you uptight",
-	"Well, there's nothin' that you ain't tried",
-	"To fill the emptiness inside",
-	"When you come back down, girl",
-	"Still ain't feelin' right",
-	"",
-	"C: And don't it seem like",
-	"Kicks just keep gettin' harder to find",
-	"And all your kicks ain't bringin' you peace of mind",
-	"Before you find out it's too late, girl",
-	"You better get straight",
-	"",
-	"No, but not with kicks, you just need help, girl",
-	"",
-	"V: Well you think you're gonna find yourself",
-	"A little piece of paradise",
-	"But it ain't happened yet, so girl, you better think twice",
-	"Don't you see no matter what you do",
-	"You'll never run away from you",
-	"And if you keep on runnin' you'll have to pay the price",
-	"",
-	"C: And don't it seem like",
-	"Kicks just keep gettin' harder to find",
-	"And all your kicks ain't bringin' you peace of mind",
-	"Before you find out it's too late, girl",
-	"You better get straight",
-	"",
-	"V1: No, you don't need kicks",
-	"To help you face the world each day",
-	"That road goes nowhere",
-	"I'm gonna help you find yourself another way",
-	"",
-	"C: Kicks just keep gettin' harder to find",
-	"And all your kicks ain't bringin' you peace of mind",
-	"Before you find out it's too late, girl",
-	"You better get straight",
-	"",
-	"O: Don't it seem like",
-	"Kicks just keep gettin' harder to find",
-	"And all your kicks ain't bringin' you peace of mind",
-	"Before you find out it's too late, girl",
-	"You better get straight"
     ]
 }
 },
@@ -28919,7 +28434,7 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"I: Dm - A7 -  x2",
+	"I: Dm - A7 -  2x",
 	"",
 	"V: Dm C F C",
 	"A7 - Dm C",
@@ -30012,16 +29527,16 @@
 	"With no direction home",
 	"Like a complete unknown",
 	"Like a rolling stone ?",
-	"v:Princess on the steeple and all the pretty people",
+	"Princess on the steeple and all the pretty people",
 	"They're all drinkin', thinkin' that they got it made",
 	"Exchanging all precious gifts",
 	"But you'd better take your diamond ring, you'd better pawn it babe",
-	"pc:You used to be so amused",
+	"You used to be so amused",
 	"At Napoleon in rags and the language that he used",
 	"Go to him now, he calls you, you can't refuse",
 	"When you ain't got nothing, you got nothing to lose",
 	"You're invisible now, you got no secrets to conceal.",
-	"ch:How does it feel",
+	"How does it feel",
 	"How does it feel",
 	"To be on your own",
 	"With no direction home",
@@ -30753,7 +30268,7 @@
 	"GC GC GC GC ",
 	"",
 	"o:",
-	"G D G GC x3",
+	"G D G GC [3x]",
 	"G D G"
     ],
 "lyrics": 
@@ -31198,71 +30713,7 @@
     ]
 }
 },
-{ "file": "Looking at Lightning (6).songlyrics", "lastModifiedDate": 1547609184000, "song": 
-{
-"title": "Looking at Lightning",
-"artist": "Leanne",
-"copyright": "2019 ",
-"key": "C",
-"defaultBpm": 100,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"i:",
-	"DDsus2 AmAmsus2 DDsus2 AmAmsus x2 ",
-	"v:",
-	"D Am D Am",
-	"G D G D",
-	"ch:",
-	"G D C G",
-	"G D C G",
-	"",
-	"i2:",
-	"D-CG D-CG D-CG D-CG",
-	"",
-	"b:",
-	"D-CG D-CG D-CG D-CG",
-	"D-CG D-CG D-CG D-CG",
-	"D-CG D-CG D-CG G",
-	"",
-	"o:",
-	"DDsus2 AmAmsus2 DDsus2 AmAmsus",
-	"D"
-    ],
-"lyrics": 
-    [
-	"i:",
-	"v:",
-	"It's Monday then it's Tuesday,k then Wednesday in the afternoon.",
-	"It's Thursday then \"Friday and Saturday has come so soon,",
-	"",
-	"And baby, I have nothing to do",
-	"All i can do is think of you.",
-	"ch:",
-	"Lightening across the sky, makes me wonder why I'm alive.",
-	"Searching in my dreams, why my life is never what it seems to be.",
-	"i2:",
-	"v:",
-	"Another day has gone and come, I climb the mountain high above.",
-	"I watch the eagle fly across the sky, it makes me smile andmakes me cry",
-	"Oh baby, I'm missing you.",
-	"Yeah baby, I'm missing you.",
-	"",
-	"ch:",
-	"Lightening across the sky, makes me wonder why I'm alive.",
-	"Searching in my dreams, why my life is never what it seems to be.",
-	"",
-	"b:",
-	"(instrumental at first)",
-	"I was never looking for trouble.",
-	"I was never looking for trouble",
-	"I don't know when it started.",
-	"don't know when it's going to end.",
-	"o:"
-    ]
-}
-},
-{ "file": "Losing My Religion (1).songlyrics", "lastModifiedDate": 1543708362000, "song": 
+{ "file": "Losing My Religion (1).songlyrics", "lastModifiedDate": 1543708360419, "song": 
 {
 "title": "Losing My Religion",
 "artist": "REM",
@@ -31811,89 +31262,6 @@
 	"ch:Yeah I won't let love disrupt, corrupt or interrupt me",
 	"I won't let love disrupt, corrupt or interrupt me",
 	"Yeah I won't let love disrupt, corrupt or interrupt me, anymore."
-    ]
-}
-},
-{ "file": "Love Is All Around (2).songlyrics", "lastModifiedDate": 1547606408000, "song": 
-{
-"title": "Love Is All Around",
-"artist": "Troggs, The",
-"copyright": "Unknown",
-"key": "D",
-"defaultBpm": 105,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"",
-	"I:",
-	"D Em G A x2",
-	"",
-	"V:",
-	"D Em G A x8",
-	"",
-	"C: ",
-	"G - Em -",
-	"G - D -",
-	"G - Em -",
-	"E - A -",
-	"A"
-    ],
-"lyrics": 
-    [
-	"I: (Instrumental)",
-	"",
-	"V:",
-	"I feel it in my fingers,",
-	"I feel it in my toes",
-	"Well, love is all around me",
-	"And so the feeling grows",
-	"It’s written on the wind",
-	"It’s everywhere I go",
-	"So if you really love me",
-	"Come on and let it show",
-	"",
-	"C:",
-	"",
-	"You know I love you",
-	"I always will",
-	"My mind is made up",
-	"By the way that I feel",
-	"There’s no beginning",
-	"There’ll be no end",
-	"‘cause on my love ",
-	"You can depend",
-	"",
-	"",
-	"V:",
-	"",
-	"I see your face before me",
-	"As I lay on my bed",
-	"I kind a get to thinking",
-	"Of all the things you said",
-	"You gave your promise to me",
-	"And I gave mine to you",
-	"I need someone beside me",
-	"In everything I do",
-	"",
-	"C:",
-	"",
-	"You know I love you",
-	"I always will",
-	"My mind’s made up",
-	"By the way that I feel",
-	"There’s no beginning",
-	"There’ll be no end",
-	"‘cause on my love ",
-	"You can depend",
-	"",
-	"V:",
-	"",
-	"It’s written on the wind",
-	"It’s everywhere I go",
-	"So if you really love me",
-	"Come on and let it show",
-	"Come on and let it show",
-	"Come on and let it show"
     ]
 }
 },
@@ -33135,7 +32503,7 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"v: D G D G x3",
+	"v: D G D G 3x",
 	"DG DGA7. GDA7. D",
 	"",
 	"c:D G D G ",
@@ -33854,7 +33222,7 @@
 	"b: solo",
 	"i:",
 	"v:",
-	"And I've gone past by the point of caring,",
+	"And I've gone by the point of caring,",
 	"Some old bed I'll soon be sharing,",
 	"And I've got one more silver dollar,",
 	"But I'm not gonna let 'em catch me, no",
@@ -33865,12 +33233,7 @@
 	"i2:",
 	"No, I'm not gonna let 'em catch me, no",
 	"Not gonna let 'em catch the Midnight Rider.",
-	"i2:",
-	"No, I'm not gonna let 'em catch me, no",
-	"Not gonna let 'em catch the Midnight Rider.",
-	"i2:",
-	"No, I'm not gonna let 'em catch me, no",
-	"Not gonna let 'em catch the Midnight Rider."
+	"i:"
     ]
 }
 },
@@ -33976,8 +33339,6 @@
 	"If I ever wake up",
 	"I’ll find a way to change your mind",
 	"",
-	"I1: (instrumental)",
-	"",
 	"V:",
 	"I dreamed we fell into the night",
 	"Your darkness shined the brightest light",
@@ -34081,80 +33442,6 @@
 	"I never",
 	"I never",
 	"I never"
-    ]
-}
-},
-{ "file": "Money (5).songlyrics", "lastModifiedDate": 1544403948000, "song": 
-{
-"title": "Money",
-"artist": "Pink Floyd",
-"copyright": "(P) 2016 The copyright in this sound recording is owned by Pink Floyd Music Ltd., marketed and distributed by Sony Music Entertainment",
-"key": "C",
-"defaultBpm": 106,
-"timeSignature": "6/8",
-"chords": 
-    [
-	"i5:",
-	"Bm7 Bm7 Bm7 Bm7",
-	"v:",
-	"Bm7 Bm7 Bm7 Bm7",
-	"Bm7 Bm7 Bm7 Bm7",
-	"ch:",
-	"F#m Em Bm7 Bm7",
-	"",
-	"i:",
-	"Bm7 Bm7 Bm7 Bm7",
-	"Bm7 Bm7 Bm7 Bm7",
-	"Em Em Em Em",
-	"Bm7 Bm7 Bm7 Bm7",
-	"F#m Em ",
-	"i2:",
-	"Bm Bm",
-	"i3:",
-	"Bm Bm Bm Bm",
-	"Bm Bm Bm Bm",
-	"Em Em Em Em",
-	"Bm Bm Bm Bm",
-	"F#m F#m Bm Bm",
-	"i4:",
-	"Bm Bm Bm Bm",
-	"o:",
-	"Bm Bm Bm Bm"
-    ],
-"lyrics": 
-    [
-	"i5:",
-	"v:",
-	"Money, get away",
-	"Get a good job with more pay and you're O.K.",
-	"Money, it's a gas",
-	"Grab that cash with both hands and make a stash",
-	"ch:",
-	"New car, caviar, four star daydream,",
-	"Think I'll buy me a football team",
-	"v:",
-	"Money, get back",
-	"I'm all right, Jack, keep your hands off of my stack.",
-	"Money, it's a hit",
-	"Don't give me that do goody good bullshit",
-	"ch:",
-	"I'm in the high-fidelity first-class traveling set",
-	"And I think I need a Learjet",
-	"i: (7beats)",
-	"i2: (4 beats)",
-	"i3: (4 beats)",
-	"i4: (4 beats)",
-	"i3: (4 beats)",
-	"i4: (4 beats)",
-	"i3: (4 beats)",
-	"i2: (7 beats)",
-	"v:",
-	"Money, it's a crime",
-	"Share it fairly but don't take a slice of my pie",
-	"Money, so they say",
-	"Is the root of all evil today",
-	"ch:But if you ask for a rise it's no surprise that they're giving none away",
-	"o: (4 beats) Away"
     ]
 }
 },
@@ -34572,7 +33859,7 @@
 "timeSignature": "2/4",
 "chords": 
     [
-	"I: D Dm G D  x2",
+	"I: D Dm G D  2x",
 	"",
 	"V: D G - D ",
 	"Bm D E -",
@@ -34582,7 +33869,7 @@
 	"Br: D Dm G D",
 	"",
 	"",
-	"C: D G D D x2",
+	"C: D G D D 2x",
 	"Dmaj7 D7 - G",
 	"Gm D -",
 	"",
@@ -35267,7 +34554,7 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V: Dmaj7 G Dmaj7 G  x2",
+	"V: Dmaj7 G Dmaj7 G  2x",
 	"G F#7 Em7 A7",
 	"Dmaj7 G Dmaj7 G",
 	"",
@@ -35765,7 +35052,7 @@
 "chords": 
     [
 	"i: D  Bm  F#m G ",
-	"v:D  Bm  F#m G..D x4"
+	"v:D  Bm  F#m G..D 4x"
     ],
 "lyrics": 
     [
@@ -36633,7 +35920,7 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V: Em G A CB  x2",
+	"V: Em G A CB  2x",
 	"",
 	"C:  G Bm G7 -",
 	"C Cm Em -",
@@ -36680,7 +35967,7 @@
     ]
 }
 },
-{ "file": "One Voice.songlyrics", "lastModifiedDate": 1550001014150, "song": 
+{ "file": "One Voice (1).songlyrics", "lastModifiedDate": 1550015386694, "song": 
 {
 "title": "One Voice",
 "artist": "Wailin Jennys",
@@ -36893,7 +36180,7 @@
     ]
 }
 },
-{ "file": "Only Love Can Break A Heart.songlyrics", "lastModifiedDate": 1536607879699, "song": 
+{ "file": "Only Love Can Break A Heart.songlyrics", "lastModifiedDate": 1536693158526, "song": 
 {
 "title": "Only Love Can Break A Heart",
 "artist": "Gene Pitney",
@@ -36903,8 +36190,55 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V:",
-	" Bm E Bm EE7",
+	"V: Bm E Bm EE7",
+	"A C#m D EX",
+	"D E AG F#",
+	"Bm E Bm EE7",
+	"A C#m D EX",
+	"D E AG F#",
+	"D E D EE7",
+	"AC#m A7X",
+	"",
+	"C: D Bm C#m A7",
+	"D B7 EB7 E7",
+	"E7X",
+	"",
+	"O: D E AG F#",
+	"D E D E",
+	"E7 A C#m D ",
+	"E DE A -",
+	" "
+    ],
+"lyrics": 
+    [
+	"V: Only love can break a heart, only love can mend it again",
+	"",
+	"Last night I hurt you but darlin' remember this",
+	"Only love can break a heart, only love can mend it again, mm, mm",
+	"",
+	"You know I'm sorry, I'll prove it with just one kiss",
+	"Only love can break a heart, only love can mend it agai-ain",
+	"",
+	"C: Give me a chance to make up for the harm I've done",
+	"Try to forgive me and let's keep the two of us one.",
+	"",
+	"O: Please let me hold you and love you for always and always",
+	"Only love can break a heart only love can mend ... it ... again",
+	"(+ 4 measures instrumental)"
+    ]
+}
+},
+{ "file": "Only Love Can Break A Heart - CORRECTED.songlyrics", "lastModifiedDate": 1536607879699, "song": 
+{
+"title": "Only Love Can Break A Heart - CORRECTED",
+"artist": "Gene Pitney",
+"copyright": "TBD",
+"key": "A",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V: Bm E Bm EE7",
 	"A C#m D EX",
 	"D E AG F#",
 	"Bm E Bm EE7",
@@ -36913,13 +36247,11 @@
 	"Bm E Bm EE7",
 	"AC#m A7X",
 	"",
-	"C:",
-	" D Bm C#m A7",
+	"C: D Bm C#m A7",
 	"D B7 EB7 -",
 	"E7X",
 	"",
-	"O:",
-	" D E AG F#",
+	"O: D E AG F#",
 	"Bm E Bm E",
 	"E7 A C#m D ",
 	"E DE A -",
@@ -36944,186 +36276,7 @@
     ]
 }
 },
-{ "file": "Ophelia (3).songlyrics", "lastModifiedDate": 1549427714000, "song": 
-{
-"title": "Ophelia",
-"artist": "Band, The",
-"copyright": "Ophelia lyrics © WB Music Corp., Medicine Hat Music, Warner Chappell Music France, WB Music Corp. O/B/o Medicine Hat Music",
-"key": "D",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"i:",
-	"C7 C7 C7 C7",
-	"",
-	"v:",
-	"C E7 A7 D7",
-	"F G7 CA7 D7G7",
-	"",
-	"v1:",
-	"C E7 A7 D7",
-	"F G7 C C7.D7E7",
-	"",
-	"ch:",
-	"F C G7 C",
-	"F C G7 G7G7#5"
-    ],
-"lyrics": 
-    [
-	"i:",
-	"v:",
-	"Boards on the window, mail by the door",
-	"What would anybody leave so quickly for?",
-	"Ophelia - Where have you gone?",
-	"v1:",
-	"The old neighborhood just ain't the same",
-	"Nobody knows just what became of",
-	"Ophelia - tell me, what went wrong?",
-	"ch:",
-	"Was it somethin' that somebody said?",
-	"Mama, I know we broke the rules",
-	"Was somebody up against the law?",
-	"Honey, you know I'd die for you",
-	"v:",
-	"Ashes of laughter, the coast is clear",
-	"Why do the best things always disappear",
-	"Like Ophelia - please darken my door",
-	"v1: (instrumental)",
-	"ch:",
-	"Was it somethin' that somebody said?",
-	"Honey, you know we broke the rules",
-	"Was somebody up against the law?",
-	"Honey, you know I'd die for you",
-	"v:",
-	"They got your number, scared and runnin'",
-	"But I'm still waitin' for the second comin'",
-	"Of Ophelia - come back home",
-	"v:(inst, then vocal)",
-	"(pause)",
-	"Ophelia- come back home"
-    ]
-}
-},
-{ "file": "Otherside (2).songlyrics", "lastModifiedDate": 1544407174000, "song": 
-{
-"title": "Otherside",
-"artist": "Red Hot Chili Peppers",
-"copyright": "1999 Warner Bros",
-"key": "C",
-"defaultBpm": 123,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I: ",
-	"Am F C G",
-	"",
-	"C: ",
-	"Am F C G",
-	"Am F C G",
-	"Am F C G",
-	"",
-	"V1: ",
-	"Am Em Am Em",
-	"Am Em G Am",
-	"Am",
-	"",
-	"V2: ",
-	"Am Em Am Em",
-	"Am Em G Am",
-	"",
-	"PC:",
-	"G Am G G",
-	"Am Am",
-	"",
-	"BR:",
-	"E5 E5 C5 C5",
-	"E5 E5 C5 C5",
-	"E5 E5 C5 C5",
-	"E5 E5 C5 C5",
-	"",
-	"O:",
-	"Am F C G",
-	"Am F C G",
-	"Am"
-    ],
-"lyrics": 
-    [
-	"I: (Instrumental)",
-	"",
-	"C:",
-	"How long how long will I slide",
-	"Separate my side I don’t",
-	"I don’t believe it’s bad",
-	"Slit my throat, it’s all I ever",
-	"",
-	"V1:",
-	"I heard your voice through a photograph",
-	"I thought it up it brought up the past",
-	"Once you know you can never go back",
-	"I’ve got to take it on the otherside",
-	"",
-	"V2:",
-	"Centuries are what it meant to me",
-	"A cemetery where I marry the sea",
-	"Stranger things could never change my mind",
-	"I’ve got to take it on the otherside",
-	"",
-	"PC:",
-	"Take it on the otherside",
-	"Take it on",
-	"Take it on",
-	"",
-	"C:",
-	"How long how long will I slide",
-	"Separate my side I don’t",
-	"I don’t believe it’s bad",
-	"Slit my throat, it’s all I ever",
-	"",
-	"V1:",
-	"Pour my life into a paper cup",
-	"The ashtray’s full and I’m spillin’ my guts",
-	"She wants to know am I still a slut",
-	"I’ve got to take it on the otherside",
-	"",
-	"V2:",
-	"Scarlet starlet and she’s in my bed",
-	"A candidate for my soul mate bled",
-	"Push the trigger and pull the thread",
-	"I’ve got to take it on the otherside",
-	"",
-	"PC:",
-	"Take it on the otherside",
-	"Take it on",
-	"Take it on",
-	"",
-	"C: ",
-	"How long how long will I slide",
-	"Separate my side I don’t",
-	"I don’t believe it’s bad",
-	"Slit my throat, it’s all I ever",
-	"",
-	"",
-	"",
-	"BR:",
-	"Turn me on take me for a hard ride",
-	"Burn me out leave me on the otherside",
-	"I yell and tell it that it’s not my friend",
-	"I tear it down I tear it down and then it’s born again",
-	"",
-	"I: (Instrumental)",
-	"",
-	"C: How long how long will I slide",
-	"Separate my side I don’t",
-	"I don’t believe it’s bad",
-	"Slit my throat, it’s all I ever",
-	"",
-	"O: How long, I don’t believe it’s bad",
-	"Slit my throat, it’s all I ever"
-    ]
-}
-},
-{ "file": "Our Day Will Come.songlyrics", "lastModifiedDate": 1547002676000, "song": 
+{ "file": "Our Day Will Come.songlyrics", "lastModifiedDate": 1547002674032, "song": 
 {
 "title": "Our Day Will Come",
 "artist": "Ruby and the Romantics",
@@ -37135,15 +36288,15 @@
     [
 	"I: C G7 C G7",
 	"",
-	"V: C Eb7 Dm7 G7  x2",
+	"V: C Eb7 Dm7 G7  2x",
 	"Gm7 C7Gm7 Fmaj7 -",
 	"Fm6 - Em7Eb7 Dm7G7",
 	"",
-	"V1: C Eb7 Dm7 G7  x2",
+	"V1: C Eb7 Dm7 G7  2x",
 	"Gm7 C7Gm7 Fmaj7 Fm6",
 	"CAm Dm7G7 CGm Dm7G7",
 	"",
-	"O: C Eb7 Dm7 G7  x2",
+	"O: C Eb7 Dm7 G7  2x",
 	"Gm7 C7Gm7 Fmaj7 Fm6",
 	"CAm Dm7G7 C G7  ",
 	"CAm Dm7G7 C G7",
@@ -37382,11 +36535,11 @@
     [
 	"I: Dm - - -",
 	"",
-	"V: Dm - A -  x2",
+	"V: Dm - A -  2x",
 	"FC FC Dm -",
 	"FC FC G A",
 	"",
-	"O: Dm - A -  x6",
+	"O: Dm - A -  6x",
 	"Dm "
     ],
 "lyrics": 
@@ -37953,92 +37106,6 @@
     ]
 }
 },
-{ "file": "Picture .songlyrics", "lastModifiedDate": 1549433374000, "song": 
-{
-"title": "Picture ",
-"artist": "Kid Rock featuring Sheryl Crow",
-"copyright": "Peermusic Publishing",
-"key": "G",
-"defaultBpm": 100,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"",
-	"V: ",
-	"G G C C ",
-	"D DC G G",
-	"",
-	"c:",
-	"Em Em G G",
-	"D C G G",
-	"",
-	"t:",
-	"D C G G"
-    ],
-"lyrics": 
-    [
-	"V:",
-	"[Kid Rock:] Living my life in a slow hell.",
-	"Different girl every night at the hotel.",
-	"I ain't seen the sun shine in 3 damn days.",
-	"v:Been fueling up on cocaine and whiskey.",
-	"Wish I had a good girl to miss me.",
-	"Lord I wonder if I'll ever change my ways.",
-	"",
-	"CH:",
-	"I put your picture away.",
-	"Sat down and cried today.",
-	"I can't look at you while I'm lying next to her.",
-	"ch:",
-	"I put your picture away.",
-	"Sat down and cried today.",
-	"I can't look at you while I'm lying next to her. (Oooooooo)",
-	"",
-	"V:",
-	"[Sheryl Crow:] I called you last night in the hotel.",
-	"Everyone knows but they won't tell,",
-	"But their half-hearted smiles tell me something just ain't right.",
-	"v:I've been waiting on you for a long time,",
-	"Fueling up on heartaches and cheap wine,",
-	"I ain't heard from you in 3 damn nights.",
-	"",
-	"CH:",
-	"I put your picture away",
-	"I wonder where you've been",
-	"I can't look at you while I'm lying next to him",
-	"ch:I put your picture away",
-	"I wonder where you've been",
-	"I can't look at you while I'm lying next to him (Ooooooooo)",
-	"",
-	"v: (instrumental)",
-	"",
-	"V:",
-	"[SC:] I saw you yesterday with an old friend.",
-	"[KR:] It was the same old same how have you been.",
-	"[Together:] Since you've been gone my world's been dark and gray.",
-	"v:",
-	"[KR:] You reminded me of brighter days.",
-	"[SC:] I hoped you were coming home to stay.",
-	"I was headed to church. [KR:] I was off to drink you away",
-	"V:",
-	"[Together:] I thought about you for a long time.",
-	"Can't seem to get you off my mind.",
-	"I can't understand why we're living life this way.",
-	"",
-	"CH:",
-	"I found your picture today.",
-	"I swear I'll change my ways.",
-	"I just called to say I want you to come back home.",
-	"ch:",
-	"I found your picture today.",
-	"I swear I'll change my ways.",
-	"I just called to say I want you to come back home.",
-	"t:",
-	"I just called to say I love you.",
-	"Come back home."
-    ]
-}
-},
 { "file": "Place in the Sun (2).songlyrics", "lastModifiedDate": 1530159533496, "song": 
 {
 "title": "Place in the Sun",
@@ -38215,9 +37282,9 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"I: Dmaj7 - Em -  x2",
+	"I: Dmaj7 - Em -  2x",
 	"",
-	"V: Dmaj7 - Em -  x2",
+	"V: Dmaj7 - Em -  2x",
 	"G F#m Em G",
 	"D G D -",
 	"",
@@ -38225,7 +37292,7 @@
 	"Bb Am Gm F",
 	"AA7",
 	"",
-	"O: Dmaj - Em -  x3"
+	"O: Dmaj - Em -  3x"
     ],
 "lyrics": 
     [
@@ -38364,83 +37431,6 @@
 	"Then put me in a coffee can,",
 	"and toss me off the dock in,",
 	"Port Orford, Oregon,"
-    ]
-}
-},
-{ "file": "Positively 4th Street (1).songlyrics", "lastModifiedDate": 1549514728000, "song": 
-{
-"title": "Positively 4th Street",
-"artist": "Bob Dylan",
-"copyright": "Originally Released 1963, 1964, 1965, 1966 Sony Music Entertainment Inc.",
-"key": "Fs",
-"defaultBpm": 110,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I:",
-	"F# F# F# F#",
-	"",
-	"V: ",
-	"F# G#m B F#",
-	"F#.C#. B.D#m. C# C#",
-	"",
-	"O:",
-	"F# G#m B F#",
-	"F#.C#. B.D#m. C# C#"
-    ],
-"lyrics": 
-    [
-	"I:",
-	"",
-	"V:",
-	"You got a lot of nerve to say you are my friend",
-	"When I was down you just stood there grinning",
-	"",
-	"V:",
-	"You got a lot of nerve to say you got a helping hand to lend",
-	"You just want to be on the side that's winning",
-	"",
-	"V:",
-	"You say I let you down, you know its not like that",
-	"If you're so hurt, why then don't you show it?",
-	"",
-	"V:",
-	"You say you've lost your faith, but that's not where it's at",
-	"You have no faith to lose, and you know it",
-	"",
-	"V:",
-	"I know the reason, that you talked behind my back",
-	"I used to be among the crowd you're in with",
-	"",
-	"V:",
-	"Do you take me for such a fool, to think I'd make contact",
-	"With the one who tries to hide what he don't know to begin with?",
-	"",
-	"V:",
-	"You see me on the street, you always act surprised",
-	"You say, \"How are you?\"...\"Good luck\", but you don't mean it",
-	"",
-	"V:",
-	"When you know as well as me, you'd rather see me paralyzed",
-	"Why don't you just come out once and scream it?",
-	"",
-	"V:",
-	"No, I do not feel that good when I see the heartbreaks you embrace",
-	"If I was a master thief perhaps I'd rob them",
-	"",
-	"V:",
-	"And though I know you're dissatisfied with your position and your place",
-	"Don't you understand, it's not my problem?",
-	"",
-	"V:",
-	"I wish that for just one time you could stand inside my shoes",
-	"And just for that one moment I could be you",
-	"",
-	"V:",
-	"Yes, I wish that for just one time you could stand inside my shoes",
-	"You'd know what a drag it is to see you",
-	"",
-	"O:"
     ]
 }
 },
@@ -38637,17 +37627,16 @@
 	"We made a vow we'd always be friends.",
 	"How could we know that promises end?",
 	"",
-	"Bridge:",
+	"[Bridge]",
 	"",
 	"I tried to love you for years upon years,",
 	"You refuse to take me for real.",
 	"It's time you saw what I want you to see,",
 	"And I'd still love you if you'd just love me.",
 	"",
-	"Chorus:",
+	"[Chorus]",
 	"",
-	"Bridge:",
-	"Bridge:"
+	"[Bridge 2x]"
     ]
 }
 },
@@ -38768,131 +37757,6 @@
 	"Who-oooh, whoo-oo-oo-oo--ooah",
 	"ch:",
 	"Who-oooh, whoo-oo-oo-oo--ooah"
-    ]
-}
-},
-{ "file": "Push It.songlyrics", "lastModifiedDate": 1544403952000, "song": 
-{
-"title": "Push It",
-"artist": "Garbage",
-"copyright": "1998 Mushroom",
-"key": "C",
-"defaultBpm": 124,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I:",
-	"Em C/E Am/E Bm",
-	"",
-	"V:",
-	"Em C/E Am/E Bm",
-	"Em C/E Am/E Bm",
-	"",
-	"PC1:",
-	"A5 B5 C5 D5",
-	"",
-	"C:",
-	"E5 C5 A5 D5",
-	"E5 C5 A5 D5",
-	"",
-	"BR: ",
-	"C/E C/E Am/E Bm",
-	"C/E C/E Am/E Bm",
-	"",
-	"PC2:",
-	"A5 X X X",
-	"",
-	"O:",
-	"E5 C5 E5 C5",
-	"E5 C5 E5 C5",
-	"E5"
-    ],
-"lyrics": 
-    [
-	"V:",
-	"(Instrumental)",
-	"",
-	"V:",
-	"I was angry when I met you ",
-	"I think I’m angry still ",
-	"We can try to talk it over ",
-	"If you say you’ll help me out ",
-	"",
-	"V:",
-	"Don’t worry baby (don’t worry baby) ",
-	"No need to fight ",
-	"Don’t worry baby (don’t worry baby) ",
-	"We’ll be alright ",
-	"",
-	"PC1:",
-	"This is the noise that keeps me awake ",
-	"My head explodes and my body aches ",
-	"",
-	"C:",
-	"Push it, make the beats go further ",
-	"Push it, make the beats go further ",
-	"",
-	"I:",
-	"(Instrumental)",
-	"",
-	"V:",
-	"I’m sorry that I hurt you ",
-	"Please don’t ask me why ",
-	"I want to see you happy ",
-	"I want to see you shine ",
-	"",
-	"V:",
-	"Don’t worry baby (don’t worry baby) ",
-	"Don’t be uptight ",
-	"Don’t worry baby (don’t worry baby) ",
-	"We’ll stay up all night ",
-	"",
-	"PC1:",
-	"This is the noise that keeps me awake ",
-	"My head explodes and my body aches ",
-	"",
-	"C:",
-	"Push it, make the beats go further ",
-	"Push it, make the beats go further",
-	"",
-	"BR:",
-	"C’mon push it, you can do it ",
-	"C’mon prove it, nothing to it ",
-	"C’mon use it, let’s get through it ",
-	"C’mon push it, you can do it ",
-	"",
-	"V:",
-	"Don’t worry baby (don’t worry baby) ",
-	"Don’t be uptight ",
-	"Don’t worry baby (don’t worry baby) ",
-	"We’ll stay up all night",
-	"",
-	"PC2:",
-	"This is the noise that keeps me awake ",
-	"My head explodes and my body aches ",
-	"",
-	"C:",
-	"Push it, make the beats go further",
-	"This is the noise that keeps me awake ",
-	"",
-	"C:",
-	"My head explodes and my body aches ",
-	"This is the noise that keeps me awake ",
-	"My head explodes and my body aches",
-	"",
-	"I:",
-	"(Instrumental)",
-	"",
-	"V:",
-	"Don’t worry baby, it will be alright",
-	"Don’t worry baby, it will be alright",
-	"",
-	"O:",
-	"Push it ",
-	"Push it ",
-	"Push it ",
-	"Push it ",
-	"Push it"
     ]
 }
 },
@@ -39863,7 +38727,7 @@
     [
 	"i:EmBm EmBm EmBm EmBm",
 	"",
-	"v:D A E C#B x3",
+	"v:D A E C#B 3x",
 	"F#m A B -",
 	"",
 	"c:E Em G -",
@@ -40249,7 +39113,7 @@
 	"v:",
 	"G G G G",
 	"C C G G",
-	"D C G D"
+	"D C G D/[GD..]"
     ],
 "lyrics": 
     [
@@ -40266,75 +39130,6 @@
 	"Rock me baby, honey, rock me slow",
 	"Yeah, rock me pretty baby, baby rock me slow",
 	"Want you to rock me baby, Till I want no more"
-    ]
-}
-},
-{ "file": "Rocket Man.songlyrics", "lastModifiedDate": 1547606424000, "song": 
-{
-"title": "Rocket Man",
-"artist": "Elton John",
-"copyright": "Universal Music Publishing Group",
-"key": "G",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"V: Em7 - A -  x2",
-	"CG AmC D -",
-	"Em7 - A -  x2",
-	"CG AmC D -",
-	"D - ",
-	"",
-	"C: G - C -",
-	"G - C G",
-	"A - C -",
-	"G - C -  x2",
-	"",
-	"O: C - G -  x4",
-	"G"
-    ],
-"lyrics": 
-    [
-	"V: She packed my bags last night pre-flight",
-	"Zero hour nine AM",
-	"And I'm gonna be high as a kite by then",
-	"I miss the earth so much I miss my wife",
-	"It's lonely out in space",
-	"On such a timeless flight",
-	"",
-	"C: And I think it's gonna be a long long time",
-	"'Till touch down brings me round again to find",
-	"I'm not the man they think I am at home",
-	"Oh no no no I'm a rocket man",
-	"Rocket man burning out his fuse up here alone",
-	"And I think it's gonna be a long long time",
-	"'Till touch down brings me round again to find",
-	"I'm not the man they think I am at home",
-	"Oh no no no I'm a rocket man",
-	"Rocket man burning out his fuse up here alone",
-	"",
-	"V: Mars ain't the kind of place to raise your kids",
-	"In fact it's cold as hell",
-	"And there's no one there to raise them if you did",
-	"And all this science I don't understand",
-	"It's just my job five days a week",
-	"A rocket man, a rocket man",
-	"",
-	"C: And I think it's gonna be a long long time",
-	"'Till touch down brings me round again to find",
-	"I'm not the man they think I am at home",
-	"Oh no no no I'm a rocket man",
-	"Rocket man burning out his fuse up here alone",
-	"And I think it's gonna be a long long time",
-	"'Till touch down brings me round again to find",
-	"I'm not the man they think I am at home",
-	"Oh no no no I'm a rocket man",
-	"Rocket man burning out his fuse up here alone",
-	"",
-	"O: And I think it's gonna be a long long time",
-	"And I think it's gonna be a long long time",
-	"And I think it's gonna be a long long time",
-	"And I think it's gonna be a long long time"
     ]
 }
 },
@@ -40879,7 +39674,7 @@
 	"",
 	"v:",
 	"Gm F Eb Dm ",
-	"Cm F Gm - x2",
+	"Cm F Gm - 2x",
 	"",
 	"pc:",
 	"Cm F Gm Gm/F",
@@ -41425,76 +40220,7 @@
     ]
 }
 },
-{ "file": "San Francisco.songlyrics", "lastModifiedDate": 1549657756000, "song": 
-{
-"title": "San Francisco",
-"artist": "Mowglis, The",
-"copyright": "San Francisco lyrics © Kobalt Music Publishing Ltd.",
-"key": "G",
-"defaultBpm": 100,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"i:",
-	"",
-	"v:",
-	"",
-	"ch:",
-	"",
-	"|Em G C G |",
-	"|C G B B7 | x2",
-	"",
-	"b:",
-	"EmEm/F# GA EmEm/F# GA X3",
-	"EmEm/F# GA Em Em",
-	"",
-	"",
-	"o:",
-	"Em G C G ",
-	"C G B B7",
-	"Em"
-    ],
-"lyrics": 
-    [
-	"i:",
-	"v:",
-	"I’ve been in love with love",
-	"And the idea of something, binding us together",
-	"You know that love is strong enough,",
-	"I’ve seen time tell tales about that systematic drug,",
-	"Yeah that heart that beats as one",
-	"It’s collectively",
-	"Unconsciously composed",
-	"i: (doo doo)",
-	"ch:",
-	"I lost my head in San Francisco,",
-	"Waiting for the fog to roll out",
-	"But I found it in a rain cloud",
-	"It. Was. Smiling. Down.",
-	"Do you feel the love? I feel the love",
-	"C’mon c’mon, lets start it up!",
-	"Let it pour out of your soullllllll",
-	"b: ",
-	"v:",
-	"I’ve been in love with love",
-	"And the idea of something, binding us together",
-	"You know that love is strong enough,",
-	"I’ve seen time tell tales about that systematic drug,",
-	"Yeah that heart that beats as one",
-	"It’s collectively",
-	"Unconsciously composed",
-	"ch:",
-	"Do you feel the love? I feel the love",
-	"C’mon c’mon, lets start it up!",
-	"Let it pour out of your soullllllll-",
-	"Do you feel the love? I feel the love",
-	"C’mon c’mon, lets start it up!",
-	"Let it pour out of your soullllllll",
-	"o: (doo)"
-    ]
-}
-},
-{ "file": "San Francisco Bay Blues (2).songlyrics", "lastModifiedDate": 1545613134000, "song": 
+{ "file": "San Francisco Bay Blues (2).songlyrics", "lastModifiedDate": 1545613132054, "song": 
 {
 "title": "San Francisco Bay Blues",
 "artist": "Eric Clapton",
@@ -41967,46 +40693,6 @@
 	"No one ever said it would be so hard",
 	"I'm going back to the start",
 	"Oh [x4]"
-    ]
-}
-},
-{ "file": "Sea of Love.songlyrics", "lastModifiedDate": 1544672332000, "song": 
-{
-"title": "Sea of Love",
-"artist": "Phil Phillips (original)",
-"copyright": "BMG Rights Management, Carlin America Inc",
-"key": "G",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"V: G B7 C A7",
-	"G CD GC G",
-	"",
-	"C: D C D C",
-	"B7 DD7 "
-    ],
-"lyrics": 
-    [
-	"V: Come with me my love",
-	"To the sea, the sea of love",
-	"I wanna tell you how much I love you",
-	"",
-	"V: Do you remember when we met",
-	"That's the day I knew you were my pet",
-	"I wanna tell you how much I love you",
-	"",
-	"C: Come with me to the sea of love",
-	"",
-	"V: Come with me my love",
-	"To the sea, the sea of love",
-	"I wanna tell you how much I love you",
-	"",
-	"C: Come with me to the sea of love",
-	"",
-	"V: Do you remember when we met",
-	"That's the day I knew you were my pet",
-	"I wanna tell you how much I love you"
     ]
 }
 },
@@ -42817,7 +41503,7 @@
 	"People tell me that she’s only",
 	"Foolin’ I know she isn’t",
 	"",
-	"V:",
+	"V",
 	"(Verse 2)",
 	"She don’t give boys the eye",
 	"She hate to see me cry                 ",
@@ -43667,89 +42353,9 @@
     ]
 }
 },
-{ "file": "Silver Bells (12).songlyrics", "lastModifiedDate": 1544304736000, "song": 
+{ "file": "Silver Bells (11).songlyrics", "lastModifiedDate": 1543787547319, "song": 
 {
 "title": "Silver Bells",
-"artist": "Livingston and Evans",
-"copyright": "Originally Released 1965 Sony Music Entertainment Inc.",
-"key": "C",
-"defaultBpm": 110,
-"timeSignature": "3/4",
-"chords": 
-    [
-	"i:",
-	"G G G D",
-	"",
-	"v:",
-	"G G7 C C|",
-	"D D7 G D| x2",
-	"",
-	"ch:",
-	"G G7 C C| ",
-	"D D7 G D| x2 ",
-	"",
-	"ch1:",
-	"G G7 C C ",
-	"D D7 G D ",
-	"G G7 C C",
-	"D D7 G C",
-	"",
-	"t:",
-	"D D G C",
-	"",
-	"T1:",
-	"D D G G"
-    ],
-"lyrics": 
-    [
-	"i:",
-	"v:",
-	"City sidewalks",
-	"Busy sidewalks",
-	"Dressed in holiday style",
-	"In the air there's",
-	"A feeling of Christmas",
-	"Children laughing",
-	"People passing",
-	"Meeting smile after smile",
-	"And on every",
-	"Street corner you'll hear",
-	"ch:",
-	"Silver Bells, Silver Bells",
-	"It's Christmas time in the city",
-	"Ring-a-ling, hear them sing",
-	"Soon it will be Christmas Day",
-	"v:",
-	"Strings of street lights",
-	"Even stoplights",
-	"Blink a bright red and green",
-	"As the shoppers rush home",
-	"With their treasures",
-	"Hear the snow crunch",
-	"See the kids bunch",
-	"This is Santa's big scene",
-	"And above all",
-	"This bustle you'll hear",
-	"ch:",
-	"Silver Bells, Silver Bells",
-	"It's Christmas time in the city",
-	"Ring-a-ling, hear them sing",
-	"Soon it will be Christmas Day",
-	"ch1:",
-	"Silver Bells, Silver Bells",
-	"It's Christmas time in the city",
-	"Ring-a-ling, hear them sing",
-	"Soon it will be Christmas Day",
-	"t:",
-	"Soon it will be Christmas Day",
-	"T1:",
-	"Soon it will be Christmas Day"
-    ]
-}
-},
-{ "file": "Silver Bells - Christmas.songlyrics", "lastModifiedDate": 1544829138000, "song": 
-{
-"title": "Silver Bells - Christmas",
 "artist": "Livingston and Evans",
 "copyright": "Originally Released 1965 Sony Music Entertainment Inc.",
 "key": "C",
@@ -43970,10 +42576,10 @@
 "timeSignature": "2/4",
 "chords": 
     [
-	"V: C Am Fm G7  x3",
+	"V: C Am Fm G7  3x",
 	"Dm - G G7",
 	"",
-	"V1: C Am Fm G7  x3",
+	"V1: C Am Fm G7  3x",
 	"Dm G C C7",
 	"",
 	"C: Dm Dm7 C -",
@@ -43981,9 +42587,9 @@
 	"Dm - C -",
 	"Dm F G G7",
 	"",
-	"O: C Am Fm G7  x3",
+	"O: C Am Fm G7  3x",
 	"Dm - G -",
-	"C Am F G  x2",
+	"C Am F G  2x",
 	"C - - -"
     ],
 "lyrics": 
@@ -44680,95 +43286,6 @@
 	"\"Sometimes it lasts in love but sometimes it hurts instead,",
 	"T:",
 	"Sometimes it lasts in love but sometimes it hurts instead.\""
-    ]
-}
-},
-{ "file": "Something.songlyrics", "lastModifiedDate": 1549849817233, "song": 
-{
-"title": "Something",
-"artist": "Beatles, The",
-"copyright": "1969 Apple",
-"key": "Eb",
-"defaultBpm": 66,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I1:",
-	"F E♭G ",
-	"",
-	"V:",
-	"C C Cmaj7 Cmaj7",
-	"C7 C7 F F",
-	"D7 D7 G G",
-	"Am Ammaj7 Am7 D9",
-	"",
-	"I2:",
-	"F E♭G A A",
-	"",
-	"BR:",
-	"A C#m F#m7 A",
-	"D G A A",
-	"A C#m F#m7 A",
-	"D G C C",
-	"",
-	"I3:",
-	"C C Cmaj7 Cmaj7",
-	"C7 C7 F F",
-	"D7 D7 G G",
-	"Am Ammaj7 Am7 D9",
-	"",
-	"O:",
-	"F E♭G A A",
-	"F E♭G C C"
-    ],
-"lyrics": 
-    [
-	"",
-	"",
-	"I1: NOTE Walkdowns in BR",
-	"(Instrumental)",
-	"",
-	"V:",
-	"Something in the way she moves",
-	"Attracts me like no other lover",
-	"Something in the way she woos me",
-	"I don’t want to leave her now",
-	"You know I believe and how",
-	"",
-	"I1:",
-	"(Instrumental)",
-	"",
-	"V:",
-	"Somewhere in her smile she knows",
-	"That I don’t need no other lover",
-	"Something in her style that shows me",
-	"Don’t want to leave her now",
-	"You know I believe and how",
-	"",
-	"I2:",
-	"(Instrumental)",
-	"",
-	"BR:",
-	"You’re asking me will my love grow",
-	"I don’t know, I don’t know",
-	"You stick around now it may show",
-	"I don’t know, I don’t know",
-	"",
-	"I3:",
-	"(Instrumental)",
-	"",
-	"I1:",
-	"(Instrumental)",
-	"",
-	"V:",
-	"Something in the way she knows",
-	"And all I have to do is think of her",
-	"Something in the things she shows me",
-	"Don’t want to leave her now",
-	"You know I believe and how",
-	"",
-	"O:",
-	"(Instrumental)"
     ]
 }
 },
@@ -45604,9 +44121,9 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"i:Am D Am Bm x2",
+	"i:Am D Am Bm 2x",
 	"v:",
-	"Am D Am7 D7 x2",
+	"Am D Am7 D7 2x",
 	"Am Bm7 Bm D7",
 	" Am D Am7 D7",
 	"br:Am7 Bm7 Am7 Bm7"
@@ -45768,7 +44285,7 @@
 "chords": 
     [
 	"V: G - Am -",
-	"C D7 G - | x2",
+	"C D7 G - | 2x",
 	"",
 	"C: Am D7 G Em",
 	"Am D7 Em -",
@@ -46442,9 +44959,9 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"I: CmBb AbG7 CmBb AbG7  x3",
+	"I: CmBb AbG7 CmBb AbG7  3x",
 	"",
-	"V: CmBb AbG7 CmBb AbG7  x2",
+	"V: CmBb AbG7 CmBb AbG7  2x",
 	"CmBb AbG7 CmX X",
 	"",
 	"V1: FmEb C#C7 FmEb C#C7   ",
@@ -46833,7 +45350,6 @@
 "lyrics": 
     [
 	"i:",
-	"i: (with guitar lead)",
 	"v:",
 	"You get a shiver in the dark",
 	"It's raining in the park but meantime",
@@ -46876,6 +45392,7 @@
 	"\"Goodnight, now it's time to go home.\"",
 	"Then he makes it fast with one more thing,",
 	"\"We are the Sultans, we are the Sultans of Swing.\"",
+	"i:",
 	"o:"
     ]
 }
@@ -46893,9 +45410,9 @@
 	"i: E  G DA -EAm7 ",
 	"",
 	"v: E  G  D  A",
-	"    EAm7 - - -  x2",
+	"    EAm7 - - -  2x",
 	"",
-	"c: Am7  Bm7 Am7 G  x2",
+	"c: Am7  Bm7 Am7 G  2x",
 	"",
 	" ",
 	"",
@@ -46949,17 +45466,17 @@
 	"I: Am DXXX Am DXXX ",
 	"Am DXXX",
 	"",
-	"V: Am C D F..E   x2",
+	"V: Am C D F..E   2x",
 	"F E7 Am A",
 	"A",
 	"",
-	"C: D G D G  x2",
-	"Bm E Bm E  x2",
+	"C: D G D G  2x",
+	"Bm E Bm E  2x",
 	"",
-	"Br: Am - D -  x2",
+	"Br: Am - D -  2x",
 	"D ",
 	"",
-	"O: D G D G   x2",
+	"O: D G D G   2x",
 	"D G (fade)"
     ],
 "lyrics": 
@@ -47186,7 +45703,7 @@
 	"Bm7-5 E7 - Am ",
 	" ",
 	"o:",
-	"Bm7-5 E7 Am -  x3"
+	"Bm7-5 E7 Am -  3x"
     ],
 "lyrics": 
     [
@@ -49262,52 +47779,27 @@
     ]
 }
 },
-{ "file": "Terrified (6).songlyrics", "lastModifiedDate": 1535749852000, "song": 
+{ "file": "Terrified (5).songlyrics", "lastModifiedDate": 1535601295354, "song": 
 {
 "title": "Terrified",
 "artist": "Katharine McPhee",
 "copyright": "Dioguardi, Reeves",
-"key": "Eb",
+"key": "D",
 "defaultBpm": 120,
 "timeSignature": "6/8",
 "chords": 
     [
-	"I:",
-	"Eb Bb Cm Ab",
 	"V:",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab Ab",
-	"",
+	"D A Bm G x3",
 	"CH:",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"",
-	"Ch2:",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"",
+	"D A Bm G x5",
 	"B:",
-	"Cm Bb Ab Ab",
-	"Cm Bb Ab Ab",
-	"Cm Bb Ab Ab",
-	"Cm Bb Ab Ab Ab ",
-	"",
+	"Bm A G G x4",
 	"O:",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"Eb Bb Cm Ab",
-	"Eb"
+	"D A Bm G"
     ],
 "lyrics": 
     [
-	"I:",
 	"V:",
 	"You, by the light, is the greatest find",
 	"In a world, full of wrong, you're the thing that's right.",
@@ -49326,7 +47818,7 @@
 	"And nothing's worse than knowing you're holding back",
 	"I could be all that you needed if you let me try.",
 	"",
-	"Ch2:",
+	"CH:",
 	"You said it again, my heart's in motion",
 	"Every word feels like a shooting star",
 	"I'm on the edge of my emotions",
@@ -49341,13 +47833,14 @@
 	"Cause it fills me up, it hold me close",
 	"whenever I'm without you",
 	"",
-	"O:",
+	"CH:",
 	"You said it again, my hearts in motion, ",
 	"every word feels like a shooting star",
 	"Watching the shadows burnin in the dark",
 	"And I'm in love and I'm terrified",
 	"For the first time and the last time",
 	"In my only ",
+	"O:",
 	"life x3",
 	"In my only life",
 	"",
@@ -49452,7 +47945,7 @@
 "timeSignature": "2/4",
 "chords": 
     [
-	"I: D - G -  x2",
+	"I: D - G -  2x",
 	"",
 	"V: D D7 G -",
 	"D D7 Em D",
@@ -49776,12 +48269,12 @@
 	"BmEm AmC D -",
 	"D7",
 	"",
-	"Br: GC D GC D   x2",
+	"Br: GC D GC D   2x",
 	"",
 	"O: BmEm AmD BmEm AmD",
 	"BmEm AmC D -",
 	"D7 D D7 D",
-	"D7 G D7 G  x2"
+	"D7 G D7 G  2x"
     ],
 "lyrics": 
     [
@@ -50649,120 +49142,6 @@
     ]
 }
 },
-{ "file": "Tupelo Honey (1).songlyrics", "lastModifiedDate": 1549428566000, "song": 
-{
-"title": "Tupelo Honey",
-"artist": "Van Morrison",
-"copyright": "© Warner/Chappell Music, Inc",
-"key": "G",
-"defaultBpm": 106,
-"timeSignature": "2/4",
-"chords": 
-    [
-	"i1:",
-	"Bb Dm Eb..Bb Bb x2",
-	"",
-	"v:",
-	"Bb Dm Eb..Bb Bb",
-	"Bb Dm Eb..F F",
-	"Bb Dm Eb..Bb Bb",
-	"Bb Dm Eb..Bb Bb",
-	"",
-	"c:",
-	"Bb Dm Eb..Bb Bb",
-	"Bb Dm Eb..F F",
-	"Bb Dm Eb..Bb Bb",
-	"Bb Dm Eb..Bb Bb",
-	"",
-	"i2:",
-	"Bb Dm Eb..Bb Bb",
-	"Bb Dm Eb..F F",
-	"Bb Dm Eb..Bb Bb",
-	"Bb Dm Eb..Bb Bb",
-	"",
-	"br:",
-	"Bb Dm Eb..Bb Bb x4"
-    ],
-"lyrics": 
-    [
-	"i1: ",
-	"",
-	"v:",
-	"You can take all the tea in China,",
-	"Put it in a big brown bag for me,",
-	"Sail right 'round all the seven oceans,",
-	"Drop it straight into the deep blue sea.",
-	"",
-	"c:",
-	"She's as sweet as Tupelo honey.",
-	"She's an angel of the first degree.",
-	"She's as sweet, she's as sweet as Tupelo honey.",
-	"Just like honey, baby, from the bee.",
-	"",
-	"v:",
-	"You can't stop us on the road to freedom.",
-	"You can't keep us 'cause our eyes can see.",
-	"Men with insight, men in granite,",
-	"Knights in armor bent on chivalry.",
-	"",
-	"c:",
-	"She's as sweet as Tupelo honey.",
-	"She's an angel of the first degree. (She's an angel.)",
-	"She's as sweet as Tupelo honey.",
-	"Just like honey, baby, from the bee.",
-	"",
-	"i2: [x2]",
-	"",
-	"v:",
-	"You can't stop us on the road to freedom.",
-	"You can't stop us 'cause our eyes can see.",
-	"Men with insight, men in granite,",
-	"Knights in armor intent on chivalry.",
-	"",
-	"c:",
-	"She's as sweet as Tupelo honey.",
-	"She's an angel of the first degree. (She's an angel.)",
-	"She's as sweet as Tupelo honey.",
-	"Just like honey, baby, from the bee.",
-	"",
-	"br:",
-	"Oh, you know, she's alright, oh, she's alright with me. (She's an angel.)",
-	"And you know, you know, you know, she's alright, she's alright with me. (She's an angel.)",
-	"Yeah, you know, you know, you know, you know, you know, she's alright, right with me. (She's an angel.)",
-	"She's alright, she's alright, she's alright with me. (She's an angel.)",
-	"",
-	"br:",
-	"She's alright, she's alright with me. (She's an angel.)",
-	"And she's alright, she's alright with me. (She's an angel.)",
-	"And she's all, she's alright, she's alright, she's alright with me. (She's an angel.)",
-	"She's alright, she's alright, she's alright, she's alright. (She's an angel.)",
-	"",
-	"v:",
-	"You can take all the tea in China,",
-	"Put it in a big brown bag for me,",
-	"Sail it right around all these seven oceans,",
-	"Drop it smack dab in the middle of the deep blue sea because...",
-	"",
-	"c:",
-	"She's as sweet as Tupelo honey, yes, she is.",
-	"She's an angel of the first degree. (She's an angel.)",
-	"Oh, she's as sweet as Tupelo honey.",
-	"Just like honey, baby, from the bee. (She's an angel.)",
-	"",
-	"c:",
-	"Oh, she's as sweet as Tupelo honey.",
-	"She's an angel, angel of the first degree. (She's an angel.)",
-	"Oh, she's as sweet as Tupelo honey.",
-	"Just like the real thing, oh, from the bee. (You know, she's alright.)",
-	"",
-	"c:",
-	"Oh, she's alright, she's alright with me. (She's an angel.)",
-	"She's my baby, you know, she's alright. (She's an angel.)",
-	"She's my baby, she's my baby, you know, she's alright. (She's an angel.)",
-	"She's my baby, oh, diddy-dip, diddy-dip.... [scats into fade....]"
-    ]
-}
-},
 { "file": "Turn the Page.songlyrics", "lastModifiedDate": 1540954342056, "song": 
 {
 "title": "Turn the Page",
@@ -51052,7 +49431,7 @@
 "chords": 
     [
 	"V: G - - - |",
-	"A7 D  | x2",
+	"A7 D  | 2x",
 	"",
 	"C: C - Am -",
 	"C - Am -",
@@ -51228,103 +49607,6 @@
 	"V2: God speed your love to me.",
 	"",
 	"O: (instrumental)"
-    ]
-}
-},
-{ "file": "Uncle John's Band (9).songlyrics", "lastModifiedDate": 1549426976000, "song": 
-{
-"title": "Uncle John's Band",
-"artist": "Grateful Dead",
-"copyright": "Songwriters: Jerome J. Garcia / Robert C. Hunter Uncle John's Band lyrics © Universal Music Publishing Group, Warner/Chappell Music, Inc",
-"key": "G",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"i:",
-	"G G G G",
-	"i2:",
-	"GBm CD GBm CD",
-	"",
-	"v:",
-	"G G C.. G",
-	"G G C.. G",
-	"Am Em C D",
-	"CD GD GD G",
-	"",
-	"i3:",
-	"G G",
-	"",
-	"i4:",
-	"G....",
-	"",
-	"",
-	"",
-	"ch:",
-	"|G GC AmG D|",
-	"|C C GD CD |x2",
-	"",
-	"b:",
-	"Dm F.G x7",
-	"Dm Dm ",
-	"Dm Dm C G G",
-	"",
-	"o:",
-	"Dm F.G x3"
-    ],
-"lyrics": 
-    [
-	"i:",
-	"i2:",
-	"v:",
-	"Well the first days are the hardest days, don't you worry any more,",
-	"'Cause when life looks like Easy Street, there is danger at your door.",
-	"Think this through with me, let me know your mind,",
-	"Wo, oh, what I want to know, is are you kind?",
-	"i3:",
-	"",
-	"v:",
-	"It's a buck dancer's choice my friend; better take my advice.",
-	"You know all the rules by now and the fire from the ice.",
-	"Will you come with me? Won't you come with me?",
-	"Wo, oh, what I want to know, will you come with me?",
-	"i3:",
-	"ch:",
-	"Goddamn, well I declare, have you seen the like?",
-	"Their wall are built of cannonballs, their motto is \"Don't tread on me\".",
-	"Come hear Uncle John'n Band playing to the tide,",
-	"Come with me, or go alone, he's come to take his children home.",
-	"i2:",
-	"i2:",
-	"v:",
-	"It's the same story the crow told me; it's the only one he knows.",
-	"Like the morning sun you come and like the wind you go.",
-	"Ain't no time to hate, barely time to wait,",
-	"Wo, oh, what I want to know, where does the time go?",
-	"i4:",
-	"",
-	"v:",
-	"I live in a silver mine and I call it Beggar's Tomb;",
-	"I got me a violin and I beg you call the tune,",
-	"anybody's choice, I can hear your voice.",
-	"Wo, oh, what I want to know, how does the song go?",
-	"i3:",
-	"ch:",
-	"Come hear Uncle John's Band by the riverside,",
-	"Got some things to talk about, here beside the rising tide.",
-	"Come hear Uncle John's Band playing to the tide,",
-	"Come on along, or go alone, he's come to take his children home.",
-	"b:",
-	"",
-	"",
-	"Wo, oh, what I want to know, how does the song go.",
-	"",
-	"ch:",
-	"Come hear Uncle John's Band by the riverside,",
-	"Got some things to talk about, here beside the rising tide.",
-	"Come hear Uncle John's Band playing to the tide,",
-	"Come on along, or go alone, he's come to take his children home.",
-	"o:"
     ]
 }
 },
@@ -52621,14 +50903,14 @@
 "timeSignature": "2/4",
 "chords": 
     [
-	"I: C Am Dm G   x2",
+	"I: C Am Dm G   2x",
 	"",
 	"V: C Am Dm G",
 	"Em A7 Dm G ",
 	"C C7 Dm G",
 	"C Am Dm G",
 	"",
-	"C: D# Cm Fm Bb  x3",
+	"C: D# Cm Fm Bb  3x",
 	"D# Cm Dm G",
 	"",
 	"O: C"
@@ -52852,17 +51134,17 @@
 	"",
 	"v: Em7 - - - ",
 	"F#m7 - - - ",
-	"A A7 A6  Em7  x2",
+	"A A7 A6  Em7  2x",
 	"",
 	"br:A/C# - - - ",
-	"- Bm - - - x2",
+	"- Bm - - - 2x",
 	"- A - - ",
 	"- Dmaj7  Gmaj7 G",
 	"",
 	"i: Bm C5 Bm A G7M ",
 	"",
 	"o: Bm - C5 -",
-	"- Bm - A  x2"
+	"- Bm - A  2x"
     ],
 "lyrics": 
     [
@@ -53329,7 +51611,7 @@
 	"Dm7 - Em Am",
 	"F - C -",
 	"",
-	"O: Em Am Em Am  x3",
+	"O: Em Am Em Am  3x",
 	"C"
     ],
 "lyrics": 
@@ -53377,7 +51659,7 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V: C A7 Dm7 G  x2",
+	"V: C A7 Dm7 G  2x",
 	"",
 	"C: FD7 CA7 FD7 CA7 ",
 	"FD7 CA7 Dm7 G ",
@@ -53645,7 +51927,7 @@
 "chords": 
     [
 	"V: Em - Am Em",
-	"Am Em B Em x2",
+	"Am Em B Em 2x",
 	"",
 	"C: G - - -",
 	"B7 - - -",
@@ -54882,12 +53164,12 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V: G D C D  x2",
+	"V: G D C D  2x",
 	"C D GBm Em",
 	"C D G D",
 	"C D",
 	"",
-	"V1: G D C D  x2",
+	"V1: G D C D  2x",
 	"C D GBm Em",
 	"C D G D",
 	"",
@@ -54896,7 +53178,7 @@
 	"G D C D",
 	"G D",
 	"",
-	"O: G D C D  x2",
+	"O: G D C D  2x",
 	"C D GBm Em",
 	"C D G D",
 	"C D G"
@@ -55397,7 +53679,7 @@
     ]
 }
 },
-{ "file": "You Always Hurt The One You Love - Mills Bros..songlyrics", "lastModifiedDate": 1545874555081, "song": 
+{ "file": "You Always Hurt The One You Love - Mills Bros.songlyrics", "lastModifiedDate": 1536193320779, "song": 
 {
 "title": "You Always Hurt The One You Love - Mills Bros.",
 "artist": "Mills Brothers",
@@ -55407,8 +53689,60 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"V:",
-	" C Cmaj7 - Am7 ",
+	"V: C CM7 - AM7 ",
+	"C Em Dm G7",
+	"Dm F Dm7 D6",
+	"G Gaug C G7",
+	"C C7 FM7 Dm",
+	"D7 - Dm7 G7",
+	"C - CM7 A7",
+	"Dm7 G7 C G7",
+	"",
+	"O: C CM7 - AM7 ",
+	"C Em Dm G7",
+	"Dm F Dm7 D6",
+	"G Gaug C G7",
+	"C C7 FM7 Dm",
+	"D7 - Dm7 G7",
+	"C - CM7 A7",
+	"Dm7 G7 C -",
+	"C "
+    ],
+"lyrics": 
+    [
+	"V: You always hurt the one you love",
+	"The one you shouldn't hurt at all",
+	"You always take the sweetest rose",
+	"And crush it till the petals fall",
+	"You always break the kindest heart",
+	"With a hasty word you can't recall, so",
+	"If I broke your heart last night",
+	"It's because I love you most of all",
+	"",
+	"V: (instrumental)",
+	"",
+	"O: You always hurt the one you love",
+	"The one you shouldn't hurt at all",
+	"You always take the sweetest rose",
+	"Crush it, till the petals fall",
+	"You always break the kindest heart",
+	"With a hasty word you can't recall, so",
+	"If I broke your heart last night",
+	"It's because I love you most of all"
+    ]
+}
+},
+{ "file": "You Always Hurt The One You Love - Mills Bros. - RECORRECTED.songlyrics", "lastModifiedDate": 1545874555081, "song": 
+{
+"title": "You Always Hurt The One You Love - Mills Bros. - CORRECTED",
+"artist": "Mills Brothers",
+"copyright": "Sony/ATV",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V: C Cmaj7 - Am7 ",
 	"C Em Dm G7",
 	"Dm F Dm7 Dm6",
 	"G Gaug C G7",
@@ -55417,8 +53751,7 @@
 	"C Cmaj7 - A7",
 	"Dm7 G7 C G7",
 	"",
-	"O:",
-	" C Cmaj7 - Am7 ",
+	"O: C Cmaj7 - Am7 ",
 	"C Em Dm G7",
 	"Dm F Dm7 Dm6",
 	"G Gaug C G7",
@@ -55449,66 +53782,6 @@
 	"With a hasty word you can't recall, so",
 	"If I broke your heart last night",
 	"It's because I love you most of all"
-    ]
-}
-},
-{ "file": "You Belong to Me.songlyrics", "lastModifiedDate": 1544672326000, "song": 
-{
-"title": "You Belong to Me",
-"artist": "Duprees (cover), Patsy Cline (orig.), The",
-"copyright": "Sony/ATV Music Publishing LLC",
-"key": "C",
-"defaultBpm": 70,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I: CAm FmG CAm FmG",
-	"",
-	"V: C Em F CC#dim",
-	"FFm CAm D7 G7",
-	"",
-	"V1: C Em F CC#dim",
-	"FFm CAm D7G7 C",
-	"",
-	"C: C C7 F -",
-	"D7 AmD7 G7 Gaug",
-	"",
-	"O: C Em F CC#dim",
-	"FFm CAm D7G7 C",
-	"CAm FmG CAm FmG",
-	"C"
-    ],
-"lyrics": 
-    [
-	"I: ah ah ah ah ... ah ah ah ah ...",
-	"",
-	"V: See the pyramids along the Nile",
-	"Watch the sunrise on a tropic isle",
-	"Just remember darling all the while",
-	"You belong to me",
-	"",
-	"V1: See the marketplace in old Algiers",
-	"Send me photographs and souvenirs",
-	"Just remember when a dream appears",
-	"You belong to me",
-	"",
-	"C: I'll be so alone without you",
-	"Maybe you'll be lonesome too and blue",
-	"",
-	"V1: Fly the ocean in a silver plane",
-	"See the jungle when it's wet with rain",
-	"Just remember till you're home again",
-	"You belong to me",
-	"",
-	"C: I'm gonna be so alone without you",
-	"Maybe you'll be lonesome too and blue",
-	"",
-	"O: Fly the ocean in a silver plane",
-	"See the jungle when it's wet with rain",
-	"Just remember till you're home again",
-	"You belong to ... me",
-	"ah ah ah ah ah ah ah ah,",
-	"ah ah ah ah ah ah ah ah"
     ]
 }
 },
@@ -56673,9 +54946,9 @@
     [
 	"I: XXXX",
 	"",
-	"C: D A E A   x2",
+	"C: D A E A   2x",
 	"",
-	"V: D A E A   x3 ",
+	"V: D A E A   3x ",
 	"",
 	"Br: A"
     ],
@@ -56761,6 +55034,29 @@
 	"At the Zombie Jamboree",
 	"",
 	"Br: (instrumental)"
+    ]
+}
+},
+{ "file": "title (1).songlyrics", "lastModifiedDate": 1545284150879, "song": 
+{
+"title": "title",
+"artist": "artisg",
+"copyright": "copy",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"",
+	"I: ",
+	"v: ",
+	"C C G D"
+    ],
+"lyrics": 
+    [
+	"i: ",
+	"",
+	"v: words words"
     ]
 }
 }]
