@@ -1,4 +1,25 @@
 [
+{ "file": "12 Bar Blues.songlyrics", "lastModifiedDate": 1550112983869, "song": 
+{
+"title": "12 Bar Blues",
+"artist": "All",
+"copyright": "Nobody",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"v:",
+	"C F C C",
+	"F F C C",
+	"G F C G"
+    ],
+"lyrics": 
+    [
+	"v:"
+    ]
+}
+},
 { "file": "25 or 6 to 4 (3).songlyrics", "lastModifiedDate": 1548296878134, "song": 
 {
 "title": "25 or 6 to 4",
@@ -9107,6 +9128,82 @@
     ]
 }
 },
+{ "file": "Cat in the Well, The.songlyrics", "lastModifiedDate": 1550168447856, "song": 
+{
+"title": "Cat in the Well, The",
+"artist": "Manhattan Transfer",
+"copyright": "Shapiro Bernstein & Co. Inc.",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I: Cdim - - -",
+	"F G",
+	"",
+	"V: C - FG C",
+	"C - D G",
+	"CF C FG C",
+	"CC7 FG# G C",
+	"",
+	"C: F BbC F BbC",
+	"F F7 Bb Bbm",
+	"C - F -",
+	"",
+	"V2: Cm - Fm Cm",
+	"Cm Fm Cm G",
+	"CmFm - - Cm",
+	"Cm Fm G C",
+	"",
+	"O: XX XX Cdim -",
+	"Cdim - CX"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: I woke up this morning with a feeling of despair",
+	"I looked for my pussy but my pussy wasn't there",
+	"Well, well, well",
+	"My cat fell in the well",
+	"Oh puss puss puss poor kitty kitty kitty",
+	"My cat fell in the well",
+	"",
+	"V: I got out a ladder and I climbed down to my pet",
+	"I saw in a jiffy that my puss was soakin' wet",
+	"Well, well, well",
+	"My cat fell in the well",
+	"Oh pussy pussy pussy poor kitty kitty kitty",
+	"My cat fell in the well",
+	"",
+	"C: The doggone hole by the pump",
+	"Was she pushed, or did she jump",
+	"There never was a kitty half as pretty",
+	"As the pussy that fell in the well",
+	"",
+	"V: There never was a pussy that could quite compare with her",
+	"Pretty as a picture with her long and silky fur -",
+	"Well, well, well, well my cat fell in the well, well",
+	"Oh oh oh pussy pussy pussy poor kitty kitty kitty",
+	"My cat fell in the well",
+	"",
+	"V2: Tears I shed were useless when that fatal day arrived",
+	"Still I thought my pussy had at least a dozen lives",
+	"Well, well, well, well, my cat fell in the well",
+	"Oh pussy pussy pussy poor kitty kitty kitty",
+	"My cat fell in the well.",
+	"",
+	"V: If you have a pussy that you wouldn't trade or sell",
+	"Never let her wander or she might fall in a well",
+	"Well, well, well",
+	"My cat fell in the well",
+	"Oh puss puss puss poor kitty kitty kitty",
+	"My cat fell in the well.",
+	"",
+	"O: Fell in the ... [instrumental Cdim] ... well!"
+    ]
+}
+},
 { "file": "Cat in the Well, The.songlyrics", "lastModifiedDate": 1541983064430, "song": 
 {
 "title": "Cat in the Well, The",
@@ -9695,7 +9792,7 @@
     ]
 }
 },
-{ "file": "Come Back To Me Barbara Lewis Hare Krishna Beauregard (1).songlyrics", "lastModifiedDate": 1546489371488, "song": 
+{ "file": "Come Back To Me Barbara Lewis Hare Krishna Beauregard (1).songlyrics", "lastModifiedDate": 1550119878255, "song": 
 {
 "title": "Come Back To Me Barbara Lewis Hare Krishna Beauregard",
 "artist": "John Prine",
@@ -9706,20 +9803,20 @@
 "chords": 
     [
 	"",
-	"I: D A E A",
+	"I: D A E A A",
 	"",
 	"",
 	"V: A A D B7  ",
-	"E7 E7 E7 A ",
+	"E7 E7 E7 A A",
 	"A A D B7 ",
-	"E7 E7 E7 A",
+	"E7 E7 E7 A A",
 	"",
 	"",
 	"C: D D A A ",
 	"D A E7 A",
 	"",
 	"",
-	"I2: D A E A",
+	"I2: D A E A A",
 	"",
 	"V2: A A D B7  ",
 	"E7 E7 E7 A ",
@@ -23381,12 +23478,12 @@
     ]
 }
 },
-{ "file": "I Just Fall In Love Again.songlyrics", "lastModifiedDate": 1534873281522, "song": 
+{ "file": "I Just Fall In Love Again (2).songlyrics", "lastModifiedDate": 1550168525840, "song": 
 {
 "title": "I Just Fall In Love Again",
 "artist": "Anne Murray",
 "copyright": "Universal Music Publishing Group",
-"key": "C",
+"key": "D",
 "defaultBpm": 80,
 "timeSignature": "2/4",
 "chords": 
@@ -23405,7 +23502,9 @@
 	"Am D7   (hold last chord)",
 	"C FG C -",
 	"",
-	"T: C FG C -"
+	"O: C FG C -",
+	"D7 - F G",
+	"C CX"
     ],
 "lyrics": 
     [
@@ -23431,7 +23530,8 @@
 	"There I go I, just fall in love again and when I do",
 	"I can't help myself, I fall in love with you.",
 	"",
-	"T: Can't help myself, I fall in love with you"
+	"O: Can't help myself, I fall in love with you",
+	"(+ instrumental)"
     ]
 }
 },
@@ -24666,28 +24766,25 @@
     ]
 }
 },
-{ "file": "I'm Looking Through You.songlyrics", "lastModifiedDate": 1545006254854, "song": 
+{ "file": "I'm Looking Through You.songlyrics", "lastModifiedDate": 1550168555656, "song": 
 {
 "title": "I'm Looking Through You",
 "artist": "Beatles, The",
 "copyright": "Sony/ATV",
 "key": "C",
-"defaultBpm": 100,
+"defaultBpm": 120,
 "timeSignature": "4/4",
 "chords": 
     [
-	"V: C Am Em D  2x",
-	"Em Am Em D",
-	"Em D C G",
-	"G - -",
+	"V: CF Dm7 Am G  2x",
+	"Am GDm7 CF G",
+	"CF Dm7 F7 CF",
+	"CF CF CF ",
 	"",
-	"C: C G D -",
-	"C G Dsus4 D",
+	"C: F C G -",
+	"F C Gsus4 G",
 	"",
-	"O: C Am Em D  2x",
-	"Em Am Em D",
-	"Em D C G",
-	"G - - -   2x"
+	"O: CF CF CF CF 2x"
     ],
 "lyrics": 
     [
@@ -24712,11 +24809,12 @@
 	"C: Why, tell me why, did you not treat me right?",
 	"Love has a nasty habit of disappearing overnight",
 	"",
-	"O: I'm looking through you, where did you go",
+	"V: I'm looking through you, where did you go",
 	"I thought I knew you, what did I know",
 	"You don't look different, but you have changed",
 	"I'm looking through you, you're not the same",
-	"Baby, you've changed, ah, I'm looking through you",
+	"",
+	"O: Baby, you've changed, ah, I'm looking through you",
 	"You're not the same, I'm looking through you ..."
     ]
 }
@@ -26003,7 +26101,7 @@
     ]
 }
 },
-{ "file": "It's All In The Game.songlyrics", "lastModifiedDate": 1540344546089, "song": 
+{ "file": "It's All In The Game.songlyrics", "lastModifiedDate": 1550168567469, "song": 
 {
 "title": "It's All In The Game",
 "artist": "Tommy Edwards",
@@ -26021,7 +26119,7 @@
 	"C Am EmAm D",
 	"CAm FG CF C",
 	"",
-	"O: CF - -"
+	"O: CF - C"
     ],
 "lyrics": 
     [
@@ -26323,7 +26421,7 @@
     ]
 }
 },
-{ "file": "Java Jive.songlyrics", "lastModifiedDate": 1530036598502, "song": 
+{ "file": "Java Jive.songlyrics", "lastModifiedDate": 1550168619963, "song": 
 {
 "title": "Java Jive",
 "artist": "Manhattan Transfer",
@@ -26340,17 +26438,21 @@
 	"C Cdim G -",
 	"F G C -",
 	"C C7 F Fm",
-	"C G C ",
-	"V1: G",
-	"V2: C7",
+	"C G C G",
+	"v1:",
+	"C Cdim G -",
+	"F G C -",
+	"C C7 F Fm",
+	"C G C C7",
+	"",
 	"",
 	"C:",
 	"F7 - - -",
 	"F7 - C C",
 	"X X X X",
-	"Gdim G X X",
+	"G Gdim X X",
 	"",
-	"O: C7 - - -"
+	"O: C - - -"
     ],
 "lyrics": 
     [
@@ -26361,13 +26463,13 @@
 	"I love the java jive and it loves me",
 	"Coffee and tea and the java and me",
 	"A cup, a cup, a cup, a cup, a cup ",
-	"V1: boy!",
 	"",
-	"V: I love java, sweet and hot",
+	"",
+	"V1: I love java, sweet and hot",
 	"Whoops mr. moto, I'm a coffee pot",
 	"Shoot me the pot and I'll pour me a shot",
 	"A cup, a cup, a cup, a cup, a cup",
-	"V2: ooh!",
+	"",
 	"",
 	"C: Slip me a slug from that wonderful mug",
 	"And I'll cut a rug just snug in a jug",
@@ -26375,23 +26477,23 @@
 	"Draw one -",
 	"(vocal only) Waiter, waiter, percolator",
 	"",
-	"V: I love coffee, I love tea",
+	"V1: I love coffee, I love tea",
 	"I love the java jive and it loves me",
 	"Coffee and tea and the java and me",
 	"A cup, a cup, a cup, a cup, a cup",
-	"V1: yeah!",
+	" yeah!",
 	"",
-	"V: Boston bean (soy beans)",
+	"V1: Boston bean (soy beans)",
 	"Green bean (cabbage and greens)",
 	"I'm not keen about a bean",
 	"Unless it is a chili chili bean ",
-	"V1: boy!",
+	" boy!",
 	"",
-	"V: I love java sweet and hot",
+	"V1: I love java sweet and hot",
 	"Whoops mr. moto I'm a coffee pot (yeah)",
 	"Shoot me the pot and I'll pour me a shot",
 	"A cup, a cup, a cup, a cup, a cup",
-	"V2: (yeah)",
+	" (yeah)",
 	"",
 	"C: Slip me a slug of the wonderful mug",
 	"'an I'll cut a rug just as snug in a jug",
@@ -26403,7 +26505,6 @@
 	"I love the java jive and it loves me",
 	"Coffee and tea and the java and me",
 	"A cup, a cup, a cup, a cup, a cup",
-	"V2: oh",
 	"",
 	"O: bo-o-o-o-o-oy!"
     ]
@@ -29343,6 +29444,92 @@
 	"And shook the bones of me, shook the bones of me",
 	"By the way, I do know why you stayed away",
 	"I will keep tongue-tied next time"
+    ]
+}
+},
+{ "file": "Life on Mars (3).songlyrics", "lastModifiedDate": 1550198495727, "song": 
+{
+"title": "Life on Mars",
+"artist": "David Bowie",
+"copyright": "Life on Mars? lyrics © Sony/ATV Music Publishing LLC, Tintoretto Music, BMG Rights Management",
+"key": "G",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"v:",
+	"G G/F# Dm/F E7",
+	"Am Am/G# C/G D7/F#",
+	"",
+	"pc:",
+	"Bb/F Bbaug/F# Gm Bb7/Ab ",
+	"Eb Baug/C# Cm/C# Eb7/C#",
+	"",
+	"c:",
+	"C F Am Abaug",
+	"G Gm Dm7 Fm7",
+	"",
+	"c2:",
+	"Am Caug/Ab Am7/G D9/F#",
+	"",
+	"i:",
+	"G E7/G# Am C7/Bb",
+	"Bm C Cm G"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"It's a god-awful small affair",
+	"To the girl with the mousy hair",
+	"But her mummy is yelling, \"No!\"",
+	"And her daddy has told her to go",
+	"v:",
+	"But her friend is nowhere to be seen",
+	"Now she walks through her sunken dream",
+	"To the seat with the clearest view",
+	"And she's hooked to the silver screen",
+	"pc:",
+	"But the film is a saddening bore",
+	"For she's lived it ten times or more",
+	"She could spit in the eyes of fools",
+	"As they ask her to focus on",
+	"",
+	"c:",
+	"Sailors fighting in the dance hall",
+	"Oh man!",
+	"Look at those cavemen go",
+	"It's the freakiest show",
+	"c:",
+	"Take a look at the Lawman",
+	"Beating up the wrong guy",
+	"Oh man! Wonder if he'll ever know",
+	"He's in the best selling show",
+	"c2:",
+	"Is there life on Mars?",
+	"i:",
+	"v:",
+	"It's on America's tortured brow",
+	"That Mickey Mouse has grown up a cow",
+	"Now the workers have struck for fame",
+	"'Cause Lennon's on sale again",
+	"v:",
+	"See the mice in their million hordes",
+	"From Ibiza to the Norfolk Broads",
+	"Rule Britannia is out of bounds",
+	"To my mother, my dog, and clowns",
+	"pc:",
+	"But the film is a saddening bore",
+	"'Cause I wrote it ten times or more",
+	"It's about to be writ again",
+	"As I ask you to focus on",
+	"c:",
+	"Take a look at the Lawman",
+	"Beating up the wrong guy",
+	"Oh man! Wonder if he'll ever know",
+	"He's in the best selling show",
+	"c2:",
+	"Is there life on Mars?",
+	"i:"
     ]
 }
 },
@@ -36180,7 +36367,7 @@
     ]
 }
 },
-{ "file": "Only Love Can Break A Heart.songlyrics", "lastModifiedDate": 1536693158526, "song": 
+{ "file": "Only Love Can Break A Heart.songlyrics", "lastModifiedDate": 1550168631934, "song": 
 {
 "title": "Only Love Can Break A Heart",
 "artist": "Gene Pitney",
@@ -36196,15 +36383,15 @@
 	"Bm E Bm EE7",
 	"A C#m D EX",
 	"D E AG F#",
-	"D E D EE7",
+	"Bm E Bm EE7",
 	"AC#m A7X",
 	"",
 	"C: D Bm C#m A7",
-	"D B7 EB7 E7",
+	"D B7 EB7 -",
 	"E7X",
 	"",
 	"O: D E AG F#",
-	"D E D E",
+	"Bm E Bm E",
 	"E7 A C#m D ",
 	"E DE A -",
 	" "
@@ -41247,7 +41434,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 0, "song": 
+{ "file": "She Talks To Angels (1).songlyrics", "lastModifiedDate": 1550112939629, "song": 
 {
 "title": "She Talks To Angels",
 "artist": "Black Crowes, The",
@@ -41257,50 +41444,67 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"E",
-	"B A E - x2",
-	"A E x3",
-	"A A"
+	"i:",
+	"v:",
+	"E E E E",
+	"E E E E",
+	"ch:",
+	"B A E E",
+	"B A E E",
+	"",
+	"br:",
+	"A E A E",
+	"A E A A"
     ],
 "lyrics": 
     [
+	"v:",
 	"She never mentions the word addiction",
 	"In certain company",
 	"Yes, she'll tell you she's an orphan",
 	"After you meet her family",
+	"v:",
 	"She paints her eyes as black as night now",
 	"Pulls those shades down tight",
 	"Yeah, she gives a smile when the pain come",
 	"The pain gonna make everything alright",
+	"ch:",
 	"Says she talks to angels",
 	"They call her out by her name",
 	"Oh yeah, she talks to angels",
 	"Says they call her out by her name",
+	"v:",
 	"She keeps a lock of hair in her pocket",
 	"She wears a cross around her neck",
 	"Yes, the hair is from a little boy",
 	"And the cross is someone she has not met",
 	"Not yet",
+	"ch:",
 	"Says she talks to angels",
 	"Says they all know her name",
 	"Oh yeah, she talks to angels",
 	"Says they call her out by her name",
+	"br:",
 	"She don't know no lover",
 	"None that I ever seen",
 	"Yeah, to her that ain't nothin'",
 	"But to me, yeah me",
 	"Means everything",
+	"i:",
+	"v:",
 	"She paints her eyes as black as night now",
 	"She pulls those shades down tight",
 	"Oh yeah, there's a smile when the pain comes",
 	"The pain gonna make everything alright",
 	"Alright, yeah heah",
+	"ch:",
 	"She talks to angels",
 	"Says they call her out by her name",
 	"Oh, yeah, heah, angels",
 	"Call her out by her name",
 	"Oh, ooh, oh, oh, angels",
 	"They call her out by her name",
+	"ch:",
 	"Oh, oh, oh, she talks to angels",
 	"They call her out",
 	"Yeah, ee, eah, eah, eah, eah",
@@ -53676,6 +53880,59 @@
 	"My bride's gonna come",
 	"Oh, oh, are we gonna fly",
 	"Down in the easy chair !"
+    ]
+}
+},
+{ "file": "You Always Hurt The One You Love.songlyrics", "lastModifiedDate": 1550168644809, "song": 
+{
+"title": "You Always Hurt The One You Love",
+"artist": "Mills Brothers",
+"copyright": "Sony/ATV",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V: C Cmaj7 - Am7 ",
+	"C Em Dm G7",
+	"Dm F Dm7 Dm6",
+	"G Gaug C G7",
+	"C C7 Fmaj7 Dm",
+	"D7 - Dm7 G7",
+	"C Cmaj7 - A7",
+	"Dm7 G7 C G7",
+	"",
+	"O: C Cmaj7 - Am7 ",
+	"C Em Dm G7",
+	"Dm F Dm7 Dm6",
+	"G Gaug C G7",
+	"C C7 Fmaj7 Dm",
+	"D7 - Dm7 G7",
+	"C Cmaj7 - A7",
+	"Dm7 G7 C -",
+	"C "
+    ],
+"lyrics": 
+    [
+	"V: You always hurt the one you love",
+	"The one you shouldn't hurt at all",
+	"You always take the sweetest rose",
+	"And crush it till the petals fall",
+	"You always break the kindest heart",
+	"With a hasty word you can't recall, so",
+	"If I broke your heart last night",
+	"It's because I love you most of all",
+	"",
+	"V: (instrumental)",
+	"",
+	"O: You always hurt the one you love",
+	"The one you shouldn't hurt at all",
+	"You always take the sweetest rose",
+	"Crush it, till the petals fall",
+	"You always break the kindest heart",
+	"With a hasty word you can't recall, so",
+	"If I broke your heart last night",
+	"It's because I love you most of all"
     ]
 }
 },
