@@ -2639,60 +2639,6 @@
     ]
 }
 },
-{ "file": "Annie Bananaie (1).songlyrics", "lastModifiedDate": 1526256753626, "song": 
-{
-"title": "Annie Bananaie",
-"artist": "Doug Marshall",
-"copyright": "Marshall",
-"key": "C",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"v:",
-	"CCmaj7 C7 F Cdim",
-	"C Am F G",
-	"CCmaj7 C7 F Cdim",
-	"C FG C C7",
-	"",
-	"ch:",
-	"F CC7 F CC7",
-	"FCdim CA D G",
-	"",
-	"o:",
-	"CCmaj7 C7 F Cdim",
-	"C Am F G",
-	"CCmaj7 C7 F Cdim",
-	"C FG C A7",
-	"",
-	"FF G FF G",
-	"FF GGaug C6 C6"
-    ],
-"lyrics": 
-    [
-	"v:",
-	"I love you Annie, My Annie Bananie",
-	"You got a granny named Nanny who loves you too",
-	"My little Annie don'tcha think it's uncanny that it makes me feel",
-	"happy just thinking of you",
-	"",
-	"ch:",
-	"She's wonderful and beautiful and ever so sweet",
-	"and when she does the happy dance it's really a treat",
-	"she's just the kind of girl you'd be so happy to meet!",
-	"I love you so",
-	"",
-	"o:",
-	"My little Annie, my beautiful Annie",
-	"My annie Bananie, although we must soon part",
-	"I'll never forget you wherever i go Oh No!",
-	"She's sweet and she's nice",
-	"you wouldn't think twice",
-	"to love her from her heat to her toe,",
-	"my Annie Lebow"
-    ]
-}
-},
 { "file": "Annie Bananie (2).songlyrics", "lastModifiedDate": 1526259791076, "song": 
 {
 "title": "Annie Bananie",
@@ -5216,6 +5162,67 @@
 	"That I dug my key into the side of his pretty little souped up 4 wheel drive,carved my name into his leather seats.I took a louisville slugger to both headlights, slashed a hole in all 4 tires.Maybe next time he'll think ...",
 	"maybe next time he'll think ...",
 	" before he cheats"
+    ]
+}
+},
+{ "file": "Before you Accuse Me.songlyrics", "lastModifiedDate": 1553626048409, "song": 
+{
+"title": "Before you Accuse Me",
+"artist": "Eric Clapton",
+"copyright": " Sony/ATV Music Publishing LLC",
+"key": "E",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"E B7",
+	"",
+	"C:",
+	"E7 A7 E7 E7",
+	"A7 A7  E7 E7",
+	"B7 A7 E7 B7",
+	"",
+	"V: ",
+	"E7 A7 E7 E7",
+	"A7 A7  E7 E7",
+	"B7 A7 E7 B7",
+	"",
+	"a:",
+	"E7 A7 E7 E7",
+	"A7 A7  E7 E7",
+	"B7 A7 E7 B7"
+    ],
+"lyrics": 
+    [
+	"I: Intro I-V",
+	"C:",
+	"Before you accuse me, take a look at yourself",
+	"Before you accuse me, take a look at yourself",
+	"You say I've been spending my money on other women",
+	"You've been taking money from someone else",
+	"V:Verse 1",
+	"I called your mama, 'bout three or four nights ago",
+	"I called your mama, 'bout three or four nights ago",
+	"Well your mother said \"Son\"",
+	"\"Don't call my daughter no more\"",
+	"C:",
+	"Before you accuse me, take a look at yourself",
+	"Before you accuse me, take a look at yourself",
+	"You say I've been spending my money on other women",
+	"You've been taking money from someone else",
+	"a: Solo 12 Bars",
+	"V:Verse 2",
+	"Come back home baby, try my love one more time",
+	"Come back home baby, try my love one more time",
+	"You know when I don't know how to quit you, I think I'll lose my mind.",
+	"a: Solo 12 Bars",
+	"C:",
+	"Before you accuse me, take a look at yourself",
+	"Before you accuse me, take a look at yourself",
+	"You say I've been spending my money on other women",
+	"You've been taking money from someone else",
+	"a: Solo 12 Bars"
     ]
 }
 },
@@ -10666,6 +10673,105 @@
     ]
 }
 },
+{ "file": "City of New Orleans.songlyrics", "lastModifiedDate": 1553629876114, "song": 
+{
+"title": "City of New Orleans",
+"artist": "Arlo Guthrie",
+"copyright": "1972 Reprise",
+"key": "Fs",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"F# F# F# F#",
+	"",
+	"V1:",
+	"F# C# F# F#",
+	"D#m B F# F#",
+	"F# C# F# F#",
+	"D#m C# F# F#",
+	"",
+	"V2:",
+	"D#m D#m A#m A#m",
+	"C# C# G# G#",
+	"D#m D#m A#m A#m",
+	"C# C# F# F#",
+	"",
+	"C:",
+	"B C# F# F#",
+	"D#m B F# C#",
+	"F# C# D#m G#",
+	"EB C# F# F#",
+	"F# F#",
+	"",
+	"T:",
+	"EB C# F# F#"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(Instrumental)",
+	"",
+	"V1:",
+	"Riding on the City of New Orleans",
+	"Illinois Central, Monday morning rail",
+	"Fifteen cars and fifteen restless riders",
+	"Three conductors, Twenty-five sacks of mail",
+	"",
+	"V2:",
+	"All along the southbound odyssey, the train pulls out of Kankakee",
+	"And rolls along past houses farms and fields",
+	"Passing trains that have no name, and freight yards full of old black men",
+	"And the graveyards of the rusted automobiles",
+	"",
+	"C:",
+	"Good morning America, how are you",
+	"Said don’t you know me, I’m your native son",
+	"I’m the train they call the City of New Orleans",
+	"I’ll be gone 500 miles when the day is done",
+	"",
+	"V1:",
+	"Dealing card games, with the old men in the club car",
+	"Penny a point ain’t no one keeping score",
+	"Pass the paper bag that holds the bottle",
+	"Feel the wheels, rumblin’ ‘neath the floor",
+	"",
+	"V2:",
+	"And the sons of Pullman porters, and the sons of engineers",
+	"Ride their fathers’ magic carpets, made of steel",
+	"And mothers with their babes asleep, are rockin’ to the gentle beat",
+	"And the rhythm of the rails is all they feel",
+	"",
+	"C:",
+	"Good morning America, how are you",
+	"Said don’t you know me, I’m your native son",
+	"I’m the train they call the City of New Orleans",
+	"I’ll be gone 500 miles when the day is done",
+	"",
+	"V1:",
+	"Nighttime on the City of New Orleans",
+	"Changing cars in Memphis, Tennessee",
+	"Halfway home, we’ll be there by morning",
+	"Through the Mississippi darkness, rolling down to the sea",
+	"",
+	"V2:",
+	"But all the towns and people seem, to fade into a bad dream",
+	"And the steel rail still ain’t heard the news",
+	"The conductor sings his songs again, the passengers will please refrain",
+	"This train got the disappearing railroad blues",
+	"",
+	"C:",
+	"Good night America, how are you",
+	"Said don’t you know me, I’m your native son",
+	"I’m the train they call the City of New Orleans",
+	"I’ll be gone 500 miles when the day is done",
+	"",
+	"T:",
+	"(Instrumental)"
+    ]
+}
+},
 { "file": "Closing Time (1).songlyrics", "lastModifiedDate": 1548220493179, "song": 
 {
 "title": "Closing Time",
@@ -12858,6 +12964,84 @@
 	"God it looks like Daniel, must be the clouds in my eyes",
 	"",
 	"O: Oh God it looks like Daniel, must be the clouds in my eyes"
+    ]
+}
+},
+{ "file": "Day After Day.songlyrics", "lastModifiedDate": 1553629462009, "song": 
+{
+"title": "Day After Day",
+"artist": "Badfinger",
+"copyright": "1971 Apple",
+"key": "Bb",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I1:",
+	"F B♭sus4B♭ F F",
+	"",
+	"V1:",
+	"F B♭sus4B♭ F F",
+	"F B♭sus4B♭ F F",
+	"C G B♭.AmGm F",
+	"C G B♭.AmGm F",
+	"Gm11 F Gm11",
+	"",
+	"V2:",
+	"F B♭sus4B♭ F F",
+	"F B♭sus4B♭ F F",
+	"C G B♭.AmGm F",
+	"C G B♭.AmGm F",
+	"Gm11 F B♭",
+	"",
+	"I2:",
+	"F B♭sus4B♭ F F",
+	"F B♭sus4B♭ F F",
+	"C G B♭.AmGm F",
+	"C G B♭.AmGm F",
+	"Gm11 ",
+	"",
+	"V3:",
+	"F B♭sus4B♭ F F",
+	"F B♭sus4B♭ F F",
+	"C G B♭.AmGm F",
+	"C G B♭.AmGm F",
+	"Gm11 ",
+	"",
+	"O: ",
+	"F B♭.AmGm F"
+    ],
+"lyrics": 
+    [
+	"I1: ",
+	"(Instrumental)",
+	"",
+	"V1:",
+	"I remember finding out about you",
+	"Everyday my mind is all around you",
+	"Looking out from my lonely room, day after day",
+	"Bring it home, baby, make it soon",
+	"I give my love to you",
+	"",
+	"V2:",
+	"I remember holding you while you sleep",
+	"Everyday I feel the tears that you weep",
+	"Looking out of my lonely gloom, day after day",
+	"Bring it home, baby, make it soon",
+	"I give my love to you",
+	"",
+	"I2: ",
+	"(Instrumental)",
+	"",
+	"V3:",
+	"I remember finding out about you",
+	"Everyday my mind is all around you",
+	"Looking out of my lonely gloom, day after day",
+	"Bring it home, baby, make it soon",
+	"I give my love to you",
+	"",
+	"O:",
+	"(Instrumental)"
     ]
 }
 },
@@ -26963,11 +27147,11 @@
     ]
 }
 },
-{ "file": "I Think We're Alone Now.songlyrics", "lastModifiedDate": 1551661461488, "song": 
+{ "file": "I Think We're Alone Now (3).songlyrics", "lastModifiedDate": 1553480847641, "song": 
 {
 "title": "I Think We're Alone Now",
 "artist": "Tiffany",
-"copyright": "?",
+"copyright": "Songwriters: Ritchie Cordell I Think We're Alone Now lyrics © Sony/ATV Music Publishing LLC",
 "key": "C",
 "defaultBpm": 106,
 "timeSignature": "4/4",
@@ -26977,7 +27161,7 @@
 	"D F#m Bm AAGA",
 	"D F#m Bm AAGA",
 	"",
-	"C:",
+	"PC:",
 	"F#m D F#m D",
 	"C C A A",
 	"",
@@ -26992,7 +27176,7 @@
 	"That's what they say when we're together.",
 	"And watch how you play.",
 	"They don't understand, and so we're",
-	"C:",
+	"PC:",
 	"Runnin just as fast as we can,",
 	"Holdin on to one anothers' hands",
 	"Tryin' to get away,into the night",
@@ -27009,7 +27193,7 @@
 	"They got their eyes on what we're doin",
 	"And what would they say",
 	"If they ever knew and so we're",
-	"C:",
+	"PC:",
 	"Runnin just as fast as we can,",
 	"Holdin on to one anothers' hands",
 	"Tryin' to get away,into the night",
@@ -27021,12 +27205,14 @@
 	"There doesn't seem to be anyone around",
 	"I think we're alone now",
 	"The beating of our hearts is the only sound.",
+	"",
 	"C2:",
 	"I think we're alone now",
 	"There doesn't seem to be anyone around",
 	"I think we're alone now",
 	"The beating of our hearts is the only sound.",
-	"C:",
+	"v: (inst).",
+	"PC:",
 	"Runnin just as fast as we can,",
 	"Holdin on to one anothers' hands",
 	"Tryin' to get away,into the night",
@@ -32658,6 +32844,104 @@
 	"br: (instrumental)",
 	"",
 	"O:  And that you'll always, Let it be me."
+    ]
+}
+},
+{ "file": "Let It Rain.songlyrics", "lastModifiedDate": 1553629459318, "song": 
+{
+"title": "Let It Rain",
+"artist": "Eric Clapton",
+"copyright": "1970",
+"key": "E",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I1:",
+	"A G G A",
+	"A G G A",
+	"",
+	"V:",
+	"D Am CG D",
+	"D Am CG D",
+	"",
+	"C1:",
+	"DAm DAm CG D",
+	"DAm DAm CG D",
+	"",
+	"C2:",
+	"DAm DAm CG D",
+	"DAm DAm CG",
+	"",
+	"",
+	"B:",
+	"F#m F#m/F F#m/E F#m/D# ",
+	"Em7 A Em7 A",
+	"Em7 A",
+	"",
+	"O:",
+	"A G G A (x8)   "
+    ],
+"lyrics": 
+    [
+	"I1: NOTE: Bass walkdown in bridge ",
+	"(Instrumental riff)",
+	"",
+	"V:",
+	"The rain is falling through the mists",
+	"Of sorrow that surrounded me",
+	"The sun could never thaw away",
+	"The bliss that lays around me",
+	"",
+	"C1:",
+	"Let it rain, let it rain",
+	"Let your love rain down on me",
+	"Let it rain, let it rain",
+	"let it rain, rain, rain",
+	"",
+	"V:",
+	"My life was like a desert flower",
+	"Burning in the sun",
+	"Until I found the way to love",
+	"It's harder said than done",
+	"",
+	"C2:",
+	"Let it rain, let it rain",
+	"Let your love rain down on me",
+	"Let it rain, let it rain",
+	"Let it rain, rain, rain",
+	"",
+	"I1: (Instrumental riff)",
+	"",
+	"B: (Instrumental)",
+	"",
+	"V:",
+	"Now I know the secret",
+	"There is nothing that I lack",
+	"If I give my love to you",
+	"Be sure to give it back",
+	"",
+	"C1:",
+	"Let it rain, let it rain",
+	"Let your love rain down on me",
+	"Let it rain, let it rain",
+	"Let it rain, rain, rain",
+	"",
+	"C2:",
+	"Let it rain, let it rain",
+	"Let your love rain down on me",
+	"Let it rain, let it rain",
+	"Let it rain, rain, rain",
+	"",
+	"I1: (Instrumental riff)",
+	"",
+	"O:",
+	"(Instrumental riff)",
+	"Rain, rain",
+	"Rain, rain",
+	"Rain, rain",
+	"Rain, rain",
+	"(Instrumental fade)"
     ]
 }
 },
@@ -39356,7 +39640,7 @@
     ]
 }
 },
-{ "file": "No Woman, No Cry.songlyrics", "lastModifiedDate": 1552099165277, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "No Woman, No Cry",
 "artist": "Bob Marley",
@@ -39367,20 +39651,20 @@
 "chords": 
     [
 	"",
-	"I: x4",
+	"I:",
 	"C G Am F ",
 	"C F C G ",
-	"",
-	"V: x8",
+	" x4",
+	"V: ",
 	"C G Am F",
-	"",
-	"C: x2",
+	"x8",
+	"C:",
 	"C G Am F ",
 	"C F C G",
-	"",
-	"Br: x4 ",
+	" x2",
+	"Br: ",
 	"C G Am F ",
-	"",
+	"x4 ",
 	"O:",
 	"C G Am F",
 	"C F C G ",
@@ -39410,6 +39694,8 @@
 	"No, woman, no cry",
 	"So, little darlin', don't shed no tears",
 	"No, woman, no cry",
+	"",
+	"v: (instrumentals)",
 	"",
 	"V:",
 	"Said I remember when we used to sit",
@@ -49787,9 +50073,9 @@
     ]
 }
 },
-{ "file": "Songs for my Father.songlyrics", "lastModifiedDate": 1550608121091, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
-"title": "Songs for my Father",
+"title": "Song for my Father",
 "artist": "Horace Silver",
 "copyright": "tbd",
 "key": "C",
@@ -54353,7 +54639,7 @@
     ]
 }
 },
-{ "file": "Tessellate (1).songlyrics", "lastModifiedDate": 1553306174015, "song": 
+{ "file": "Tessellate (2).songlyrics", "lastModifiedDate": 1553477964663, "song": 
 {
 "title": "Tessellate",
 "artist": "alt-J",
@@ -54396,6 +54682,12 @@
     ],
 "lyrics": 
     [
+	"BR:",
+	"Go alone my flower",
+	"And keep my whole lovely you",
+	"Wild green stones alone my lover",
+	"And keep us on my heart",
+	"",
 	"I1:",
 	"(Instrumental)",
 	"",
@@ -56336,7 +56628,7 @@
     ]
 }
 },
-{ "file": "Unchain My Heart.songlyrics", "lastModifiedDate": 1552099149094, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Unchain My Heart",
 "artist": "Joe Cocker",
@@ -56347,7 +56639,7 @@
 "chords": 
     [
 	"",
-	"I: Am Am F/E7 Am ",
+	"I: Am Am E7 Am ",
 	"V: Am Am Am Am ",
 	"   Am Dm Dm Am ",
 	"   Dm Am Dm Am ",
@@ -62845,29 +63137,6 @@
 "lyrics": 
     [
 	"none"
-    ]
-}
-},
-{ "file": "title (1).songlyrics", "lastModifiedDate": 1545284150879, "song": 
-{
-"title": "title",
-"artist": "artisg",
-"copyright": "copy",
-"key": "C",
-"defaultBpm": 106,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"",
-	"I: ",
-	"v: ",
-	"C C G D"
-    ],
-"lyrics": 
-    [
-	"i: ",
-	"",
-	"v: words words"
     ]
 }
 }]
