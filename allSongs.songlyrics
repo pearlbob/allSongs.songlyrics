@@ -31764,7 +31764,7 @@
     ]
 }
 },
-{ "file": "Knockin' on Heaven's Door.songlyrics", "lastModifiedDate": 1543699672322, "song": 
+{ "file": "Knockin' on Heaven's Door.songlyrics", "lastModifiedDate": 1553640565866, "song": 
 {
 "title": "Knockin' on Heaven's Door",
 "artist": "Bob Dylan",
@@ -31774,8 +31774,9 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"G D Am -",
-	"G D C  -"
+	"v:",
+	"G D Am - |",
+	"G D C  - | x4"
     ],
 "lyrics": 
     [
