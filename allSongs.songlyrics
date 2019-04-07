@@ -64048,26 +64048,4 @@
 	"oter"
     ]
 }
-},
-{ "file": "testhtml (1).songlyrics", "lastModifiedDate": 1518561683916, "song": 
-{
-"title": "testhtml",
-"artist": "wolff",
-"copyright": "wolff",
-"key": "C",
-"defaultBpm": 100,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"v:",
-	"𝄆GA D GA D𝄇x4",
-	"⠸G⠐A D ⠸G⠐A D",
-	"☇G A ☇G A",
-	"G A 𝄐G A"
-    ],
-"lyrics": 
-    [
-	"none"
-    ]
-}
 }]
