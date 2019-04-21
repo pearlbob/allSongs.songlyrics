@@ -13192,6 +13192,83 @@
     ]
 }
 },
+{ "file": "Dancefloors (10).songlyrics", "lastModifiedDate": 1555808315723, "song": 
+{
+"title": "Dancefloors",
+"artist": "My Morning Jacket",
+"copyright": "Songwriters: Jim James Dancefloors lyrics © BMG Rights Management US, LLC",
+"key": "C",
+"defaultBpm": 101,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"v:",
+	"G Bm C..G G",
+	"C G Am..D ",
+	"i:",
+	"D D",
+	"i2:",
+	"D D D D",
+	"ch:",
+	"Am.X. D.X. G E",
+	"Am D G G",
+	"",
+	"Ch1:",
+	"Am D G E",
+	"Am D G G",
+	"",
+	"i3:",
+	"G GXXX",
+	"",
+	"ch2:",
+	"Am D G E",
+	"Am Am D D",
+	"",
+	"i4:",
+	"G G G G",
+	"G G G G"
+    ],
+"lyrics": 
+    [
+	"v: (instrumental intro)",
+	"i:",
+	"v:",
+	"Daybreak, nightfall, long as I believe",
+	"There ain't nothing glowin' like this skin you're showin'",
+	"And the keys you gave to me",
+	"i:",
+	"v:",
+	"Night jails, pool halls, some things are everywhere",
+	"So for the past I'm diggin' a grave so big",
+	"It will swallow up the sea",
+	"i2:",
+	"ch:",
+	"Oh, I know that it's easy",
+	"There's no trouble waitin' for me",
+	"ch1:",
+	"Oh, I know that it's easy",
+	"There's no trouble waitin' for me",
+	"i3: (drum only 4th measure)",
+	"v:",
+	"Dance floors, headlights, in my blood there's gasoline",
+	"For an urban boy on a dirty tour",
+	"I never felt so clean",
+	"i:",
+	"v:",
+	"Loaded questions in an automatic world",
+	"Well, you just won't be seein' the things you need",
+	"As if you thought you would",
+	"i2:",
+	"ch:",
+	"Oh, I know, it's never easy",
+	"When there's trouble waitin' for me",
+	"ch2:",
+	"Oh, I know, it's never easy",
+	"When there's trouble waitin' for me",
+	"i4: (repeat)"
+    ]
+}
+},
 { "file": "Daniel (1).songlyrics", "lastModifiedDate": 1554836810924, "song": 
 {
 "title": "Daniel",
@@ -18953,6 +19030,54 @@
 	"And I'm so hot 'cause I'm in Hell",
 	"I'm not sick but I'm not well",
 	"And it's a sin to live this well"
+    ]
+}
+},
+{ "file": "Flash Of Fire.songlyrics", "lastModifiedDate": 1555808323014, "song": 
+{
+"title": "Flash Of Fire",
+"artist": "Hoyt Axton",
+"copyright": "Hoyt Axton & Catherine Smith, UMG Recordings, Inc. 1976",
+"key": "C",
+"defaultBpm": 120,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"",
+	"V: ",
+	"G G G D",
+	"D D D G",
+	"G G7 C C ",
+	"G E DD7 G",
+	"G E DD7 G"
+    ],
+"lyrics": 
+    [
+	"V: I thought you were a friend of mine; I thought you were my buddy",
+	"But I found out a short while ago your thoughts were dark and muddy",
+	"You scare me half to death, my friend, with the things you say and do",
+	"So I'm goin' to heaven in a flash of fire, with or without you",
+	"Hey, goin' to heaven in a flash of fire, with or without you",
+	"",
+	"V: Easy come and easy go; some call it Easy Money",
+	"And sometimes life is full of laughs, and sometimes it ain't funny",
+	"You may think that I'm a fool and sometimes that is true",
+	"But I'm goin' to heaven in a flash of fire, with or without you",
+	"Hey, goin' to heaven in a flash of fire, with or without you",
+	"",
+	"V: Instrumental",
+	"",
+	"V: Some can dance and some can sing and some can play the fiddle",
+	"I've been right and I've been left and I've been down the middle.",
+	"You don't have to see my side or share my point of view",
+	"`Cause I'm goin' to heaven in a flash of fire, with or without you",
+	"Hey, goin' to heaven in a flash of fire, with or without you",
+	"",
+	"V: I thought you were a friend of mine; I thought you were my buddy",
+	"But I found out a short while ago your thoughts were dark and muddy",
+	"You scare me half to death, my friend, with the things you say and do",
+	"So I'm goin' to heaven in a flash of fire, with or without you",
+	"Hey, goin' to heaven in a flash of fire, with or without you."
     ]
 }
 },
