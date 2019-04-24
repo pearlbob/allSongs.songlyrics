@@ -6434,7 +6434,7 @@
     ]
 }
 },
-{ "file": "Blue Bossa.songlyrics", "lastModifiedDate": 1554231447680, "song": 
+{ "file": "Blue Bossa (1).songlyrics", "lastModifiedDate": 1556050394023, "song": 
 {
 "title": "Blue Bossa",
 "artist": "Kenny Dorham",
@@ -6448,7 +6448,7 @@
 	"Cm7     Cm7     Fm7      Fm7",
 	"Dm7b5   G7      Cm7      Cm7",
 	"Ebm7    Ab7     Dbmaj    Dbmaj",
-	"Dm7b5   G7      Cm7      Dm7b5 G7"
+	"Dm7b5   G7      Cm7      Dm7b5G7"
     ],
 "lyrics": 
     [
@@ -13721,7 +13721,7 @@
     ]
 }
 },
-{ "file": "December.songlyrics", "lastModifiedDate": 1547422301147, "song": 
+{ "file": "December.songlyrics", "lastModifiedDate": 1555896216330, "song": 
 {
 "title": "December",
 "artist": "Collective Soul",
@@ -13774,6 +13774,14 @@
 	"Lost as you swear I am",
 	"Don’t throw away your basic needs",
 	"Ambiance and vanity",
+	"",
+	"C:",
+	"Don’t scream about, don’t think aloud",
+	"Turn your head now, baby, just spit me out",
+	"Don’t worry about, don’t speak of doubt",
+	"Turn your head now, baby, just spit me out",
+	"(ooh ooh ooh ooh)",
+	"(ooh ooh ooh ooh)",
 	"",
 	"C:",
 	"Don’t scream about, don’t think aloud",
@@ -16454,6 +16462,104 @@
 	"And did you fall for a shooting star, fall for a shooting star?",
 	"Na na na na na na na na na na na na na na",
 	"And now you're lonely looking for yourself out there."
+    ]
+}
+},
+{ "file": "Dublin Blues.songlyrics", "lastModifiedDate": 1556045484635, "song": 
+{
+"title": "Dublin Blues",
+"artist": "Guy Clark",
+"copyright": "℗© 2017 Compass Records",
+"key": "E",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"",
+	"I: ",
+	"E A A E",
+	"E E B E",
+	"E A E E",
+	"E E",
+	"",
+	"V: ",
+	"E A A E |",
+	"E E B E |",
+	"E A E E | x2",
+	"",
+	"C: ",
+	"B B E E | x3",
+	"B B A E",
+	"E E E E",
+	"",
+	"",
+	"Br: ",
+	"E A A E |",
+	"E E B E |",
+	"E A E E | x2",
+	"E E",
+	"",
+	"",
+	"O: ",
+	"E A A E",
+	"E E B E",
+	"E A E E"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(Instrumental)",
+	"",
+	"V: (Verse 1)",
+	"Well, I wished I was in Austin, mm hm",
+	"In the Chili Parlor Bar drinkin' mad dog margaritas",
+	"And not carin' where you are",
+	"Here I sit in Dublin, mm hm",
+	"Just rollin' cigarettes, holdin' back and chokin' back",
+	"The shakes with every breath",
+	"",
+	"C:",
+	"So forgive me all my anger, forgive me all my faults",
+	"There's no need to forgive me for thinkin' what I thought",
+	"I loved you from the get go and I'll love you 'til I die",
+	"I loved you on the Spanish Steps the day you said goodbye",
+	"",
+	"V: (Verse 2)",
+	"I am just a poor boy, mm hm",
+	"Work's my middle name, if money was the reason",
+	"Well, I would not be the same",
+	"I'll stand up and be counted, mm hm",
+	"I'll face up to the truth, I'll walk away from trouble",
+	"But I can't walk away from you",
+	"",
+	"C:",
+	"So forgive me all my anger, forgive me all my faults",
+	"There's no need to forgive me for thinkin' what I thought",
+	"I loved you from the get go and I'll love you 'til I die",
+	"I loved you on the Spanish Steps the day you said goodbye",
+	"",
+	"Br:",
+	"(Instrumental)",
+	"",
+	"",
+	"V: (Verse 3)",
+	"I have been to Fort Worth, mm hm",
+	"And I have been to Spain, and I have been too proud",
+	"To come in out of the rain",
+	"And I have seen the David, mm hm",
+	"I've seen the Mona Lisa, too, and I have heard Doc Watson",
+	"Play Columbus Stockade Blues",
+	"",
+	"C:",
+	"So forgive me all my anger, forgive me all my faults",
+	"There's no need to forgive me for thinkin' what I thought",
+	"I loved you from the get go and I'll love you 'til I die",
+	"I loved you on the Spanish Steps the day you said goodbye",
+	"",
+	"O:",
+	"Well, I wished I was in Austin, mm hm",
+	"In the Chili Parlor Bar drinkin' mad dog margaritas",
+	"And not carin' where you are"
     ]
 }
 },
@@ -24124,6 +24230,60 @@
 	"All of us are glad you're gone",
 	"i:",
 	"o:"
+    ]
+}
+},
+{ "file": "Helpless.songlyrics", "lastModifiedDate": 1556045502236, "song": 
+{
+"title": "Helpless",
+"artist": "Neil Young",
+"copyright": " © GEMA, Broken Arrow Music, Broken Arrow Music Corp., Bug Music O/B/o Granary Music",
+"key": "G",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"i: ",
+	"DA G",
+	"",
+	"v:",
+	"DA G",
+	"",
+	"ch:",
+	"DA G"
+    ],
+"lyrics": 
+    [
+	"i:",
+	"",
+	"v:",
+	"There is a town in north Ontario,",
+	"With dream comfort memory to spare.",
+	"And in my mind I still need a place to go.",
+	"All my changes were there.",
+	"",
+	"v:",
+	"Blue, blue windows behind the stars.",
+	"Yellow moon on the rise.",
+	"Big birds flying across the sky.",
+	"Throwing shadows on our eyes.",
+	"",
+	"ch:",
+	"Leave us",
+	"Helpless, helpless, helpless.",
+	"Baby can you hear me now?",
+	"The chains are locked and tied across the door.",
+	"Baby, sing with me somehow.",
+	"",
+	"v:",
+	"Blue, blue windows behind the stars,",
+	"Yellow moon on the rise,",
+	"Big birds flying across the sky,",
+	"Throwing shadows on our eyes.",
+	"",
+	"ch:",
+	"Leave us",
+	"Helpless, helpless, helpless."
     ]
 }
 },
@@ -45072,7 +45232,7 @@
     ]
 }
 },
-{ "file": "Rake.songlyrics", "lastModifiedDate": 1542858371833, "song": 
+{ "file": "Rake (1).songlyrics", "lastModifiedDate": 1555899406794, "song": 
 {
 "title": "Rake",
 "artist": "Towns Vansant",
@@ -45104,16 +45264,18 @@
 	"But every cruel day had it's nightfall",
 	"I'd welcome the stars with wine and guitars",
 	"Full of fire and forgetful",
+	"v: (inst)",
 	"v:",
 	"My body was sharp the dark air clean",
 	"And outrage my joyful companion",
 	"Whisperin' women how sweet did they seem",
-	"ch:",
 	"Kneelin' for me to command them",
+	"ch:",
 	"And time was like water but I was the sea",
 	"I'd have never noticed it passin'",
 	"Except for the turnin' of night into day",
 	"And the turnin' of day into cursin'",
+	"v: (inst)",
 	"v:",
 	"You look at me now, and don't think I don't know",
 	"What all your eyes are a sayin'",
@@ -45124,6 +45286,7 @@
 	"He trembles he's bent and he's broken",
 	"I've fallen it's true but I say unto you",
 	"Hold your tongues until after I've spoken",
+	"v: (inst)",
 	"v:",
 	"I was takin' my pride in the pleasures I'd known",
 	"I laughed and thought I'd be forgiven",
