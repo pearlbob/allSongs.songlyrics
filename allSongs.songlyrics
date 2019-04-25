@@ -19139,7 +19139,7 @@
     ]
 }
 },
-{ "file": "Flash Of Fire.songlyrics", "lastModifiedDate": 1555808323014, "song": 
+{ "file": "Flash Of Fire (1).songlyrics", "lastModifiedDate": 1556074773804, "song": 
 {
 "title": "Flash Of Fire",
 "artist": "Hoyt Axton",
@@ -19151,8 +19151,8 @@
     [
 	"",
 	"V: ",
-	"G G G D",
-	"D D D G",
+	"G G G D D",
+	"D D D G G",
 	"G G7 C C ",
 	"G E DD7 G",
 	"G E DD7 G"
@@ -24233,7 +24233,7 @@
     ]
 }
 },
-{ "file": "Helpless.songlyrics", "lastModifiedDate": 1556045502236, "song": 
+{ "file": "Helpless (1).songlyrics", "lastModifiedDate": 1556079349361, "song": 
 {
 "title": "Helpless",
 "artist": "Neil Young",
@@ -24244,13 +24244,13 @@
 "chords": 
     [
 	"i: ",
-	"DA G",
+	"DA G DA G",
 	"",
 	"v:",
-	"DA G",
+	"DA G DA G",
 	"",
 	"ch:",
-	"DA G"
+	"DA G DA G"
     ],
 "lyrics": 
     [
@@ -28887,6 +28887,29 @@
 	"If you leave",
 	"Don't look back",
 	"Don't look back"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "If you never come to me",
+"artist": "Antonio carlos jobin",
+"copyright": "later",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"v:Cmaj7 Bmaj7 Bbmaj7 A7",
+	"Dm11 Dm11 Fm7 Fm7",
+	"",
+	"Em13 Am7 D13 G13",
+	"C13 F7 Cmaj7 Db9"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"blah"
     ]
 }
 },
@@ -33803,7 +33826,7 @@
     ]
 }
 },
-{ "file": "Learning to Fly (2).songlyrics", "lastModifiedDate": 1521603720038, "song": 
+{ "file": "Learning to Fly (3).songlyrics", "lastModifiedDate": 1556080785924, "song": 
 {
 "title": "Learning to Fly",
 "artist": "Tom Petty",
@@ -33815,7 +33838,13 @@
     [
 	"v:",
 	"F FC C C",
-	"Am AmG G G"
+	"Am AmG G G x4",
+	"ch:",
+	"F FC C C",
+	"Am AmG G G x4",
+	"",
+	"b:",
+	"G G G G"
     ],
 "lyrics": 
     [
@@ -33827,6 +33856,8 @@
 	"ch:",
 	"I'm learning to fly, but I ain't got wings",
 	"Coming down is the hardest thing",
+	"b:",
+	"v: (instrumental)",
 	"v:",
 	"Well the good ol' days may not return",
 	"And the rocks might melt and the sea may burn",
@@ -33838,8 +33869,12 @@
 	"ch:",
 	"I'm learning to fly, around the clouds",
 	"But what goes up must come down",
-	"",
-	"[Chorus]"
+	"ch:",
+	"I'm learning to fly, but I ain't got wings",
+	"Coming down is the hardest thing",
+	"ch:",
+	"I'm learning to fly, but I ain't got wings",
+	"Coming down is the hardest thing"
     ]
 }
 },
@@ -44917,7 +44952,7 @@
     ]
 }
 },
-{ "file": "Prowlin' (6).songlyrics", "lastModifiedDate": 1527973187116, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Prowlin'",
 "artist": "Jennifer Anne",
@@ -44963,6 +44998,8 @@
 	"pc:",
 	"you can run, but I'll give chase",
 	"now that you've seen my face, tonight",
+	"ch:",
+	"Who-oooh, whoo-oo-oo-oo--ooah",
 	"ch:",
 	"Who-oooh, whoo-oo-oo-oo--ooah",
 	"v: (instrumental solo)",
