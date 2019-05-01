@@ -19242,21 +19242,25 @@
     ]
 }
 },
-{ "file": "Fire on the Mountain (11).songlyrics", "lastModifiedDate": 1554592423457, "song": 
+{ "file": "Fire on the Mountain (15).songlyrics", "lastModifiedDate": 1556652230595, "song": 
 {
 "title": "Fire on the Mountain",
 "artist": "Marshall Tucker Band",
 "copyright": "Fire on the Mountain lyrics@Spirit Music Group",
 "key": "C",
 "defaultBpm": 100,
-"timeSignature": "4/4",
+"timeSignature": "2/4",
 "chords": 
     [
-	"I:Em Em C C x2",
+	"I:Em C Em C x2",
 	"",
-	"V:Em C Em C x2",
+	"V:Em Em C C ",
+	"Em Em C C ",
+	"Em Em C C ",
+	"Em Em C C ",
 	"",
-	"C:G D Am C.",
+	"C:G G D D ",
+	"Am Am C",
 	"",
 	"I1:Em Em C C ",
 	"",
@@ -19302,7 +19306,8 @@
 	"",
 	"C:And there's fire on the mountain, lightnin' in the air",
 	"gold in them hills and it's waitin' for me there",
-	"o:"
+	"o:",
+	"waitin' for me there"
     ]
 }
 },
@@ -41018,7 +41023,7 @@
     ]
 }
 },
-{ "file": "Never Been to Spain .songlyrics", "lastModifiedDate": 1543698003503, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Never Been to Spain ",
 "artist": "Three Dog Night/Hoyt Axton",
@@ -41028,10 +41033,10 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"i:A A E E ",
+	"i:v:",
 	"A A E E ",
-	".B7.. A B7  A",
-	"E -"
+	"A A E E ",
+	"B7 A E E"
     ],
 "lyrics": 
     [
