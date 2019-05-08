@@ -11259,7 +11259,7 @@
     ]
 }
 },
-{ "file": "Clocks.songlyrics", "lastModifiedDate": 1556496954413, "song": 
+{ "file": "Clocks (1).songlyrics", "lastModifiedDate": 1557258310258, "song": 
 {
 "title": "Clocks",
 "artist": "Colplay",
@@ -11361,6 +11361,143 @@
 	"",
 	"T:",
 	"(Instrumental)"
+    ]
+}
+},
+{ "file": "Closer to Fine.songlyrics", "lastModifiedDate": 1557258262725, "song": 
+{
+"title": "Closer to Fine",
+"artist": "Indigo Girls",
+"copyright": "1989 Epic Records",
+"key": "D",
+"defaultBpm": 196,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I1:",
+	"A A/B D E",
+	"A A/B D E",
+	"",
+	"V1:",
+	"A A/B D E",
+	"A A/B D E",
+	"E/B E/B D/A D/A",
+	"E/B E/B D/A D/A",
+	"A B D E",
+	"",
+	"V2:",
+	"A A/B D E",
+	"A A/B D E",
+	"E/B E/B D/A D/A",
+	"E/B E/B D/A D/A",
+	"A AX",
+	"",
+	"C1:",
+	"E E D A",
+	"E E D A",
+	"E/B E/B D/A D/A",
+	"A A",
+	"E/B E/B D/A D/A",
+	"",
+	"PC:",
+	"A A/B D E",
+	"A A/B D E",
+	"",
+	"V3:",
+	"A A/B D E",
+	"A A/B D E",
+	"E/B E/B D/A D/A",
+	"E/B E/B D/A D/A",
+	"A E D E",
+	"A AX",
+	"",
+	"BR:",
+	"E E D D",
+	"E E D D",
+	"",
+	"C2:",
+	"E/B E/B D/A D/A",
+	"E/B E/B D/A D/A",
+	"E/B E/B D/A D/A",
+	"E/B E/B D/A D/A",
+	"",
+	"O:",
+	"A A/B D E",
+	"A A/B D E"
+    ],
+"lyrics": 
+    [
+	"I1:",
+	"(Instrumental)",
+	"",
+	"V1:",
+	"I’m trying to tell you something about my life",
+	"Maybe give me insight between black and white",
+	"And the best thing you’ve ever done for me",
+	"Is to help me take my life less seriously",
+	"It’s only life after all",
+	"",
+	"V2:",
+	"Well, darkness has a hunger that’s insatiable",
+	"And lightness has a call that’s hard to hear",
+	"And I wrap my fear around me like a blanket",
+	"I sailed my ship of safety ‘til I sank it",
+	"I’m crawling on your shores",
+	"",
+	"C1:",
+	"And I went to the doctor, I went to the mountains",
+	"I looked to the children, I drank from the fountains",
+	"There’s more than one answer to these questions pointing me in a crooked line",
+	"And the less I seek my source for some definitive",
+	"",
+	"PC:",
+	"Closer I am to fine",
+	"Closer I am to fine",
+	"",
+	"V3:",
+	"And I went to see the doctor of philosophy",
+	"With a poster of Rasputin and a beard down to his knee",
+	"He never did marry or see a B-grade movie",
+	"He graded my performance, he said he could see through me",
+	"I spent four years prostrate to the higher mind",
+	"Got my paper and I was free",
+	"",
+	"C1:",
+	"I went to the doctor, I went to the mountains",
+	"I looked to the children, I drank from the fountains",
+	"There’s more than one answer to these questions pointing me in crooked line",
+	"And the less I seek my source for some definitive",
+	"",
+	"PC:",
+	"Closer I am to fine",
+	"Closer I am to fine",
+	"",
+	"BR:",
+	"(Instrumental)",
+	"",
+	"V2:",
+	"I stopped by the bar at 3 A.M",
+	"To seek solace in a bottle or possibly a friend",
+	"And I woke up with a headache like my head against a board",
+	"Twice as cloudy as I’d been the night before",
+	"And I went in seeking clarity",
+	"",
+	"C2:",
+	"I went to the doctor, I went to the mountains",
+	"I looked to the children, I drank from the fountain",
+	"We go to the doctor, we go to the mountains",
+	"We look to the children, we drink from the fountain",
+	"",
+	"C2:",
+	"We go to the Bible, we go through the workout",
+	"We read up on revival, we stand up for the lookout",
+	"There’s more than one answer to these questions pointing me in a crooked line",
+	"And the less I seek my source for some definitive",
+	"",
+	"O:",
+	"Closer I am to fine",
+	"Closer I am to fine",
+	"Closer I am to fine"
     ]
 }
 },
@@ -12722,7 +12859,7 @@
     ]
 }
 },
-{ "file": "Crazy.songlyrics", "lastModifiedDate": 1551661454112, "song": 
+{ "file": "Crazy (3).songlyrics", "lastModifiedDate": 1557102369582, "song": 
 {
 "title": "Crazy",
 "artist": "Patsy Cline",
@@ -12744,7 +12881,7 @@
 	"",
 	"C:",
 	"A F#7 Bm Bm",
-	"DC#m BmF#m BmE AD A",
+	"DC#m BmF# BmE AD A",
 	"T:",
 	"DC#m BmF#m BmE AD A"
     ],
@@ -14468,7 +14605,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 0, "song": 
+{ "file": "Delta Lady (3).songlyrics", "lastModifiedDate": 1557103137816, "song": 
 {
 "title": "Delta Lady",
 "artist": "Joe Cocker",
@@ -14524,6 +14661,8 @@
 	"Oh when I'm home again in england",
 	"And I'm thinking of you, Love",
 	"Because I love you, love",
+	"v: (instrumental)",
+	"ch: (instrumental)",
 	"v:",
 	"There are concrete mountains in the city",
 	"And pretty city women live inside them",
@@ -18976,7 +19115,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 0, "song": 
+{ "file": "Feelin' Alright.songlyrics", "lastModifiedDate": 1557005495867, "song": 
 {
 "title": "Feelin' Alright",
 "artist": "Traffic, Joe Cocker",
@@ -18986,7 +19125,7 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"I  IV"
+	"V: (I) C C F F (IV)  "
     ],
 "lyrics": 
     [
@@ -23652,7 +23791,7 @@
     ]
 }
 },
-{ "file": "Handle me with care.songlyrics", "lastModifiedDate": 1547697190836, "song": 
+{ "file": "Handle me with care.songlyrics", "lastModifiedDate": 1557109582191, "song": 
 {
 "title": "Handle me with care",
 "artist": "travelling wilburries",
@@ -23729,6 +23868,7 @@
 	"But I'll clean it up myself, I guess",
 	"Oh, the sweet smell of success",
 	"Handle me with care",
+	"v: (guitar outro)",
 	"v: (guitar outro)"
     ]
 }
@@ -33931,7 +34071,7 @@
     ]
 }
 },
-{ "file": "La Femme d'argent.songlyrics", "lastModifiedDate": 1556496949894, "song": 
+{ "file": "La Femme d'argent (1).songlyrics", "lastModifiedDate": 1557258305829, "song": 
 {
 "title": "La Femme d'argent",
 "artist": "Air",
@@ -44743,7 +44883,7 @@
     ]
 }
 },
-{ "file": "Pastime Paradise.songlyrics", "lastModifiedDate": 1556496956287, "song": 
+{ "file": "Pastime Paradise (1).songlyrics", "lastModifiedDate": 1557258311722, "song": 
 {
 "title": "Pastime Paradise",
 "artist": "Stevie Wonder",
@@ -49614,7 +49754,7 @@
     ]
 }
 },
-{ "file": "Scarecrow.songlyrics", "lastModifiedDate": 1556496953272, "song": 
+{ "file": "Scarecrow (1).songlyrics", "lastModifiedDate": 1557258308598, "song": 
 {
 "title": "Scarecrow",
 "artist": "Beck",
@@ -60464,7 +60604,7 @@
     ]
 }
 },
-{ "file": "Unchain My Heart (2).songlyrics", "lastModifiedDate": 1554845368119, "song": 
+{ "file": "Unchain My Heart (3).songlyrics", "lastModifiedDate": 1557257676454, "song": 
 {
 "title": "Unchain My Heart",
 "artist": "Joe Cocker",
@@ -60482,8 +60622,7 @@
 	"   F7 E7 Am Am ",
 	"Br: Dm Dm Am Am ",
 	"    Dm Dm E  E7 ",
-	"O:  Dm Dm Am Am ",
-	"    Dm Dm E  E7  "
+	" "
     ],
 "lyrics": 
     [
@@ -60527,11 +60666,7 @@
 	"",
 	"Br: ",
 	"I'm under your spell, just like a man in a trance",
-	"And you know damn well, that I don't stand a chance",
-	"",
-	"O: ",
-	"So unchain my heart, cuz you don't care about me",
-	"Oh! please baby, set me free "
+	"And you know damn well, that I don't stand a chance"
     ]
 }
 },
@@ -63891,6 +64026,133 @@
 	"i ain't no goddamn son of a bitch",
 	"you better think baby, ",
 	"o:babe, babe, babe"
+    ]
+}
+},
+{ "file": "Where Have All the Cowboys Gone_.songlyrics", "lastModifiedDate": 1557258300501, "song": 
+{
+"title": "Where Have All the Cowboys Gone?",
+"artist": "Paula Cole",
+"copyright": "1996 Imago",
+"key": "A",
+"defaultBpm": 128,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I1:",
+	"F#m C#m F#m C#m",
+	"F#m C#m D E",
+	"X X",
+	"",
+	"V:",
+	"F#m C#m F#m C#m",
+	"F#m C#m D E",
+	"",
+	"PC:",
+	"G A Bm C#m",
+	"",
+	"C:",
+	"F#m C#m F#m C#m",
+	"F#m C#m D E",
+	"",
+	"I2:",
+	"Bm7 C#m D E",
+	"",
+	"BR:",
+	"G G Bm Bm ",
+	"F#m C#m D E",
+	"Bm7 C#m D E",
+	"X X",
+	"",
+	"O:",
+	"Bm7 C#m D E x9"
+    ],
+"lyrics": 
+    [
+	"I1:",
+	"(Instrumental)",
+	"",
+	"V:",
+	"Oh you get me ready",
+	"In your ‘56 Chevy",
+	"Why don’t we go sit down in the shade",
+	"Take shelter on my front porch",
+	"The dandelion sun scorching",
+	"Like a glass of cold lemonade?",
+	"",
+	"PC:",
+	"I will do the laundry",
+	"If you pay all the bills",
+	"",
+	"C:",
+	"Where is my John Wayne",
+	"Where is my prairie song ",
+	"Where is my happy ending",
+	"Where have all the cowboys gone",
+	"",
+	"I2:",
+	"(Instrumental)",
+	"",
+	"V:",
+	"Why don’t you stay the evening",
+	"Kick back and watch the T.V.",
+	"And I’ll fix a little something to eat",
+	"Oh I know your back hurts",
+	"From working on the tractor",
+	"How do you take your coffee my sweet",
+	"",
+	"PC:",
+	"I will raise the children",
+	"If you pay all the bills",
+	"",
+	"C:",
+	"Where is my John Wayne",
+	"Where is my prairie song",
+	"Where is my happy ending",
+	"Where have all the cowboys gone",
+	"",
+	"I2:",
+	"(Instrumental)",
+	"",
+	"BR:",
+	"I am wearing my new dress tonight",
+	"But you don’t, but you don’t even notice me",
+	"Say our goodbyes",
+	"Say our goodbyes",
+	"Say our goodbyes",
+	"",
+	"V:",
+	"We finally sold the Chevy",
+	"When we had another baby",
+	"And you took that job in Tennessee",
+	"You made friends at the farm",
+	"And you join them at the bar",
+	"Almost every single day of the week",
+	"",
+	"PC:",
+	"I will wash the dishes",
+	"While you go have a beer",
+	"",
+	"C:",
+	"Where is my John Wayne",
+	"Where is my prairie song",
+	"Where is my happy ending",
+	"Where have all the cowboys gone",
+	"",
+	"C:",
+	"Where is my Marlboro Man",
+	"Where is his shiny gun",
+	"Where is my lonely ranger",
+	"Where have all the cowboys gone",
+	"",
+	"O:",
+	"Da da da, where have all the cowboys gone",
+	"Da da da, da da da",
+	"Where have all the cowboys gone, da da da",
+	"Yippi yi yippi ya, yippi yi yippi ya",
+	"Yippi yi yippi ya, yippi yi yippi ya ya ya ya",
+	"Oh oh oh",
+	"(fade)"
     ]
 }
 },
