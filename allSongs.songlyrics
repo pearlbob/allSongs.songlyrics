@@ -30233,7 +30233,7 @@
     ]
 }
 },
-{ "file": "Ill never get over you (1).songlyrics", "lastModifiedDate": 1543470397933, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Ill never get over you",
 "artist": "Expose",
@@ -30249,7 +30249,7 @@
 	"",
 	"C:",
 	"CG Am C D",
-	"CG Am G G",
+	"CG AmD G G",
 	"",
 	"",
 	"B:",
@@ -30259,7 +30259,7 @@
 	"",
 	"O:",
 	"CG Am C D ",
-	"CG Am G "
+	"CG AmD G "
     ],
 "lyrics": 
     [
@@ -34356,6 +34356,91 @@
 	"T:",
 	"A landslide will bring you down",
 	"Well a landslide will bring you down"
+    ]
+}
+},
+{ "file": "Last Caress (4).songlyrics", "lastModifiedDate": 1557696700811, "song": 
+{
+"title": "Last Caress",
+"artist": "Misfits",
+"copyright": "Songwriters: Glenn Danzig Last Caress lyrics ©1980 Reach Music Publishing",
+"key": "C",
+"defaultBpm": 111,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"v:",
+	"C C C FG",
+	"C C C FG",
+	"F F D D",
+	"i:",
+	"C C C FG",
+	"C C C FG",
+	"",
+	"v1:",
+	"C C C FG",
+	"C C C FG",
+	"F F D D",
+	"C C C C",
+	"",
+	"ch:",
+	"F F G G",
+	"C Em Am Am",
+	"F F G G",
+	"C C C FG",
+	"C C C FG",
+	"",
+	"ch1:",
+	"F F G G",
+	"C Em Am Am",
+	"F F G GX",
+	"C C C FG",
+	"C C C FG"
+    ],
+"lyrics": 
+    [
+	"i:",
+	"v:",
+	"I got something to say",
+	"I killed a baby today",
+	"And it doesn't matter much to me",
+	"As long as it's dead",
+	"i:",
+	"v1:",
+	"Well I got something to say",
+	"I raped your mother today",
+	"And it doesn't matter much to me",
+	"As long as she spread",
+	"ch:",
+	"Sweet lovely death",
+	"I am waiting for your breath",
+	"Come sweet death, one last caress",
+	"",
+	"Go",
+	"v1: (instrumental)",
+	"ch:",
+	"Sweet lovely death",
+	"I am waiting for your breath",
+	"Come sweet death, one last caress",
+	"v1:",
+	"Well, I got something to say",
+	"I killed your baby today",
+	"And it doesn't matter much to me",
+	"As long as it's dead",
+	"ch1:",
+	"Sweet lovely death",
+	"I am waiting for your breath",
+	"Come sweet death (pause)",
+	"One last caress",
+	"i:",
+	"One last caress, sweet death",
+	"One last caress, sweet death",
+	"i: (repeat)",
+	"Oh oh oh oh oh",
+	"Oh oh oh oh oh oh oh",
+	"Oh oh",
+	"Oh oh oh oh oh",
+	"Oh"
     ]
 }
 },
@@ -51090,6 +51175,83 @@
     ]
 }
 },
+{ "file": "Shit Shower and Shave (3).songlyrics", "lastModifiedDate": 1557712203366, "song": 
+{
+"title": "Shit Shower and Shave",
+"artist": "Rico and the Geezers",
+"copyright": "2018",
+"key": "C",
+"defaultBpm": 96,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:F F C C G G C CXXX",
+	"V: C C",
+	"G G G G",
+	"C C C C",
+	"G G C CXXX",
+	"C:F F C C",
+	"G G C CXXX"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:Well I lost my baby,",
+	"About a month ago,",
+	"And how I lost her, ",
+	"Well I still don’t know.",
+	"I didn’t gamble,",
+	"Or misbehave,",
+	"But I sure did love my",
+	"Shit shower and shave",
+	"",
+	"C:Shit shower and shave.",
+	"Shit shower and shave.",
+	"All that I crave,",
+	"Shit shower and shave.",
+	"Don’t mean to deprave",
+	"Or misbehave,",
+	"But I sure do love my",
+	"Shit shower and shave",
+	"",
+	"V:I’ve got a friend named Davey,",
+	"He gets so upset,",
+	"Watching the news on TV",
+	"He lights a cigarette,",
+	"I tell him Davey,",
+	"Don’t give in to that crave,",
+	"All you really need is",
+	"Shit shower and shave.",
+	"",
+	"C:Shit shower and shave.",
+	"Shit shower and shave.",
+	"All that I crave,",
+	"Shit shower and shave.",
+	"It don’t make me special",
+	"Or particularly brave",
+	"But I sure do love my",
+	"Shit shower and shave.",
+	"",
+	"V:So if you’re unhappy,",
+	"Take a tip from me,",
+	"Just turn off that Fox News,",
+	"Or MSNBC,",
+	"The greatest thing you’ll learn,",
+	"Between cradle and grave,",
+	"There’s nothing better,",
+	"Than Shit Shower and Shave.",
+	"",
+	"C:Shit shower and shave.",
+	"Shit shower and shave.",
+	"It’s all the rave",
+	"Shit shower and shave.",
+	"The best advise my",
+	"Daddy ever gave,",
+	"Don't you forget your",
+	"Shit shower and shave (tag)"
+    ]
+}
+},
 { "file": "Shotgun (1).songlyrics", "lastModifiedDate": 1538605643079, "song": 
 {
 "title": "Shotgun",
@@ -61261,6 +61423,54 @@
     ]
 }
 },
+{ "file": "Up a Lazy River.songlyrics", "lastModifiedDate": 1557696692007, "song": 
+{
+"title": "Up a Lazy River",
+"artist": "Mills Brothers (orig. Hoagy Carmichael)",
+"copyright": "Peermusic Publishing",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V: E7 E7 A7 A7",
+	"D7 D7 G7XXX XXXX",
+	"",
+	"V1: E7 E7 A7 A7",
+	"FCdim CA7 FG CA7",
+	"FG C ",
+	"",
+	"O: E7 E7 A7 A7",
+	"FCdim CA7 FG CA7",
+	"FG CA7 FG C"
+    ],
+"lyrics": 
+    [
+	"V: Up a lazy river by the old mill run",
+	"The lazy, lazy river in the noon day sun",
+	"Linger in the shade of a kind old tree",
+	"Throw away your troubles",
+	"Dream a dream with me",
+	"",
+	"V1: Up a lazy river where the robin's song",
+	"Awakes the bright new morning",
+	"Where we can move along",
+	"Blue skies up above, everyone's in love",
+	"Up a lazy river, how happy you could be",
+	"Up a lazy river with me",
+	"",
+	"V: (instrumental)",
+	"",
+	"O: Up a lazy river where the robin's song",
+	"Awakes the bright new morning",
+	"Where we can move along",
+	"Blue skies up above, everyone's in love",
+	"Up a lazy river, how happy you could be",
+	"Up a lazy river with me",
+	"Up a lazy river with me"
+    ]
+}
+},
 { "file": "Uprising (5).songlyrics", "lastModifiedDate": 1524451508782, "song": 
 {
 "title": "Uprising",
@@ -62007,6 +62217,94 @@
 	"Take a walk on the wild side.\"",
 	"And the colored girls say,",
 	"\"Doo do doo do doo do do doo...\""
+    ]
+}
+},
+{ "file": "Walls.songlyrics", "lastModifiedDate": 1557696696557, "song": 
+{
+"title": "Walls",
+"artist": "Tom Petty & the Heartbreakers",
+"copyright": "lyrics © Sony/ATV Tunes LLC, Gerald Marks Music, Bourne Co.",
+"key": "F",
+"defaultBpm": 102,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"v:",
+	"D - Bm -",
+	"G - A - x2",
+	"",
+	"v1:",
+	"D - Bm -",
+	"G - A - ",
+	"D - Bm -",
+	"G - A X ",
+	"",
+	"c:",
+	"GD GD",
+	"EmBm AD"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Some days are diamonds",
+	"Some days are rocks",
+	"Some doors are open",
+	"Some roads are blocked",
+	"",
+	"v1:",
+	"Sundowns are golden",
+	"Then fade away",
+	"But if I never do nothing",
+	"I'll get you back some day",
+	"",
+	"c:",
+	"'Cause you got a heart so big",
+	"It could crush this town",
+	"And I can't hold out forever",
+	"Even walls fall down.",
+	"",
+	"v:",
+	"And all around your island",
+	"There's a barricade",
+	"It keeps out the danger",
+	"It holds in the pain",
+	"",
+	"v1:",
+	"Sometimes you're happy",
+	"Sometimes you cry",
+	"Half of me is ocean",
+	"Half of me is sky",
+	"",
+	"c:",
+	"But you got a heart so big",
+	"It could crush this town",
+	"And I can't hold out forever",
+	"Even walls fall down",
+	"",
+	"v:",
+	"[instrumental]",
+	"",
+	"v1:",
+	"And some things are over",
+	"Some things go on",
+	"And part of me you carry",
+	"Part of me is gone",
+	"",
+	"c:",
+	"But you got a heart so big",
+	"It could crush this town",
+	"And I can't hold out forever",
+	"Even walls fall down",
+	"",
+	"c:",
+	"Baby, you got a heart so big",
+	"It could crush this town",
+	"And I can't hold out forever",
+	"Even walls fall down",
+	"They fall down",
+	"*",
+	"[Petty recorded this in F; live, he plays it using C chord shapes with the capo on the 5th fret.]"
     ]
 }
 },
