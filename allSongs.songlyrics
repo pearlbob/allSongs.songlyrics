@@ -953,6 +953,78 @@
     ]
 }
 },
+{ "file": "Ac-Cent-Tchu-Ate The Positive.songlyrics", "lastModifiedDate": 1558463684584, "song": 
+{
+"title": "Ac-Cent-Tchu-Ate The Positive",
+"artist": "Bing Crosby, Paul McCartney and others",
+"copyright": "Johnny Mercer / Harold Arlen 1944 Ac-Cent-Tchu-Ate the Positive lyrics © Sony/ATV Music Publishing LLC, Kobalt Music Publishing Ltd.",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"",
+	"V: ",
+	"C C7 F D7G7",
+	"C C G7 CG7",
+	"",
+	"V: ",
+	"C C7 F D7G7",
+	"C C G7 CG7",
+	"",
+	"Br: ",
+	"C C7 F C",
+	"C A7 Ab7 G7",
+	"",
+	"V: ",
+	"C C7 F D7G7",
+	"C C G7 CG7",
+	"",
+	"O: ",
+	"C G7 C"
+    ],
+"lyrics": 
+    [
+	"V: \tYou've got to accentuate the positive",
+	"\tEliminate the negative",
+	"\tLatch on to the affirmative",
+	"\tDon't mess with Mister In-Between",
+	"",
+	"V:\tYou've got to spread joy up to the maximum",
+	"\tBring gloom down to the minimum",
+	"\tHave faith or pandemonium",
+	"\tLiable to walk upon the scene",
+	"",
+	"Br:\tTo illustrate his last remark",
+	"\tJonah in the whale, Noah in the ark",
+	"\tWhat did they do",
+	"\tJust when everything looked so dark",
+	"\tMan, they said we better, ",
+	"",
+	"V:\tAccentuate the positive",
+	"\tEliminate the negative",
+	"\tLatch on to the affirmative",
+	"\tDon't mess with Mister In-Between",
+	"",
+	"",
+	"(Instrumental - repeat all, no vocal)",
+	"",
+	"",
+	"Br:\tTo illustrate his last remark",
+	"\tJonah in the whale, Noah in the ark",
+	"\tWhat did they do",
+	"\tJust when everything looked so dark",
+	"\tMan, they said we better, ",
+	"",
+	"V:\tAccentuate the positive",
+	"\tEliminate the negative",
+	"\tLatch on to the affirmative",
+	"\tDon't mess with Mister In-Between",
+	"",
+	"O:\tNo, do not mess with Mister In-Between"
+    ]
+}
+},
 { "file": "Across The Universe (1).songlyrics", "lastModifiedDate": 1534386090401, "song": 
 {
 "title": "Across The Universe",
