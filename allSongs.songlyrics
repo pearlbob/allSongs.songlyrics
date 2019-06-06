@@ -37384,7 +37384,7 @@
     ]
 }
 },
-{ "file": "Let It Be (5).songlyrics", "lastModifiedDate": 1525047159853, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Let It Be",
 "artist": "Beatles, The",
@@ -37399,7 +37399,10 @@
 	"C G F  C",
 	"ch:",
 	"Am G F C",
-	"C  G F C "
+	"C  G F C ",
+	"ch2:",
+	"Am G F C|",
+	"C  G F C|  x2"
     ],
 "lyrics": 
     [
@@ -37407,7 +37410,7 @@
 	"Mother Mary comes to me",
 	"Speaking words of wisdom",
 	"Let it be",
-	"And in my hour of darkness",
+	"v:And in my hour of darkness",
 	"She is standing right in front of me",
 	"Speaking words of wisdom",
 	"ch:",
@@ -37419,26 +37422,27 @@
 	"Living in the world agree",
 	"There will be an answer",
 	"Let it be",
-	"For though they may be parted there is",
+	"v:For though they may be parted there is",
 	"Still a chance that they will see",
 	"There will be an answer",
-	"ch:",
+	"ch2:",
 	"Let it be",
 	"Let it be, let it be, let it be, let it be",
 	"Yeah, there will be an answer",
 	"Let it be",
 	"Let it be, let it be, let it be, let it be",
 	"Whisper words of wisdom",
+	"let it be",
 	"v:",
 	"And when the night is cloudy",
 	"There is still a light that shines on me",
 	"Shine until tomorrow",
 	"Let it be",
-	"I wake up to the sound of music",
+	"v:I wake up to the sound of music",
 	"Mother Mary comes to me",
 	"Speaking words of wisdom",
 	"Let it be",
-	"ch:",
+	"ch2:",
 	"Let it be, let it be, let it be, yeah, let it be",
 	"There will be an answer",
 	"Let it be",
