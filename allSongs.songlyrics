@@ -9429,6 +9429,84 @@
     ]
 }
 },
+{ "file": "Bring It Down to Jelly Roll.songlyrics", "lastModifiedDate": 1560883081305, "song": 
+{
+"title": "Bring It Down to Jelly Roll",
+"artist": "John Fogerty",
+"copyright": "1997 Warner Bros",
+"key": "G",
+"defaultBpm": 120,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I1:",
+	"G G G G",
+	"",
+	"V1:",
+	"G G D G",
+	"G G D G",
+	"G",
+	"",
+	"V2:",
+	"G G D G",
+	"G G D G",
+	"",
+	"I2:",
+	"C G D G",
+	"C G D G",
+	"G",
+	"",
+	"O:",
+	"C G D G",
+	"C G D G",
+	"D G D DG"
+    ],
+"lyrics": 
+    [
+	"I1:",
+	"(Instrumental)",
+	"",
+	"V1:",
+	"Well if you want to ease your mind",
+	"You just go on take it to the river",
+	"When you’re down, well that’s alright",
+	"You just bring it down to Jelly Roll",
+	"",
+	"V2:",
+	"We’re gonna run and jump and shout",
+	"We’re gonna slide way back in the country",
+	"There’s a place where they treat you right",
+	"You just bring it down to Jelly Roll",
+	"",
+	"I2:",
+	"(Instrumental) ",
+	"",
+	"V2:",
+	"The little girls way down south",
+	"They got their way, honey drippin’ from their mouth",
+	"If you ever get some luck",
+	"You better’d bring it down to Jelly Roll",
+	"",
+	"V2:",
+	"Now look at me, Lord I ain’t got a dime",
+	"But I can dance, Lord I’m jumping all the time",
+	"I live honey straight to the bone",
+	"I just bring it down to Jelly Roll",
+	"",
+	"I2:",
+	"(Instrumental)",
+	"",
+	"V2:",
+	"Well if you want to ease your mind",
+	"You just go on take it to the river",
+	"When you’re down, well that’s alright",
+	"You just bring it down to Jelly Roll",
+	"",
+	"O:",
+	"(Instrumental)"
+    ]
+}
+},
 { "file": "Brown-Eyed Girl.songlyrics", "lastModifiedDate": 1519351069000, "song": 
 {
 "title": "Brown-Eyed Girl",
@@ -21450,7 +21528,7 @@
     ]
 }
 },
-{ "file": "Fire on the Mountain (15).songlyrics", "lastModifiedDate": 1556652230595, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Fire on the Mountain",
 "artist": "Marshall Tucker Band",
@@ -21470,7 +21548,7 @@
 	"C:G G D D ",
 	"Am Am C",
 	"",
-	"I1:Em Em C C ",
+	"I1:Em C Em C",
 	"",
 	"o: ",
 	"G"
