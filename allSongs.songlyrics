@@ -4111,6 +4111,80 @@
     ]
 }
 },
+{ "file": "Baby One More Time (cover) (1).songlyrics", "lastModifiedDate": 1561320050392, "song": 
+{
+"title": "Baby One More Time (cover)",
+"artist": "Britney Spears",
+"copyright": "Kobalt Music Publishing Ltd.",
+"key": "D",
+"defaultBpm": 88,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I: BmBsus2Bm F# DDsus2D EmF#",
+	"V: BmBsus2Bm F# DDsus2D EmF#",
+	"BmBsus2Bm F# DDsus2D EmF#",
+	"PC: BmBsus2Bm F# DDsus2D EmF#",
+	"Ch: BmBsus2Bm F#F#sus2F# DDsus2D EmF#",
+	"BmBsus2Bm F#F#sus2F# DDsus2D EmF#",
+	"V1: BmBsus2Bm F#F#sus2F# DDsus2D EmF#",
+	"BmBsus2Bm F#F#sus2F# DDsus2D EmF#",
+	"PC1: BmBsus2Bm F#F#sus2F# DDsus2D EmF#",
+	"BmBsus2Bm F#F#sus2F# DDsus2D EmF#",
+	"V2: BmBsus2Bm F#F#sus2F# DDsus2D EmF#",
+	"BmBsus2Bm F#F#sus2F# DDsus2D EmF#",
+	"Br: BmBsus2Bm F#F#sus2F# DDsus2D EmF#",
+	"BmBsus2Bm F#F#sus2F# DDsus2D EmF#",
+	"O: BmBsus2Bm F# DDsus2D EmF#"
+    ],
+"lyrics": 
+    [
+	"I: (Instrumental)",
+	"V: Oh baby, baby, how was I supposed to know",
+	"That something wasn't right here",
+	"Oh baby, baby, I shouldn't have let you go",
+	"And now you're out of sight, yeah",
+	"PC: Show me how want it to be",
+	"Tell me baby 'cause I need to know now, oh because",
+	"Ch: My loneliness is killing me (and I)",
+	"I must confess I still believe (I still believe)",
+	"When I'm not with you I lose my mind",
+	"Give me a sign",
+	"Hit me baby one more time",
+	"V1: Oh baby, baby",
+	"The reason I breathe is you",
+	"Boy you got me blinded",
+	"Oh pretty baby",
+	"There's nothing that I wouldn't do",
+	"It's not the way I planned it",
+	"PC1: Show me how you want it to be",
+	"Tell me baby 'cause I need to know now, oh because",
+	"Ch: My loneliness is killing me (and I)",
+	"I must confess I still believe (still believe)",
+	"When I'm not with you I lose my mind",
+	"Give me a sign",
+	"Hit me baby one more time",
+	"V2: Oh baby, baby how was I supposed to know",
+	"Oh pretty baby, I shouldn't have let you go",
+	"Br: I must confess, that my loneliness is killing me now",
+	"Don't you know I still believe",
+	"That you will be here",
+	"And give me a sign",
+	"Hit me baby one more time",
+	"Ch: My loneliness is killing me (and I)",
+	"I must confess I still believe (I still believe)",
+	"When I'm not with you I lose my mind",
+	"Give me a sign",
+	"Hit me baby one more time",
+	"Ch: I must confess, that my loneliness is killing me now",
+	"Don't you know I still believe",
+	"That you will be here",
+	"And give me a sign",
+	"Hit me baby one more time",
+	"O: My loneliness is killing me"
+    ]
+}
+},
 { "file": "Babylon (4).songlyrics", "lastModifiedDate": 1519347157000, "song": 
 {
 "title": "Babylon",
@@ -29380,7 +29454,7 @@
 "copyright": "Sony/ATV Music Publishing LLC",
 "key": "C",
 "defaultBpm": 100,
-"timeSignature": "4/4",
+"timeSignature": "6/8",
 "chords": 
     [
 	"v:",
@@ -61320,58 +61394,117 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 0, "song": 
+{ "file": "Sweet Dreams.songlyrics", "lastModifiedDate": 1561341035022, "song": 
 {
 "title": "Sweet Dreams",
 "artist": "Eurythmics",
-"copyright": "Sony/ATV Music Publishing LLC, Warner/Chappell Music, Inc",
+"copyright": "1983 RCA",
 "key": "C",
 "defaultBpm": 100,
 "timeSignature": "4/4",
 "chords": 
     [
-	"Am CAm F E",
-	"F  E C  C/G F E ",
-	"Am F Am F     x2"
+	"I1: ",
+	"Cm Cm G# G x2",
+	"",
+	"V:",
+	"Cm Cm G# G x4",
+	"",
+	"C1:",
+	"Cm Cm G# G x4",
+	"",
+	"I2:",
+	"G# G# G# G",
+	"Cm Cm Fm Fm",
+	"G# G# G G",
+	"",
+	"BR:",
+	"Cm Cm F F ",
+	"Cm Cm F F ",
+	"Cm Cm F F ",
+	"Cm Cm F X ",
+	"",
+	"I3:",
+	"Cm Cm G# G x4",
+	"",
+	"C2:",
+	"X X X X x4",
+	"",
+	"O:",
+	"Cm Cm G# G x4"
     ],
 "lyrics": 
     [
+	"I1: (Instrumental)",
+	"",
+	"C1:",
 	"Sweet dreams are made of this",
 	"Who am I to disagree?",
 	"I travel the world and the seven seas",
 	"Everybody's looking for something",
+	"",
+	"V:",
 	"Some of them want to use you",
 	"Some of them want to get used by you",
 	"Some of them want to abuse you",
 	"Some of them want to be abused",
+	"",
+	"I2:",
+	"(Instrumental) Oooh, hey",
+	"",
+	"C1:",
 	"Sweet dreams are made of this",
 	"Who am I to disagree?",
 	"I travel the world and the seven seas",
 	"Everybody's looking for something",
-	"Hold your head up, keep your head up, movin' on",
-	"Hold your head up, movin' on, keep your head up, movin' on",
-	"Hold your head up, movin' on, keep your head up, movin' on",
-	"Hold your head up, movin' on, keep your head up",
+	"",
+	"I2:",
+	"(Instrumental) Oooh, hey",
+	"",
+	"BR:",
+	"Hold your head up, keep your head up (movin' on)",
+	"Hold your head up (movin' on) keep your head up (movin' on)",
+	"Hold your head up (movin' on) keep your head up (movin' on)",
+	"Hold your head up (movin' on) keep your head up",
+	"",
+	"I3:",
+	"(Instrumental)",
+	"",
+	"V:",
 	"Some of them want to use you",
 	"Some of them want to get used by you",
 	"Some of them want to abuse you",
 	"Some of them want to be abused",
+	"",
+	"I2:",
+	"(Instrumental) Aah, ooh",
+	"",
+	"C1:",
 	"Sweet dreams are made of this",
 	"Who am I to disagree?",
 	"I travel the world and the seven seas",
 	"Everybody's looking for something",
+	"",
+	"C2:",
 	"Sweet dreams are made of this",
 	"Who am I to disagree?",
 	"I travel the world and the seven seas",
 	"Everybody's looking for something",
+	"",
+	"C1:",
 	"Sweet dreams are made of this",
 	"Who am I to disagree?",
 	"I travel the world and the seven seas",
 	"Everybody's looking for something",
+	"",
+	"C1:",
 	"Sweet dreams are made of this",
 	"Who am I to disagree?",
 	"I travel the world and the seven seas",
-	"Everybody's looking for something"
+	"Everybody's looking for something",
+	"",
+	"O:",
+	"(Instrumental)"
     ]
 }
 },
@@ -66654,7 +66787,7 @@
     ]
 }
 },
-{ "file": "Under the Boardwalk.songlyrics", "lastModifiedDate": 1531361598832, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Under the Boardwalk",
 "artist": "Drifters, The",
@@ -66695,8 +66828,9 @@
 	"(Under the boardwalk) We'll be falling in love",
 	"Under the boardwalk, boardwalk",
 	"v: (instrumental)",
-	"ch:Oh, under the boardwalk, down by the sea, yeah",
+	"Oh, under the boardwalk, down by the sea, yeah",
 	"On a blanket with my baby is where I'll be",
+	"ch:",
 	"(Under the boardwalk) Out of the sun",
 	"(Under the boardwalk) We'll be havin' some fun",
 	"(Under the boardwalk) People walking above",
@@ -67922,7 +68056,7 @@
     ]
 }
 },
-{ "file": "Walls.songlyrics", "lastModifiedDate": 1557696696557, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Walls",
 "artist": "Tom Petty & the Heartbreakers",
@@ -67934,17 +68068,15 @@
     [
 	"v:",
 	"D - Bm -",
-	"G - A - x2",
+	"G - A - ",
 	"",
 	"v1:",
-	"D - Bm -",
-	"G - A - ",
 	"D - Bm -",
 	"G - A X ",
 	"",
 	"c:",
-	"GD GD",
-	"EmBm AD"
+	"G D G D",
+	"Em Bm A D"
     ],
 "lyrics": 
     [
