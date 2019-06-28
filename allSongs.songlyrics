@@ -15546,7 +15546,7 @@
     ]
 }
 },
-{ "file": "Dear Mr. Fantasy.songlyrics", "lastModifiedDate": 1548291901051, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Dear Mr. Fantasy",
 "artist": "Traffic",
@@ -15557,21 +15557,21 @@
 "chords": 
     [
 	"",
-	"I: A Asus4 G D A",
+	"I: A Asus4 G D ",
 	"",
-	"V: A Asus4 G D A -  4x",
+	"V: A  G D A  x4",
 	"",
 	"Br: ",
-	"F#m A -  3x",
+	"F#m A -  x3",
 	"F#m G E7",
 	"",
-	"V: A Asus4 G D A -  2x",
+	"V: A A G D A  x2",
 	"",
-	"V: A Asus4 G D A -  8x",
+	"V: A  G D A   x8",
 	"",
-	"V: A Asus4 G D A -  4x",
+	"V: A  G D A   x4",
 	"",
-	"O: A Asus4 G D A -  8x"
+	"O: A  G D A  x8"
     ],
 "lyrics": 
     [
