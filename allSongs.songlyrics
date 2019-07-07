@@ -13085,7 +13085,7 @@
     ]
 }
 },
-{ "file": "Come Undone.songlyrics", "lastModifiedDate": 1558993428997, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Come Undone",
 "artist": "Duran Duran",
@@ -13096,10 +13096,12 @@
 "chords": 
     [
 	"V: Bm A G A X4",
+	"",
+	"ch:",
 	"G G F#m F#m",
 	"G G A A",
 	"",
-	"C: Bm A G A",
+	"Br: Bm A G A",
 	"Bm A G A",
 	"G G A A",
 	"",
@@ -13116,12 +13118,13 @@
 	"Oh, it'll take a little time",
 	"Might take a little crime",
 	"To come undone now",
+	"ch:",
 	"We'll try to stay blind",
 	"To the hope and fear outside",
 	"Hey child, stay wilder than the wind",
 	"And blow me into cry",
 	"",
-	"C: Who do you need, who do you love",
+	"br: Who do you need, who do you love",
 	"When you come undone?",
 	"Who do you need, who do you love",
 	"When you come undone?",
@@ -13135,6 +13138,7 @@
 	"Lost, in a snow filled sky",
 	"We'll make it alright",
 	"To come undone now",
+	"ch:",
 	"We'll try to stay blind",
 	"To the hope and fear outside",
 	"Hey child, stay wilder than the wind",
