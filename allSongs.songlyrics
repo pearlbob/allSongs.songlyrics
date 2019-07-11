@@ -5821,7 +5821,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 0, "song": 
+{ "file": "Bell Bottom Blues (4).songlyrics", "lastModifiedDate": 1520605230000, "song": 
 {
 "title": "Bell Bottom Blues",
 "artist": "Eric Clapton",
@@ -5838,9 +5838,9 @@
 	"C E Am Am/G",
 	"F G",
 	"pc:",
-	"A AMaj7 F#m DE  x2",
+	"A AΔ F#m DE  x2",
 	"c:",
-	"A AMaj7 A7 D E  x2",
+	"A AΔ A7 D E  x2",
 	"F G"
     ],
 "lyrics": 
@@ -30663,11 +30663,16 @@
 	"C: F7 - Am7 -",
 	"D7 - G#7 G7",
 	"",
-	"O: C7 F C7 F",
-	"C7 -"
+	"",
+	"V2: ",
+	"C7 - A7 -",
+	"F Fm  ",
+	"C7 FFm C7 FFm",
+	"C7 FFm C"
     ],
 "lyrics": 
     [
+	"v: (intro)",
 	"V: I call your name ",
 	"but you're not there",
 	"Was I to blame for being unfair",
@@ -30687,17 +30692,18 @@
 	"I never weep at night",
 	"I call your name",
 	"",
+	"v1: (instrumental)",
+	"",
 	"C: Don't you know I can't take it",
 	"I don't know who can",
 	"I'm not going to make it",
 	"I'm not that kind of man.",
 	"",
-	"V1: Oh, I can't sleep at night",
+	"V2: Oh, I can't sleep at night",
 	"But just the same",
 	"I never weep at night",
 	"I call your name",
-	"",
-	"O: I call your name",
+	" I call your name",
 	"I call your name",
 	"I call your name"
     ]
@@ -54943,12 +54949,27 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"Dm Bb F F  - F/E -  x4",
-	"Bb -  F F  - F/E -  x2",
-	"C  C7 F Bb F F   - F/E -"
+	"i:",
+	"Dm7 Dm7 Bb Bb ",
+	"F F F F/E x2",
+	"",
+	"v:",
+	"Dm7 Dm7 Bb Bb ",
+	"F F F F/E x4",
+	"",
+	"ch:",
+	"Bb Bb Bb Bb",
+	"F F F F",
+	"Bb Bb Bb Bb",
+	"F F F F ",
+	"C C C7 C7",
+	"F F Bb Bb",
+	"F F F F/E"
     ],
 "lyrics": 
     [
+	"i:",
+	"v:",
 	"Come up to meet you, tell you I'm sorry",
 	"You don't know how lovely you are",
 	"I had to find you",
@@ -54960,11 +54981,13 @@
 	"Running in circles",
 	"Coming up tails",
 	"Heads on a science apart",
+	"ch:",
 	"Nobody said it was easy",
 	"It's such a shame for us to part",
 	"Nobody said it was easy",
 	"No one ever said it would be this hard",
 	"Oh, take me back to the start",
+	"v:",
 	"I was just guessing",
 	"At numbers and figures",
 	"Pulling the puzzles apart",
@@ -54977,12 +55000,14 @@
 	"Running in circles",
 	"Chasing our tails",
 	"Coming back as we are",
+	"ch:",
 	"Nobody said it was easy",
 	"Oh, it's such a shame for us to part",
 	"Nobody said it was easy",
 	"No one ever said it would be so hard",
 	"I'm going back to the start",
-	"Oh [x4]"
+	"v: (instrumental line)",
+	"Oh x4"
     ]
 }
 },
