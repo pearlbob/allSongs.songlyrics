@@ -32401,6 +32401,68 @@
     ]
 }
 },
+{ "file": "I Will Remember You (1).songlyrics", "lastModifiedDate": 1563302528155, "song": 
+{
+"title": "I Will Remember You",
+"artist": "Sarah McLaughlan",
+"copyright": "Sony/ATV Songs LLC, Tyde Music, Seamus Egan Music and TCF Music Publishing Inc.",
+"key": "C",
+"defaultBpm": 102,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"ch:",
+	"A  D  E E",
+	"A  Dmaj7  E7 E",
+	"A  D  A Bm",
+	"A  D  E7  A",
+	"t:",
+	"A  D  E7  A",
+	"v:",
+	"A  D  E7 E",
+	"A  D  E  A",
+	"A  D  E E",
+	"A  D E7 E"
+    ],
+"lyrics": 
+    [
+	"c:",
+	"I will remember you",
+	"Will you remember me?",
+	"Don't let your love pass you by",
+	"Weep not for the memories",
+	"v:",
+	"Remember the good times that we had",
+	"Let them slip away from us when things got bad",
+	"Clearly I first saw you, smiling in the sun",
+	"Wanna feel your warmth upon me",
+	"Wanna be the one",
+	"c:",
+	"I will remember you",
+	"Will you remember me?",
+	"Don't let your love pass you by",
+	"Weep not for the memories",
+	"v:",
+	"I'm so tired, I can't sleep",
+	"Standing on the edge of something much too deep",
+	"Funny how we feel so much, but cannot say a word",
+	"We are screaming inside, oh, we can't be heard",
+	"c:(instrumental)",
+	"v:",
+	"So afraid to love you; more afraid to lose",
+	"Clinging to a past that doesn't let me chose",
+	"Once there was a darkness; a deep and endless night",
+	"You gave me everything you had, oh, you gave me life",
+	"c:",
+	"I will remember you",
+	"Will you remember me?",
+	"Don't let your love pass you by",
+	"Weep not for the memories",
+	"t:",
+	"Weep not for the memories"
+    ]
+}
+},
 { "file": "I Won't Back Down.songlyrics", "lastModifiedDate": 1556767034080, "song": 
 {
 "title": "I Won't Back Down",
