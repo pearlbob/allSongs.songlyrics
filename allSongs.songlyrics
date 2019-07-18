@@ -37439,6 +37439,56 @@
     ]
 }
 },
+{ "file": "Lady Jane.songlyrics", "lastModifiedDate": 1563414839974, "song": 
+{
+"title": "Lady Jane",
+"artist": "Rolling Stones",
+"copyright": "Abkco Music, Inc",
+"key": "D",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I: D C C D",
+	"D C C D",
+	"",
+	"V: D C C G D",
+	"D C C G D",
+	"E7 Am D7 G",
+	"C D7 Am Am..C D"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: My sweet Lady Jane",
+	"When I see you again",
+	"Your servant am I",
+	"And will humbly remain",
+	"Just heed this plea, my love",
+	"On bended knees my love",
+	"I pledge myself to Lady Jane",
+	"",
+	"V: My dear Lady Anne",
+	"I've done what I can",
+	"I must take my leave",
+	"For promised I am",
+	"This play is run, my love",
+	"Your time has come, my love",
+	"I pledge my troth to Lady Jane",
+	"",
+	"V: (instrumental)",
+	"",
+	"V: Oh, my sweet Marie",
+	"I wait at your ease",
+	"The sands have run out",
+	"For your lady and me",
+	"Wedlock is nigh my love",
+	"Her station's right my love",
+	"Life is secure with Lady Jane"
+    ]
+}
+},
 { "file": "Lady Madonna (1).songlyrics", "lastModifiedDate": 1528339272299, "song": 
 {
 "title": "Lady Madonna",
@@ -61620,7 +61670,7 @@
     ]
 }
 },
-{ "file": "Sunny .songlyrics", "lastModifiedDate": 1550616340982, "song": 
+{ "file": "Sunny  (1).songlyrics", "lastModifiedDate": 1563305099402, "song": 
 {
 "title": "Sunny ",
 "artist": "Bobby Hebb",
@@ -61633,7 +61683,7 @@
 	"v:Am C7 F7 E7",
 	"Am C7 F7 E7",
 	"Am Am6 FM7 Bb7 ",
-	"E7 E7 F7 Am ",
+	"E7 E7 Am FE7 ",
 	"   "
     ],
 "lyrics": 
