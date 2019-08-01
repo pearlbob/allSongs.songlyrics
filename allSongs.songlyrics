@@ -24494,7 +24494,7 @@
     ]
 }
 },
-{ "file": "Get Together.songlyrics", "lastModifiedDate": 1561938888276, "song": 
+{ "file": "Get Together (2).songlyrics", "lastModifiedDate": 1564540680501, "song": 
 {
 "title": "Get Together",
 "artist": "Youngbloods",
@@ -24505,21 +24505,24 @@
 "chords": 
     [
 	"",
-	"I: G F (x3)",
+	"I:",
+	"G F G F",
+	"G F",
 	"",
 	"",
 	"V: ",
-	"G G F F F",
-	"G G F F F",
-	"G G F F F",
+	"G G G F F",
+	"G G G F F",
+	"G G G F F",
 	"",
 	"",
 	"C: ",
 	"C D G CD",
-	"G F G",
+	"G G",
 	"",
 	"O:",
-	"G F (x3)"
+	"",
+	"G G G G"
     ],
 "lyrics": 
     [
@@ -76790,6 +76793,76 @@
 	"break out the hats          and  ho",
 	"c:break out the hats          and  hooter",
 	"oter"
+    ]
+}
+},
+{ "file": "sister golden hair.songlyrics", "lastModifiedDate": 1564624493760, "song": 
+{
+"title": "sister golden hair",
+"artist": "America",
+"copyright": "none",
+"key": "E",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:C♯m A E Esus4 E ",
+	"  G♯m C♯m B A ",
+	"V: E E G♯m G♯m ",
+	" A A E G♯m ",
+	" A E C♯m A ",
+	" F♯m A E Esus4 E  ",
+	"V: E E G♯m G♯m ",
+	" A A E G♯m ",
+	" A E C♯m A ",
+	" F♯m A E Esus4 E ",
+	"C: B B A E ",
+	"  B B A E ",
+	"  F♯m G♯m A ",
+	"I:C♯m A E Esus4 E ",
+	"  G♯m C♯m B A ",
+	"V: E E G♯m G♯m ",
+	"  A A E G♯m ",
+	"  A E C♯m A ",
+	"  F♯m A E Esus4 E ",
+	"C: B B A E ",
+	"  B B A E ",
+	"  F♯m G♯m A ",
+	"O: B A E "
+    ],
+"lyrics": 
+    [
+	"I:",
+	" ",
+	"",
+	"V: Well, I tried to make it Sunday, but I got so damn depressed, ",
+	"  that I set my sights on Monday and I got myself undressed ",
+	"  I ain't ready for the altar, but I do agree there's times, ",
+	"  when a woman sure can be a friend of mine ",
+	"",
+	" ",
+	"V: Well, I keep on thinkin' 'bout you, Sister Golden Hair surprise, ",
+	"  and I just can't live without you; can't you see it in my eyes? ",
+	"  I been one poor correspondent, and I been too, too hard to find, ",
+	"  but it doesn't mean you ain't been on my mind ",
+	"",
+	"C: Will you meet me in the middle, will you meet me in the air?      ",
+	"  Will you love me just a little, just enough to show you care? ",
+	"  Well I tried to fake it, I don't mind sayin', I just can't make it ",
+	"",
+	"I:",
+	" ",
+	"",
+	"V: Well, I keep on thinkin' 'bout you, Sister Golden Hair surprise, ",
+	"  and I just can't live without you; can't you see it in my eyes? ",
+	"  I been one poor correspondent, and I been too, too hard to find, ",
+	"  but it doesn't mean you ain't been on my mind ",
+	"",
+	"C: Will you meet me in the middle, will you meet me in the air? ",
+	"  Will you love me just a little, just enough to show you care? ",
+	"  Well I tried to fake it, I don't mind sayin', I just can't make it ",
+	"",
+	"O: Doo wop shoo wop, Doo wop shoo wop, Doo wop shoo wop, Doo wop shoo wop 4x"
     ]
 }
 }]
