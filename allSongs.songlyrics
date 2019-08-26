@@ -1914,6 +1914,165 @@
     ]
 }
 },
+{ "file": "All I Really Want (4).songlyrics", "lastModifiedDate": 1566754822626, "song": 
+{
+"title": "All I Really Want",
+"artist": "Alanis Morissette",
+"copyright": "Universal Music Publishing Group, BMG Rights Management, The Bicycle Music Company",
+"key": "Bb",
+"defaultBpm": 112,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I: Bb Bb Bb Bb",
+	"Bb Bb Bb Bb7sus4Bb",
+	"V: Bb Bb Bb Bb x2",
+	"PC: Bb7 Bb7 Bb7sus4 EbBb",
+	"Bb7 Bb7 Bb7sus4 EbBb",
+	"Ch: Bb Bb Bb7sus4 EbBb",
+	"Bb Bb Bb7sus4 EbBb",
+	"I2: Bb Bb Bb Bb",
+	"Br: Db Eb Db Bb",
+	"Db Eb Bb Bb",
+	"Bb Bb",
+	"V2: Bb Bb Bb NC ",
+	"Bb Bb Bb Bb",
+	"O: Bb Bb Bb7sus4 EbBb",
+	"Bb Bb Bb7sus4 EbBb"
+    ],
+"lyrics": 
+    [
+	"I: (Instrumental)",
+	"V: Do I stress you out?",
+	"My sweater is on backwards and inside out",
+	"And you say, how appropriate",
+	"I don't like to dissect everything today",
+	"I don't mean to pick you apart you see",
+	"But I can't help it",
+	"",
+	"PC: And there I go jumping before the gunshot has gone off",
+	"Slap me with a splintered ruler",
+	"And it would knock me to the floor if I wasn't there already",
+	"If only I could hunt the hunter",
+	"",
+	"Ch: And all I really want is some patience",
+	"A way to calm the angry voice",
+	"And all I really want is deliverance, ah",
+	"",
+	"V: Do I wear you out?",
+	"You must wonder why I'm relentless and all strung out",
+	"I'm consumed by the chill of solitary",
+	"I'm like Estella",
+	"I like to reel it in and then spit it out",
+	"I'm frustrated by your apathy",
+	"",
+	"PC: And I am frightened by the corrupted ways of this land",
+	"If only I could meet the maker",
+	"And I am fascinated by the spiritual man",
+	"I am humbled by his humble nature, yeah",
+	"",
+	"Ch: And what I wouldn't give to find a soul mate?",
+	"Someone else to catch this drift",
+	"And what I wouldn't give to meet a kindred? Ah",
+	"",
+	"I2: (Instrumental)",
+	"",
+	"Br: Enough about me, let's talk about you for a minute",
+	"Enough about you, let's talk about life for a while",
+	"The conflicts, the craziness and the sound of pretenses is falling",
+	"All around, all around",
+	"V2: Why are you so petrified of silence?",
+	"Here can you handle this?",
+	"Did you think about your bills, you ex, your deadlines",
+	"Or when you think you're going to die?",
+	"Or did you long for the next distraction?",
+	"",
+	"PC: And all I need now is intellectual intercourse",
+	"A soul to dig the hole much deeper",
+	"And I have no concept of time other than it is flying",
+	"If only I could kill the killer",
+	"",
+	"Ch: And all I really want is some peace man",
+	"A place to find a common ground",
+	"And all I really want is a wavelength, ah",
+	"",
+	"Ch: And all I really want is some comfort",
+	"A way to get my hands untied",
+	"And all I really want is some justice, ah",
+	"O: (Instrumental)"
+    ]
+}
+},
+{ "file": "All That I Want.songlyrics", "lastModifiedDate": 1566780560392, "song": 
+{
+"title": "All That I Want",
+"artist": "Vicki",
+"copyright": "2016",
+"key": "G",
+"defaultBpm": 80,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"Em D G C",
+	"Em D G C C",
+	"V:",
+	"D A G D",
+	"D A G A",
+	"CH:",
+	"Em D G C ",
+	"Em D G C ",
+	" ",
+	"BR:",
+	"C D G C x2",
+	"C D"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"The first time I saw you",
+	"I was thrilled that we met",
+	"Deep inside I knew",
+	"You were more like a threat",
+	"Ch:",
+	"All I really want",
+	"Is to be with you",
+	"All I really need",
+	"Is that you want me too",
+	"I:",
+	"V:",
+	"Then you came across",
+	"As if you really cared",
+	"I guess you could say",
+	"I really thought you did",
+	"",
+	"Ch:",
+	"All I really want",
+	"Is to be with you",
+	"All I really need",
+	"Is that you want me too",
+	"I:",
+	"Br:",
+	"I should have listened to that voice",
+	"Deep inside my head",
+	"The voice that said, you were dangerous",
+	"It tried to warn me",
+	"I:",
+	"V:",
+	"I try to forget",
+	"We ever met",
+	"But you're still on my mind",
+	"All of the time.",
+	"Ch:",
+	"All I really want",
+	"Is to be with you",
+	"All I really need",
+	"Is that you want me too",
+	"I: repeat first half"
+    ]
+}
+},
 { "file": "All You Wanted.songlyrics", "lastModifiedDate": 1561938862495, "song": 
 {
 "title": "All You Wanted",
@@ -13178,7 +13337,7 @@
     ]
 }
 },
-{ "file": "Come  To Visit.songlyrics", "lastModifiedDate": 1559884285527, "song": 
+{ "file": "Come  To Visit (1).songlyrics", "lastModifiedDate": 1566780599504, "song": 
 {
 "title": "Come  To Visit",
 "artist": "Vicki",
@@ -13648,6 +13807,59 @@
 "lyrics": 
     [
 	"v:"
+    ]
+}
+},
+{ "file": "Coming To Visit.songlyrics", "lastModifiedDate": 1566780601793, "song": 
+{
+"title": "Coming To Visit",
+"artist": "Vicki",
+"copyright": "2018",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"CDm EmF EmDm EmDm",
+	"AmC EmAm EmDm EmDm",
+	"C:",
+	"Am Em Am Em",
+	"Am Em Am Am",
+	"CDm EmF EmDm EmDm",
+	"B:",
+	"G C G C",
+	"F G F G"
+    ],
+"lyrics": 
+    [
+	"V:",
+	" I know it’s very late and I’m still not asleep.",
+	" I’m in such a state, cause my heart is in too deep.",
+	"It’s all your fault, you’re the one to blame.",
+	" Dare I ask, do you feel the same.",
+	"C:",
+	" Is this love coming to visit, cause I feel I’m buried in it.",
+	" Can’t get out alive, no matter how hard I try.",
+	"V:",
+	" Since you came along, my heart’s been put to the test.",
+	" My nights have been so long, I can’t get any rest.",
+	" It’s all your fault, there’s no sleep for me.",
+	" Up all night, you are all I see.",
+	"C: ",
+	"Is this love coming to visit, cause I feel I’m buried in it.",
+	" Can’t get out alive, no matter how hard I try.",
+	"B:",
+	" How will this all end, will things work out okay.",
+	" This new nightly trend, will it be here to stay?",
+	"V:",
+	" I get up from my bed, before the sun rises.",
+	" One of the walking dead, In this huge crisis.",
+	" No sleep for me, I have you to blame.",
+	" Dare I say, I hope you feel the same.",
+	"C:",
+	" Is this love coming to visit, cause I feel I’m buried in it.",
+	" Can’t get out alive, no matter how hard I try."
     ]
 }
 },
@@ -21841,6 +22053,109 @@
     ]
 }
 },
+{ "file": "Fight Song.songlyrics", "lastModifiedDate": 1566780613702, "song": 
+{
+"title": "Fight Song",
+"artist": "Rachel Platten",
+"copyright": "Sony/ATV",
+"key": "G",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"G D G D",
+	"V:",
+	"G DG D DG DG",
+	"DEm C G DG",
+	"",
+	"PC:",
+	"G C Em G",
+	"G C G",
+	"C:",
+	"G D Em C x2",
+	"Em D G",
+	"O:",
+	"C G D"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"Like a small boat",
+	"On the ocean",
+	"Sending big waves",
+	"Into motion",
+	"Like how a single word",
+	"Can make a heart open",
+	"I might only have one match",
+	"But I can make an explosion",
+	"PC:",
+	"And all those things I didn't say",
+	"Wrecking balls inside my brain",
+	"I will scream them loud tonight",
+	"Can you hear my voice this time?",
+	"C:",
+	"This is my fight song",
+	"Take back my life song",
+	"Prove I'm alright song",
+	"My power's turned on",
+	"Starting right now I'll be strong",
+	"I'll play my fight song",
+	"And I don't really care if nobody else believes",
+	"'Cause I've still got a lot of fight left in me",
+	"V:",
+	"Losing friends and I'm chasing sleep",
+	"Everybody's worried about me",
+	"In too deep",
+	"Say I'm in too deep (in too deep)",
+	"And it's been two years I miss my home",
+	"But there's a fire burning in my bones",
+	"Still believe",
+	"Yeah, I still believe",
+	"PC:",
+	"And all those things I didn't say",
+	"Wrecking balls inside my brain",
+	"I will scream them loud tonight",
+	"Can you hear my voice this time?",
+	"C:",
+	"This is my fight song",
+	"Take back my life song",
+	"Prove I'm alright song",
+	"My power's turned on",
+	"Starting right now I'll be strong",
+	"I'll play my fight song",
+	"And I don't really care if nobody else believes",
+	"'Cause I've still got a lot of fight left in me",
+	"O:",
+	"A lot of fight left in me",
+	"V:",
+	"Like a small boat",
+	"On the ocean",
+	"Sending big waves",
+	"Into motion",
+	"Like how a single word",
+	"Can make a heart open",
+	"I might only have one match",
+	"But I can make an explosion",
+	"C:",
+	"This is my fight song",
+	"Take back my life song",
+	"Prove I'm alright song",
+	"My power's turned on",
+	"Starting right now I'll be strong (I'll be strong)",
+	"I'll play my fight song",
+	"And I don't really care if nobody else believes",
+	"'Cause I've still got a lot of fight left in me",
+	"O:",
+	"Know I've still got a lot of fight left in me",
+	"Source: LyricFind",
+	"Songwriters: Dave Bassett / Rachel Platten",
+	"Fight Song lyrics © Sony/ATV Music Publishing LLC",
+	"Show "
+    ]
+}
+},
 { "file": "Fire (3).songlyrics", "lastModifiedDate": 1558310220550, "song": 
 {
 "title": "Fire",
@@ -26901,6 +27216,69 @@
     ]
 }
 },
+{ "file": "Hand in My Pocket (7).songlyrics", "lastModifiedDate": 1566754825166, "song": 
+{
+"title": "Hand in My Pocket",
+"artist": "Alanis Morissette",
+"copyright": "Universal Music Publishing Group, The Bicycle Music Company",
+"key": "G",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I: G G G G",
+	"",
+	"V: G G G G",
+	"G G G G",
+	"",
+	"Ch: F C G G",
+	" ",
+	"F CD G G",
+	"",
+	"O: G G G G G G",
+	"",
+	"I2: G G G G x2"
+    ],
+"lyrics": 
+    [
+	"I: (Instrumental)",
+	"V: I'm broke but I'm happy, I'm poor but I'm kind",
+	"I'm short but I'm healthy, yeah",
+	"I'm high but I'm grounded, I'm sane but I'm overwhelmed",
+	"I'm lost but I'm hopeful, baby",
+	"Ch: What it all comes down to",
+	"Is that everything's gonna be fine, fine, fine",
+	"'Cause I've got one hand in my pocket",
+	"And the other one is giving a high five",
+	"V: I feel drunk but I'm sober, I'm young and I'm underpaid",
+	"I'm tired but I'm working, yeah",
+	"I care but I'm restless, I'm here but I'm really gone",
+	"I'm wrong and I'm sorry baby",
+	"Ch: What it all comes down to",
+	"Is that everything is going to be quite alright",
+	"'Cause I've got one hand in my pocket",
+	"And the other one is flicking a cigarette",
+	"I2: (Instrumental)",
+	"Ch: What it all comes down to",
+	"Is that I haven't got it all figured out just yet",
+	"'Cause I've got one hand in my pocket",
+	"And the other one is giving a peace sign",
+	"V: I'm free but I'm focused, I'm green but I'm wise",
+	"I'm hard but I'm friendly, baby",
+	"I'm sad but I'm laughing, I'm brave but I'm chicken shit",
+	"I'm sick but I'm pretty baby",
+	"Ch: And what it all boils down to",
+	"Is that no one's really got it figured out just yet",
+	"I've got one hand in my pocket",
+	"And the other one is playing the piano",
+	"Ch: And what it all comes down to, my friends, yeah",
+	"Is that everything is just fine fine fine",
+	"I've got one hand in my pocket",
+	"And the other one is hailing a taxi cab",
+	"O: (Instrumental)"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Handlebars",
@@ -31490,6 +31868,90 @@
 	"",
 	"O:",
 	"(Instrumental - scales down)"
+    ]
+}
+},
+{ "file": "I Can See.songlyrics", "lastModifiedDate": 1566780563562, "song": 
+{
+"title": "I Can See",
+"artist": "Vicki",
+"copyright": "2001",
+"key": "C",
+"defaultBpm": 110,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"F G F G",
+	"F G F G ",
+	"",
+	"V:",
+	"F G F G",
+	"F G F G",
+	"V1: ",
+	"Am G Am G",
+	"F G F G",
+	"C:",
+	"Am G Am G",
+	"Am G F G",
+	"",
+	"B:",
+	"Em F Am G",
+	"C Dm E F"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"Today is the start of the rest of your life.",
+	"Don't sit there dreaming, it can be a waste of time.",
+	"V1:",
+	"Get up on your feet, make those dreams come true.",
+	"You have to face the heat, no matter what you do.",
+	"",
+	"C:",
+	"",
+	"I can see right where you are,",
+	"I've been there before.",
+	"Travelled the same road,",
+	"You have to work some more.",
+	"B:",
+	"Know that that love is with you, all along the way.",
+	"True love is strong, you won't go wrong.",
+	"I:",
+	"V:",
+	"Follow your heart, and you'll find the truth.",
+	"Give out your love, and it comes right back to you.",
+	"V1:",
+	"Don't ever give up, it can be hard to do.",
+	"Life isn't easy, hard to know what you'll go through.",
+	"C:",
+	"I can see right where you are,",
+	"I've been there before.",
+	"Travelled the same road,",
+	"You have to work some more.",
+	"",
+	"B:",
+	"Know that love is with you, all along the way.",
+	"True love is strong, you won't go wrong.",
+	"I:",
+	"V:",
+	"Today is the start of the rest of your life.",
+	"Don't sit there dreaming, it can be a waste of time.",
+	"V:",
+	"Follow your heart, and you'll find the truth.",
+	"Give out your love, and it comes right back to you.",
+	"C:",
+	"I can see right where you are,",
+	"I've been there before.",
+	"Travelled the same road,",
+	"You have to work some more.",
+	"C:",
+	"I can see right where you are,",
+	"I've been there before.",
+	"Travelled the same road,",
+	"You have to work some more.",
+	"I:"
     ]
 }
 },
@@ -40171,7 +40633,7 @@
     ]
 }
 },
-{ "file": "Life on Mars (6).songlyrics", "lastModifiedDate": 1550199155663, "song": 
+{ "file": "Life on Mars (7).songlyrics", "lastModifiedDate": 1566766077086, "song": 
 {
 "title": "Life on Mars",
 "artist": "David Bowie",
@@ -40198,7 +40660,7 @@
 	"",
 	"i:",
 	"G E7/G# Am C7/Bb",
-	"Bm C Cm G"
+	"Bm C Cm "
     ],
 "lyrics": 
     [
@@ -40246,6 +40708,12 @@
 	"'Cause I wrote it ten times or more",
 	"It's about to be writ again",
 	"As I ask you to focus on",
+	"",
+	"c:",
+	"Sailors fighting in the dance hall",
+	"Oh man!",
+	"Look at those cavemen go",
+	"It's the freakiest show",
 	"c:",
 	"Take a look at the Lawman",
 	"Beating up the wrong guy",
@@ -42835,6 +43303,68 @@
 	"touch me like you do tututouch me like you do",
 	"what are you waiting for",
 	" "
+    ]
+}
+},
+{ "file": "Love Me Like a Man (1).songlyrics", "lastModifiedDate": 1566754828777, "song": 
+{
+"title": "Love Me Like a Man",
+"artist": "Bonnie Raitt",
+"copyright": "Sony/ATV Music Publishing LLC",
+"key": "C",
+"defaultBpm": 92,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"Ch: C7 C7 C7 C7",
+	"F7 F7 C7 C7",
+	"G7 F7 C7 G7",
+	"I: C7 C7 C7 C7",
+	"F7 F7 C7 C7",
+	"G7 F7 C7 G7",
+	"O: G7 F7 C7 "
+    ],
+"lyrics": 
+    [
+	"Ch: These men I've been seeing, baby",
+	"Got their souls up on a shelf",
+	"You know they can't ever love me",
+	"When they can't even love themselves",
+	"But I need someone to love me",
+	"Someone to really understand",
+	"Won't put himself above me",
+	"Who just loves me like a man",
+	"",
+	"Ch: I never seen such losers",
+	"Even though I tried",
+	"To find a man who could take me home instead of",
+	"taking me for a ride",
+	"I need someone to love me ",
+	"I know you can",
+	"Believe it when I tell you",
+	"You can love me like a man",
+	"",
+	"I: (Instrumental)",
+	"",
+	"Ch: They all want me to rock them",
+	"Like my back ain't got no bone",
+	"I want a man to rock me",
+	"Like my backbone was his own",
+	"Darlin' I know you can",
+	"Believe me when I tell you",
+	"You can love me like a man",
+	"",
+	"Ch: I come home sad and lonely",
+	"Feel like I want to cry",
+	"I want a man to hold me baby",
+	"Not some fool to ask me why",
+	"I need someone to love me",
+	"Darlin' I know you can",
+	"Don't put yourself above me baby",
+	"Love me like a man",
+	"",
+	"O: Don't put yourself above me baby",
+	"Love me like a man"
     ]
 }
 },
@@ -46404,7 +46934,7 @@
     ]
 }
 },
-{ "file": "My Heart Keeps Saying.songlyrics", "lastModifiedDate": 1559884288652, "song": 
+{ "file": "My Heart Keeps Saying (1).songlyrics", "lastModifiedDate": 1566780575362, "song": 
 {
 "title": "My Heart Keeps Saying",
 "artist": "Vicki",
@@ -46617,6 +47147,77 @@
 	"You make me feel",
 	"You make me feel",
 	"You make me feel like a natural woman"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 0, "song": 
+{
+"title": "Need you Now",
+"artist": "Lady Antebellum",
+"copyright": "©2009 Sony/ATV Music Publishing LLC, Warner Chappell Music, Inc, Round Hill Music Big Loud Songs, Songtrust Ave",
+"key": "C",
+"defaultBpm": 108,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"A A C#m C#m x4",
+	"V:",
+	"A A C#m C#m x3",
+	"A A",
+	"C:",
+	"E E G#m G#m",
+	"E E G#m G#m",
+	"A A A ",
+	"A A C#m C#m ",
+	"C2:",
+	"E E G#m G#m x2",
+	"A A A ",
+	"br:",
+	"C#m-BE E A B",
+	"C#m-BE E A B",
+	"i2:",
+	"A A C#m B",
+	"",
+	"O:",
+	"E E G#m G#m x2",
+	"A A A",
+	"",
+	"E E G#m G#m x4",
+	"E E "
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"Picture perfect memories,scattered all around the floor.",
+	"Reaching for the phone, cause I can't fight it any more.",
+	"And I wonder if I ever cross your mind?",
+	"For me it happens all the time.",
+	"C:",
+	"It's a quarter after one, I'm all alone, and I need you now.",
+	"I said I wouldn't call but I lost all control, and I need you now.",
+	"And I don't know how I can do without, I just need you now.",
+	"V:",
+	"Another shot of whiskey, can't stop looking at the door.",
+	"Wishing you'd come sweeping, in the way you did before.",
+	"And I wonder if I ever cross your mind?",
+	"For me it happens all the time.",
+	"C2:",
+	"It's a quarter after one, I'm a little drunk, and I need you now.",
+	"I said I wouldn't call but I lost all control and I need you now.",
+	"And I dont know how I can do without, I just need you now",
+	"br:",
+	"O ow ow uu oow",
+	"i2:",
+	"Guess I'd rather hurt than the feel nothing at all.",
+	"O:",
+	"Its a quarter after one I'm all alone and I need you now",
+	"And I said I wouldn't call but I'm a little drunk, and I need you now.",
+	"And I don't know how I can do without, I just need you nowwwwww",
+	"I just need you now",
+	"Xxx",
+	"Oh baby I need you now"
     ]
 }
 },
@@ -51946,6 +52547,87 @@
     ]
 }
 },
+{ "file": "Prisoner of my Memories.songlyrics", "lastModifiedDate": 1566780576617, "song": 
+{
+"title": "Prisoner of my Memories",
+"artist": "Vicki",
+"copyright": "2018",
+"key": "Eb",
+"defaultBpm": 90,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"",
+	"I:",
+	" Cm Gm A♭ B♭",
+	"V:",
+	" Cm Gm A♭ B♭ x2",
+	"PC:",
+	" E♭B♭ A♭B♭ E♭B♭ A♭B♭",
+	"C:",
+	" CmGm A♭B♭ CmGm A♭B♭ x2",
+	"A:",
+	" CmB♭ A♭B♭ CmB♭ A♭B♭"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"I:",
+	"V:",
+	"There I go again,thinking about you,",
+	"Dreaming about your love",
+	"I can't forget the touch of",
+	"Your lips, on mine",
+	"PC:",
+	"These thoughts of you keep coming back",
+	"Reminding me of when we were together",
+	"CH:",
+	"I'm a prisoner of my memories",
+	"Those endless visions of you",
+	"Yes I'm a prisoner of my memories",
+	"All those sweet dreams of you",
+	"A:",
+	"No matter what I do",
+	"It not that easy to forget",
+	"I:",
+	"V:",
+	"I see you sometimes as you walk by me",
+	"With someone new",
+	"As far as I can tell, it seems to me",
+	"You don't even know that I exist",
+	"PC:",
+	"These thoughts of you keep flooding back",
+	"Reminding me of when we were together.",
+	"CH:",
+	"I'm a prisoner of my memories",
+	"Those endless visions of you",
+	"Yes I'm a prisoner of my memories",
+	"All those sweet dreams of you",
+	"A:",
+	"No matter what I do",
+	"It not that easy to forget",
+	"I:",
+	"V:",
+	"It was easy for you, to let me go",
+	"Without a second thought",
+	"When it comes to me no matter what I do",
+	"Its not that easy to forget",
+	"PC:",
+	"These thoughts of you keep flooding back",
+	"Reminding me of when we were together",
+	"",
+	"CH:",
+	"I'm a prisoner of my memories",
+	"Those endless visions of you",
+	"Yes I'm a prisoner of my memories",
+	"All those sweet dreams of you",
+	"A:",
+	"No matter what I do",
+	"It not that easy to forget",
+	"I:"
+    ]
+}
+},
 { "file": "Prodigal Son (2).songlyrics", "lastModifiedDate": 1548216916360, "song": 
 {
 "title": "Prodigal Son",
@@ -53199,6 +53881,31 @@
 	"All they ever do is disagree",
 	"One sits on the side of rhyme and reason",
 	"The other on the reckless side of me"
+    ]
+}
+},
+{ "file": "Red Clay.songlyrics", "lastModifiedDate": 1566754832195, "song": 
+{
+"title": "Red Clay",
+"artist": "Freddie Hubbard",
+"copyright": "Freddie Hubbard",
+"key": "Eb",
+"defaultBpm": 64,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I: Cm7 Ab7 Gaug7 Cm7",
+	"V: Cm7 Bbm7 Db7sus4Eb7sus4 F7sus4G7sus4 x8",
+	"C: Cm7 Bbm7Eb7 Abmaj7 Dm7b5Gaug7",
+	"O: Cm7 Bbm7 Db7sus4Eb7sus4 F7sus4G7sus4"
+    ],
+"lyrics": 
+    [
+	"I: (Instrumental)",
+	"V: (Instrumental)",
+	"C: (Instrumental solos)",
+	"V: (Instrumental)",
+	"O: (Instrumental)"
     ]
 }
 },
@@ -61300,6 +62007,75 @@
     ]
 }
 },
+{ "file": "Standing My Ground.songlyrics", "lastModifiedDate": 1566780578861, "song": 
+{
+"title": "Standing My Ground",
+"artist": "Vicki",
+"copyright": "2016",
+"key": "A",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"F#m D A E ",
+	"F#m D A E",
+	"V:",
+	"F#m D A E x2",
+	"Ch:",
+	"F#m E D E x2",
+	"Br:",
+	"F#m E F#m E",
+	"F#m D A E",
+	"O:",
+	"D E A"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"You were my baby or so I thought",
+	"Until you asked me to get out",
+	"Just pretending your love was true",
+	"Never intending to see it through",
+	"",
+	"Ch:",
+	"The winds keeps blowing",
+	"But I'm standing my ground",
+	"My heart knowing ",
+	"I'll keep standing my ground",
+	"I:",
+	"V:",
+	"I guess I was a fool for you",
+	"Never knowing what you would do",
+	"Here I am alone again",
+	"Living the dream away from you",
+	"",
+	"",
+	"Ch:",
+	"The winds keeps blowing",
+	"But I'm standing my ground",
+	"My heart knowing ",
+	"I'll keep standing my ground",
+	"Br:",
+	"The love I felt for you oh so strong",
+	"How could I know it was oh so wrong",
+	"I:",
+	"V:",
+	"I give you credit you played it through",
+	"Your kisses always so convincing",
+	"Your arms securely around me",
+	"You made me feel oh so loved",
+	"Ch:",
+	"The winds keeps blowing",
+	"But I'm standing my ground",
+	"My heart knowing ",
+	"I'll keep standing my ground",
+	"I:",
+	"O:"
+    ]
+}
+},
 { "file": "Star Dust.songlyrics", "lastModifiedDate": 1561938870915, "song": 
 {
 "title": "Star Dust",
@@ -68076,7 +68852,7 @@
     ]
 }
 },
-{ "file": "Time Keeps Passing.songlyrics", "lastModifiedDate": 1559884293285, "song": 
+{ "file": "Time Keeps Passing (1).songlyrics", "lastModifiedDate": 1566780603677, "song": 
 {
 "title": "Time Keeps Passing",
 "artist": "Vicki",
@@ -71617,6 +72393,59 @@
     ]
 }
 },
+{ "file": "way You Touch Me, The.songlyrics", "lastModifiedDate": 1566780581828, "song": 
+{
+"title": "Way You Touch Me, The",
+"artist": "Vicki",
+"copyright": "2001",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"C G F G",
+	"C G F G G",
+	"V:",
+	"C G F G x2",
+	"C:",
+	"Em F Em F x2",
+	"Em F C G G",
+	"B:",
+	"Em F Am G x2",
+	"O:",
+	"G Em F F C C C "
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"My senses have failed me, my eyes no longer see",
+	"My breathe is getting quicker now, just you wait and see",
+	"C:",
+	"No one ever touched me, the way that you touched me",
+	"No one ever moved me, the way that you moved me",
+	"I:",
+	"V:",
+	"Your voice makes me nervous, my hand are cold with sweat",
+	"Your eyes make me tremble, it seems like we just met",
+	"C:",
+	"No one ever touched me, the way that you touched me",
+	"No one ever moved me, the way that you moved me",
+	"B:",
+	"I get up just to dance wuth you but canot move my legs",
+	"You have made me oh so weak, I can't even speak",
+	"I:",
+	"V:",
+	"My heart cant stop beating, so fast it makes me weak",
+	"You know I can't go on like this, you're too much to resist",
+	"C:",
+	"No one ever touched me, the way that you touched me",
+	"No one ever moved me, the way that you moved me",
+	"O:"
+    ]
+}
+},
 { "file": "We Will become Silhouettes (2).songlyrics", "lastModifiedDate": 1542590106796, "song": 
 {
 "title": "We Will become Silhouettes",
@@ -72054,6 +72883,71 @@
 	"I know she's been, I'm sure she's been true to me",
 	"",
 	"Outro: Fade ouuuuuuuut"
+    ]
+}
+},
+{ "file": "What Am I To Do.songlyrics", "lastModifiedDate": 1566780584033, "song": 
+{
+"title": "What Am I To Do",
+"artist": "Vicki",
+"copyright": "199x",
+"key": "Ab",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Ab Bbm Db Eb",
+	"Ab Bbm Db Eb",
+	"",
+	"V:",
+	"Ab Bbm Db Eb",
+	"Ab Bbm Db Eb",
+	"Fm Eb Fm Eb",
+	"C:",
+	"Ab Bbm Cm Ab",
+	"Ab Bbm Db Eb Eb",
+	"B:",
+	"Cm Db Fm Eb",
+	"Cm Db Fm Eb",
+	"Eb Eb Eb Eb"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"There was no way to foretell, I would fall into your spell.",
+	"When we started to explore, I kept crying out for more.",
+	"I could feel a fire inside, much to strong for me to hide.",
+	"",
+	"C:",
+	"You knew you'd get your way, when the passion would not fade.",
+	"There wasn't much to say, I was easy to persuade.",
+	"I:",
+	"V: ",
+	"I just need to feel your touch, because I want you oh so much.",
+	"Your loving was so tender, my option just surrender.",
+	"There's nothin to explain, this is drivin me insane",
+	"C:",
+	"You knew you'd get your way, when the passion would not fade.",
+	"There wasn't much to say, I was easy to persuade.",
+	"B:",
+	"What I to do? I'm so enthralled by you.",
+	"My love for you is true, I wish you loved me too.",
+	"I:",
+	"C:",
+	"You knew you'd get your way, when the passion would not fade.",
+	"There wasn't much to say, I was easy to persuade.",
+	"V:",
+	"I'd really like for you to see, just how much you get to me.",
+	"It's you that I adore, I can't wait a minute more.",
+	"Can't you see my tears, I just need to feel you near.",
+	"C:",
+	"You knew you'd get your way, when the passion would not fade.",
+	"There wasn't much to say, I was easy to persuade.",
+	"C:",
+	"You knew you'd get your way, when the passion would not fade.",
+	"There wasn't much to say, I was easy to persuade."
     ]
 }
 },
@@ -72503,6 +73397,65 @@
     ]
 }
 },
+{ "file": "What does it matter.songlyrics", "lastModifiedDate": 1566780586396, "song": 
+{
+"title": "What does it matter",
+"artist": "Vicki",
+"copyright": "2018 26 bt bld",
+"key": "C",
+"defaultBpm": 80,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"C G F G ",
+	"Am G F G",
+	"V:",
+	"C G F G x2",
+	"",
+	"C: ",
+	"Am G F G x4"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"Take me up take me down",
+	"Let me follow you around",
+	"You can see I can hide",
+	"Till you say that I am found",
+	"C:",
+	"What does it matter, if love is not the plan",
+	"How can we be free when love slips through your hands",
+	"Love is so fragile, it breaks so easily",
+	"Like a snowflake in the winter, melting for all to see,",
+	"I:",
+	"V:",
+	"Bring me up, bring me down",
+	"Get my emotions on the run",
+	"Never stopping always hoping",
+	"Your love will soon be found",
+	"",
+	"C:",
+	"What does it matter, if love is not the plan",
+	"How can we be free when love slips through your hands",
+	"Love is so fragile, it breaks so easily",
+	"Like a snowflake in the winter, melting for all to see,",
+	"I:",
+	"V:",
+	"Never thought you would be the one",
+	"To end up with my heart",
+	"Life is full of surprises",
+	"I hope we'll never part",
+	"C:",
+	"What does it matter, if love is not the plan",
+	"How can we be free when love slips through your hands",
+	"Love is so fragile, it breaks so easily",
+	"Like a snowflake in the winter, melting for all to see,",
+	"I:"
+    ]
+}
+},
 { "file": "Whatever It Takes.songlyrics", "lastModifiedDate": 1534731278706, "song": 
 {
 "title": "Whatever It Takes",
@@ -72906,7 +73859,7 @@
     ]
 }
 },
-{ "file": "When you say nothing at all (1).songlyrics", "lastModifiedDate": 1541989820069, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "When you say nothing at all",
 "artist": "Ronan Keating",
@@ -72926,12 +73879,13 @@
 	"Eb Bb Ab Bb",
 	"PC:",
 	"Ab Ab Bb Bb",
-	"Eb Bb Ab Bb Bb Bb Bb",
+	"Eb Bb Ab ",
+	"Bb Bb Bb Bb",
 	"Ch:",
 	"Eb Bb Ab Bb",
 	"Eb Bb Ab Bb",
-	"Eb Bb Ab Bb",
-	"Bb Bb Bb Bb",
+	"Eb Bb Ab Ab",
+	"Bb Bb Ab Bb",
 	"Ab Ab Bb Bb",
 	"PC2:",
 	"Ab Ab Bb Bb",
@@ -72948,11 +73902,8 @@
 	"Eb Bb Ab Ab",
 	"Bb Bb Bb Bb ",
 	"O:",
-	"Eb Bb Ab Bb",
 	"Eb Bb Ab Ab ",
-	"Eb Bb Ab Ab ",
-	"Bb Bb Bb Bb",
-	"Ab Ab Ab Ab"
+	"Eb Bb Ab Ab "
     ],
 "lyrics": 
     [
@@ -72968,6 +73919,7 @@
 	"There's a truth in your eyes sayin' you'll never leave me",
 	"The touch of your hand says you'll catch me if ever I fall",
 	"You say it best when you say nothing at all",
+	"i:",
 	"V:",
 	"All day long I can hear people talking out loud",
 	"But when you hold me near, you drown out the crowd",
@@ -72980,13 +73932,13 @@
 	"The touch of your hand says you'll catch me if ever I fall",
 	"You say it best when you say nothing at all",
 	"a:",
-	"O:",
+	"ch:",
 	"The smile on your face lets me know that you need me",
 	"There's a truth in your eyes sayin' you'll never leave me",
 	"The touch of your hand says you'll catch me if ever I fall",
 	"You say it best when you say nothing at all",
-	"I:",
-	"I:"
+	"o:",
+	"o:"
     ]
 }
 },
@@ -73560,6 +74512,89 @@
 	"With every Christmas card I write",
 	"May your days be merry and bright",
 	"And may all your Christmases be white"
+    ]
+}
+},
+{ "file": "White Flag.songlyrics", "lastModifiedDate": 1566780609410, "song": 
+{
+"title": "White Flag",
+"artist": "Dido",
+"copyright": "Warner Chappell",
+"key": "F",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"F F Am Am",
+	"V:",
+	"Dm Dm Am Am",
+	"Dm Dm Am Am",
+	"PC:",
+	"C C Gm Am",
+	"C:",
+	"Bb F Gm Dm",
+	"Bb F C Gm",
+	"B:",
+	"F F Am Am",
+	"Gm7 Gm7 C C"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"I know you think that I shouldn't still love you",
+	"Or tell you that",
+	"But if I didn't say it, well I'd still have felt it",
+	"Where's the sense in that?",
+	"PC:",
+	"I promise I'm not trying to make your life harder",
+	"Or return to where we were",
+	"C:",
+	"I will go down with this ship",
+	"And I won't put my hands up and surrender",
+	"There will be no white flag above my door",
+	"I'm in love and always will be",
+	"V:",
+	"I know I left too much mess and",
+	"Destruction to come back again",
+	"And I caused nothing but trouble",
+	"I understand if you can't talk to me again",
+	"PC:",
+	"And if you live by the rules of it's over",
+	"Then I'm sure that that makes sense",
+	"C:",
+	"I will go down with this ship",
+	"And I won't put my hands up and surrender",
+	"There will be no white flag above my door",
+	"I'm in love and always will be",
+	"B:",
+	"And when we meet",
+	"Which I'm sure we will",
+	"All that was there",
+	"Will be there still",
+	"I'll let it pass",
+	"And hold my tongue",
+	"And you will think",
+	"That I've moved on",
+	"C:",
+	"I will go down with this ship",
+	"And I won't put my hands up and surrender",
+	"There will be no white flag above my door",
+	"I'm in love and always will be",
+	"C:",
+	"I will go down with this ship",
+	"And I won't put my hands up and surrender",
+	"There will be no white flag above my door",
+	"I'm in love and always will be",
+	"C:",
+	"I will go down with this ship",
+	"And I won't put my hands up and surrender",
+	"There will be no white flag above my door",
+	"I'm in love and always will be",
+	"Source: LyricFind",
+	"Songwriters: Dido Armstrong / Richard W. Jr. Nowels / Rollo Armstrong",
+	"White Flag lyrics © Warner Chappell Music, Inc"
     ]
 }
 },
@@ -74676,6 +75711,71 @@
 	"I can't live with or without you",
 	"I can't live...",
 	"I can't live with or without you"
+    ]
+}
+},
+{ "file": "Without You.songlyrics", "lastModifiedDate": 1566780588669, "song": 
+{
+"title": "Without You",
+"artist": "Vicki",
+"copyright": "2018 16 bt bld",
+"key": "C",
+"defaultBpm": 75,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"",
+	"I:",
+	" C F G C x2",
+	"V:",
+	" C F G C x2",
+	" F C F C",
+	"C:",
+	" F C F C x2",
+	"B:",
+	" Em F Am C x2",
+	" Em F Dm C x2"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"When I see you when I wake up",
+	"And you are still asleep",
+	"Its so hard for me to get up",
+	"Cause I want you next to me",
+	"Here we are together, and off to work I go",
+	"C:",
+	"My days are empty without you",
+	"My heart keeps searching without you",
+	"",
+	"V:",
+	"When I meet you when I come home",
+	"After working all the day",
+	"I can hardly wait to hold you",
+	"On your arms i want to stay",
+	"But now its your turn and off to work you go",
+	"C:",
+	"My nights are empty without you",
+	"My bed so lonely without you",
+	"B:",
+	"When we're apart, it seems so hard",
+	"I watch the clock, until I'm with you",
+	"I close my eyes, and there you are",
+	"at last, my life feels complete",
+	"I:",
+	"V:",
+	"Finally you come home",
+	"And jump into our bed",
+	"When I hold you in the night time",
+	"And you glance up at me",
+	"I can tell you that I love you",
+	"That we are meant to be",
+	"C: ",
+	"My bed so lonely, without you",
+	"My heart keeps searching, without you",
+	"",
+	"C: inst"
     ]
 }
 },
