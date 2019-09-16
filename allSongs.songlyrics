@@ -46798,6 +46798,77 @@
     ]
 }
 },
+{ "file": "Need you Now (3).songlyrics", "lastModifiedDate": 1566786366394, "song": 
+{
+"title": "Need you Now",
+"artist": "Lady Antebellum",
+"copyright": "©2009 Sony/ATV Music Publishing LLC, Warner Chappell Music, Inc, Round Hill Music Big Loud Songs, Songtrust Ave",
+"key": "C",
+"defaultBpm": 108,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"A A C#m C#m x4",
+	"V:",
+	"A A C#m C#m x3",
+	"A A",
+	"C:",
+	"E E G#m G#m",
+	"E E G#m G#m",
+	"A A A ",
+	"A A C#m C#m ",
+	"C2:",
+	"E E G#m G#m x2",
+	"A A A ",
+	"br:",
+	"C#m-BE E A B",
+	"C#m-BE E A B",
+	"i2:",
+	"A A C#m B",
+	"",
+	"O:",
+	"E E G#m G#m x2",
+	"A A A",
+	"",
+	"E E G#m G#m x4",
+	"E E "
+    ],
+"lyrics": 
+    [
+	"I:",
+	"V:",
+	"Picture perfect memories,scattered all around the floor.",
+	"Reaching for the phone, cause I can't fight it any more.",
+	"And I wonder if I ever cross your mind?",
+	"For me it happens all the time.",
+	"C:",
+	"It's a quarter after one, I'm all alone, and I need you now.",
+	"I said I wouldn't call but I lost all control, and I need you now.",
+	"And I don't know how I can do without, I just need you now.",
+	"V:",
+	"Another shot of whiskey, can't stop looking at the door.",
+	"Wishing you'd come sweeping, in the way you did before.",
+	"And I wonder if I ever cross your mind?",
+	"For me it happens all the time.",
+	"C2:",
+	"It's a quarter after one, I'm a little drunk, and I need you now.",
+	"I said I wouldn't call but I lost all control and I need you now.",
+	"And I dont know how I can do without, I just need you now",
+	"br:",
+	"O ow ow uu oow",
+	"i2:",
+	"Guess I'd rather hurt than the feel nothing at all.",
+	"O:",
+	"Its a quarter after one I'm all alone and I need you now",
+	"And I said I wouldn't call but I'm a little drunk, and I need you now.",
+	"And I don't know how I can do without, I just need you nowwwwww",
+	"I just need you now",
+	"Xxx",
+	"Oh baby I need you now"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Never Been to Spain ",
