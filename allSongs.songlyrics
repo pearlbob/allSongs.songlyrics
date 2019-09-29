@@ -15335,7 +15335,7 @@
     ]
 }
 },
-{ "file": "Crocodile Rock.songlyrics", "lastModifiedDate": 1549657782330, "song": 
+{ "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Crocodile Rock",
 "artist": "Elton John",
@@ -15345,11 +15345,12 @@
 "timeSignature": "4/4",
 "chords": 
     [
-	"I: FF# G G ",
-	"Em Em C C",
-	"D D ",
+	"I: FF# ",
+	"G G  Em Em ",
+	"C C D D ",
 	"",
-	"V: G G Em Em",
+	"V:",
+	" G G Em Em",
 	"C C D D",
 	"",
 	"C: Em Em A7 A7",
@@ -18010,6 +18011,58 @@
 	"But let's not say so long",
 	"It might just be fantastic",
 	"Don't get me wrong"
+    ]
+}
+},
+{ "file": "Don't Let Me Down.songlyrics", "lastModifiedDate": 1569717264650, "song": 
+{
+"title": "Don't Let Me Down",
+"artist": "Beatles, The",
+"copyright": "Sony/ATV",
+"key": "E",
+"defaultBpm": 80,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I: E.A. EXXX",
+	"",
+	"V: F#m A E..Esus4 E  2x",
+	"",
+	"C: F#m F#m E..Esus4 E   2x ",
+	"",
+	"Br: E E B B",
+	"B7 B7 E E"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"V: Don't let me down, don't let me down",
+	"Don't let me down, don't let me down",
+	"",
+	"C: Nobody ever loved me like she does",
+	"Oh, she does, yeah, she does",
+	"And if somebody loved me like she do me",
+	"Oh, she do me, yes, she does",
+	"",
+	"V: Don't let me down, don't let me down",
+	"Don't let me down, don't let me down",
+	"",
+	"Br: I'm in love for the first time",
+	"Don't you know it's gonna last",
+	"It's a love that lasts forever",
+	"It's a love that had no past",
+	"",
+	"V: Don't let me down, don't let me down",
+	"Don't let me down, don't let me down",
+	"",
+	"C: And from the first time that she really done me",
+	"Oh, she done me, she done me good",
+	"I guess nobody ever really done me",
+	"Oh, she done me, she done me good",
+	"",
+	"V: Don't let me down, don't let me down",
+	"Ooh ooh ooh ooh ooh-ooh,  don't let me down"
     ]
 }
 },
@@ -39677,7 +39730,7 @@
     ]
 }
 },
-{ "file": "Learn to Fly.songlyrics", "lastModifiedDate": 1569464423965, "song": 
+{ "file": "Learn to Fly (1).songlyrics", "lastModifiedDate": 1569712858114, "song": 
 {
 "title": "Learn to Fly",
 "artist": "Foo Fighters",
