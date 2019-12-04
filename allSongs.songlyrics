@@ -3408,6 +3408,62 @@
     ]
 }
 },
+{ "file": "Angels We Have Heard on High.songlyrics", "lastModifiedDate": 1574700954000, "song": 
+{
+"title": "Angels We Have Heard on High",
+"artist": "Traditional Christmas",
+"user": "Paul",
+"lastModifiedDate": 1574700954000,
+"copyright": "Public Domain (from trad. French carol, lyrics Bishop James Chadwick [1862])",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"D D A7 D",
+	"D D A7 D",
+	"Bm Bm A7 D",
+	"D D A7 D",
+	"C:",
+	"D B7 Em A7",
+	"D G A A",
+	"DA DG D A",
+	"D B7 Em A7",
+	"D G A A",
+	"DA DG D A",
+	"D D"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Angels we have heard on high",
+	"Sweetly singing o'er the plains",
+	"And the mountains in reply",
+	"Echoing their joyous strains",
+	"ch:",
+	"Gloria in excelsis Deo",
+	"Gloria in excelsis Deo",
+	"",
+	"v:",
+	"Oh shepherds, why this jubilee?",
+	"Why your joyous strains prolong?",
+	"What the gladsome tidings be",
+	"Which inspire your heavenly song?",
+	"ch:",
+	"Gloria in excelsis Deo",
+	"Gloria in excelsis Deo",
+	"v:",
+	"Come to Bethlehem and see",
+	"Him whose birth the angels sing",
+	"Come adore on bended knee",
+	"Christ the Lord the newborn King",
+	"ch:",
+	"Gloria in excelsis Deo",
+	"Gloria in excelsis Deo"
+    ]
+}
+},
 { "file": "Angels we have Heard on High (1).songlyrics", "lastModifiedDate": 1543786490042, "song": 
 {
 "title": "Angels we have Heard on High",
@@ -4479,6 +4535,44 @@
 "lyrics": 
     [
 	"i:",
+	"v:",
+	"Away in a manger, no crib for His bed",
+	"The little Lord Jesus laid down His sweet head.",
+	"The stars in the heavens looked down where He lay,",
+	"The little Lord Jesus asleep on the hay.",
+	"v:",
+	"The cattle are lowing, the poor Baby awakes,",
+	"But little Lord Jesus, no crying He makes.",
+	"I love Thee, Lord Jesus! Look down from the sky",
+	"And stay by my cradle till morning is nigh.",
+	"v:",
+	"Be near me, Lord Jesus; I ask Thee to stay",
+	"Close by me forever, and love me I pray.",
+	"Bless all the dear children in Thy tender care",
+	"And take us to Heaven to live with Thee there."
+    ]
+}
+},
+{ "file": "Away in a Manger.songlyrics", "lastModifiedDate": 1575342214000, "song": 
+{
+"title": "Away in a Manger",
+"artist": "traditional Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575342214000,
+"copyright": "Public Domain (late 19th century America)",
+"key": "D",
+"defaultBpm": 110,
+"timeSignature": "3/4",
+"chords": 
+    [
+	"V:",
+	"D D G D",
+	"A7 A7 G D",
+	"D D G D",
+	"G D Em.A7 D"
+    ],
+"lyrics": 
+    [
 	"v:",
 	"Away in a manger, no crib for His bed",
 	"The little Lord Jesus laid down His sweet head.",
@@ -13261,6 +13355,63 @@
     ]
 }
 },
+{ "file": "Christmas Song (Chestnuts Roasting on an Open Fire), The.songlyrics", "lastModifiedDate": 1574701936000, "song": 
+{
+"title": "Christmas Song (Chestnuts Roasting on an Open Fire), The",
+"artist": "Nate King Cole",
+"user": "Paul",
+"lastModifiedDate": 1574701936000,
+"copyright": "Mesquite Music Corp., Chappell Morris Ltd. (1944, Mel Torme & Rob't Wells)",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"C Dm7Dm7/G Cmaj7 Dm7Dm7/G",
+	"C6 Gm7C7 F E7",
+	"Am Fm6 C F♯m7B7",
+	"E Fm7B♭7 E♭ Dm7G7",
+	"V1:",
+	"C Dm7Dm7/G Cmaj7 Dm7Dm7/G",
+	"C Gm7C7 F B♭9",
+	"Am Fm6 C B7",
+	"Em7A7 Dm7G7 C C",
+	"V2:",
+	"C Dm7Dm7/G Cmaj7 Dm7Dm7/G",
+	"C Gm7C7 F B♭9",
+	"Am7 B♭9 Cmaj7 E♭dim",
+	"Em7A7 Dm7G7 Cmaj7",
+	"C:",
+	"Gm7 C9 Gm7 C9",
+	"Gm7 C9 Fmaj7 Fmaj7",
+	"Fm7 B♭9 E♭maj7 E♭maj7",
+	"Am7 D7 G7 G7"
+    ],
+"lyrics": 
+    [
+	"v:Chestnuts roasting on an open fire",
+	"Jack Frost nipping at your nose",
+	"Yuletide carols being sung by a choir",
+	"And folks dressed up like Eskimos",
+	"v1:",
+	"Everybody knows a turkey and some mistletoe",
+	"Help to make the season bright",
+	"Tiny tots, with their eyes all aglow",
+	"Will find it hard to sleep tonight",
+	"ch:",
+	"They know that Santa's on his way",
+	"He's loaded lots of toys and goodies on his sleigh",
+	"And every mother's child is gonna spy",
+	"To see if reindeer really know how to fly",
+	"v2:",
+	"And so I'm offering this simple phrase",
+	"To kids from one to ninety-two",
+	"Although it's been said many times, many ways",
+	"Merry Christmas to you"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 0, "song": 
 {
 "title": "Circle Game, The",
@@ -17273,6 +17424,45 @@
     ]
 }
 },
+{ "file": "Deck the Halls.songlyrics", "lastModifiedDate": 1575343090000, "song": 
+{
+"title": "Deck the Halls",
+"artist": "traditional Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575343090000,
+"copyright": "16th cent. Welsh tune; lyrics Thomas Oliphant (1862)",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"C Am GC FGCC",
+	"C Am GC FGCC",
+	"G C CAm GDGG",
+	"C Am FC FGCC"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Deck the halls with boughs of holly / Fa la la la la, la la la la",
+	"Tis the season to be jolly / Fa la la la la, la la la la",
+	"Don we now our gay apparel / Fa la la, la la la, la la la",
+	"Troll the ancient Yule-tide carol / Fa la la la la, la la la la",
+	"v:",
+	"See the blazing Yule before us / Fa la la la la, la la la la",
+	"Strike the harp and join the chorus / Fa la la la la, la la la la",
+	"Follow me in merry measure / Fa la la, la la la, la la la",
+	"While I tell the Yuletide treasure / Fa la la la la, la la la la",
+	"v:",
+	"Fast away the old year passes / Fa la la la la, la la la la",
+	"Hail the new, ye lads and lasses / Fa la la la la, la la la la",
+	"Sing we joyous all together / Fa la la, la la la, la la la",
+	"Heedless of the wind & weather / Fa la la la la, la la la la",
+	"   "
+    ]
+}
+},
 { "file": "Dedicated Follower of Fashion (1).songlyrics", "lastModifiedDate": 1545880161586, "song": 
 {
 "title": "Dedicated Follower of Fashion",
@@ -18436,12 +18626,12 @@
     ]
 }
 },
-{ "file": "Do You Hear What I Hear (1).songlyrics", "lastModifiedDate": 1575242216218, "song": 
+{ "file": "Do You Hear What I Hear.songlyrics", "lastModifiedDate": 1575174634000, "song": 
 {
 "title": "Do You Hear What I Hear",
 "artist": "Bing Crosby at Christmas",
 "user": "Paul",
-"lastModifiedDate": 1575242216218,
+"lastModifiedDate": 1575174634000,
 "copyright": "© Regent Music Corporation (Songwriters: Noel Regney/Gloria Shayne, 1962)",
 "key": "C",
 "defaultBpm": 106,
@@ -22941,6 +23131,78 @@
     ]
 }
 },
+{ "file": "Feliz Navidad.songlyrics", "lastModifiedDate": 1575343554000, "song": 
+{
+"title": "Feliz Navidad",
+"artist": "José Feliciano et al at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575343554000,
+"copyright": "© BMG Rights Management  (written by José Feliciano, 1970)",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"C D G Em |",
+	"C D G G | x2",
+	"C:",
+	"C D G Em |",
+	"C D G G | x2"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Feliz navidad",
+	"Feliz navidad",
+	"Feliz navidad, prospero año y felicidad",
+	"v:",
+	"Feliz navidad",
+	"Feliz navidad",
+	"Feliz navidad, prospero año y felicidad",
+	"ch:",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas from the bottom of my heart",
+	"ch:",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas from the bottom of my heart",
+	"v:",
+	"Feliz navidad",
+	"Feliz navidad",
+	"Feliz navidad, prospero año y felicidad",
+	"v:",
+	"Feliz navidad",
+	"Feliz navidad",
+	"Feliz navidad, prospero año y felicidad",
+	"ch:",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas from the bottom of my heart",
+	"ch:",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas from the bottom of my heart",
+	"v:",
+	"Feliz navidad",
+	"Feliz navidad",
+	"Feliz navidad, prospero año y felicidad",
+	"v:",
+	"Feliz navidad",
+	"Feliz navidad",
+	"Feliz navidad, prospero año y felicidad",
+	"ch:",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas from the bottom of my heart",
+	"ch:",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas",
+	"I want to wish you a merry Christmas from the bottom of my heart"
+    ]
+}
+},
 { "file": "Femme Fatale.songlyrics", "lastModifiedDate": 1546321110309, "song": 
 {
 "title": "Femme Fatale",
@@ -25375,6 +25637,98 @@
     ]
 }
 },
+{ "file": "Frosty the Snowman.songlyrics", "lastModifiedDate": 1575258776000, "song": 
+{
+"title": "Frosty the Snowman",
+"artist": "Gene Autrey at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575258776000,
+"copyright": "© Chappell & Co., Anne Rachel Music Corp., Hill & Range Songs, Inc.",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G G C G",
+	"C G D D",
+	"V1:",
+	"G G C G",
+	"C G D G",
+	"PC:",
+	"C Bm Am G",
+	"D D♭dim EmA D",
+	"C:",
+	"G G G D7",
+	"D7 D7 D7 G",
+	"T:",
+	"D D7 G"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Frosty the snowman was a jolly happy soul",
+	"With a corncob pipe and a button nose",
+	"And two eyes made out of coal",
+	"v1:",
+	"Frosty the snowman is a fairy tale, they say",
+	"He was made of snow but the children",
+	"Know how he came to life one day",
+	"pc:",
+	"There must have been some magic in that",
+	"Old silk hat they found",
+	"For when they placed it on his head",
+	"He began to dance around",
+	"v1:",
+	"O, Frosty the snowman",
+	"Was alive as he could be",
+	"And the children say he could laugh",
+	"And play just the same as you and me",
+	"ch:",
+	"Thumpetty thump thump",
+	"Thumpety thump thump",
+	"Look at Frosty go",
+	"Thumpetty thump thump",
+	"Thumpety thump thump",
+	"Over the hills of snow",
+	"",
+	"v:",
+	"Ooh Frosty the snowman knew",
+	"The sun was hot that day",
+	"So he said, \"Let's run and",
+	"We'll have some fun",
+	"Now before I melt away.\"",
+	"v1:",
+	"Down to the village",
+	"With a broomstick in his hand",
+	"Running here and there all",
+	"Around the square saying",
+	"Catch me if you can",
+	"pc:",
+	"He led them down the streets of town",
+	"Right to the traffic cop",
+	"And he only paused a moment when",
+	"He heard him holler \"Stop!\"",
+	"v1:",
+	"Mmm Frosty the snowman",
+	"Had to hurry on his way",
+	"But he waved goodbye saying",
+	"\"Don't you cry",
+	"I'll be back again some day.\"",
+	"",
+	"ch:",
+	"Thumpetty thump thump",
+	"Thumpety thump thump",
+	"Look at Frosty go",
+	"Thumpetty thump thump",
+	"Thumpety thump thump",
+	"Over the hills of snow",
+	"",
+	"t:",
+	"Over the hills of snow"
+    ]
+}
+},
 { "file": "Fuck You (2).songlyrics", "lastModifiedDate": 1526073479527, "song": 
 {
 "title": "Fuck You",
@@ -27299,6 +27653,55 @@
     ]
 }
 },
+{ "file": "God Rest Ye Merry Gentlemen.songlyrics", "lastModifiedDate": 1575344010000, "song": 
+{
+"title": "God Rest Ye Merry Gentlemen",
+"artist": "traditional Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575344010000,
+"copyright": "Public domain (16th century English carol)",
+"key": "C",
+"defaultBpm": 110,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"Am Am F E",
+	"Am Am F E",
+	"Dm CE Am G",
+	"C E Am G",
+	"C E Am Am",
+	"V1:",
+	"Am Am F E",
+	"Am Am F E",
+	"Dm CE Am G",
+	"C E Am G",
+	"C E A A"
+    ],
+"lyrics": 
+    [
+	"",
+	"v:",
+	"God rest ye merry gentlemen, let nothing you dismay.",
+	"Remember Christ our Savior was born on Christmas day",
+	"To save us all from Satan's power when we were gone astray.",
+	"O tidings of comfort and joy, comfort and joy,",
+	"O tidings of comfort and joy.",
+	"v:",
+	"From God, our Heavenly father, a blessed angel came,",
+	"and unto certain Shepherds brought tidings of the same,",
+	"How that in Bethlehem was born the Son of God by name.",
+	"O tidings of comfort and joy, comfort and joy,",
+	"O tidings of comfort and joy.",
+	"v1:",
+	"God rest ye merry gentlemen, let nothing you dismay.",
+	"Remember Christ our Savior was born on Christmas day",
+	"To save us all from Satan's power when we were gone astray.",
+	"O tidings of comfort and joy, comfort and joy,",
+	"O tidings of comfort and joy."
+    ]
+}
+},
 { "file": "Goin' Down Slow (1).songlyrics", "lastModifiedDate": 1527048043129, "song": 
 {
 "title": "Goin' Down Slow",
@@ -29094,13 +29497,13 @@
     ]
 }
 },
-{ "file": "Happy Christmas War is Over.songlyrics", "lastModifiedDate": 1543697948131, "song": 
+{ "file": "Happy Christmas War is Over.songlyrics", "lastModifiedDate": 1575344382000, "song": 
 {
 "title": "Happy Christmas War is Over",
 "artist": "John Lennon ",
-"user": "Unknown",
-"lastModifiedDate": 1543697948131,
-"copyright": "℗ This Compilation 2010 Capitol Records Inc. © 2010 Capitol Records Inc.",
+"user": "Paul",
+"lastModifiedDate": 1575344382000,
+"copyright": "© Downtown Music Publishing, BMG Rights Management",
 "key": "C",
 "defaultBpm": 106,
 "timeSignature": "4/4",
@@ -29490,6 +29893,41 @@
     ]
 }
 },
+{ "file": "Hark, the Herald Angels Sing.songlyrics", "lastModifiedDate": 1575344692000, "song": 
+{
+"title": "Hark, the Herald Angels Sing",
+"artist": "traditional Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575344692000,
+"copyright": "Public domain (words by Charles Wesley (1739); music by Felix Mendelsshon (1840)",
+"key": "C",
+"defaultBpm": 110,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"C CG CF GC",
+	"C AmD G DG",
+	"C FG C FG",
+	"F Dm GC FGC",
+	"F Dm GC FGC"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"'Hark,' the herald angels sing!",
+	"Glory to the new born King!",
+	"Peace on Earth and mercy mild;",
+	"God and sinners reconciled.",
+	"Joyful all ye nations rise!",
+	"Join the triumph of the skies!",
+	"With angelic host proclaim,",
+	"Christ is born in Beth-le-hem.",
+	"'Hark,' the herald angels sing!",
+	"Glory to the new born King!"
+    ]
+}
+},
 { "file": "Hark, the Herald Angels sing.songlyrics", "lastModifiedDate": 1543783024077, "song": 
 {
 "title": "Hark, the Herald Angles Sing",
@@ -29617,6 +30055,78 @@
 "user": "Unknown",
 "lastModifiedDate": 1544046083364,
 "copyright": "Christmas",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G Em7 Am7 D7",
+	"G Em7 Am7 D7",
+	"G Em7 Am7 D7",
+	"B7 E7 A7 D7",
+	"V1:",
+	"G Em7 Am7 D7",
+	"G Em7 Am7 D7",
+	"G Em7 Am7 B7",
+	"Em Em G G7",
+	"V2:",
+	"G Em7 Am7 D7",
+	"G Em7 Am7 D7",
+	"G Em7 Am7 B7",
+	"Em Em G G7",
+	"Cmaj7 Cmaj7 Am7 D7",
+	"G G G G",
+	"B:",
+	"Cmaj7 Cmaj7 Bm Bm",
+	"Am D7 Gmaj7 Gmaj7",
+	"Em F♯7 Bm E7",
+	"Am7 Am7 D7 D7"
+    ],
+"lyrics": 
+    [
+	"v:Have yourself a merry little Christmas",
+	"Let your heart be light",
+	"From now on our troubles",
+	"Will be out of sight",
+	"v1:",
+	"Have yourself a merry little Christmas",
+	"Make the Yuletide gay",
+	"From now on our troubles",
+	"Will be miles away, oh ooh",
+	"b:",
+	"Here we are as in olden days",
+	"Happy golden days of yore, ah",
+	"Faithful friends who are dear to us",
+	"Gather near to us, once more, ooh",
+	"v2:",
+	"Through the years we all will be together",
+	"If the fates allow",
+	"Hang a shining star upon the highest bough,",
+	"And have yourself a merry little Christmas now,",
+	"",
+	"Here we are as in olden days",
+	"Happy golden days of yore,",
+	"Faithful friends who are dear to us",
+	"Gather near to us, once more",
+	"",
+	"Through the years we all will be together",
+	"If the fates allow",
+	"Hang a shining star upon the highest bough, oh",
+	"And have yourself a merry little Christmas now, ooh",
+	"",
+	"Merry Christmas",
+	"Merry Christmas"
+    ]
+}
+},
+{ "file": "Have Yourself a Merry Little Christmas.songlyrics", "lastModifiedDate": 1575345056000, "song": 
+{
+"title": "Have Yourself a Merry Little Christmas",
+"artist": "Judy Garland",
+"user": "Paul",
+"lastModifiedDate": 1575345056000,
+"copyright": "© Sony/ATV Music Publishing LLC (Hugh Martin/Ralph Blane, 1944)",
 "key": "C",
 "defaultBpm": 106,
 "timeSignature": "4/4",
@@ -31604,6 +32114,56 @@
 	"That they'd rather see their faces fill with flies",
 	"All when I'd want to keep white roses in their eyes",
 	"o1:"
+    ]
+}
+},
+{ "file": "Holly Jolly Christmas.songlyrics", "lastModifiedDate": 1575345570000, "song": 
+{
+"title": "Holly Jolly Christmas",
+"artist": "Burl Ives",
+"user": "Paul",
+"lastModifiedDate": 1575345570000,
+"copyright": "© St. Nicholas Music Inc. (Johnny Marks, 1962)",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"C C C G7",
+	"G7 G7 G7 CG7",
+	"V1:",
+	"C C C G7",
+	"G7 G7 G7 C",
+	"V2:",
+	"C C C G7",
+	"G7 C D7G7 C",
+	"C:",
+	"F Em F C",
+	"Dm Am D7 G"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Have a holly jolly Christmas",
+	"It's the best time of the year",
+	"Well I don't know if there'll be snow",
+	"But have a cup of cheer",
+	"v1:",
+	"Have a holly jolly Christmas",
+	"And when you walk down the street",
+	"Say hello to friends you know",
+	"And everyone you meet",
+	"ch:",
+	"Ho ho the mistletoe",
+	"Is hung where you can see",
+	"Somebody waits for you",
+	"Kiss her once for me",
+	"v2:",
+	"Have a holly jolly Christmas",
+	"And in case you didn't hear",
+	"Oh by golly have a holly jolly Christmas",
+	"This year"
     ]
 }
 },
@@ -35842,7 +36402,7 @@
 	"V1:",
 	"F G C AmD x4",
 	"V2:",
-	" ",
+	"G C G D",
 	"C1:",
 	"G C G D"
     ],
@@ -36351,6 +36911,54 @@
 	"I'll calm down,",
 	"And I'll get along with you,",
 	"(okay one more time)"
+    ]
+}
+},
+{ "file": "I'll be Home for Christmas.songlyrics", "lastModifiedDate": 1575303450000, "song": 
+{
+"title": "I'll be Home for Christmas",
+"artist": "Bing Crosby",
+"user": "Paul",
+"lastModifiedDate": 1575303450000,
+"copyright": " © Gannon & Kent Music Co., Carlin America Inc. (written by the lyricist Kim Gannon and composer Walter Kent, 1943)",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"C Em Dm G7",
+	"C GmA Dm Dm",
+	"Fm G7 CEm Am",
+	"D D7 Dm G7",
+	"C:",
+	"C Em Dm G7",
+	"C GmA Dm Dm",
+	"F Fm C A7",
+	"D7 DmG C C"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"I'll be home for Christmas;",
+	"You can count on me.",
+	"Please have snow and mis-tle-toe",
+	"And presents on the tree.",
+	"ch:",
+	"Christmas eve will find me",
+	"Where the love light gleams.",
+	"I'll be home for Christmas",
+	"If only in my dreams.",
+	"v:",
+	"I'll be home for Christmas;",
+	"You can count on me.",
+	"Please have snow and mis-tle-toe",
+	"And presents on the tree.",
+	"ch:",
+	"Christmas eve will find me",
+	"Where the love light gleams.",
+	"I'll be home for Christmas",
+	"If only in my dreams"
     ]
 }
 },
@@ -39260,6 +39868,93 @@
     ]
 }
 },
+{ "file": "Jingle Bell Rock.songlyrics", "lastModifiedDate": 1575304430000, "song": 
+{
+"title": "Jingle Bell Rock",
+"artist": "Bobby Helms at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575304430000,
+"copyright": "© Warner Chappell Music, Inc. (Joseph Beal/James Boothe, 1957)",
+"key": "D",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"D Dmaj7 D6 D",
+	"D D Em A7",
+	"Em A7 Em A7",
+	"A A Em A7",
+	"V1:",
+	"D Dmaj7 D6 D",
+	"D D Em A7",
+	"Em A7 Em A7",
+	"Em A D D7",
+	"V2:",
+	"D Dmaj7 D6 D",
+	"D D B7 B7",
+	"G G Gm Gm",
+	"E7 A D D",
+	"V3:",
+	"D Dmaj7 D6 D",
+	"D D B7 B7",
+	"G G Gm Gm",
+	"E7 A E7 A",
+	"E7 A D D",
+	"C:",
+	"G G Gm Gm",
+	"D D D7 D7",
+	"E E E7 E7",
+	"A A7 A A7"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Jingle bell, jingle bell, jingle bell rock",
+	"Jingle bells swing and jingle bells ring",
+	"Snowin' and blowin' up bushels of fun",
+	"Now the jingle hop has begun",
+	"",
+	"v1:",
+	"Jingle bell, jingle bell, jingle bell rock",
+	"Jingle bells chime in jingle bell time",
+	"Dancin' and prancin' in Jingle Bell Square",
+	"In the frosty air",
+	"ch:",
+	"What a bright time, it's the right time",
+	"To rock the night away",
+	"Jingle bell time is a swell time",
+	"To go glidin' in a one-horse sleigh",
+	"v2:",
+	"Giddy-up jingle horse, pick up your feet",
+	"Jingle around the clock",
+	"Mix and a-mingle in the jinglin' feet",
+	"That's the jingle bell rock",
+	"v:",
+	"Jingle bell, jingle bell, jingle bell rock",
+	"Jingle bells swing and jingle bells ring",
+	"Snowin' and blowin' up bushels of fun",
+	"Now the jingle hop has begun",
+	"v1:",
+	"Jingle bell, jingle bell, jingle bell rock ",
+	"Jingle bell chime in jingle bell time ",
+	"Dancin' and prancin' in Jingle Bell Square",
+	"In the frosty air",
+	"ch:",
+	"What a bright time, it's the right time",
+	"To rock the night away",
+	"Jingle bell time is a swell time",
+	"To go glidin' in a one-horse sleigh",
+	"v3:",
+	"Giddy-up jingle horse, pick up your feet",
+	"Jingle around the clock",
+	"Mix and a-mingle in the jinglin' feet",
+	"That's the jingle bell",
+	"That's the jingle bell",
+	"That's the jingle bell rock"
+    ]
+}
+},
 { "file": "Jingle Bell Rock (1).songlyrics", "lastModifiedDate": 1543788965967, "song": 
 {
 "title": "Jingle Bell Rock",
@@ -39354,6 +40049,98 @@
 "user": "Unknown",
 "lastModifiedDate": 1543790684646,
 "copyright": "(P) 2014 Columbia Records, a Division of Sony Music Entertainment",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"G G G C",
+	"Am D7 D7 G",
+	"G G G C",
+	"Am D D7 GD",
+	"C:",
+	"G G GC G",
+	"C G A7 D7",
+	"G G GC G",
+	"C G D7 G"
+    ],
+"lyrics": 
+    [
+	"ch:",
+	"Jingle bells, jingle bells, ",
+	"Jingle all the way; ",
+	"Oh! what fun it is to ride ",
+	"In a one-horse open sleigh. ",
+	"Jingle bells, jingle bells, ",
+	"Jingle all the way; ",
+	"Oh! what fun it is to ride ",
+	"In a one-horse open sleigh. ",
+	"v:",
+	"Dashing through the snow ",
+	"In a one-horse open sleigh ",
+	"O'er the fields we go ",
+	"Laughing all the way ",
+	"Bells on bobtails ring ",
+	"Making spirits bright ",
+	"What fun it is to laugh and sing ",
+	"A sleighing song tonight! ",
+	"ch:",
+	"Jingle bells, jingle bells, ",
+	"Jingle all the way; ",
+	"Oh! what fun it is to ride ",
+	"In a one-horse open sleigh. ",
+	"Jingle bells, jingle bells, ",
+	"Jingle all the way; ",
+	"Oh! what fun it is to ride ",
+	"In a one-horse open sleigh. ",
+	"v:",
+	"A day or two ago,",
+	"I thought I'd take a ride",
+	"and soon Miss Fanny Bright",
+	"was seated by my side",
+	"the horse was lean and lank",
+	"misfortune seemed his lot",
+	"we ran into a drifted bank",
+	"and there we got upsot, oh!",
+	"ch:",
+	"Jingle bells, jingle bells, ",
+	"Jingle all the way; ",
+	"Oh! what fun it is to ride ",
+	"In a one-horse open sleigh. ",
+	"Jingle bells, jingle bells, ",
+	"Jingle all the way; ",
+	"Oh! what fun it is to ride ",
+	"In a one-horse open sleigh. ",
+	"v:",
+	"Now the ground is white ",
+	"Go it while you're young, ",
+	"Take the girls tonight ",
+	"and sing this sleighing song; ",
+	"Just get a bobtailed bay ",
+	"Two forty as his speed",
+	"Hitch him to an open sleigh ",
+	"And crack! you'll take the lead. ",
+	"ch:",
+	"Jingle bells, jingle bells, ",
+	"Jingle all the way; ",
+	"Oh! what fun it is to ride ",
+	"In a one-horse open sleigh. ",
+	"Jingle bells, jingle bells, ",
+	"Jingle all the way; ",
+	"Oh! what fun it is to ride ",
+	"In a one-horse...",
+	"Open Sleigh!"
+    ]
+}
+},
+{ "file": "Jingle Bells.songlyrics", "lastModifiedDate": 1575305006000, "song": 
+{
+"title": "Jingle Bells",
+"artist": "Everyone at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575305006000,
+"copyright": "Public Domain (written by James Lord, 1850)",
 "key": "C",
 "defaultBpm": 106,
 "timeSignature": "2/4",
@@ -42295,6 +43082,73 @@
 	"Rain, rain",
 	"Rain, rain",
 	"(Instrumental fade)"
+    ]
+}
+},
+{ "file": "Let It Snow.songlyrics", "lastModifiedDate": 1575306280000, "song": 
+{
+"title": "Let It Snow",
+"artist": "Vaughn Monroe and Everybody at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575306280000,
+"copyright": " © Sony/ATV Melody, Cahn Music Co., Cahn Music Company, Quaytor Productions LLC, Chappell & Co. O/B/o Producers Music Publishing Co. (written by lyricist Sammy Cahn & composer Jule Styne, 1945)",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"G D7 G G",
+	"D A7 D D",
+	"Am E7 Am Am",
+	"D7 Bm G D",
+	"V1:",
+	"G D7 G G",
+	"D A7 D D",
+	"Am E7 Am Am",
+	"D7 Bm G G",
+	"B:",
+	"D D D D",
+	"Em A7 G G",
+	"D D D D",
+	"E7 A7 D D",
+	"T:",
+	"D7 Bm G G"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Oh, the weather outside is frightful",
+	"But the fire is so delightful",
+	"And since we've no place to go",
+	"Let it snow, let it snow, let it snow",
+	"v:",
+	"Man, It doesn't show signs of stopping",
+	"And I brought some corn for popping",
+	"The lights are turned way down low",
+	"Let it snow, let it snow, let it snow",
+	"b:",
+	"When we finally kiss good-night",
+	"How I'll hate going out in the storm",
+	"But if you really hold me tight",
+	"All the way home I'll be warm",
+	"v1:",
+	"The fire is slowly dying",
+	"And, my dear, we're still good-bye-ing",
+	"But as long as you love me so",
+	"Let it snow, let it snow, let it snow",
+	"b:",
+	"When we finally kiss good-night",
+	"How I'll hate going out in the storm",
+	"But if you really grab me tight",
+	"All the way home I'll be warm",
+	"v1:",
+	"The fire is slowly dying",
+	"And, my dear, we're still good-bye-ing",
+	"But as long as you love me so",
+	"Let it snow, let it snow, let it snow",
+	"t:",
+	"Let it snow, let it snow, let it snow"
     ]
 }
 },
@@ -47864,7 +48718,11 @@
 	"E E E E",
 	"E E E E",
 	"PC:",
-	" ",
+	"E E E E x3",
+	"E E",
+	"(&#10256;E&#10296;GG)",
+	"DD",
+	"E E E E x4",
 	"C:",
 	"E E E E x3",
 	"E E",
@@ -49162,6 +50020,94 @@
 	"Hey, Mr. Spaceman, won't you please take me along?",
 	"I won't do anything wrong.",
 	"Hey, Mr. Spaceman, won't you please take me along for a ride?"
+    ]
+}
+},
+{ "file": "Must Be Christmas.songlyrics", "lastModifiedDate": 1575307424000, "song": 
+{
+"title": "Must Be Christmas",
+"artist": "Band of Merrymakers",
+"user": "Paul",
+"lastModifiedDate": 1575307424000,
+"copyright": " © Sony/ATV Music Publishing LLC, Warner Chappell Music, Inc, Universal Music Publishing Group, Peermusic Publishing",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"G C D D x2",
+	"V:",
+	"Em D G G x4",
+	"D D DX X",
+	"C:",
+	"C G D D x3",
+	"C C C C",
+	"G C D D x2",
+	"B:",
+	"Am C D D x2",
+	"Am G C",
+	"D D D DG..",
+	"O:",
+	"G C D D",
+	"C C C G"
+    ],
+"lyrics": 
+    [
+	"i:",
+	"v:",
+	"It’s the greatest holiday.",
+	"Good will and peace on Earth, finally they don’t seem so far away.",
+	"Stocking stuff with candy canes.",
+	"Old friends are back in town",
+	"And once they’re home it’s just like nothing’s changed.",
+	"So, hurry up, Santa, start that sleight!",
+	"",
+	"c:",
+	"When there’s only merry in your heart,",
+	"And you’re feeling nicer than you are,",
+	"When the day is made of wishes,",
+	"It must be Christmas.",
+	"Oh-Oh-Oh-Ooh-Oh-Oh!",
+	"It must be Christmas.",
+	"Oh-Oh-Oh-Ooh-Oh-Oh!",
+	"It must be...",
+	"",
+	"v:",
+	"Couldn’t last around the globe.",
+	"Last minute shopping list, you’re there to make the mall before it’s closed.",
+	"Wrapping paper, tying bows.",
+	"Secret crushes hope they’ll kiss beneath the bough of mistletoe.",
+	"We’re making angels in the snow!",
+	"",
+	"c:",
+	"When there’s only merry in your heart,",
+	"And you’re feeling nicer than you are,",
+	"When the day is made of wishes,",
+	"It must be Christmas.",
+	"Oh-Oh-Oh-Ooh-Oh-Oh!",
+	"It must be Christmas.",
+	"Oh-Oh-Oh-Ooh-Oh-Oh!",
+	"It must be...",
+	"",
+	"b:",
+	"So, if you’re feeling like a Scrooge,",
+	"Remember those less fortunate than you.",
+	"You and I could be the someone who make someone’s dreams come true.",
+	"",
+	"c:",
+	"When there’s only merry in your heart,",
+	"And you’re feeling nicer than you are,",
+	"When the day is made of wishes,",
+	"It must be Christmas.",
+	"Oh-Oh-Oh-Ooh-Oh-Oh!",
+	"It must be Christmas.",
+	"Oh-Oh-Oh-Ooh-Oh-Oh!",
+	"",
+	"o:",
+	"It must be Christmas.",
+	"Oh-Oh-Oh-Ooh-Oh-Oh!",
+	"It must be Christmas time again, my friend."
     ]
 }
 },
@@ -54317,13 +55263,13 @@
     ]
 }
 },
-{ "file": "Please Come Home for Christmas (3).songlyrics", "lastModifiedDate": 1543469174428, "song": 
+{ "file": "Please Come Home for Christmas.songlyrics", "lastModifiedDate": 1575236906000, "song": 
 {
 "title": "Please Come Home for Christmas",
 "artist": "Eagles",
-"user": "Unknown",
-"lastModifiedDate": 1543469174428,
-"copyright": "forthcoming",
+"user": "Paul",
+"lastModifiedDate": 1575236906000,
+"copyright": "© Trio Music Company, Jva Publishing Co. (Charles Brown/Gene Redd, 1960)",
 "key": "C",
 "defaultBpm": 106,
 "timeSignature": "2/4",
@@ -57506,6 +58452,65 @@
     ]
 }
 },
+{ "file": "Rockin' Around the Christmas Tree.songlyrics", "lastModifiedDate": 1575176292000, "song": 
+{
+"title": "Rockin' Around the Christmas Tree",
+"artist": "Brenda Lee",
+"user": "Paul",
+"lastModifiedDate": 1575176292000,
+"copyright": " © St. Nicholas Music Inc.(written by Johnny Marks, 1958)",
+"key": "G",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G G D D",
+	"D D D G",
+	"B:",
+	"C C Bm Bm",
+	"Em Em A D",
+	"T:",
+	"D D G G"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Rockin' around the Christmas tree",
+	"At the Christmas party hop",
+	"Mistletoe hung where you can see",
+	"Every couple tries to stop",
+	"v:",
+	"Rockin' around the Christmas tree",
+	"Let the Christmas spirit ring",
+	"Later we'll have some pumpkin pie",
+	"And we'll do some caroling",
+	"b:",
+	"You will get a sentimental feeling",
+	"When you hear",
+	"Voices singing let's be jolly",
+	"Deck the halls with boughs of holly",
+	"v:",
+	"Rockin' around the Christmas tree",
+	"Have a happy holiday",
+	"Everyone dancing merrily",
+	"In the new old fashioned way",
+	"b:",
+	"You will get a sentimental feeling",
+	"When you hear",
+	"Voices singing let's be jolly",
+	"Deck the halls with boughs of holly",
+	"v:",
+	"Rockin' around the Christmas tree",
+	"Have a happy holiday",
+	"Everyone dancing merrily",
+	"In the new old fashioned way",
+	"",
+	"t:",
+	"In the new old fashioned way"
+    ]
+}
+},
 { "file": "Rockin' Around the Christmas Tree.songlyrics", "lastModifiedDate": 1544838223463, "song": 
 {
 "title": "Rockin' Around the Christmas Tree",
@@ -58544,6 +59549,89 @@
     ]
 }
 },
+{ "file": "Rudolph the Red-Nosed Reindeer.songlyrics", "lastModifiedDate": 1575329418000, "song": 
+{
+"title": "Rudolph the Red-Nosed Reindeer",
+"artist": "Gene Autry and Everyone at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575329418000,
+"copyright": "© St. Nicholas Music Inc. (John D. Marks, 1949)",
+"key": "G",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"C Bm7 Am7 G",
+	"C Bm7 Am7 G",
+	"Em Em A A",
+	"A7 A7 D7 D7",
+	"V:",
+	"G G G D",
+	"D D D G",
+	"B:",
+	"C G C G",
+	"D D A7 D7",
+	"T:",
+	"D G"
+    ],
+"lyrics": 
+    [
+	"i:You know Dasher and Dancer",
+	"And Prancer and Vixen,",
+	"Comet and Cupid",
+	"And Donner and Blitzen.",
+	"But do you recall",
+	"The most famous reindeer of all?",
+	"v:",
+	"Rudolph the red-nosed reindeer",
+	"Had a very shiny nose",
+	"And if you ever saw it",
+	"You would even say it glows",
+	"v:",
+	"All of the other reindeer",
+	"Used to laugh and call him names",
+	"They never let poor Rudolph",
+	"Join in any reindeer games",
+	"b:",
+	"Then one foggy Christmas Eve",
+	"Santa came to say",
+	"Rudolph with your nose so bright",
+	"Won't you guide my sleigh tonight?",
+	"v:",
+	"Then all the reindeer loved him",
+	"And they shouted out with glee",
+	"Rudolph the red-nosed reindeer",
+	"You'll go down in history!",
+	"",
+	"(pause to breathe!)",
+	"",
+	"v:",
+	"Rudolph the red-nosed reindeer",
+	"Had a very shiny nose",
+	"And if you ever saw it",
+	"You would even say it glows",
+	"v:",
+	"All of the other reindeer",
+	"Used to laugh and call him names",
+	"They never let poor Rudolph",
+	"Join in any reindeer games",
+	"b:",
+	"Then one foggy Christmas Eve",
+	"Santa came to say",
+	"Rudolph with your nose so bright",
+	"Won't you guide my sleigh tonight?",
+	"v:",
+	"Then all the reindeer loved him",
+	"And they shouted out with glee",
+	"Rudolph the red-nosed reindeer",
+	"You'll go down in history!",
+	"",
+	"t:",
+	"You'll go down in history!"
+    ]
+}
+},
 { "file": "Rumor Has It (4).songlyrics", "lastModifiedDate": 1559500008862, "song": 
 {
 "title": "Rumor Has It",
@@ -59284,6 +60372,155 @@
 	"Hurry down the chimney tonight,",
 	"t:",
 	"Hurry, tonight."
+    ]
+}
+},
+{ "file": "Santa Baby.songlyrics", "lastModifiedDate": 1575336668000, "song": 
+{
+"title": "Santa Baby",
+"artist": "Eartha Kitt et al at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575336668000,
+"copyright": "© BMG Rights Management, Tamir Music (Joan Javits/Philip Springer/Tony Springer, 1953)",
+"key": "F",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"F Dm7 G7 C7",
+	"F Dm7 G7 C7",
+	"F Dm7 Gm7 C7",
+	"F Dm7 G7 C7",
+	"V1:",
+	"F Dm7 G7 C7",
+	"F Dm7 G7 C7",
+	"F Dm7 Gm7 C7",
+	"F Dm7 Gm7 C7",
+	"C:",
+	"A A A A",
+	"D7 D7 D7 D7",
+	"G7 G7 G7 G7",
+	"C7 C7 C7 C7",
+	"T:",
+	"F Dm7 Gm7 C7"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Santa Baby, just slip a sable under the tree, For me.",
+	"Been an awful good girl, Santa baby,",
+	"So hurry down the chimney tonight.",
+	"v:",
+	"Santa baby, a 54 convertible too,",
+	"Light blue.",
+	"I'll wait up for you dear,",
+	"Santa baby, so hurry down the chimney tonight.",
+	"ch:",
+	"Think of all the fun I've missed,",
+	"Think of all the fellas that I haven't kissed,",
+	"Next year I could be just as good,",
+	"If you'll check off my Christmas list,",
+	"v:",
+	"Santa baby, I wanna yacht,",
+	"And really that's not a lot,",
+	"Been an angel all year,",
+	"Santa baby, so hurry down the chimney tonight.",
+	"v:",
+	"Santa honey, one little thing I really need,",
+	"The deed",
+	"To a platinum mine,",
+	"Santa baby, so hurry down the chimney tonight.",
+	"v:",
+	"Santa cutie, and fill my stocking with a duplex,",
+	"And checks.",
+	"Sign your 'X' on the line,",
+	"Santa cutie, and hurry down the chimney tonight.",
+	"ch:",
+	"Come and trim my Christmas tree,",
+	"With some decorations bought at Tiffany's,",
+	"I really do believe in you,",
+	"Let's see if you believe in me,",
+	"v1:",
+	"Santa baby, forgot to mention one little thing,",
+	"A ring.",
+	"I don't mean on the phone,",
+	"Santa baby, so hurry down the chimney tonight,",
+	"t:",
+	"Hurry down the chimney tonight,",
+	"t:",
+	"Hurry, tonight."
+    ]
+}
+},
+{ "file": "Santa Claus Is Comin' to Town.songlyrics", "lastModifiedDate": 1575348094000, "song": 
+{
+"title": "Santa Claus Is Comin' to Town",
+"artist": "Eddie Cantor et al at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575348094000,
+"copyright": "© Emi Feist Catalog Inc., Emi Music Publishing France (John Frederick Coots and Haven Gillespie, 1934)",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"G C G C",
+	"GEm Am7D7 G G",
+	"C:",
+	"G7 C G7 C",
+	"A7 D A7 D",
+	"T:",
+	"GEm Am7D7 G"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"You better watch out, you better not cry,",
+	"You better not pout, I'm telling you why:",
+	"Santa Claus is coming to town.",
+	"v:",
+	"He's making a list and checking it twice.",
+	"He's gonna find out who's naughty and nice.",
+	"Santa Claus is coming to town.",
+	"ch:",
+	"He sees you when you're sleeping.",
+	"He knows when you're awake (really?)",
+	"He knows if you've been bad or good,",
+	"So be good for goodness sake!",
+	"v:",
+	"With little tin horns and little toy drums,",
+	"With root-ti-toot-toots and rumpty-tum-tums,",
+	"Santa Claus is coming to town!",
+	"v:",
+	"And curly-haired dolls to cuddle and coo,",
+	"Elephants, boats, and kiddie cars, too,",
+	"Santa Claus is coming to town!",
+	"c:",
+	"Then kids in Girl and Boy Land",
+	"Will have a jubilee.",
+	"They're gonna build a Toyland",
+	"All around the Christmas tree.",
+	"v:",
+	"You better watch out, you better not cry,",
+	"You better not pout, I'm telling you why:",
+	"Santa Claus is coming to town.",
+	"v:",
+	"He's making a list and checking it twice.",
+	"He's gonna find out who's naughty and nice.",
+	"Santa Claus is coming to town.",
+	"ch:",
+	"He sees you when you're sleeping.",
+	"He knows when you're awake (really?)",
+	"He knows if you've been bad or good,",
+	"So be good for goodness sake!",
+	"v:",
+	"Oh, you better watch out, you better not cry,",
+	"You better not pout, I'm telling you why:",
+	"Santa Claus is coming to town!",
+	"t:",
+	"Santa Claus is coming to town!"
     ]
 }
 },
@@ -61651,6 +62888,49 @@
     ]
 }
 },
+{ "file": "Silent Night.songlyrics", "lastModifiedDate": 1575338658000, "song": 
+{
+"title": "Silent Night",
+"artist": "Bing Crosby et al at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575338658000,
+"copyright": "Public Domain (composed in 1818 by Franz Xaver Gruber to lyrics by Joseph Mohr)",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "6/8",
+"chords": 
+    [
+	"V:",
+	"G G D G",
+	"C G C G",
+	"D GEm GD G"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Silent night, holy night",
+	"All is calm, all is bright",
+	"Round yon Virgin Mother and Child",
+	"Holy Infant so tender and mild",
+	"Sleep in heavenly peace",
+	"Sleep in heavenly peace",
+	"v:",
+	"Silent night, holy night!",
+	"Shepherds quake at the sight",
+	"Glories stream from heaven afar",
+	"Heavenly hosts sing Alleluia!",
+	"Christ, the Saviour is born",
+	"Christ, the Saviour is born",
+	"v:",
+	"Silent night, holy night",
+	"Son of God, love's pure light",
+	"Radiant beams from Thy holy face",
+	"With the dawn of redeeming grace",
+	"Jesus, Lord, at Thy birth",
+	"Jesus, Lord, at Thy birth \""
+    ]
+}
+},
 { "file": "Silent Night (2).songlyrics", "lastModifiedDate": 1543793516876, "song": 
 {
 "title": "Silent Night",
@@ -61850,6 +63130,83 @@
 	"D D",
 	"(&)",
 	"G D",
+	"G G7 C C",
+	"D D7 G C",
+	"T:",
+	"D D G C",
+	"T1:",
+	"D D G G"
+    ],
+"lyrics": 
+    [
+	"i:",
+	"v:",
+	"City sidewalks",
+	"Busy sidewalks",
+	"Dressed in holiday style",
+	"In the air there's",
+	"A feeling of Christmas",
+	"Children laughing",
+	"People passing",
+	"Meeting smile after smile",
+	"And on every",
+	"Street corner you'll hear",
+	"ch:",
+	"Silver Bells, Silver Bells",
+	"It's Christmas time in the city",
+	"Ring-a-ling, hear them sing",
+	"Soon it will be Christmas Day",
+	"v:",
+	"Strings of street lights",
+	"Even stoplights",
+	"Blink a bright red and green",
+	"As the shoppers rush home",
+	"With their treasures",
+	"Hear the snow crunch",
+	"See the kids bunch",
+	"This is Santa's big scene",
+	"And above all",
+	"This bustle you'll hear",
+	"ch:",
+	"Silver Bells, Silver Bells",
+	"It's Christmas time in the city",
+	"Ring-a-ling, hear them sing",
+	"Soon it will be Christmas Day",
+	"ch1:",
+	"Silver Bells, Silver Bells",
+	"It's Christmas time in the city",
+	"Ring-a-ling, hear them sing",
+	"Soon it will be Christmas Day",
+	"t:",
+	"Soon it will be Christmas Day",
+	"T1:",
+	"Soon it will be Christmas Day"
+    ]
+}
+},
+{ "file": "Silver Bells.songlyrics", "lastModifiedDate": 1575339336000, "song": 
+{
+"title": "Silver Bells",
+"artist": "Bing Crosby, Bob Hope et al at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575339336000,
+"copyright": "© Sony/ATV Music Publishing LLC (Ray Evans/Jay Livingston, 1950)",
+"key": "C",
+"defaultBpm": 110,
+"timeSignature": "3/4",
+"chords": 
+    [
+	"I:",
+	"G G G D",
+	"V:",
+	"G G7 C C |",
+	"D D7 G D | x2",
+	"C:",
+	"G G7 C C |",
+	"D D7 G D | x2",
+	"C1:",
+	"G G C C",
+	"D D G D",
 	"G G7 C C",
 	"D D7 G C",
 	"T:",
@@ -75619,6 +76976,48 @@
     ]
 }
 },
+{ "file": "We Wish You a Merry Christmas.songlyrics", "lastModifiedDate": 1575339972000, "song": 
+{
+"title": "We Wish You a Merry Christmas",
+"artist": "traditional ",
+"user": "Paul",
+"lastModifiedDate": 1575339972000,
+"copyright": "Public Domain (16th century England)",
+"key": "E",
+"defaultBpm": 110,
+"timeSignature": "3/4",
+"chords": 
+    [
+	"V:",
+	"E A F♯7 B7",
+	"G♯7 C♯m A.B7 E",
+	"C:",
+	"E B A B",
+	"E B A.B7 E"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"We wish you a Merry Christmas | x3",
+	"And a Happy New Year!",
+	"ch:",
+	"Good tidings we bring, to you and your kin,",
+	"Good tidings for Christmas and a Happy New Year!",
+	"v:",
+	"Oh, bring us some figgy pudding. | x3",
+	"And a cup of good cheer.",
+	"v:",
+	"We won't go until we get some, | x3",
+	"So bring it right here!",
+	"ch:",
+	"Good tidings we bring, to you and your kin,",
+	"Good tidings for Christmas and a Happy New Year!",
+	"v:",
+	"We wish you a Merry Christmas | x3",
+	"And a Happy New Year!"
+    ]
+}
+},
 { "file": "Weight, The (1).songlyrics", "lastModifiedDate": 1548220620527, "song": 
 {
 "title": "Weight, The",
@@ -76039,6 +77438,73 @@
 	"C:",
 	"You knew you'd get your way, when the passion would not fade.",
 	"There wasn't much to say, I was easy to persuade."
+    ]
+}
+},
+{ "file": "What Child Is This.songlyrics", "lastModifiedDate": 1575340550000, "song": 
+{
+"title": "What Child Is This",
+"artist": "traditional Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575340550000,
+"copyright": "Public Domain (lyrics added by William Chatterton Dix, in 1865 to a traditional English folk song)",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "6/8",
+"chords": 
+    [
+	"V:",
+	"Am C G Em",
+	"Am F E E",
+	"Am C G Em",
+	"Am E Am Am",
+	"C:",
+	"C C G Em",
+	"Am F E E",
+	"C G Em Em",
+	"Am E Am Am"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"What child is this",
+	"Who laid to rest",
+	"On Mary's lap is sleeping",
+	"Whom angels greet with anthems sweet",
+	"While shepherds watch are keeping",
+	"ch:",
+	"This, this is christ the king",
+	"Whom shepherds guard and angels sing",
+	"Haste, haste to bring him praise",
+	"The babe, the son of mary",
+	"v:",
+	"He lies in such a lowly place",
+	"Where ox and ass are feeding",
+	"The end of fear for all who hear",
+	"The silent word is speaking",
+	"ch:",
+	"This, this is christ the king",
+	"Whom shepherds guard and angels sing",
+	"Haste, haste to bring him praise",
+	"The babe, the son of mary",
+	"v:",
+	"So bring him incense",
+	"Gold and myrrh",
+	"Come peasant king to love him;",
+	"The king of kings salvation brings",
+	"Let loving hearts enthrone him",
+	"ch:",
+	"This, this is christ the king",
+	"Whom shepherds guard and angels sing",
+	"Haste, haste to bring him praise",
+	"The babe, the son of mary",
+	"ch:",
+	"Raise, raise the song on high",
+	"The virgin sings her lullaby:",
+	"Joy, joy for christ is born",
+	"The babe, the son of mary",
+	"",
+	"   "
     ]
 }
 },
@@ -77595,6 +79061,56 @@
     ]
 }
 },
+{ "file": "White Christmas.songlyrics", "lastModifiedDate": 1575347052000, "song": 
+{
+"title": "White Christmas",
+"artist": "Bing Crosby",
+"user": "Paul",
+"lastModifiedDate": 1575347052000,
+"copyright": "© Concord Music Publishing LLC (Irving Berlin, 1941)",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"G G Am D",
+	"C Am G G",
+	"G G7 C Cm",
+	"G Em Am D",
+	"C:",
+	"G G Am D",
+	"C Am G D7",
+	"G G7 C Cm",
+	"GEm AmD G G"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"I'm dreaming of a white Christmas",
+	"Just like the ones I used to know",
+	"Where the treetops glisten",
+	"And children listen",
+	"To hear sleigh bells in the snow",
+	"ch:",
+	"I'm dreaming of a white Christmas",
+	"With every Christmas card I write",
+	"May your days be merry and bright",
+	"And may all your Christmases be white",
+	"v:",
+	"I'm dreaming of a white Christmas",
+	"Just like the ones I used to know",
+	"Where the treetops glisten",
+	"And children listen",
+	"To hear sleigh bells in the snow",
+	"ch:",
+	"I'm dreaming of a white Christmas",
+	"With every Christmas card I write",
+	"May your days be merry and bright",
+	"And may all your Christmases be white"
+    ]
+}
+},
 { "file": "White Christmas (2).songlyrics", "lastModifiedDate": 1543788585320, "song": 
 {
 "title": "White Christmas",
@@ -78751,6 +80267,78 @@
 "user": "Unknown",
 "lastModifiedDate": 1543793048304,
 "copyright": "christmas",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"D D D D",
+	"A7 A7 A7 A7",
+	"A7 Em A A7",
+	"Bm A D D",
+	"C:",
+	"F♯ B F♯ F♯",
+	"F♯ B F♯ F♯",
+	"A D A A",
+	"A7 E A A7",
+	"T:",
+	"Bm A D D"
+    ],
+"lyrics": 
+    [
+	"v:",
+	"Sleigh bells ring, are you listening",
+	"In the lane snow is glistening",
+	"A beautiful sight, we're happy tonight",
+	"Walking in a winter wonderland",
+	"v:",
+	"Gone away is the bluebird",
+	"Here to stay is a new bird",
+	"He sings a love song as we go along",
+	"Walking in a winter wonderland",
+	"ch:",
+	"In the meadow we can build a snowwman",
+	"Then pretend that he is Parson Brown",
+	"He'll say, \"Are you married?\" We'll say, \"No man\"",
+	"But you can do the job when you're in town",
+	"v:",
+	"Later on we'll conspire",
+	"As we dream by the fire",
+	"To face unafraid, the plans that we've made",
+	"Walking in a winter wonderland",
+	"v:",
+	"Sleigh bells ring, are you listening",
+	"In the lane snow is glistening",
+	"A beautiful sight, we're happy tonight",
+	"Walking in a winter wonderland",
+	"v:",
+	"Gone away is the bluebird",
+	"Here to stay is a new bird",
+	"He sings a love song as we go along",
+	"Walking in a winter wonderland",
+	"ch:",
+	"In the meadow we can build a snowman",
+	"Then pretend that he is Parson Brown",
+	"He'll say, \"Are you married?\" We'll say, \"No man\"",
+	"But you can do the job when you're in town",
+	"v:",
+	"Later on we'll conspire",
+	"As we dream by the fire",
+	"To face unafraid, the plans that we've made",
+	"Walking in a winter wonderland",
+	"t:",
+	"Walking in a winter wonderland"
+    ]
+}
+},
+{ "file": "Winter Wonderland.songlyrics", "lastModifiedDate": 1575341268000, "song": 
+{
+"title": "Winter Wonderland",
+"artist": "Guy Lombardo, Johnny Mathis et al at Christmas",
+"user": "Paul",
+"lastModifiedDate": 1575341268000,
+"copyright": "© Words & Music A Div Of Big Deal Music LLC (written in 1934 by Felix Bernard and lyricist Richard B. Smith)",
 "key": "C",
 "defaultBpm": 100,
 "timeSignature": "2/4",
