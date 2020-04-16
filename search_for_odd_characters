@@ -1,7 +1,12 @@
 
 Autumn Leaves  (lines too long, add sections)
 Midnight Meat Train2  (afu)
-Takin' Care of Business  (add repeat counts)
+Takin' Care of Business  (only one version now, add repeat counts)
+Call Me The Breeze (we only need one of the four versions)
+I Can Help (2 versions)
+
+note: i may have to help with song deletes
+
 
 #	repairs in vim:
 1,$s/â€™/'/g
