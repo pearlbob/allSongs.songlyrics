@@ -1,0 +1,27 @@
+
+Autumn Leaves  (lines too long, add sections)
+Midnight Meat Train2  (afu)
+Takin' Care of Business  (add repeat counts)
+
+#	repairs in vim:
+1,$s/â€™/'/g
+g/â€˜/s//a/g
+
+#	vim search for odd characters:
+[^ -\~\t\{\}\[\]\|♯♭℗©\’_“”‘ü`—…ñéêè–ó¿í˜\^]
+
+
+#	music characters
+[^ -\~\t\{\}\[\]\|℗©\’_“”‘ü`—…ñéêè–ó¿í˜\^]
+g/♭/s//b/g
+g/♯/s//#/g
+
+
+character repairs Wed Apr 15 17:10:25 PDT 2020
+songs:
+San Francisco Bay Blues
+Takin' Care of Business
+Call Me The Breeze
+Crossroads
+I Can Help
+

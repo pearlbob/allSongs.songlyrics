@@ -1,0 +1,43 @@
+#!/bin/tcsh
+set echo; set verbose
+
+
+set force=0
+while ( $#argv > 0 )
+	switch ( $1:q )
+	case '-f':	#	by time
+		set force=1
+		shift
+		continue;
+	default:
+		echo unknown arg: $1
+		exit -1
+	endsw
+end
+
+
+set allSongsHome=~bob/GitHub/allSongs.songlyrics
+set f=allSongs.songlyrics
+set svrDst=gs://www.bsteele.com/bsteeleMusicApp
+
+
+cd $allSongsHome
+set date=`date -Iseconds`
+
+#	note: no checks
+
+#	git commit
+git commit -q -a -m "commit for new lyrics $date"
+git push -q 	#  ssh configured
+if ( $status != 0 ) then
+	echo git failure $status
+	exit $status
+endif
+
+
+#	copy to web
+gsutil -q -h "Cache-Control:public,max-age=20" cp $f $svrDst/$f
+gsutil -q acl ch -u AllUsers:R $svrDst/$f
+
+exit $status
+
