@@ -1,0 +1,4 @@
+#!/bin/tcsh
+#set echo; set verbose
+
+grep '^"title": ' $* | wc -l

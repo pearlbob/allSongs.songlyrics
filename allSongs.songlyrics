@@ -2081,6 +2081,70 @@
     ]
 }
 },
+{ "file": "All Apologies.songlyrics", "lastModifiedDate": 1587450193499, "song": 
+{
+"title": "All Apologies",
+"artist": "Nirvana",
+"user": "Shari",
+"lastModifiedDate": 1587450193499,
+"copyright": "1993 DGC",
+"key": "Db",
+"defaultBpm": 114,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"C♯ C♯ C♯ C♯ x2",
+	"V:",
+	"C♯ C♯ C♯ C♯ x4",
+	"PC:",
+	"F♯ F♯ F♯ F♯",
+	"F♯ F♯",
+	"C:",
+	"G♯ G♯ G♯ G♯",
+	"O:",
+	"D♭ D♭ D♭ D♭ x8"
+    ],
+"lyrics": 
+    [
+	"i:",
+	"(instrumental)",
+	"",
+	"v:",
+	"What else should I be? All apologies",
+	"What else should I say? Everyone is gay",
+	"What else should I write? I don't have the right",
+	"What else should I be? All apologies",
+	"",
+	"PC:",
+	"In the sun, in the sun I feel as one",
+	"In the sun, in the sun",
+	"",
+	"C:",
+	"Married, buried",
+	"",
+	"V:",
+	"I wish I was like you, easily amused",
+	"Find my nest of salt, everything is my fault",
+	"I'll take all the blame, aqua seafoam shame",
+	"Sunburn, freezer burn, choking on the ashes of her enemy",
+	"",
+	"PC:",
+	"In the sun, in the sun I feel as one",
+	"In the sun, in the sun",
+	"",
+	"C:",
+	"Married, buried",
+	"",
+	"C:",
+	"Married, buried, yeah yeah yeah yeah",
+	"",
+	"O: ",
+	"-",
+	"All in all is all we are, all in all is all we are x7"
+    ]
+}
+},
 { "file": "All Blues.songlyrics", "lastModifiedDate": 1562535498941, "song": 
 {
 "title": "All Blues",
@@ -40562,6 +40626,61 @@
 	"And what I must do",
 	"If you could only see how blue her eyes can be when she says",
 	"When she says she loves me"
+    ]
+}
+},
+{ "file": "If.songlyrics", "lastModifiedDate": 1587450168300, "song": 
+{
+"title": "If",
+"artist": "Bread",
+"user": "Shari",
+"lastModifiedDate": 1587450168300,
+"copyright": "1971 Elektra",
+"key": "A",
+"defaultBpm": 97,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"A D♭m/A♭ D♭dim/G D/G♭",
+	"Dm/F A/E Dm E7",
+	"V:",
+	"A D♭m/A♭ D♭dim/G D/G♭ |",
+	"Dm/F A/E Dm E7 | x2",
+	"C:",
+	"G♭m Faug A/E D",
+	"Em/D♭ G♭ Bm7 E7",
+	"O:",
+	"A D/A Dm/F A"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(Instrumental)",
+	"If a",
+	"",
+	"V:",
+	"picture paints a thousand words then why can't I paint you?",
+	"The words will never show the you I've come to know",
+	"If a face could launch a thousand ships then where am I to go?",
+	"There's no one home but you, you're all that's left me too",
+	"",
+	"C:",
+	"And when my love for life is running dry",
+	"You come and pour yourself on me",
+	"",
+	"V:",
+	"If a man could be two places at one time I'd be with you",
+	"Tomorrow and today, beside you all the way",
+	"If the world should stop revolving spinning slowly down to die",
+	"I'd spend the end with you, and when the world was through",
+	"",
+	"C:",
+	"Then one by one the stars would all go out",
+	"Then you and I would simply fly away",
+	"",
+	"O:",
+	"(Instrumental)"
     ]
 }
 },
