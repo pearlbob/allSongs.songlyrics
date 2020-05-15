@@ -2,6 +2,7 @@
 #set echo; set verbose
 
 
+#	args
 set force=0
 while ( $#argv > 0 )
 	switch ( $1:q )
@@ -16,15 +17,16 @@ while ( $#argv > 0 )
 end
 
 
-set allSongsHome=~bob/GitHub/allSongs.songlyrics
+#	default locations and file
 set f=allSongs.songlyrics
+set allSongsHome=~bob/GitHub/allSongs.songlyrics
 set svrDst=gs://www.bsteele.com/bsteeleMusicApp
 
 
 cd $allSongsHome
 set date=`date -Iseconds`
 
-#	note: no checks
+#	note: no checks!
 
 #	git commit
 git commit -q -a -m "commit for new lyrics $date"
@@ -33,6 +35,9 @@ if ( $status != 0 ) then
 	echo git failure $status
 	exit $status
 endif
+
+#	copy to local pages
+cp $f /var/www/html/public_html/bsteeleMusicApp/$f
 
 
 #	copy to web
