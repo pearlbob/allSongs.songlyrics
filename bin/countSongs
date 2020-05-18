@@ -1,4 +1,4 @@
 #!/bin/tcsh
 #set echo; set verbose
 
-grep '^"title": ' $* | wc -l
+grep '^"title": ' allSongs.songlyrics | wc -l
