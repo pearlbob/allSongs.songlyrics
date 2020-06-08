@@ -19,6 +19,7 @@ end
 
 #	default locations and file
 set f=allSongs.songlyrics
+set fm=allSongs.songmetadata
 set allSongsHome=~bob/GitHub/allSongs.songlyrics
 set svrDst=gs://www.bsteele.com/bsteeleMusicApp
 
@@ -38,11 +39,14 @@ endif
 
 #	copy to local pages
 cp $f /var/www/html/public_html/bsteeleMusicApp/$f
+cp $fm /var/www/html/public_html/bsteeleMusicApp/$fm
 
 
 #	copy to web
 gsutil -q -h "Cache-Control:public,max-age=20" cp $f $svrDst/$f
 gsutil -q acl ch -u AllUsers:R $svrDst/$f
+gsutil -q -h "Cache-Control:public,max-age=20" cp $fm $svrDst/$fm
+gsutil -q acl ch -u AllUsers:R $svrDst/$fm
 
 exit $status
 
