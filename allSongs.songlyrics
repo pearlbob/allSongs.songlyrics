@@ -24092,12 +24092,12 @@
     ]
 }
 },
-{ "file": "Everybody Wants to Rule the World (11).songlyrics", "lastModifiedDate": 1599254797203, "song": 
+{ "file": "Everybody Wants to Rule the World (13).songlyrics", "lastModifiedDate": 1599272696312, "song": 
 {
 "title": "Everybody Wants to Rule the World",
 "artist": "Tears for Fears",
 "user": "Bodhi",
-"lastModifiedDate": 1599254797203,
+"lastModifiedDate": 1599272696312,
 "copyright": "1985",
 "key": "D",
 "defaultBpm": 170,
@@ -24128,8 +24128,9 @@
 	"G DA G DA",
 	"G DA",
 	"B2:",
-	"C G G G G",
-	"Bm C Bm C G A",
+	"G G G G",
+	"Bm C Bm C",
+	"G A",
 	"A/DG/D G/D A/DG/D G/D x2",
 	"O:",
 	"A/DG/D G/D A/DG/D G/D x4"
