@@ -48,5 +48,10 @@ gsutil -q acl ch -u AllUsers:R $svrDst/$f
 gsutil -q -h "Cache-Control:public,max-age=20" cp $fm $svrDst/$fm
 gsutil -q acl ch -u AllUsers:R $svrDst/$fm
 
+
+#	copy to local development locations, as local copies
+cp $f /home/bob/GitHub/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$f
+cp $f /home/bob/GitHub/bsteeleMusicFlutter/lib/assets/$f
+
 exit $status
 
