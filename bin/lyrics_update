@@ -20,7 +20,7 @@ end
 #	default locations and file
 set f=allSongs.songlyrics
 set fm=allSongs.songmetadata
-set allSongsHome=~bob/GitHub/allSongs.songlyrics
+set allSongsHome=~bob/github/allSongs.songlyrics
 set svrDst=gs://www.bsteele.com/bsteeleMusicApp
 
 
@@ -50,8 +50,8 @@ gsutil -q acl ch -u AllUsers:R $svrDst/$fm
 
 
 #	copy to local development locations, as local copies
-cp $f /home/bob/GitHub/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$f
-cp $f /home/bob/GitHub/bsteeleMusicFlutter/lib/assets/$f
+cp $f /home/bob/github/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$f
+cp $f /home/bob/github/bsteeleMusicFlutter/lib/assets/$f
 
 exit $status
 
