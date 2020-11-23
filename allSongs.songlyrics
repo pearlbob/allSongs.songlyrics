@@ -18678,12 +18678,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1603687368688, "song": 
+{ "file": "", "lastModifiedDate": 1606108522971, "song": 
 {
 "title": "Daydream",
 "artist": "Lovin' Spoonful",
 "user": "Shari",
-"lastModifiedDate": 1603687368688,
+"lastModifiedDate": 1606108522971,
 "copyright": "1966 Kama Sutra",
 "key": "C",
 "defaultBpm": 112,
@@ -18706,7 +18706,7 @@
 	"And I'm lost in a daydream",
 	"Dreamin' 'bout my bundle of joy",
 	"",
-	"C: even if time ain't really on my side",
+	"C: Even if time ain't really on my side",
 	"It's one of those days for taking a walk outside",
 	"I'm blowing the day to take a walk in the sun",
 	"And fall on my face on somebody's new-mown lawn",
@@ -19537,106 +19537,76 @@
     ]
 }
 },
-{ "file": "Demons.songlyrics", "lastModifiedDate": 1519420921000, "song": 
+{ "file": "", "lastModifiedDate": 1606106292047, "song": 
 {
 "title": "Demons",
 "artist": "Imagine Dragons",
-"user": "Unknown",
-"lastModifiedDate": 1519420921000,
-"copyright": "Universal Music Publishing Group",
-"key": "C",
-"defaultBpm": 100,
+"user": "Shari",
+"lastModifiedDate": 1606106292047,
+"copyright": "2012 Interscope",
+"key": "Eb",
+"defaultBpm": 88,
 "timeSignature": "4/4",
 "chords": 
     [
 	"V:",
-	"C G Am F x2",
+	"E♭ B♭ Cm A♭ x2",
 	"PC:",
-	"C G Am F x2",
+	"E♭ B♭ Cm A♭ x2",
 	"C:",
-	"C G Am F x2"
+	"E♭ B♭ Cm A♭ x2"
     ],
 "lyrics": 
     [
-	"v: (instrumental intro)",
 	"v:",
-	"When the days are cold",
-	"And the cards all fold",
-	"And the saints we see",
-	"Are all made of gold",
-	"When your dreams all fail",
-	"And the ones we hail",
-	"Are the worst of all",
-	"And the blood's run stale",
+	"When the days are cold and the cards all fold",
+	"And the saints we see are all made of gold",
+	"When your dreams all fail and the ones we hail",
+	"Are the worst of all and the blood's run stale",
+	"",
 	"pc:",
-	"I wanna hide the truth",
-	"I wanna shelter you",
-	"But with the beast inside",
-	"There's nowhere we can hide",
-	"No matter what we breed",
-	"We still are made of greed",
-	"This is my kingdom come",
-	"This is my kingdom come",
+	"I wanna hide the truth, I wanna shelter you",
+	"But with the beast inside there's nowhere we can hide",
+	"No matter what we breed we still are made of greed",
+	"This is my kingdom come this is my kingdom come",
+	"",
 	"c:",
-	"When you feel my heat",
-	"Look into my eyes",
-	"It's where my demons hide",
-	"It's where my demons hide",
-	"Don't get too close",
-	"It's dark inside",
-	"It's where my demons hide",
-	"It's where my demons hide",
+	"When you feel my heat, look into my eyes",
+	"It's where my demons hide, it's where my demons hide",
+	"Don't get too close, it's dark inside",
+	"It's where my demons hide, it's where my demons hide",
+	"",
 	"v:",
-	"At the curtain's call",
-	"It's the last of all",
-	"When the lights fade out",
-	"All the sinners crawl",
-	"So they dug your grave",
-	"And the masquerade",
-	"Will come calling out",
-	"At the mess you made",
+	"At the curtain's call, it's the last of all",
+	"When the lights fade out, all the sinners crawl",
+	"So they dug your grave and the masquerade",
+	"Will come calling out at the mess you made",
+	"",
 	"pc:",
-	"Don't wanna let you down",
-	"But I am hell bound",
-	"Though this is all for you",
-	"Don't wanna hide the truth",
-	"No matter what we breed",
-	"We still are made of greed",
-	"This is my kingdom come",
-	"This is my kingdom come",
+	"Don't wanna let you down but I am hell bound",
+	"Though this is all for you don't wanna hide the truth",
+	"No matter what we breed we still are made of greed",
+	"This is my kingdom come, this is my kingdom come",
+	"",
 	"c:",
-	"When you feel my heat",
-	"Look into my eyes",
-	"It's where my demons hide",
-	"It's where my demons hide",
-	"Don't get too close",
-	"It's dark inside",
-	"It's where my demons hide",
-	"It's where my demons hide",
+	"When you feel my heat, look into my eyes",
+	"It's where my demons hide, it's where my demons hide",
+	"Don't get too close, it's dark inside",
+	"It's where my demons hide, it's where my demons hide",
+	"",
 	"v:(instrumental)",
+	"",
 	"pc:",
-	"They say it's what you make",
-	"I say it's up to fate",
-	"It's woven in my soul",
-	"I need to let you go",
-	"Your eyes, they shine so bright",
-	"I wanna save that light",
-	"I can't escape this now",
-	"Unless you show me how",
+	"They say it's what you make I say it's up to fate",
+	"It's woven in my soul I need to let you go",
+	"Your eyes, they shine so bright, I wanna save that light",
+	"I can't escape this now, unless you show me how",
+	"",
 	"c:",
-	"When you feel my heat",
-	"Look into my eyes",
-	"It's where my demons hide",
-	"It's where my demons hide",
-	"Don't get too close",
-	"It's dark inside",
-	"It's where my demons hide",
-	"It's where my demons hide",
-	"c:",
-	"It's where my demons hide",
-	"It's where my demons hide",
-	"It's where my demons hide",
-	"It's where my demons hide"
+	"When you feel my heat, look into my eyes",
+	"It's where my demons hide, it's where my demons hide",
+	"Don't get too close, it's dark inside",
+	"It's where my demons hide, it's where my demons hide"
     ]
 }
 },
@@ -28032,12 +28002,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1604639384206, "song": 
+{ "file": "", "lastModifiedDate": 1606108178238, "song": 
 {
 "title": "Forever in Blue Jeans",
 "artist": "Neil Diamond",
 "user": "Shari",
-"lastModifiedDate": 1604639384206,
+"lastModifiedDate": 1606108178238,
 "copyright": "1978 Columbia",
 "key": "A",
 "defaultBpm": 91,
@@ -28066,7 +28036,7 @@
 "lyrics": 
     [
 	"I:",
-	"(instrumental)",
+	"note: last measure of I and V plays bass walkup from E to G#",
 	"",
 	"V:",
 	"Money talks, but it don't sing and dance and",
@@ -38371,12 +38341,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1605862947656, "song": 
+{ "file": "", "lastModifiedDate": 1606105584660, "song": 
 {
 "title": "I Can Help ",
 "artist": "Billy Swan",
 "user": "Shari",
-"lastModifiedDate": 1605862947656,
+"lastModifiedDate": 1606105584660,
 "copyright": "1974 Monument",
 "key": "F",
 "defaultBpm": 126,
@@ -38395,7 +38365,7 @@
 	"F D7/G♭ G7 Gaug7",
 	"Br:",
 	"CC6 CC6 CC6 CC6",
-	"GG6 GG6 CC6 CE",
+	"GG6 GG6 CC6 CC7",
 	"O:",
 	"CC6 CC6 CC6 CC6",
 	"GG6 GG6 CC6 GC"
@@ -39194,12 +39164,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1605749395240, "song": 
+{ "file": "", "lastModifiedDate": 1606100494599, "song": 
 {
 "title": "I Fought the Law, cover by The Clash",
 "artist": "Sonny Curtis",
 "user": "Shari",
-"lastModifiedDate": 1605749395240,
+"lastModifiedDate": 1606100494599,
 "copyright": "CBS 1979",
 "key": "D",
 "defaultBpm": 152,
@@ -39207,28 +39177,29 @@
 "chords": 
     [
 	"I:",
-	"D GD D AD",
-	"D GD D AD",
+	"D GA D AGF♯mD x2",
 	"I2:",
-	"D GA D AD x2",
+	"D GA D AGF♯mD x2",
 	"V:",
 	"D GD D GD |",
 	"D AD | x2",
 	"C:",
 	"G G D D",
 	"G G",
-	"D GD D AD",
+	"D GD D AGF♯mD",
 	"B:",
 	"G G D D x3",
 	"G G",
-	"D GD D AD",
+	"D GD D AGF♯mD",
 	"O:",
-	"D GD D AD x3"
+	"D GD D AD x2",
+	"D GD D AGF♯mD"
     ],
 "lyrics": 
     [
 	"i:",
-	"i:",
+	"(instrumental)",
+	"",
 	"v:",
 	"Breakin' rocks in the hot sun",
 	"I fought the law and the law won",
@@ -47619,6 +47590,70 @@
 	"Wedlock is nigh my love",
 	"Her station's right my love",
 	"Life is secure with Lady Jane"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1606104826104, "song": 
+{
+"title": "Lady Jane",
+"artist": "Rolling Stones, The",
+"user": "Shari",
+"lastModifiedDate": 1606104826104,
+"copyright": "1966 Decca",
+"key": "D",
+"defaultBpm": 103,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Dadd9 Dadd9 Dadd9 Dadd9 x2",
+	"V:",
+	"Dadd9 Dadd9",
+	"C C G/D Dadd9",
+	"C C G/D Dadd9",
+	"V2:",
+	"E7/G♯ Am D7/F♯ G",
+	"C DD/F♯ AmX",
+	"O:",
+	"D"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental riff)",
+	"Note: Original plays one extra beat at end of V2s",
+	"",
+	"V: ",
+	"- My sweet Lady",
+	"Jane, when I see you again, your servant am ",
+	"I, and will humbly remain",
+	"",
+	"V2:",
+	"Just heed this plea, my love, on bended knees my love",
+	"I pledge myself to Lady Jane",
+	"",
+	"V: ",
+	"- My dear Lady",
+	"Anne, I've done what I can, I must take my ",
+	"Leave, for promised I am",
+	"",
+	"V2:",
+	"This play is run, my love, your time has come, my love",
+	"I pledge my troth to Lady Jane",
+	"",
+	"V: (instrumental)",
+	"V2: (instrumental)",
+	"",
+	"V: ",
+	"- Oh my sweet",
+	"Marie, I wait at your ease, the sands have run ",
+	"Out, for your lady and me",
+	"",
+	"V2:",
+	"Wedlock is nigh my love, her station's right my love",
+	"Life is secure with Lady Jane",
+	"",
+	"O:",
+	"(instrumental)"
     ]
 }
 },
@@ -56187,14 +56222,14 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1605678291227, "song": 
+{ "file": "", "lastModifiedDate": 1605906152981, "song": 
 {
 "title": "Monday Monday",
 "artist": "Mamas & The Papas, The",
 "user": "Shari",
-"lastModifiedDate": 1605678291227,
+"lastModifiedDate": 1605906152981,
 "copyright": "1966 Dunhill",
-"key": "Fs",
+"key": "B",
 "defaultBpm": 112,
 "timeSignature": "4/4",
 "chords": 
@@ -66707,12 +66742,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1605863093272, "song": 
+{ "file": "", "lastModifiedDate": 1606079090384, "song": 
 {
 "title": "Rikki Don't Lose That Number",
 "artist": "Steely Dan",
 "user": "Shari",
-"lastModifiedDate": 1605863093272,
+"lastModifiedDate": 1606079090384,
 "copyright": "1974 ABC",
 "key": "E",
 "defaultBpm": 116,
@@ -66748,7 +66783,7 @@
     ],
 "lyrics": 
     [
-	"i:(instrumental - riff)",
+	"i:(instrumental - riff=E B orig.)",
 	"",
 	"v:",
 	"We hear you're leaving, that's okay",
@@ -75573,6 +75608,114 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1606119741958, "song": 
+{
+"title": "Southern Cross",
+"artist": "Crosby, Stills & Nash",
+"user": "Shari",
+"lastModifiedDate": 1606119741958,
+"copyright": "1981 Atlantic",
+"key": "D",
+"defaultBpm": 81,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"AG Dsus4D AG Dsus4A",
+	"I2:",
+	"AG Dsus4D AG Dsus4A x2",
+	"V:",
+	"AG Dsus4D AG Dsus4A x2",
+	"V2:",
+	"AG Dsus4D AG DGA.",
+	"AG Dsus4D AG DGA. A.",
+	"V3:",
+	"AG Dsus4D AG DA",
+	"AG Dsus4D AG DGA. A.",
+	"V4:",
+	"AG Dsus4D AG DGA. A.",
+	"V5:",
+	"AG Dsus4D AG Dsus4A",
+	"PC:",
+	"GD GA GD GA",
+	"GD G. A A",
+	"C:",
+	"DG A DG A",
+	"DG AX",
+	"O:",
+	"AG Dsus4D AG Dsus4D"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental riff) Got out of",
+	"",
+	"V:",
+	"Town on a boat going to Southern Islands, sailing a",
+	"Reach before a following sea, she was ",
+	"Making for the trades on the outside and the ",
+	"Downhill run to Papeete, off the",
+	"",
+	"V2:",
+	"Wind on this heading lie the Marquesas, we got",
+	"Eighty feet of the waterline nicely making way, in a",
+	"Noisy bar in Avalon I tried to call you, but on a",
+	"Midnight watch I realized why twice you ran away, think about",
+	"",
+	"PC:",
+	"Think about how many times I have fallen",
+	"Spirits are using me larger voices calling",
+	"What Heaven brought you and me cannot be forgotten, I have been a-",
+	"",
+	"C:",
+	"Round the world (looking) looking for that woman girl (who knows she knows), who ",
+	"Knows love can endure...and you know it will",
+	"",
+	"I:",
+	"(instrumental riff) When you",
+	"",
+	"V3:",
+	"See the Southern Cross for the first time, you",
+	"Understand now why you came this way, 'cause the",
+	"Truth you might be running from is so small, but it's as ",
+	"Big as the promise, the promise of a coming day, so I'm",
+	"",
+	"V2:",
+	"Sailing for tomorrow my dreams are a-dying, and my ",
+	"Love is an anchor tied to you - tied with a silver chain, I have my",
+	"Ship and all her flags are a-flying, she is ",
+	"All that I have left and music is her name, think about",
+	"",
+	"PC:",
+	"Think about how many times I have fallen",
+	"Spirits are using me larger voices calling",
+	"What Heaven brought you and me cannot be forgotten, I have been a-",
+	"",
+	"C:",
+	"Round the world (looking)",
+	"Looking for that woman girl, who ",
+	"Knows love can endure...and you know it will",
+	"",
+	"I:",
+	"(instrumental riff) and you know it will",
+	"",
+	"I2:",
+	"(instrumental) ooh...so we",
+	"",
+	"V5:",
+	"Cheated and we lied and we tested, and we",
+	"Never failed to fail, it was the easiest thing to do",
+	"",
+	"V4:",
+	"You will survive being bested, somebody ",
+	"Fine will come along make me forget about loving you",
+	"In the Southern Cross",
+	"",
+	"O:",
+	"(instrumental riff)"
+    ]
+}
+},
 { "file": "Special Angel - Latest.songlyrics", "lastModifiedDate": 1539543893556, "song": 
 {
 "title": "Special Angel",
@@ -77461,12 +77604,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1599795272680, "song": 
+{ "file": "", "lastModifiedDate": 1606107752473, "song": 
 {
 "title": "Street Spirit (Fade Out)",
 "artist": "Radiohead",
 "user": "Shari",
-"lastModifiedDate": 1599795272680,
+"lastModifiedDate": 1606107752473,
 "copyright": "1995 Parlophone",
 "key": "C",
 "defaultBpm": 70,
@@ -77488,8 +77631,7 @@
 	"C Em",
 	"O:",
 	"C Em Am Am x2",
-	"G Em Am Am x2",
-	"Am"
+	"G Em Am Am x2"
     ],
 "lyrics": 
     [
@@ -77524,63 +77666,6 @@
 	"(instrumental)",
 	"Immerse your soul in love",
 	"Immerse your soul in love"
-    ]
-}
-},
-{ "file": "", "lastModifiedDate": 1599794824437, "song": 
-{
-"title": "Street Spirit",
-"artist": "Radiohead",
-"user": "Shari",
-"lastModifiedDate": 1599794824437,
-"copyright": "1995 Parlophone",
-"key": "C",
-"defaultBpm": 136,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"V:",
-	"Am Am Am Am",
-	"Em Em Am Am",
-	"C:",
-	"C Em Am Am",
-	"C Em Am Am",
-	"Br:",
-	"C Em Am Am",
-	"C Em Am Am",
-	"O:",
-	"G Em Am Am",
-	"G Em Am Am"
-    ],
-"lyrics": 
-    [
-	"V: Rows of houses, all bearing down on me",
-	"I can feel their blue hands touching me",
-	"All these things into position",
-	"All these things we'll one day swallow whole",
-	"",
-	"C: And fade out again and fade out",
-	"",
-	"V: This machine will, will not communicate",
-	"These thoughts and the strain I am under",
-	"Be a world child, form a circle",
-	"Before we all go under",
-	"",
-	"C: And fade out again and fade out again",
-	"",
-	"Br: Mmm... Ah... Oh...",
-	"Mmm... Ah... Oh...",
-	"",
-	"V: Cracked eggs, dead birds",
-	"Scream as they fight for life",
-	"I can feel death, can see its beady eyes",
-	"All these things into position",
-	"All these things we'll one day swallow whole",
-	"",
-	"C: And fade out again and fade out again",
-	"",
-	"O: Immerse your soul in love",
-	"IMMERSE YOUR SOUL IN LOVE"
     ]
 }
 },
@@ -80122,12 +80207,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1591578024069, "song": 
+{ "file": "", "lastModifiedDate": 1606100734613, "song": 
 {
 "title": "Take It Easy",
 "artist": "Eagles",
 "user": "Shari",
-"lastModifiedDate": 1591578024069,
+"lastModifiedDate": 1606100734613,
 "copyright": "1972 Asylum",
 "key": "G",
 "defaultBpm": 139,
@@ -80160,7 +80245,7 @@
 	"O:",
 	"C C G G x2",
 	"C C",
-	"G G7 C C x2",
+	"G F C C x2",
 	"Em"
     ],
 "lyrics": 
@@ -87537,12 +87622,12 @@
     ]
 }
 },
-{ "file": "Walk Away Renee.songlyrics", "lastModifiedDate": 1569464404613, "song": 
+{ "file": "", "lastModifiedDate": 1606113719428, "song": 
 {
 "title": "Walk Away Renee",
 "artist": "Left Banke, The",
-"user": "Unknown",
-"lastModifiedDate": 1569464404613,
+"user": "Shari",
+"lastModifiedDate": 1606113719428,
 "copyright": "Sony/ATV Music Publishing LLC",
 "key": "A",
 "defaultBpm": 80,
@@ -87552,15 +87637,15 @@
 	"I:",
 	"DDAE A A",
 	"V:",
-	"A E Em Bm",
-	"Dm A D B7",
+	"A E/G♯ Em/G D/F♯",
+	"Dm/F A D B7",
 	"C:",
 	"AE F♯m D AE",
 	"AE F♯m D C♯m",
 	"DBm A A",
 	"Br:",
-	"F♯m Faug A B",
-	"D A D B"
+	"F♯m Faug A/E B/D♯",
+	"D A D B7"
     ],
 "lyrics": 
     [
@@ -87569,31 +87654,29 @@
 	"V: And when I see the sign that points one way",
 	"The lot we used to pass by every day",
 	"",
-	"C: Just walk away Renee",
-	"You won't see me follow you back home",
+	"C: Just walk away Renee, you won't see me follow you back home",
 	"The empty sidewalks on my block are not the same",
 	"You're not to blame",
 	"",
 	"V: From deep inside the tears that I'm forced to cry",
 	"From deep inside the pain that I chose to hide",
 	"",
-	"C: Just walk away Renee",
-	"You won't see me follow you back home",
+	"C: Just walk away Renee, you won't see me follow you back home",
 	"Now as the rain beats down upon my weary eyes",
 	"For me it cries",
 	"",
 	"Br: (instrumental)",
 	"",
-	"C: Just walk away Renee",
-	"You won't see me follow you back home",
+	"C: ",
+	"Just walk away Renee, you won't see me follow you back home",
 	"Now as the rain beats down upon my weary eyes",
 	"For me it cries",
 	"",
 	"V: Your name and mine inside a heart upon a wall",
 	"Still finds a way to haunt me, though they're so small",
 	"",
-	"C: Just walk away Renee",
-	"You won't see me follow you back home",
+	"C: ",
+	"Just walk away Renee, you won't see me follow you back home",
 	"The empty sidewalks on my block are not the same",
 	"You're not to blame"
     ]
