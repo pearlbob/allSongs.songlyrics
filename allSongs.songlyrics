@@ -8855,15 +8855,15 @@
     ]
 }
 },
-{ "file": "Blue Christmas (2).songlyrics", "lastModifiedDate": 1543784952874, "song": 
+{ "file": "", "lastModifiedDate": 1606711509103, "song": 
 {
 "title": "Blue Christmas",
 "artist": "Elvis Presley",
-"user": "Unknown",
-"lastModifiedDate": 1543784952874,
+"user": "Shari",
+"lastModifiedDate": 1606711509103,
 "copyright": "Universal Music Publishing Group",
 "key": "E",
-"defaultBpm": 106,
+"defaultBpm": 100,
 "timeSignature": "4/4",
 "chords": 
     [
@@ -8897,6 +8897,51 @@
 	"But I'll have a blue, blue blue blue Christmas",
 	"",
 	"O: Yes, I'll have a blue, blue blue blue Christmas."
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1606713573369, "song": 
+{
+"title": "Blue Christmas, cover by Elvis Presley",
+"artist": "Billy Hayes and Jay Johnson",
+"user": "Shari",
+"lastModifiedDate": 1606713573369,
+"copyright": "1957 RCA Victor",
+"key": "A",
+"defaultBpm": 94,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"A A E E",
+	"E7 E7 A A",
+	"A A7 D D",
+	"B B E7 EX",
+	"V1:",
+	"A A E E",
+	"E7 E7 A A",
+	"A A7 D D♯dim",
+	"E E7 A A",
+	"O:",
+	"E7 E7 A A"
+    ],
+"lyrics": 
+    [
+	"V: I'll have a Blue Christmas without you",
+	"I'll be so blue just thinking about you",
+	"Decorations of red on a green Christmas tree",
+	"Won't be the same dear, if you're not here with me",
+	"",
+	"V1: And when those blue snowflakes start falling",
+	"That's when those blue memories start calling",
+	"You'll be doing all right, with your Christmas of white",
+	"But I'll have a blue, blue blue blue Christmas",
+	"",
+	"V1: (instrumental) +",
+	"You'll be doing all right, with your Christmas of white",
+	"But I'll have a blue, blue blue blue Christmas",
+	"",
+	"O: Yes, I'll have a blue, blue blue blue Christmas"
     ]
 }
 },
@@ -23670,6 +23715,77 @@
 	"hearts and thoughts they fade...away...",
 	"ch:hearts and thoughts they fade, fade away...",
 	"hearts and thoughts they fade..."
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1606714485678, "song": 
+{
+"title": "Eleanor Rigby",
+"artist": "Beatles, The",
+"user": "Shari",
+"lastModifiedDate": 1606714485678,
+"copyright": "1966 Capitol",
+"key": "G",
+"defaultBpm": 137,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"Em Em Em C/G",
+	"CEm/B",
+	"Em Em EmD C/G",
+	"CEm",
+	"PC:",
+	"C C Em Em x2",
+	"C:",
+	"Em7 Em6 Cmaj7/E Em",
+	"Em7 Em6 Cmaj7/E Em",
+	"O:",
+	"Em7 Em6 Cmaj7/E Em",
+	"Em7 Em6 Cmaj7/E Em",
+	"Em"
+    ],
+"lyrics": 
+    [
+	"PC:",
+	"Ah, look at all the lonely people",
+	"Ah, look at all the lonely people",
+	"",
+	"V:",
+	"Eleanor Rigby, picks up the rice in the church where a wedding has been",
+	"Lives in a dream",
+	"Waits at the window, wearing the face that she keeps in a jar by the door",
+	"Who is it for?",
+	"",
+	"C:",
+	"All the lonely people, where do they all come from?",
+	"All the lonely people, where do they all belong?",
+	"",
+	"V:",
+	"Father McKenzie, writing the words of a sermon that no one will hear",
+	"No one comes near",
+	"Look at him working, darning his socks in the night when there's nobody there",
+	"What does he care?",
+	"",
+	"C:",
+	"All the lonely people, where do they all come from?",
+	"All the lonely people, where do they all belong?",
+	"",
+	"PC:",
+	"Ah, look at all the lonely people",
+	"Ah, look at all the lonely people",
+	"",
+	"V:",
+	"Eleanor Rigby, died in the church and was buried along with her name",
+	"Nobody came",
+	"Father McKenzie, wiping the dirt from his hands as he walks from the grave",
+	"No one was saved",
+	"",
+	"O:",
+	"(Ah, look at all the lonely people) All the lonely people ",
+	"Where do they all come from?",
+	"(Ah, look at all the lonely people) All the lonely people",
+	"Where do they all belong?"
     ]
 }
 },
@@ -91218,26 +91334,26 @@
     ]
 }
 },
-{ "file": "White Christmas.songlyrics", "lastModifiedDate": 1575347052000, "song": 
+{ "file": "", "lastModifiedDate": 1606711437863, "song": 
 {
-"title": "White Christmas",
-"artist": "Bing Crosby",
-"user": "Paul",
-"lastModifiedDate": 1575347052000,
-"copyright": "© Concord Music Publishing LLC (Irving Berlin, 1941)",
-"key": "C",
+"title": "White Christmas, cover by Bing Crosby",
+"artist": "Irving Berlin",
+"user": "Shari",
+"lastModifiedDate": 1606711437863,
+"copyright": "Concord Music Publishing LLC (Irving Berlin, 1941)",
+"key": "G",
 "defaultBpm": 106,
-"timeSignature": "2/4",
+"timeSignature": "4/4",
 "chords": 
     [
 	"V:",
 	"G G Am D",
-	"C Am G G",
+	"C AmD G G",
 	"G G7 C Cm",
 	"G Em Am D",
 	"C:",
 	"G G Am D",
-	"C Am G D7",
+	"C AmD G D7",
 	"G G7 C Cm",
 	"GEm AmD G G"
     ],
