@@ -8855,6 +8855,74 @@
     ]
 }
 },
+{ "file": "Blue Christmas _ White Christmas Medley (2).songlyrics", "lastModifiedDate": 1607180119788, "song": 
+{
+"title": "Blue Christmas / White Christmas Medley",
+"artist": "Billy Hayes / Jay Johnson / Irving Berlin",
+"user": "Shari",
+"lastModifiedDate": 1607180119788,
+"copyright": "1957 RCA Victor, 1941 Irving Berlin",
+"key": "A",
+"defaultBpm": 110,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"A A E E",
+	"E7 E7 A A",
+	"A A7 D D",
+	"B B E7 EX",
+	"V1:",
+	"A A E E",
+	"E7 E7 A A",
+	"A A7 D D♯dim",
+	"E E7 A A",
+	"V2:",
+	"A A Bm E7",
+	"D Bm A BmE",
+	"A A7 D Dm7",
+	"A F♯m Bm E7",
+	"V3:",
+	"A A Bm E7",
+	"D Bm A BmE",
+	"A A7 D Dm7",
+	"AF♯m BmE7 A BmE7",
+	"V4:",
+	"A A Bm E7",
+	"D Bm A BmE",
+	"A A7 D Dm7",
+	"AF♯m BmE7 A A"
+    ],
+"lyrics": 
+    [
+	"V: I'll have a Blue Christmas without you",
+	"I'll be so blue just thinking about you",
+	"Decorations of red on a green Christmas tree",
+	"Won't be the same dear, if you're not here with me",
+	"",
+	"V1: And when those blue snowflakes start falling",
+	"That's when those blue memories start calling",
+	"You'll be doin' all right, with your Christmas of white",
+	"But I'll have a blue, blue blue blue Christmas",
+	"",
+	"v2:",
+	"I'm dreaming of a white Christmas",
+	"Just like the ones I used to know",
+	"Where the treetops glisten",
+	"And children listen",
+	"To hear sleigh bells in the snow",
+	"",
+	"v3:",
+	"I'm dreaming of a white Christmas",
+	"With every Christmas card I write",
+	"May your days be merry and bright",
+	"And may all your Christmases be white",
+	"",
+	"v2:  (Lyrics for both)",
+	"v4:  (Lyrics for both)"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1606711509103, "song": 
 {
 "title": "Blue Christmas",
