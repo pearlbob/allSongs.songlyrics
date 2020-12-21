@@ -82971,12 +82971,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1608526758826, "song": 
+{ "file": "", "lastModifiedDate": 1608582242907, "song": 
 {
 "title": "Terrified",
 "artist": "Katharine McPhee",
 "user": "Shari",
-"lastModifiedDate": 1608526758826,
+"lastModifiedDate": 1608582242907,
 "copyright": "2010 Verve Forecast, written by Dioguardi, Reeves",
 "key": "Eb",
 "defaultBpm": 115,
@@ -82990,12 +82990,12 @@
 	"E♭ B♭ Cm A♭ A♭",
 	"C:",
 	"E♭ B♭ Cm A♭ x4",
+	"C2:",
+	"E♭ B♭ Cm A♭ x6",
+	"E♭",
 	"Br:",
 	"Cm B♭ A♭ A♭ x3",
-	"CmX B♭X A♭X X X",
-	"O:",
-	"E♭ B♭ Cm A♭ x2",
-	"E♭"
+	"CmX B♭X A♭X X X"
     ],
 "lyrics": 
     [
@@ -83046,21 +83046,22 @@
 	"I only mean it cause it's true",
 	"So don't you doubt what I've been dreamin'",
 	"Cause it fills me up, it hold me close",
-	"whenever I'm without you",
+	"Whenever I'm without you...you said it",
 	"",
-	"C:",
-	"Again, my heart's in motion, every ",
-	"Word feels like a shooting star, I'm at the ",
-	"Edge of my emotions watching the ",
+	"C2:",
+	"Again my heart's in motion",
+	"...Every word feels like a ",
+	"Shooting star, watching the ",
 	"Shadows burning in the dark, and ",
 	"I'm in love and ",
 	"I'm terrified, for the ",
 	"First time and the last time in my ",
 	"Only",
-	"",
-	"O:",
-	"Life, life",
-	"Life, in my only life",
+	"Life",
+	"Life",
+	"Life, in my ",
+	"Only ",
+	"Life",
 	"",
 	"",
 	"",
