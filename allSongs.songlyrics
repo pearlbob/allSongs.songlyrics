@@ -2,7 +2,6 @@
 { "file": "100 Years.songlyrics", "lastModifiedDate": 1570675021323, "song": 
 {
 "title": "100 Years",
-
 "artist": "Five for Fighting",
 "user": "Unknown",
 "lastModifiedDate": 1570675021323,
@@ -5570,26 +5569,26 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1595388965090, "song": 
+{ "file": "", "lastModifiedDate": 1608962781947, "song": 
 {
 "title": "Bad Bad Leroy Brown",
 "artist": "Jim Croce",
 "user": "Shari",
-"lastModifiedDate": 1595388965090,
+"lastModifiedDate": 1608962781947,
 "copyright": "1973 ABC",
 "key": "G",
-"defaultBpm": 145,
+"defaultBpm": 146,
 "timeSignature": "4/4",
 "chords": 
     [
 	"I1:",
-	"G G G G",
+	"G G G D7",
 	"V:",
 	"G G A7 A7",
-	"B7 C D7C G",
+	"B7 C D7C GD7",
 	"C:",
 	"G G A7 A7",
-	"B7 C D7C G",
+	"B7 C D7C GD7",
 	"T:",
 	"B7 C D7C G"
     ],
@@ -5634,14 +5633,14 @@
 	"",
 	"v:",
 	"Well Friday about a week ago ",
-	"Leroy shooting dice",
-	"And at the edge of the bar sat a girl named Doris",
-	"And oh that girl looked nice",
+	"Leroy shooting dice, and at the",
+	"Edge of the bar sat a girl named Doris and oh",
+	"Ooh that girl looked nice",
 	"",
 	"v:",
-	"Well he cast his eyes upon her ",
-	"And the trouble soon began",
-	"And Leroy Brown had learned a lesson about a-messin' with the ",
+	"Well he cast his eyes upon her, and the",
+	"Trouble soon began, and",
+	"Leroy Brown had learned a lesson about a-messin' with the ",
 	"Wife of a jealous man",
 	"",
 	"c:",
@@ -36110,12 +36109,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1608518363692, "song": 
+{ "file": "", "lastModifiedDate": 1608954651172, "song": 
 {
 "title": "Hit the Road Jack, cover by Ray Charles",
 "artist": "Percy Mayfield",
 "user": "Shari",
-"lastModifiedDate": 1608518363692,
+"lastModifiedDate": 1608954651172,
 "copyright": "1961 ABC-Paramount",
 "key": "B",
 "defaultBpm": 175,
@@ -36123,13 +36122,15 @@
 "chords": 
     [
 	"I:",
-	"G♯mG♯m/F♯ G♯m/EG♯m/D♯ G♯mG♯m/F♯ G♯m/EG♯m/D♯ x2",
+	"G♯mF♯ ED♯7 G♯mF♯ ED♯7",
 	"V:",
-	"G♯mG♯m/F♯ G♯m/EG♯m/D♯ G♯mG♯m/F♯ G♯m/EG♯m/D♯ x4",
+	"G♯mF♯ ED♯7 G♯mF♯ ED♯7 x2",
+	"V2:",
+	"G♯mF♯ ED♯7 G♯mF♯ ED♯7 x3",
 	"C:",
-	"G♯mG♯m/F♯ G♯m/EG♯m/D♯ G♯mG♯m/F♯ G♯m/EG♯m/D♯ x4",
+	"G♯mF♯ ED♯7 G♯mF♯ ED♯7 x2",
 	"O:",
-	"G♯mG♯m/F♯ G♯m/EG♯m/D♯ G♯mG♯m/F♯ G♯m/EG♯m/D♯ x7"
+	"G♯mF♯ ED♯7 G♯mF♯ ED♯7 x4"
     ],
 "lyrics": 
     [
@@ -36166,13 +36167,13 @@
 	"(Hit the road Jack and don't you come back no ",
 	"More)",
 	"",
-	"V:",
+	"V2:",
 	"Now baby, listen baby, don't ya treat me this-a way, cause",
 	"I'll be back on my feet someday (Don't ",
 	"Care if you do 'cause it's understood, you ain't",
 	"Got no money you just a-no good) Well, I ",
 	"Guess if you say so, I'd ",
-	"Have to pack my things and go (That's right)",
+	"Have to pack my things and go (that's right)",
 	"",
 	"C:",
 	"(Hit the road Jack and don't you come back no ",
@@ -42013,12 +42014,12 @@
     ]
 }
 },
-{ "file": "I'll Fly Away.songlyrics", "lastModifiedDate": 1538350961050, "song": 
+{ "file": "I'll Fly Away.songlyrics", "lastModifiedDate": 1608948531342, "song": 
 {
 "title": "I'll Fly Away",
 "artist": "Gillian Welch and Alison Krauss",
-"user": "Unknown",
-"lastModifiedDate": 1538350961050,
+"user": "bob",
+"lastModifiedDate": 1608948531342,
 "copyright": "2000 Lost Highway/Mercury",
 "key": "D",
 "defaultBpm": 104,
@@ -42027,15 +42028,15 @@
     [
 	"I:",
 	"D D G D",
-	"D D DA D",
+	"D D AG D",
 	"V:",
 	"D D G D",
-	"D D DA D",
+	"D D AG D",
 	"C:",
 	"D D G D",
-	"D D DA D",
+	"D D AG D",
 	"O:",
-	"D D DA D"
+	"D D AG D"
     ],
 "lyrics": 
     [
