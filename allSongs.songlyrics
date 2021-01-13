@@ -2070,12 +2070,12 @@
     ]
 }
 },
-{ "file": "All Apologies.songlyrics", "lastModifiedDate": 1587450193499, "song": 
+{ "file": "", "lastModifiedDate": 1610515161906, "song": 
 {
 "title": "All Apologies",
 "artist": "Nirvana",
 "user": "Shari",
-"lastModifiedDate": 1587450193499,
+"lastModifiedDate": 1610515161906,
 "copyright": "1993 DGC",
 "key": "Db",
 "defaultBpm": 114,
@@ -2880,12 +2880,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1596001266135, "song": 
+{ "file": "", "lastModifiedDate": 1610508948668, "song": 
 {
 "title": "Almost Over You",
 "artist": "Sheena Easton",
 "user": "Shari",
-"lastModifiedDate": 1596001266135,
+"lastModifiedDate": 1610508948668,
 "copyright": "1983 EMI",
 "key": "Ab",
 "defaultBpm": 64,
@@ -2898,8 +2898,8 @@
 	"I2:",
 	"G♯D♯ C♯C♯m",
 	"V:",
-	"G♯ D♯ C♯A♯m7 A♯m7D♯ |",
-	"G♯ D♯ C♯A♯m7 A♯m7D♯ | x2",
+	"A♭ E♭ D♭B♭m7 B♭m7E♭",
+	"A♭ E♭ D♭B♭m7 B♭m7E♭",
 	"C:",
 	"G♯ C♯ A♯m7D♯7 G♯",
 	"G♯ A♯7 A♯m7D♯7",
@@ -2927,7 +2927,7 @@
 	"I saw an old friend of ours today",
 	"She asked about you, I didn't quite know what to say",
 	"Heard you've been making the rounds 'round here",
-	"While I've been tryin to make tears disappear",
+	"While I've been trying to make tears disappear",
 	"",
 	"C:",
 	"Now I'm almost over you, I've almost shook these blues",
@@ -23294,6 +23294,87 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1610514294266, "song": 
+{
+"title": "Dream",
+"artist": "Everly Brothers",
+"user": "Shari",
+"lastModifiedDate": 1610514294266,
+"copyright": "1958 Cadence",
+"key": "E",
+"defaultBpm": 96,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"EC♯m AB7 EC♯m AB7",
+	"V:",
+	"EC♯m AB7 EC♯m AB7 x2",
+	"V2:",
+	"EC♯m AB7 EC♯m AB7",
+	"EC♯m AB7 EA EE7",
+	"V3:",
+	"EC♯m AB7 EC♯m AB7",
+	"EC♯m AB7 EC♯m AB7",
+	"EA EE7",
+	"C:",
+	"A G♯m F♯mB7 EE7",
+	"A G♯m F♯7 B7",
+	"O:",
+	"EC♯m AB7 EC♯m AB7 x3",
+	"E"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"Dream, dream dream dream",
+	"Dream, dream dream dream",
+	"",
+	"V:",
+	"When I want you in my arms",
+	"When I want you and all your charms",
+	"Whenever I want you all I have to do is ",
+	"Dream, dream dream dream",
+	"",
+	"V2:",
+	"When I feel blue in the night",
+	"And I need you to hold me tight",
+	"Whenever I want you all I have to do is ",
+	"Dream",
+	"",
+	"C:",
+	"I can make you mine, taste your lips of wine",
+	"Anytime night or day",
+	"Only trouble is, gee whiz",
+	"I'm dreamin' my life away",
+	"",
+	"V3:",
+	"I need you so, that I could die",
+	"I love you so and that is why",
+	"Whenever I want you",
+	"All I have to do is",
+	"Dream, dream dream dream",
+	"Dream",
+	"",
+	"C:",
+	"I can make you mine",
+	"Taste your lips of wine",
+	"Anytime night or day",
+	"Only trouble is, gee whiz",
+	"I'm dreamin' my life away",
+	"",
+	"O:",
+	"I need you so, that I could die",
+	"I love you so and that is why",
+	"Whenever I want you",
+	"All I have to do is ",
+	"Dream, dream dream dream",
+	"Dream, dream dream dream",
+	"Dream, dream dream dream",
+	"Dream"
+    ]
+}
+},
 { "file": "Dreams.songlyrics", "lastModifiedDate": 1541646128187, "song": 
 {
 "title": "Dreams",
@@ -31415,33 +31496,32 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1609914307289, "song": 
+{ "file": "", "lastModifiedDate": 1610515647491, "song": 
 {
 "title": "Girls Just Wanna Have Fun, cover by The Mayries",
 "artist": "Cyndi Lauper",
 "user": "Shari",
-"lastModifiedDate": 1609914307289,
+"lastModifiedDate": 1610515647491,
 "copyright": "1983 Portrait Records",
-"key": "C",
+"key": "B",
 "defaultBpm": 93,
 "timeSignature": "4/4",
 "chords": 
     [
 	"I1:",
-	"C C Am Am",
-	"C C Am Am",
+	"B B G♯m G♯m x2",
 	"V:",
-	"C C Am Am",
-	"F F",
-	"AmG F AmG F F",
+	"B B G♯m G♯m",
+	"E E",
+	"G♯mF♯ E G♯mF♯ E E",
 	"C:",
-	"C C Am Am",
-	"F F",
-	"AmG F AmG F F",
+	"B B G♯m G♯m",
+	"E E",
+	"G♯mF♯ E G♯mF♯ E E",
 	"O:",
-	"C C Am Am",
-	"F F",
-	"AmG F AmG F"
+	"B B G♯m G♯m",
+	"E E",
+	"G♯mF♯ E G♯mF♯ E"
     ],
 "lyrics": 
     [
@@ -31462,8 +31542,7 @@
 	"Oh girls just wanna have fun",
 	"",
 	"C:",
-	"That’s all they really want",
-	"Some fun",
+	"That’s all they really want, some fun",
 	"When the working day is done",
 	"Oh girls, they wanna have fun",
 	"Oh girls just wanna have fun",
@@ -31477,8 +31556,7 @@
 	"",
 	"",
 	"C:",
-	"That’s all they really want",
-	"Some fun",
+	"That’s all they really want, some fun",
 	"When the working day is done",
 	"Oh girls, they wanna have fun",
 	"Oh girls just wanna have fun",
