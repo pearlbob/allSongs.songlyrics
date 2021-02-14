@@ -43,6 +43,7 @@ cp $fm /var/www/html/public_html/bsteeleMusicApp/$fm
 
 
 #	copy to web
+source bsteele_auth
 gsutil -q -h "Cache-Control:public,max-age=20" cp $f $svrDst/$f
 gsutil -q acl ch -u AllUsers:R $svrDst/$f
 gsutil -q -h "Cache-Control:public,max-age=20" cp $fm $svrDst/$fm
