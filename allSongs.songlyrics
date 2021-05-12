@@ -66129,12 +66129,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1617165808367, "song": 
+{ "file": "", "lastModifiedDate": 1620796758899, "song": 
 {
 "title": "Mystify",
 "artist": "INXS",
 "user": "Shari",
-"lastModifiedDate": 1617165808367,
+"lastModifiedDate": 1620796758899,
 "copyright": "1982 Atco Records",
 "key": "C",
 "defaultBpm": 129,
@@ -66143,11 +66143,9 @@
     [
 	"V:",
 	"Dm Am G F x4",
-	"PC:",
-	"Am",
 	"C:",
-	"C G G Am",
-	"C G G",
+	"Am C G G",
+	"Am C G G",
 	"B:",
 	"Em G Em G x2",
 	"O:",
@@ -66160,23 +66158,18 @@
 	"(All veils and) misty streets of blue, almond",
 	"Looks that chill divine, some silken",
 	"Moment goes on forever and we’re ",
-	"Leaving broken hearts behind, mysti-",
-	"",
-	"PC:",
-	"Fy",
+	"Leaving broken hearts behind, mystify",
 	"",
 	"C:",
 	"Mystify me, mystify",
-	"Mystify me...I need",
+	"Mystify me, I need",
 	"",
 	"V:",
 	"Perfection, some twisted selection, that tangles ",
 	"Me, to keep me alive, in all that",
 	"Exists, none has your beauty, I see your",
-	"Face and I will survive, mysti-",
+	"Face and I will survive, mystify",
 	"",
-	"PC:",
-	"Fy",
 	"",
 	"C: ",
 	"Mystify me (hey), mystify",
@@ -66192,10 +66185,7 @@
 	"Veils and misty streets of blue, almond",
 	"Looks that chill divine, some silken ",
 	"Moment goes on forever, and we’re ",
-	"Leaving yeah we’re leaving broken hearts behind, you mysti-",
-	"",
-	"PC:",
-	"Fy",
+	"Leaving yeah we’re leaving broken hearts behind, you mystify",
 	"",
 	"C: ",
 	"Mystify me, mystify",
@@ -66205,20 +66195,15 @@
 	"Eternally wild with the power, to",
 	"Make every moment come alive, all those",
 	"Stars that shine upon you will",
-	"Will kiss you every night, mystif-",
-	"",
-	"PC:",
-	"Fy, you",
+	"Will kiss you every night, mystify",
 	"",
 	"C:",
-	"Mystify me (oh), mystify",
-	"Mystify me, mysti-",
+	"You mystify me (oh), mystify",
+	"Mystify me, mystify",
 	"",
-	"PC:",
-	"Fy, you",
 	"",
 	"O:",
-	"Mystify me, mystify"
+	"You mystify me, mystify"
     ]
 }
 },
@@ -104730,12 +104715,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1618375087918, "song": 
+{ "file": "", "lastModifiedDate": 1620797684813, "song": 
 {
 "title": "White Rabbit",
 "artist": "Jefferson Airplane",
 "user": "Shari",
-"lastModifiedDate": 1618375087918,
+"lastModifiedDate": 1620797684813,
 "copyright": "1967 RCA Victor",
 "key": "Fs",
 "defaultBpm": 106,
@@ -104794,10 +104779,10 @@
 	"Logic and proportion have",
 	"Fallen sloppy dead and the ",
 	"White Knight is talking backwards and the",
-	"Red Queen's off with her head, re-",
+	"Red Queen's off with her head",
 	"",
 	"A1:",
-	"Member what the dormouse ",
+	"Remember what the dormouse ",
 	"Said, feed your",
 	"",
 	"O:",
@@ -106040,12 +106025,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1613536038946, "song": 
+{ "file": "", "lastModifiedDate": 1620796903123, "song": 
 {
 "title": "With a Little Help from My Friends",
 "artist": "Beatles, The",
 "user": "Shari",
-"lastModifiedDate": 1613536038946,
+"lastModifiedDate": 1620796903123,
 "copyright": "1967 Capitol",
 "key": "E",
 "defaultBpm": 110,
@@ -106061,7 +106046,8 @@
 	"E B/D♯ F♯m/C♯ F♯m/C♯ |",
 	"F♯m7 B7 E E | x2",
 	"C:",
-	"D A E E x3",
+	"D A E E x2",
+	"A A E E",
 	"Br:",
 	"C♯m7 C♯m7 F♯9 F♯9 |",
 	"E D A A | x2",
