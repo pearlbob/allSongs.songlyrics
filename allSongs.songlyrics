@@ -1970,12 +1970,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1621472795699, "song": 
+{ "file": "", "lastModifiedDate": 1621830051051, "song": 
 {
 "title": "Ain't No Grave, cover by Crooked Still",
 "artist": "Claude Ely",
 "user": "Shari",
-"lastModifiedDate": 1621472795699,
+"lastModifiedDate": 1621830051051,
 "copyright": "1953 Claude Ely",
 "key": "Eb",
 "defaultBpm": 90,
@@ -1983,7 +1983,7 @@
 "chords": 
     [
 	"I:",
-	"Cm Cm Cm D♯ x2",
+	"Cm CmE♭ Cm CmE♭ x2",
 	"I2:",
 	"Cm Cm Cm Cm |",
 	"F F Cm Cm | x2",
@@ -26857,12 +26857,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1615370757675, "song": 
+{ "file": "", "lastModifiedDate": 1621830631710, "song": 
 {
 "title": "End Of The Line",
 "artist": "Travelling Wilburys",
 "user": "Shari",
-"lastModifiedDate": 1615370757675,
+"lastModifiedDate": 1621830631710,
 "copyright": "1989 Wilbury",
 "key": "D",
 "defaultBpm": 83,
@@ -26876,7 +26876,9 @@
 	"G G D D x3",
 	"A A",
 	"C:",
-	"D D DA G x3",
+	"D D DA G",
+	"D D DA D",
+	"D D DA G",
 	"D D DA D D",
 	"C2:",
 	"D D DA G x3",
@@ -55360,12 +55362,12 @@
     ]
 }
 },
-{ "file": "Layla.songlyrics", "lastModifiedDate": 1546218199783, "song": 
+{ "file": "", "lastModifiedDate": 1621830775827, "song": 
 {
 "title": "Layla",
 "artist": "Derek and the Dominos",
-"user": "Unknown",
-"lastModifiedDate": 1546218199783,
+"user": "Shari",
+"lastModifiedDate": 1621830775827,
 "copyright": "1970 Polydor",
 "key": "D",
 "defaultBpm": 115,
@@ -55373,12 +55375,8 @@
 "chords": 
     [
 	"I:",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C",
+	"Dm A♯ C Dm x5",
+	"Dm A♯ C",
 	"I2:",
 	"Dm B♭ C Dm x11",
 	"Dm B♭ C C",
@@ -55394,25 +55392,14 @@
 	"F♯m B E A",
 	"F♯m B E A",
 	"C1:",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C",
+	"Dm A♯ C Dm x3",
+	"Dm A♯ C",
 	"C2:",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
-	"Dm B♭ C Dm",
+	"Dm A♯ C Dm x8",
 	"Br1:",
-	"C C C/E C/E",
-	"F F F F",
-	"C C C/E C/E",
-	"F F F F",
-	"B♭7 B♭7 B♭7 B♭7",
+	"C C C/E C/E |",
+	"F F F F | x2",
+	"A♯7 A♯7 A♯7 A♯7",
 	"C C C C",
 	"Br2:",
 	"C C C/E C/E",
@@ -55420,17 +55407,9 @@
 	"B♭7 B♭7 B♭7 B♭7",
 	"C C C C",
 	"O:",
-	"C C C/E C/E",
-	"F F F F",
-	"C C C/E C/E",
-	"F F F F",
-	"C C C/E C/E",
-	"F F F F",
-	"C C C/E C/E",
-	"F F F F",
-	"C C C/E C/E",
-	"F F F F",
-	"B♭7 B♭7 B♭7 B♭7",
+	"C C C/E C/E |",
+	"F F F F | x5",
+	"A♯7 A♯7 A♯7 A♯7",
 	"C"
     ],
 "lyrics": 
@@ -63164,14 +63143,14 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1606872346053, "song": 
+{ "file": "", "lastModifiedDate": 1621829714828, "song": 
 {
 "title": "Mary Jane's Last Dance",
 "artist": "Tom Petty And The Heartbreakers",
 "user": "Shari",
-"lastModifiedDate": 1606872346053,
+"lastModifiedDate": 1621829714828,
 "copyright": "1993 MCA",
-"key": "G",
+"key": "C",
 "defaultBpm": 169,
 "timeSignature": "4/4",
 "chords": 
@@ -63194,7 +63173,7 @@
     ],
 "lyrics": 
     [
-	"I1: (Instrumental)",
+	"I1: (Instrumental, orig G harp)",
 	"",
 	"V:",
 	"She grew up in an Indiana town",
@@ -63224,9 +63203,9 @@
 	"Well, I don't know, but I've been told",
 	"You never slow down, you never grow old",
 	"I'm tired of screwin' up, tired of going down",
+	"Tired of myself, tired of this town",
 	"",
 	"V:",
-	"Tired of myself, tired of this town",
 	"Oh, my my, oh, hell yes",
 	"Honey, put on that party dress",
 	"Buy me a drink, sing me a song",
@@ -63240,7 +63219,7 @@
 	"",
 	"V:",
 	"There's pigeons down on Market Square",
-	"She's standin' in her underwear",
+	"She's standing in her underwear",
 	"Lookin' down from a hotel room",
 	"Nightfall will be comin' soon",
 	"",
@@ -88538,6 +88517,76 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1621833895696, "song": 
+{
+"title": "Still the Same",
+"artist": "Bob Seger",
+"user": "Shari",
+"lastModifiedDate": 1621833895696,
+"copyright": "1978 Capitol",
+"key": "C",
+"defaultBpm": 116,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Cmaj7C Cmaj7C Em G x2",
+	"G",
+	"I2:",
+	"Cmaj7C Cmaj7C Em G x2",
+	"V:",
+	"Cmaj7C Cmaj7C Em G x2",
+	"F G C E7",
+	"Am Dm G G/D",
+	"V2:",
+	"F G C E7",
+	"Am Dm G G",
+	"C:",
+	"C E A A |",
+	"Dm Dm G G/D | x2",
+	"O:",
+	"Cmaj7C Cmaj7C Em G x6"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental) You",
+	"",
+	"V:",
+	"Always won, every time you placed a bet, you're",
+	"Still damn good, no one's gotten to you yet",
+	"Every time they were sure they had you caught, you were quicker than they ",
+	"Thought, you'd just turn your back and walk, you",
+	"",
+	"V:",
+	"Always said, the cards would never do you wrong, the",
+	"Trick you said was never play the game too long, a",
+	"Gambler's share, the only risk that you would take the only loss you could forsake",
+	"The only bluff you couldn't fake, and you're still the",
+	"",
+	"C:",
+	"Same, I caught up with you yesterday (still the same, still the same)",
+	"Moving game to game, no one standing in your way, turning on the",
+	"Charm, long enough to get you by (still the same, still the same), you're still the",
+	"Same, you still aim high",
+	"",
+	"I2:",
+	"(instrumental) (still the same, still the same)",
+	"(still the same, still the same)",
+	"",
+	"V2:",
+	"There you stood, everybody watched you play,I just turned and walked away",
+	"I had nothing left to say, 'cause you're still the",
+	"",
+	"O:",
+	"Same (still the same, baby baby still the same), you're still the",
+	"Same (still the same, baby baby still the same), moving game to",
+	"Game (still the same, baby baby still the same), some things never",
+	"Change (still the same, baby baby still the same), oh you're still the",
+	"Same (still the same, baby baby still the same)"
+    ]
+}
+},
 { "file": "Stir it up.songlyrics", "lastModifiedDate": 1540941512274, "song": 
 {
 "title": "Stir it up",
@@ -95629,18 +95678,20 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1609913485886, "song": 
+{ "file": "", "lastModifiedDate": 1621832371063, "song": 
 {
 "title": "This Land is Your Land",
 "artist": "Woody Guthrie",
 "user": "Shari",
-"lastModifiedDate": 1609913485886,
+"lastModifiedDate": 1621832371063,
 "copyright": "1945 Guthrie",
 "key": "C",
 "defaultBpm": 103,
 "timeSignature": "2/4",
 "chords": 
     [
+	"I:",
+	"G G C C",
 	"V:",
 	"F F C C",
 	"G G C C7",
@@ -95649,6 +95700,9 @@
     ],
 "lyrics": 
     [
+	"I:",
+	"(instrumental)",
+	"",
 	"v:",
 	"This land is your land, this land is my land",
 	"From California to the New York island ",
