@@ -9132,26 +9132,26 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 0, "song": 
+{ "file": "", "lastModifiedDate": 1628544027071, "song": 
 {
-"title": "Bittersweet Symphony",
+"title": "Bitter Sweet Symphony",
 "artist": "Verve, The",
-"user": "Unknown",
-"lastModifiedDate": 0,
+"user": "Shari",
+"lastModifiedDate": 1628544027071,
 "copyright": "Abkco Music, Inc",
-"key": "C",
-"defaultBpm": 100,
+"key": "A",
+"defaultBpm": 85,
 "timeSignature": "4/4",
 "chords": 
     [
 	"V:",
-	"E Bm D A x4",
+	"E Bm D/A A x4",
 	"C:",
-	"E Bm D A x4",
+	"E Bm D/A A x4",
 	"T:",
-	"E Bm D A x2",
+	"E Bm D/A A x2",
 	"O:",
-	"E Bm D A x4"
+	"E Bm D/A A x4"
     ],
 "lyrics": 
     [
@@ -9161,7 +9161,7 @@
 	"You're a slave to money then you die",
 	"I'll take you down the only road I've ever been down",
 	"You know the one that takes you to the places ",
-	"where all the veins meet yeah, ",
+	"where all the veins meet yeah ",
 	"c:",
 	"No change, I can change",
 	"I can change, I can change",
@@ -9206,9 +9206,9 @@
 	"No, no, no, no, no",
 	"t:",
 	"I can't change my mold",
-	"no, no, no, no, no,",
+	"no, no, no, no, no",
 	"I can't change",
-	"Can't change my body,",
+	"Can't change my body",
 	"no, no, no",
 	"o:",
 	"I'll take you down the only road I've ever been down",
