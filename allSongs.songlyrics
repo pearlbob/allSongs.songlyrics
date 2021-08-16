@@ -52406,6 +52406,77 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1629089919449, "song": 
+{
+"title": "Into Your Arms, cover",
+"artist": "Lemonheads, The",
+"user": "Shari",
+"lastModifiedDate": 1629089919449,
+"copyright": "1993 Atlantic Records",
+"key": "D",
+"defaultBpm": 123,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"D D D D",
+	"I2:",
+	"D D G Em |",
+	"GEm GEm D D | x2",
+	"V:",
+	"D D G Em |",
+	"GEm GEm D D | x2",
+	"C:",
+	"AX GX D D",
+	"AX GX Em A A",
+	"O:",
+	"D D G Em",
+	"GEm GEm D D",
+	"D D D"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"",
+	"v:",
+	"I know a place where I can go when I'm alone",
+	"Into your arms, whoa into your arms, I can go",
+	"I know a place that's safe and warm from the crowd",
+	"Into your arms, whoa into your arms, I can go",
+	"",
+	"c:",
+	"And...if I...should fall",
+	"I...know I...won't be... alone...be alone anymore",
+	"",
+	"I2: (instrumental)",
+	"",
+	"c:",
+	"And...if I...should fall",
+	"I...know I...won't be... alone...be alone anymore",
+	"",
+	"V:",
+	"I know a place where I can go when I'm alone",
+	"Into your arms, whoa into your arms, I can go",
+	"I know a place that's safe and warm from the crowd",
+	"Into your arms, whoa into your arms, I can go",
+	"",
+	"C:",
+	"So...if I...should fall",
+	"I...know I...won't be... alone...be alone anymore",
+	"",
+	"I2: (instrumental)",
+	"",
+	"c:",
+	"And...if I...should fall",
+	"I...know I...won't be... alone...be alone anymore",
+	"",
+	"O:",
+	"I know a place where I can go when I'm alone",
+	"Into your arms, whoa into your arms, I can go",
+	"I can go"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1615171699037, "song": 
 {
 "title": "Into the Mystic",
@@ -79818,12 +79889,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1628911193179, "song": 
+{ "file": "", "lastModifiedDate": 1629102118067, "song": 
 {
 "title": "Roam",
 "artist": "B-52s",
 "user": "Shari",
-"lastModifiedDate": 1628911193179,
+"lastModifiedDate": 1629102118067,
 "copyright": "1989 Reprise",
 "key": "E",
 "defaultBpm": 132,
@@ -79842,7 +79913,7 @@
 	"E A Bm7 Bm7",
 	"E A DD/C♯ DB",
 	"C:",
-	"E A DDmaj7 B x4",
+	"E A D B x4",
 	"Br:",
 	"A B C♯m C♯m",
 	"A B D AB",
@@ -82405,15 +82476,15 @@
     ]
 }
 },
-{ "file": "San Francisco.songlyrics", "lastModifiedDate": 1580192124000, "song": 
+{ "file": "", "lastModifiedDate": 1629091591601, "song": 
 {
 "title": "San Francisco",
 "artist": "Mowglis, The",
-"user": "Doug",
-"lastModifiedDate": 1580192124000,
-"copyright": "San Francisco lyrics © Kobalt Music Publishing Ltd.",
+"user": "Shari",
+"lastModifiedDate": 1629091591601,
+"copyright": "2012 Island, Republic",
 "key": "G",
-"defaultBpm": 100,
+"defaultBpm": 185,
 "timeSignature": "4/4",
 "chords": 
     [
@@ -82437,40 +82508,30 @@
 "lyrics": 
     [
 	"i:",
+	"(instrumental)",
 	"v:",
-	"I’ve been in love with love",
-	"And the idea of something, binding us together",
-	"You know that love is strong enough,",
-	"I’ve seen time tell tales about that systematic drug,",
-	"Yeah that heart that beats as one",
-	"It’s collectively",
-	"Unconsciously composed",
-	"i: (doo doo)",
+	"(I’ve been in) love with love and the idea of something",
+	"Binding us together, you know that love is strong enough, I've seen",
+	"Time tell tales about that systematic drug yeah that ",
+	"Heart that beats as one it’s collectively unconsciously composed",
+	"i: Doo doo doo doo",
 	"ch:",
-	"I lost my head in San Francisco,",
-	"Waiting for the fog to roll out",
-	"But I found it in a rain cloud",
-	"It. Was. Smiling. Down.",
-	"Do you feel the love? I feel the love",
-	"C’mon c’mon, lets start it up!",
-	"Let it pour out of your soullllllll",
+	"I lost my head in San Francisco waiting for the fog to ",
+	"Roll out, but I found it in a rain cloud it was smiling down",
+	"Do you feel the love? I feel the love, c’mon c’mon, lets start it up!",
+	"Let it pour out of your soul",
 	"b: ",
 	"v:",
-	"I’ve been in love with love",
-	"And the idea of something, binding us together",
-	"You know that love is strong enough,",
-	"I’ve seen time tell tales about that systematic drug,",
-	"Yeah that heart that beats as one",
-	"It’s collectively",
-	"Unconsciously composed",
+	"(I’ve been in) love with love and the idea of something",
+	"Binding us together, you know that love is strong enough, I've seen",
+	"Time tell tales about that systematic drug yeah that ",
+	"Heart that beats as one it’s collectively unconsciously composed",
 	"ch:",
-	"Do you feel the love? I feel the love",
-	"C’mon c’mon, lets start it up!",
-	"Let it pour out of your soullllllll-",
-	"Do you feel the love? I feel the love",
-	"C’mon c’mon, lets start it up!",
-	"Let it pour out of your soullllllll",
-	"o: (doo)"
+	"Do you feel the love? I feel the love, c’mon c’mon, lets start it up!",
+	"Let it pour out of your soul",
+	"Do you feel the love? I feel the love, c’mon c’mon, lets start it up!",
+	"Let it pour out of your soul",
+	"o: Doo doo doo doo"
     ]
 }
 },
@@ -91631,12 +91692,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1628698403455, "song": 
+{ "file": "", "lastModifiedDate": 1629089576682, "song": 
 {
 "title": "Steamboat Row",
 "artist": "Stealers Wheel",
 "user": "Shari",
-"lastModifiedDate": 1628698403455,
+"lastModifiedDate": 1629089576682,
 "copyright": "1973 A&M",
 "key": "D",
 "defaultBpm": 137,
@@ -91644,16 +91705,16 @@
 "chords": 
     [
 	"I:",
-	"Bm Bm A D",
-	"E Bm EA E E",
+	"B Bm7 A D",
+	"E Bm7 EA E E",
 	"V:",
 	"B B A A",
 	"E A B B",
 	"B B A A",
 	"E A",
 	"C:",
-	"Bm Bm A D",
-	"E Bm EA E E"
+	"B Bm7 A D",
+	"E Bm7 EA E E"
     ],
 "lyrics": 
     [
@@ -107005,12 +107066,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1610954470406, "song": 
+{ "file": "", "lastModifiedDate": 1629089616556, "song": 
 {
 "title": "What a Song Can Say",
 "artist": "Jennifer Brandlon",
 "user": "Shari",
-"lastModifiedDate": 1610954470406,
+"lastModifiedDate": 1629089616556,
 "copyright": "2020 Jennifer Brandlon",
 "key": "A",
 "defaultBpm": 109,
@@ -107038,13 +107099,13 @@
 	"V:",
 	"If you shut up and listen, you can learn a lot they say",
 	"If you shut up and listen, you can learn a lot they say",
-	"But I've been singing straight at you & you still don't have a clue",
+	"But I've been singing straight at you and you still don't have a clue",
 	"You don't know what a song can say",
 	"",
 	"V:",
 	"The minute I saw you I was gone, gone, gone",
 	"The minute I saw you I was gone, gone, gone",
-	"But I should take this damn guitar & walk right outta this bar",
+	"But I should take this damn guitar and walk right outta this damn bar",
 	"'Cause you can't here the wantin' in my song",
 	"",
 	"V:",
@@ -114071,6 +114132,97 @@
 	"You're my fortune (You're my fortune) I'm your fame (I'm your fame)",
 	"These are things we can't disguise",
 	"Be my lady of the night"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1629101933656, "song": 
+{
+"title": "You're the One I Want",
+"artist": "John Travolta, Olivia Newton-John",
+"user": "Shari",
+"lastModifiedDate": 1629101933656,
+"copyright": "1978 RSO",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Am Am Am Am",
+	"I2:",
+	"Am Am",
+	"V:",
+	"Am Am F C",
+	"E Am Am Am",
+	"PC:",
+	"C Em Am F",
+	"C Em Am F F",
+	"C:",
+	"C CEmF. C CEmF.",
+	"C CEmF. G G7",
+	"O:",
+	"C"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V:",
+	"I got chills, they're multiplying",
+	"And I'm losing control",
+	"'Cause the power you're supplying",
+	"It's electrifying",
+	"",
+	"PC:",
+	"You better shape up 'cause I need a man",
+	"And my heart is set on you",
+	"You better shape up, you better understand",
+	"To my heart I must be true",
+	"Nothing left, nothing left for me to do",
+	"",
+	"C:",
+	"You're the one that I want ooh ooh ooh, honey",
+	"The one that I want, ooh ooh ooh, honey",
+	"The one that I want, ooh ooh ooh, honey",
+	"The one I need, oh yes, indeed",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"V:",
+	"If you're filled with affection",
+	"You're too shy to convey",
+	"Meditate in my direction",
+	"Feel your way",
+	"",
+	"PC:",
+	"I better shape up 'cause you need a man (I need a man)",
+	"Who can keep me satisfied",
+	"I better shape up, if I'm gonna prove (you better prove)",
+	"That my faith is justified",
+	"Are you sure? Yes I'm sure down deep inside",
+	"",
+	"C:",
+	"You're the one that I want ooh ooh ooh, honey",
+	"The one that I want, ooh ooh ooh, honey",
+	"The one that I want, ooh ooh ooh, honey",
+	"The one I need, oh yes, indeed",
+	"",
+	"C:",
+	"You're the one that I want ooh ooh ooh, honey",
+	"The one that I want, ooh ooh ooh, honey",
+	"The one that I want, ooh ooh ooh, honey",
+	"The one I need, oh yes, indeed",
+	"",
+	"C:",
+	"You're the one that I want ooh ooh ooh, honey",
+	"The one that I want, ooh ooh ooh, honey",
+	"The one that I want, ooh ooh ooh, honey",
+	"The one I need, oh yes, indeed",
+	"",
+	"O:",
+	"(instrumental)"
     ]
 }
 },
