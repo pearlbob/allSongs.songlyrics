@@ -15051,12 +15051,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1632272999164, "song": 
+{ "file": "", "lastModifiedDate": 1632878009688, "song": 
 {
 "title": "Candle in the Wind",
 "artist": "Elton John",
 "user": "Shari",
-"lastModifiedDate": 1632272999164,
+"lastModifiedDate": 1632878009688,
 "copyright": "1974 MCA, DJM",
 "key": "E",
 "defaultBpm": 125,
@@ -15064,7 +15064,7 @@
 "chords": 
     [
 	"I:",
-	"B AF♯m E BB7",
+	"B AA/F♯ E BB7",
 	"V:",
 	"E E A A",
 	"E/G♯ E/G♯ A A",
@@ -15072,9 +15072,9 @@
 	"B B7 E A",
 	"E/G♯ E/G♯ B B",
 	"A A C♯m C♯m",
-	"B A AF♯m E E",
+	"B A AA/F♯ E E",
 	"T:",
-	"B A AF♯m E"
+	"B A AA/F♯ E"
     ],
 "lyrics": 
     [
@@ -67279,6 +67279,90 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1632884524205, "song": 
+{
+"title": "Me and Magdelena",
+"artist": "Monkees, The",
+"user": "Shari",
+"lastModifiedDate": 1632884524205,
+"copyright": "2016 Rhino",
+"key": "G",
+"defaultBpm": 115,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"G GC G GC",
+	"G GC G G",
+	"I2:",
+	"G GC G G",
+	"V:",
+	"C C G/B G/B |",
+	"G GC G G | x2",
+	"C:",
+	"D C G G",
+	"D C",
+	"C2:",
+	"D C G G",
+	"D C G G",
+	"Br:",
+	"Em C G G",
+	"D C",
+	"O:",
+	"Em C G G",
+	"D C G"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V:",
+	"Me and Magdalena, we're driving south through ",
+	"Monterey",
+	"As the sun is slowly sinking, into a distant ",
+	"Ocean wave",
+	"",
+	"C: ",
+	"And I don't know if I've ever loved any other, half as ",
+	"Much as I do in this light she's under",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"V:",
+	"Tell me Magdalena, what do you see in the ",
+	"Depths of your night",
+	"Do you see a long lost father, does he hold you with the hands you ",
+	"Remember as a child?",
+	"",
+	"C2:",
+	"But know everything lost will be recovered",
+	"When you drift into the arms of the undiscovered",
+	"",
+	"BR:",
+	"And I don't know if I've ever loved any other, half as ",
+	"Much as I do in this light she's under",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"V:",
+	"Me and Magdalena, always leaving early and ",
+	"Sleeping late",
+	"Secluded in the canyon, lost within a ",
+	"Turn of fate",
+	"",
+	"C2:",
+	"But know everything lost will be recovered",
+	"When you drift into the arms of the undiscovered",
+	"",
+	"O:",
+	"And I don't know if I've ever loved any other, half as",
+	"Much as I do in this light she's under"
+    ]
+}
+},
 { "file": "Me in Honey.songlyrics", "lastModifiedDate": 1549242734980, "song": 
 {
 "title": "Me in Honey",
@@ -78235,12 +78319,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1631558400462, "song": 
+{ "file": "", "lastModifiedDate": 1632879135889, "song": 
 {
 "title": "Pretending",
 "artist": "Eric Clapton",
 "user": "Shari",
-"lastModifiedDate": 1631558400462,
+"lastModifiedDate": 1632879135889,
 "copyright": "1989 Reprise, written by Jerry Lynn Williams",
 "key": "A",
 "defaultBpm": 98,
@@ -78248,7 +78332,7 @@
 "chords": 
     [
 	"I:",
-	"E7 E7 E7 E7",
+	"A7 E E7 E7",
 	"I2:",
 	"E E E E",
 	"Em7 Em7 A7 A7",
@@ -100162,6 +100246,80 @@
 	"Tennessee whiskey,  Tennessee whiskey",
 	"You’re as smooth       as Tennessee whiskey",
 	"Tennessee whiskey,  Tennessee whiskey"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1632881196333, "song": 
+{
+"title": "Tequila Sunrise",
+"artist": "Eagles",
+"user": "Shari",
+"lastModifiedDate": 1632881196333,
+"copyright": "1973 Asylum",
+"key": "G",
+"defaultBpm": 110,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"GG6 GG6 GG6 GG6",
+	"Am D7 GG6 GG6",
+	"I2:",
+	"GG6 GG6 D D",
+	"Am D7 GG6 GG6",
+	"V:",
+	"GG6 GG6 D D |",
+	"Am D7 GG6 GG6 | x2",
+	"V2:",
+	"GG6 GG6 D D",
+	"Am D7 GG6 GG6",
+	"C:",
+	"Em C Em C",
+	"Em Am D7 D",
+	"Br:",
+	"Am D Bm E",
+	"Am B Em7 A",
+	"O:",
+	"GG6 GG6 GG6 GG6",
+	"G"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V:",
+	"It's another tequila sunrise, staring slowly 'cross the ",
+	"Sky, said goodbye",
+	"He was just a hired hand, working on the dreams he planned to ",
+	"Try, the days go ",
+	"By",
+	"",
+	"C:",
+	"Every night when the sun goes down",
+	"Just another lonely boy in town",
+	"And she's out running",
+	"'Round",
+	"",
+	"V:",
+	"She wasn't just another woman and I couldn't keep from coming ",
+	"On, it's been so long",
+	"Oh and it's a hollow feeling when it comes down to dealing ",
+	"Friends, it never ends",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"BR:",
+	"Take another shot of courage, wonder why the right words never ",
+	"Come, you just get numb",
+	"",
+	"V2:",
+	"It's another tequila sunrise, this old world still looks the ",
+	"Same, another frame",
+	"",
+	"O:",
+	"Mmm"
     ]
 }
 },
