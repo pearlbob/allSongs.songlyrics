@@ -14050,32 +14050,32 @@
     ]
 }
 },
-{ "file": "Bummin Cigarettes (1).songlyrics", "lastModifiedDate": 1580681217479, "song": 
+{ "file": "", "lastModifiedDate": 1635453580913, "song": 
 {
-"title": "Bummin Cigarettes",
+"title": "Bummin' Cigarettes",
 "artist": "Maren Morris",
-"user": "bodhi",
-"lastModifiedDate": 1580681217479,
-"copyright": "© Sony/ATV Tree Publishing, Bearkiller Music",
-"key": "C",
-"defaultBpm": 106,
+"user": "Shari",
+"lastModifiedDate": 1635453580913,
+"copyright": "2016 Columbia Nashville",
+"key": "B",
+"defaultBpm": 77,
 "timeSignature": "4/4",
 "chords": 
     [
 	"I:",
-	"B G♯m B G♯m",
+	"A♯ Gm A♯ Gm",
 	"I1:",
-	"B G♯m",
+	"A♯ Gm",
 	"V:",
-	"B G♯m B G♯m",
-	"E C♯m B C♯m. E",
+	"A♯ Gm A♯ Gm",
+	"D♯ Cm A♯ Cm. D♯",
 	"C:",
-	"E BF♯ E BF♯",
-	"G♯mE BC♯m C♯m. EF♯ EB",
+	"D♯ A♯F D♯ A♯F",
+	"GmD♯ A♯Cm Cm. D♯F D♯A♯",
 	"B:",
-	"G♯m EF♯ G♯m EF♯",
+	"Gm D♯F Gm D♯F",
 	"O:",
-	"G♯mE BC♯m C♯m. EF♯ EB"
+	"GmD♯ A♯Cm Cm. D♯F D♯A♯"
     ],
 "lyrics": 
     [
@@ -42578,6 +42578,97 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1635452483583, "song": 
+{
+"title": "Here You Come Again",
+"artist": "Dolly Parton",
+"user": "Shari",
+"lastModifiedDate": 1635452483583,
+"copyright": "1977 RCA, written by Barry Mann and Cynthia Weil",
+"key": "Fs",
+"defaultBpm": 102,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"G♭G♭maj7/B♭ C♭ G♭G♭maj7/B♭ C♭",
+	"I2:",
+	"GGmaj7/B C GGmaj7/B C",
+	"Em7Am7 Em7Am7 Am7/D AmDCD",
+	"V:",
+	"G♭D♭ C♭ G♭D♭ C♭",
+	"E♭A♭m E♭mA♭m A♭m7 C♭maj7D♭7",
+	"V2:",
+	"GGmaj7/B C GGmaj7/B C",
+	"Em7Am7 Em7Am7 Am7/D D",
+	"V3:",
+	"G♯G♯maj7/C C♯ G♯G♯maj7/C C♯",
+	"Fm7A♯m7 Fm7A♯m7 A♯m7/D♯ D♯",
+	"C:",
+	"Bm7Bm7/E Amaj7A Gmaj7G Dmaj7D",
+	"F♯m7 Emaj7E F♯9 B7",
+	"C2:",
+	"Cm7Cm7/F A♯maj7A♯ Fm7/A♯ D♯maj7D♯",
+	"Gm7Gm7/C F G9 C7",
+	"O:",
+	"G♯G♯maj7/C C♯ G♯G♯maj7/C C♯ x5"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental) MULTIPLE KEY CHANGES",
+	"",
+	"V:",
+	"Here you come again",
+	"Just when I've begun to get myself together",
+	"You waltz right in the door just like you've done before, and",
+	"Wrap my heart 'round your little finger",
+	"",
+	"V:",
+	"Here you come again",
+	"Just when I'm about to make it work without you",
+	"You look into my eyes and lie those pretty lies and",
+	"Pretty soon I'm wondering how I came to doubt you",
+	"",
+	"C:",
+	"All you got to do is smile that smile",
+	"And there go all my defenses",
+	"Just leave it up to you and in a little while",
+	"You're messing up my mind and filling up my senses",
+	"",
+	"V2:",
+	"Here you come again",
+	"Lookin' better than a body has a right to, and",
+	"Shaking me up so, that all I really know, is",
+	"Here you come again, and here I go",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"C2:",
+	"All you have to do is smile that smile",
+	"And there go all my defenses",
+	"Just leave it up to you and in a little while",
+	"You're messing up my mind and filling up my senses",
+	"",
+	"V3:",
+	"Here you come again",
+	"Lookin' better than a body has a right to, and",
+	"Shaking me up so, that all I really know, is",
+	"Here you come again, and here I go",
+	"",
+	"O:",
+	"Here I go, and here I ",
+	"Go, and here I ",
+	"Go, and here I",
+	"Go",
+	"Here you come again, and here I ",
+	"Go, here I go",
+	"Go, and here I ",
+	"Go"
+    ]
+}
+},
 { "file": "Here for a Good Time (not a long time) (2).songlyrics", "lastModifiedDate": 1545882910424, "song": 
 {
 "title": "Here for a Good Time (not a long time)",
@@ -65270,12 +65361,12 @@
     ]
 }
 },
-{ "file": "Lovesong-2.songlyrics", "lastModifiedDate": 1602642665635, "song": 
+{ "file": "", "lastModifiedDate": 1635453260364, "song": 
 {
 "title": "Lovesong",
 "artist": "Cure, The",
 "user": "Shari",
-"lastModifiedDate": 1602642665635,
+"lastModifiedDate": 1635453260364,
 "copyright": "1989 Elektra",
 "key": "A",
 "defaultBpm": 140,
@@ -65283,17 +65374,16 @@
 "chords": 
     [
 	"I:",
-	"Am G6 Fmaj7 Em7 x2",
-	"I2:",
 	"Am G6 Fmaj7 Em7 x4",
+	"I2:",
+	"Am G6 Fmaj7 Em7 x2",
 	"V:",
 	"Am G6 Fmaj7 Em7 x4",
 	"C:",
 	"F G Am C x3",
 	"F G",
 	"O:",
-	"F G Am C x3",
-	"F G Am"
+	"Am"
     ],
 "lyrics": 
     [
@@ -65305,7 +65395,7 @@
 	"Whenever I'm alone with you",
 	"You make me feel like I am whole again",
 	"",
-	"I: (instrumental)",
+	"I2: (instrumental)",
 	"",
 	"V:",
 	"Whenever I'm alone with you",
@@ -65313,13 +65403,15 @@
 	"Whenever I'm alone with you",
 	"You make me feel like I am fun again",
 	"",
-	"I2: (instrumental)",
-	"",
 	"c:",
 	"However far away, I will always love you",
 	"However long I stay, I will always love you",
 	"Whatever words I say, I will always love you",
 	"I will always love you",
+	"",
+	"I2: (instrumental) Fly me to the moon",
+	"",
+	"I2: (instrumental)",
 	"",
 	"v:",
 	"Whenever I'm alone with you",
@@ -65327,11 +65419,13 @@
 	"Whenever I'm alone with you",
 	"You make me feel like I am clean again",
 	"",
-	"O:",
+	"C:",
 	"However far away, I will always love you",
 	"However long I stay, I will always love you",
 	"Whatever words I say, I will always love you",
-	"I will always love you"
+	"I will always love you",
+	"",
+	"O:"
     ]
 }
 },
@@ -86087,45 +86181,73 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 0, "song": 
+{ "file": "", "lastModifiedDate": 1635454497086, "song": 
 {
 "title": "Say",
 "artist": "John Mayer",
-"user": "Unknown",
-"lastModifiedDate": 0,
-"copyright": "Sony/ATV Music Publishing LLC, Reach Music Publishing",
-"key": "C",
-"defaultBpm": 100,
+"user": "Shari",
+"lastModifiedDate": 1635454497086,
+"copyright": "2007 Aware, Columbia",
+"key": "Bb",
+"defaultBpm": 84,
 "timeSignature": "4/4",
 "chords": 
     [
+	"I:",
+	"B♭E♭ GmF B♭E♭ GmF",
+	"I2:",
+	"B♭E♭ GmF",
 	"V:",
-	"G G G C C C C C",
-	"C Em Em D D D D D"
+	"B♭E♭ GmF B♭E♭ GmF x2",
+	"C:",
+	"B♭E♭ GmF B♭E♭ GmF x2",
+	"Br:",
+	"Cm D♯F Cm D♯F",
+	"Cm D♯F D♯ FX",
+	"O:",
+	"GmA♯ D♯ GmA♯ D♯ x6"
     ],
 "lyrics": 
     [
+	"I:",
+	"(instrumental)",
+	"",
+	"V:",
 	"Take all of your wasted honor",
 	"Every little past frustration",
-	"Take all of your so-called problems,",
+	"Take all of your so-called problems",
 	"Better put 'em in quotations",
-	"Say what you need to say [8x]",
+	"",
+	"C:",
+	"Say what you need to say (x8)",
+	"",
+	"V:",
 	"Walking like a one man army",
 	"Fighting with the shadows in your head",
 	"Living out the same old moment",
-	"Knowing you'd be better off instead,",
-	"If you could only . . .",
-	"Say what you need to say [8x]",
+	"Knowing you'd be better off instead, if you could only",
+	"",
+	"C:",
+	"Say what you need to say (x8)",
+	"",
+	"BR:",
 	"Have no fear for giving in",
 	"Have no fear for giving over",
 	"You'd better know that in the end",
 	"It's better to say too much",
 	"Than never to say what you need to say again",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"V:",
 	"Even if your hands are shaking",
 	"And your faith is broken",
 	"Even as the eyes are closing",
-	"Do it with a heart wide open (a wide heart)",
-	"Say what you need to say [24x]"
+	"Do it with a heart wide open, a wide heart",
+	"",
+	"O:",
+	"Say what you need to say [x24]"
     ]
 }
 },
