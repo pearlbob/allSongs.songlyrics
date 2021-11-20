@@ -113,12 +113,12 @@
     ]
 }
 },
-{ "file": "12 Bar Blues.songlyrics", "lastModifiedDate": 1550112983869, "song": 
+{ "file": "12 Bar Blues (Quickchange).songlyrics", "lastModifiedDate": 1637440813468, "song": 
 {
-"title": "12 Bar Blues",
+"title": "12 Bar Blues (Quickchange)",
 "artist": "All",
-"user": "Unknown",
-"lastModifiedDate": 1550112983869,
+"user": "bodhi",
+"lastModifiedDate": 1637440813468,
 "copyright": "Nobody",
 "key": "C",
 "defaultBpm": 106,
@@ -126,9 +126,55 @@
 "chords": 
     [
 	"V:",
-	"C F C C",
-	"F F C C",
-	"G F C G"
+	"C7 F7 C7 C7",
+	"F7 F7 C7 C7",
+	"G7 F7 C7 G7"
+    ],
+"lyrics": 
+    [
+	"v:"
+    ]
+}
+},
+{ "file": "12 Bar Blues.songlyrics", "lastModifiedDate": 1637440807736, "song": 
+{
+"title": "12 Bar Blues",
+"artist": "All",
+"user": "bodhi",
+"lastModifiedDate": 1637440807736,
+"copyright": "Nobody",
+"key": "C",
+"defaultBpm": 106,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"C7 C7 C7 C7",
+	"F7 F7 C7 C7",
+	"G7 F7 C7 G7"
+    ],
+"lyrics": 
+    [
+	"v:"
+    ]
+}
+},
+{ "file": "12 Bar Jazz Blues (1).songlyrics", "lastModifiedDate": 1637440801176, "song": 
+{
+"title": "12 Bar Jazz Blues",
+"artist": "Any",
+"user": "bodhi",
+"lastModifiedDate": 1637440801176,
+"copyright": "1800",
+"key": "G",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"G7 C7 G7 Dm7G7",
+	"C7 C♯dim G7 Bm7E7",
+	"Am7 D7 Gmaj7Em7 Am7D7"
     ],
 "lyrics": 
     [
