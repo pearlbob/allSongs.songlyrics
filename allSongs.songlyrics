@@ -63652,12 +63652,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1638949020516, "song": 
+{ "file": "", "lastModifiedDate": 1639029956773, "song": 
 {
 "title": "Linger",
 "artist": "Cranberries, The",
 "user": "Shari",
-"lastModifiedDate": 1638949020516,
+"lastModifiedDate": 1639029956773,
 "copyright": "1993 Island",
 "key": "D",
 "defaultBpm": 95,
@@ -63667,14 +63667,14 @@
 	"I:",
 	"D/G D/G D D x4",
 	"I2:",
-	"D D A A",
-	"C C G G",
+	"D D A6 A6",
+	"Cadd9 Cadd9 G G",
 	"V:",
-	"D D A A |",
-	"C C G G | x2",
+	"D D A6 A6 |",
+	"Cadd9 Cadd9 G G | x2",
 	"C:",
-	"D D A A",
-	"C C G G",
+	"D D A6 A6",
+	"Cadd9 Cadd9 G G",
 	"O:",
 	"D D/G D D/G",
 	"D D/G D"
