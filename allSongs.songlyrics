@@ -29525,12 +29525,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 0, "song": 
+{ "file": "", "lastModifiedDate": 1641801887820, "song": 
 {
 "title": "Earth Angel (Will You Be Mine)",
 "artist": "Penguins, The",
 "user": "my",
-"lastModifiedDate": 0,
+"lastModifiedDate": 1641801887820,
 "copyright": "1954 Dootone",
 "key": "Eb",
 "defaultBpm": 69,
@@ -29549,7 +29549,10 @@
 	"Db Db Ab Ab",
 	"Db Db Ab Ab",
 	"Db Db Ab Ab",
-	"Bb7 Bb7 Eb Eb"
+	"Bb7 Bb7 Eb Eb",
+	"O:",
+	"Ab Fm7 Db Eb x3",
+	"Ab"
     ],
 "lyrics": 
     [
@@ -29586,7 +29589,7 @@
 	"I hope and I pray that someday, that",
 	"I'll be the vision of your happiness, oh",
 	"",
-	"A:",
+	"O:",
 	"Earth angel, earth angel, please be mine",
 	"My darling dear love you all the time",
 	"I'm just a fool, a fool in love with ",
@@ -55674,7 +55677,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1641963838535, "song": 
+{ "file": "", "lastModifiedDate": 1641963838535, "song": 
 {
 "title": "In God's Country",
 "artist": "U2",
