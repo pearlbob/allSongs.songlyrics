@@ -3580,12 +3580,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1631074513134, "song": 
+{ "file": "", "lastModifiedDate": 1642575800846, "song": 
 {
 "title": "Alone",
 "artist": "Heart",
 "user": "Shari",
-"lastModifiedDate": 1631074513134,
+"lastModifiedDate": 1642575800846,
 "copyright": "1987 Capitol",
 "key": "Db",
 "defaultBpm": 87,
@@ -3606,12 +3606,12 @@
 	"Db Db",
 	"C:",
 	"EbmB GbDb EbmB GbDb",
-	"EbmB GbDb GbmB Db",
+	"EbmB GbDb GbB Db",
 	"GbB Db Db",
 	"C2:",
 	"EbmB GbDb EbmB GbDb",
-	"EbmB GbDb GbmB Db",
-	"GbmB Db",
+	"EbmB GbDb GbB Db",
+	"GbB Db",
 	"C3:",
 	"GbB Db GbB Db",
 	"GbB Db GbB Db",
@@ -65258,12 +65258,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1625030263094, "song": 
+{ "file": "", "lastModifiedDate": 1642575853384, "song": 
 {
 "title": "Listen to Your Heart",
 "artist": "Roxette",
 "user": "Shari",
-"lastModifiedDate": 1625030263094,
+"lastModifiedDate": 1642575853384,
 "copyright": "1988 EMI",
 "key": "C",
 "defaultBpm": 87,
@@ -65326,7 +65326,7 @@
 	"V:",
 	"Sometimes you wonder if this fight is worthwhile",
 	"The precious moments are all lost in the tide, yah",
-	"There swept away, and nothing is what it seems,",
+	"They're swept away, and nothing is what it seems",
 	"A feeling of belonging, to your dreams",
 	"",
 	"C1:",
@@ -65344,7 +65344,7 @@
 	"B:",
 	"And there are voices, that want to be heard",
 	"So much to mention, but you can't find the words",
-	"That scent of magic, the beauty, the speed,",
+	"That scent of magic, the beauty, the speed",
 	"When love was wilder, than the wind",
 	"",
 	"C3:",
