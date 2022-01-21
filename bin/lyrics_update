@@ -20,6 +20,7 @@ end
 #	default locations and file
 set f=allSongs.songlyrics
 set fm=allSongs.songmetadata
+set fp=allSongPerformances.songperformances
 set allSongsHome=~bob/github/allSongs.songlyrics
 set svrDst=gs://www.bsteele.com/bsteeleMusicApp
 
@@ -40,6 +41,7 @@ endif
 #	copy to local pages
 cp $f /var/www/html/public_html/bsteeleMusicApp/$f
 cp $fm /var/www/html/public_html/bsteeleMusicApp/$fm
+cp $fp /var/www/html/public_html/bsteeleMusicApp/$fp
 
 
 #	copy to web
@@ -48,13 +50,17 @@ gsutil -q -h "Cache-Control:public,max-age=20" cp $f $svrDst/$f
 gsutil -q acl ch -u AllUsers:R $svrDst/$f
 gsutil -q -h "Cache-Control:public,max-age=20" cp $fm $svrDst/$fm
 gsutil -q acl ch -u AllUsers:R $svrDst/$fm
+gsutil -q -h "Cache-Control:public,max-age=20" cp $fp $svrDst/$fp
+gsutil -q acl ch -u AllUsers:R $svrDst/$fp
 
 
 #	copy to local development locations, as local copies
-cp $f /home/bob/github/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$f
-cp $fm /home/bob/github/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$fm
+#cp $f /home/bob/github/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$f
+#cp $fm /home/bob/github/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$fm
+#cp $fp /home/bob/github/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$fp
 cp $f /home/bob/github/bsteele_music_flutter/lib/assets/$f
 cp $fm /home/bob/github/bsteele_music_flutter/lib/assets/$fm
+cp $fp /home/bob/github/bsteele_music_flutter/lib/assets/$fp
 
 exit $status
 
