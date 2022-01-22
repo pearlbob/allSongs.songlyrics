@@ -23897,6 +23897,85 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1642821549949, "song": 
+{
+"title": "Day Tripper",
+"artist": "Beatles, The",
+"user": "my",
+"lastModifiedDate": 1642821549949,
+"copyright": "1966 Apple Records",
+"key": "E",
+"defaultBpm": 136,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"E7 E7 E7 E7 x2",
+	"E7 E7",
+	"I2:",
+	"E7 E7 E7 E7",
+	"I3:",
+	"E7 E7 E7 E7 x3",
+	"I4:",
+	"E7 E7 E7 E7 x2",
+	"V:",
+	"E7 E7 E7 E7",
+	"A7 A7 E7 E7",
+	"C:",
+	"F#7 F#7 F#7 F#7",
+	"A7 G#7 C# B7",
+	"O:",
+	"E7 E7 E7 E7 x2",
+	"E7"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V:",
+	"Got a good reason for taking the easy way out",
+	"Got a good reason for taking the easy way out now",
+	"",
+	"C:",
+	"She was a day tripper, one way ticket yeah, it took me",
+	"So long to find out, and I found out",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"V:",
+	"She's a big teaser, she took me half the way there",
+	"She's a big teaser, she took me half the way there now",
+	"",
+	"C:",
+	"She was a day tripper, one way ticket yeah, it took me",
+	"So long to find out, and I found out",
+	"",
+	"I3:",
+	"(instrumental) Aah",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"V:",
+	"Tried to please her, she only played one night stands",
+	"Tried to please her, she only played one night stands now",
+	"",
+	"C:",
+	"(She was a) day tripper, Sunday driver yeah, it took me",
+	"So long to find out, and I found out",
+	"",
+	"I4:",
+	"(instrumental)",
+	"",
+	"O:",
+	"Day tripper, day tripper yeah",
+	"Day tripper, day tripper yeah",
+	"Day tripper"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1627796902289, "song": 
 {
 "title": "Daydream Believer",
@@ -39999,12 +40078,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1634883846652, "song": 
+{ "file": "", "lastModifiedDate": 1642879007003, "song": 
 {
 "title": "Gold Dust Woman",
 "artist": "Fleetwood Mac",
 "user": "Shari",
-"lastModifiedDate": 1634883846652,
+"lastModifiedDate": 1642879007003,
 "copyright": "1977 Warner Bros",
 "key": "Bb",
 "defaultBpm": 123,
@@ -40017,6 +40096,8 @@
 	"I2:",
 	"Bb Dsus2 Bb Dsus2",
 	"Dsus2 Dsus2 Dsus2",
+	"I3:",
+	"Dsus2 Bb Dsus2 Bb x4",
 	"V:",
 	"Dsus2 G C G",
 	"Dsus2 Bb/D Dsus2 Bb/D",
@@ -40025,8 +40106,11 @@
 	"C:",
 	"Bb G/B C Dsus2",
 	"Bb G/B C Dsus2",
+	"C2:",
+	"Bb G/B C Dsus2",
+	"Bb G/B C",
 	"O:",
-	"Bb Dsus2 Bb Dsus2 x10"
+	"Dsus2 Bb Dsus2 Bb x12"
     ],
 "lyrics": 
     [
@@ -40069,22 +40153,27 @@
 	"Over now, do you know how ",
 	"Pick up the pieces and go home",
 	"",
-	"C:",
+	"C2:",
 	"(Well did she) make you cry, make you break down",
-	"Shatter your illusions of love, and is it",
+	"Shatter your illusions of love, and now tell me is it",
 	"Over now, do you know how",
-	"Pick up the pieces and go home",
+	"Pick up the pieces and go",
+	"",
+	"I3:",
+	"Home, and go ",
+	"Home, and go",
+	"Home",
 	"",
 	"O:",
-	"And go home",
-	"And go home",
-	"(instrumental break)",
 	"Ooh, pale shadow of a woman",
-	"Ooh, black widow, yeah",
-	"Ooh, pale shadow, she’s a dragon",
+	"Ooh black widow",
+	"Ooh, pale shadow of a woman",
 	"Gold dust woman",
 	"Ooh, pale shadow of a woman",
-	"Ooh, black widow"
+	"Ooh, black widow",
+	"Ooh, pale shadow, she's a dragon",
+	"Gold dust woman",
+	"Woman, woman"
     ]
 }
 },
@@ -59839,6 +59928,107 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1642819708976, "song": 
+{
+"title": "Just My Imagination (Running Away With Me), cover by The Rolling Stones",
+"artist": "Temptations, The ",
+"user": "Shari",
+"lastModifiedDate": 1642819708976,
+"copyright": "1978 Rolling Stones, Virgin",
+"key": "A",
+"defaultBpm": 112,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"A D A D x2",
+	"I2:",
+	"A D A D x4",
+	"I3:",
+	"A D A D",
+	"V:",
+	"A D A D x4",
+	"C:",
+	"A D A D x2",
+	"Br1:",
+	"A A A A",
+	"A A E E",
+	"Br2:",
+	"A A A A",
+	"A A",
+	"O:",
+	"A D A D x4",
+	"A"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V:",
+	"I look out my window, watch her as she passes by",
+	"I say to myself, \"I'm such a lucky guy\"",
+	"To have a girl like her, is a dream come true",
+	"Out of all the fellows in New York, she loves me true",
+	"",
+	"C:",
+	"(But it was) just my imagination",
+	"Runnin' away with me, it was",
+	"Just my imagination",
+	"Runnin' away with me",
+	"",
+	"V:",
+	"Soon we'll be married and raise a family",
+	"Two boys for you, what about two girls for me",
+	"I tell you I am just a fellow with a one track mind",
+	"Whatever it is I want baby, I seek and I shall find, I'll tell ya",
+	"",
+	"C:",
+	"(It was) just my imagination, once again",
+	"Running away with me, it was",
+	"Just my imagination, running",
+	"Away with me",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"Br1:",
+	"Every night I hope and pray \"Dear lord, hear my plea",
+	"Don't ever let another take her love from me or I will surely die\" ",
+	"",
+	"Br2:",
+	"(Her love is) ecstasy, when her arms enfold me",
+	"I hear her tender rhapsody, but in",
+	"Reality, she doesn't even know",
+	"",
+	"C:",
+	"(Just my imagination) Me ",
+	"(Runnin' away with me) It was",
+	"Just my imagination, running",
+	"Away with me, I tell you",
+	"",
+	"C:",
+	"(It was) just my imagination, once again",
+	"Running away with me, it was",
+	"Just my imagination, running",
+	"Away with me",
+	"",
+	"I3:",
+	"(instrumental)",
+	"",
+	"C:",
+	"(It was) just my imagination, once again",
+	"Running away with me, it was",
+	"Just my imagination, running",
+	"Away with me",
+	"",
+	"O:",
+	"Away with me",
+	"Runaway, runaway, runaway, runaway, runaway run run uh",
+	"Runaway, runaway, runaway, runaway, runaway run run uh"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1613963683370, "song": 
 {
 "title": "Karma Police",
@@ -74632,12 +74822,12 @@
     ]
 }
 },
-{ "file": "My Favorite Mistake.songlyrics", "lastModifiedDate": 1562535272270, "song": 
+{ "file": "My Favorite Mistake.songlyrics", "lastModifiedDate": 1642645500357, "song": 
 {
 "title": "My Favorite Mistake",
 "artist": "Sheryl Crow",
-"user": "Unknown",
-"lastModifiedDate": 1562535272270,
+"user": "my",
+"lastModifiedDate": 1642645500357,
 "copyright": "1998 A&M",
 "key": "A",
 "defaultBpm": 104,
@@ -74673,7 +74863,7 @@
 	"CF DmBb CF DmBb",
 	"CF DmBb F Bb",
 	"CF DmBb CF DmBb",
-	"CF DmBb"
+	"CF DmBb CF DmBb"
     ],
 "lyrics": 
     [
@@ -74732,9 +74922,9 @@
 	"-",
 	"Did you see me walking by?",
 	"Did it ever make you cry?",
+	"You’re my favorite mistake",
 	"",
 	"T:",
-	"You’re my favorite mistake",
 	"You’re my favorite mistake",
 	"You’re my favorite mistake"
     ]
