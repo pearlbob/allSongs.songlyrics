@@ -27387,12 +27387,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1634883225129, "song": 
+{ "file": "", "lastModifiedDate": 1645131863913, "song": 
 {
 "title": "Don't Dream It's Over",
 "artist": "Crowded House",
-"user": "Shari",
-"lastModifiedDate": 1634883225129,
+"user": "pillyweed",
+"lastModifiedDate": 1645131863913,
 "copyright": "1986 Capitol  ",
 "key": "Eb",
 "defaultBpm": 81,
@@ -27414,8 +27414,8 @@
 	"AbBb EbCm AbBb EbCm",
 	"AbBb EbCm Ab Ab.",
 	"C3:",
-	"FmBb EbCm FmBb EbCm",
-	"FmBb EbCm Ab Ab.",
+	"AbBb EbCm AbBb EbCm",
+	"AbBb EbCm Ab Ab.",
 	"O:",
 	"AbBb EbCm AbBb EbCm x4"
     ],
@@ -51398,14 +51398,14 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1640756385474, "song": 
+{ "file": "", "lastModifiedDate": 1645132158299, "song": 
 {
 "title": "I Don't Want To Talk About It, cover by Rod Stewart",
 "artist": "Danny Whitten",
-"user": "my",
-"lastModifiedDate": 1640756385474,
+"user": "pillyweed",
+"lastModifiedDate": 1645132158299,
 "copyright": "1977 Reprise",
-"key": "G",
+"key": "Eb",
 "defaultBpm": 68,
 "timeSignature": "4/4",
 "chords": 
@@ -51414,6 +51414,8 @@
 	"Cm F Bb Bb",
 	"I2:",
 	"Cm F Bb Bb x2",
+	"I3:",
+	"Cm F Bb Bb x3",
 	"V:",
 	"Cm F Bb Bb x2",
 	"C:",
@@ -51423,10 +51425,8 @@
 	"Eb F BbDm Gm",
 	"Eb F Eb FX",
 	"O:",
-	"A#m A#m D# D# |",
-	"G# G# G# G# | x2",
-	"C# C# D# D#",
-	"C# C# A#mX"
+	"Dbm F#m B B x2",
+	"E F# E F#"
     ],
 "lyrics": 
     [
@@ -51473,7 +51473,7 @@
 	"If I stay here just a little bit longer",
 	"If I stay here, won't you listen to my ",
 	"",
-	"I1:",
+	"I3:",
 	"Heart, whoa my heart",
 	"My heart, whoa, heart",
 	"My heart, whoa, heart",
