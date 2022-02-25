@@ -77232,12 +77232,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1645573522844, "song": 
+{ "file": "", "lastModifiedDate": 1645751915483, "song": 
 {
 "title": "Never Tear Us Apart",
 "artist": "INXS",
-"user": "pillyweed",
-"lastModifiedDate": 1645573522844,
+"user": "Shari",
+"lastModifiedDate": 1645751915483,
 "copyright": "1988 Atlantic",
 "key": "C",
 "defaultBpm": 196,
@@ -77280,8 +77280,10 @@
 	"",
 	"V:",
 	"(We could) live for a thousand years, but if I",
-	"Hurt you, I'd make wine from your tears, I",
-	"Told you that we could fly, 'cause we all have wings, but",
+	"Hurt you, I'd make wine from your tears",
+	"",
+	"V:",
+	"(I) told you that we could fly, 'cause we all have wings, but",
 	"Some of us don't know why",
 	"",
 	"C:",
