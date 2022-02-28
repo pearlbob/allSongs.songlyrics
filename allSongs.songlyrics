@@ -38230,12 +38230,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1646037749459, "song": 
+{ "file": "", "lastModifiedDate": 1646087395535, "song": 
 {
 "title": "Freedom",
 "artist": "Wham!",
-"user": "Suzanne",
-"lastModifiedDate": 1646037749459,
+"user": "Shari",
+"lastModifiedDate": 1646087395535,
 "copyright": "1984 CBS",
 "key": "C",
 "defaultBpm": 136,
@@ -38245,18 +38245,22 @@
 	"I:",
 	"CC/E F CC/E F x2",
 	"I2:",
-	"C C G/B G/B",
-	"Dm Dm CG/B AmG",
+	"C C G/B G/B |",
+	"Dm Dm CG/B AmG | x2",
 	"V:",
 	"C C G/B G/B",
 	"Dm Dm CG/B AmG",
+	"V2:",
+	"C C G/B G/B",
+	"Dm Dm CG/B Am",
 	"PC:",
-	"Dm G CG Am",
-	"F G CG/B AmAm/G",
+	"F G CG/B Am",
+	"F G CG/B AmAm7/G",
 	"Fmaj7 G",
 	"C:",
-	"CC/E F Dm CC/G x2",
-	"C.C/EG Fsus2 Fsus2 GX",
+	"CC/E F Dm C/GG",
+	"CC/E F Dm C/GG",
+	"CC/E Bb/F Dm7 GX",
 	"C2:",
 	"CG A#F Dm G x4",
 	"O:",
@@ -38271,12 +38275,12 @@
 	"Doo doo doo doo doo doo",
 	"V:",
 	"Everyday I hear a different story",
-	"People say that you're no good for me",
-	"So you love another and she's making a ",
+	"People saying that you're no good for me",
+	"Saw your lover with another and she's making a ",
 	"Fool of you, oh",
 	"",
-	"V:",
-	"If you love me baby don't deny it",
+	"V2:",
+	"If you love me baby you'd deny it",
 	"But you laugh and tell me I should try it",
 	"Tell me I'm a baby and I don't ",
 	"Understand",
@@ -38284,7 +38288,7 @@
 	"PC:",
 	"(But you) know that I'll forgive you just this ",
 	"Once, twice, forever 'cause baby",
-	"You could take me to hell and back just as",
+	"You could drag me to hell and back just as",
 	"Long as we're together, and you ",
 	"Do",
 	"",
@@ -38308,7 +38312,7 @@
 	"I just go from day to day knowing ",
 	"All about the other boys",
 	"",
-	"V:",
+	"V2:",
 	"You take my hand and tell me I'm a fool to ",
 	"Give you all that I do",
 	"I bet you someday baby, someone says the ",
@@ -85945,12 +85949,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1618375215243, "song": 
+{ "file": "", "lastModifiedDate": 1646089799007, "song": 
 {
 "title": "Pride (In the Name of Love)",
 "artist": "U2",
 "user": "Shari",
-"lastModifiedDate": 1618375215243,
+"lastModifiedDate": 1646089799007,
 "copyright": "1984 Island",
 "key": "B",
 "defaultBpm": 108,
@@ -85969,7 +85973,9 @@
 	"C:",
 	"Bsus4 Esus2 A5 F#m x2",
 	"Br:",
-	"Bsus4 D Esus2 E x2"
+	"Bsus4 D Esus2 E x2",
+	"O:",
+	"Bsus4 Esus2 A5 F#m x4"
     ],
 "lyrics": 
     [
@@ -85986,7 +85992,7 @@
 	"Name of love, what ",
 	"More in the name of love, in the",
 	"Name of love, what ",
-	"More in the name of love, in the",
+	"More in the name of love",
 	"",
 	"V:",
 	"One man caught on a barbed wire fence",
@@ -85998,7 +86004,7 @@
 	"Name of love, what ",
 	"More in the name of love, in the",
 	"Name of love, what ",
-	"More in the name of love, in the",
+	"More in the name of love",
 	"",
 	"BR:",
 	"Nobody like you",
@@ -86025,7 +86031,10 @@
 	"Name of love, what ",
 	"More in the name of love, in the",
 	"Name of love, what ",
-	"More in the name of love, in the"
+	"More in the name of love",
+	"",
+	"O:",
+	"Oh, oh, oh"
     ]
 }
 },
@@ -109230,7 +109239,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1646028145992, "song": 
+{ "file": "", "lastModifiedDate": 1646028145992, "song": 
 {
 "title": "Tempted",
 "artist": "Squeeze",
