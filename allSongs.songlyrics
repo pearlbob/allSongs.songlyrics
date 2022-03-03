@@ -31913,13 +31913,13 @@
     ]
 }
 },
-{ "file": "End of the World (2).songlyrics", "lastModifiedDate": 1646208519190, "song": 
+{ "file": "End of the World (2).songlyrics", "lastModifiedDate": 1646257618608, "song": 
 {
 "title": "End of the World, The",
 "artist": "Skeeter Davis",
 "coverArtist": "Nina Gordon",
 "user": "Shari",
-"lastModifiedDate": 1646208519190,
+"lastModifiedDate": 1646257618608,
 "copyright": "2000 Warner Records,  written by Arthur Kent and Sylvia Dee",
 "key": "B",
 "defaultBpm": 71,
@@ -31929,21 +31929,24 @@
 	"I:",
 	"B6 B6 B6 B6",
 	"I2:",
-	"B6 F# Abm7 D#m",
-	"DbmDbm/Ab EbmAb7 DbmF#7 B",
+	"E F#7 D#m B",
+	"E F#7 B B7",
 	"V1:",
-	"B6 F# Abm7 D#m",
+	"B F# Abm7 D#m",
 	"DbmDbm/Ab EbmAb7 Dbm EmF#7",
 	"V2:",
-	"B6 F# Abm7 D#m",
+	"B F# Abm7 D#m",
 	"DbmDbm/Ab EbmAb7 DbmF#7 B",
 	"V3:",
-	"B6 F# Abm7 D#m",
+	"B F# Abm7 D#m",
 	"DbmDbm/Ab EbmAb7 DbmF#7",
 	"EF# BE C#m F#7 B",
+	"V4:",
+	"B F# Abm7 D#m",
+	"DbmDbm/Ab EbmAb7 DbmF#7",
 	"C:",
 	"E B EF# B",
-	"Dbm Ab7 Dbm EmF#7"
+	"Ebm Ab7 Dbm EmF#7"
     ],
 "lyrics": 
     [
@@ -31968,7 +31971,7 @@
 	"I can't understand, no, I can't understand",
 	"How life goes on the way it does",
 	"",
-	"v2:",
+	"v4:",
 	"Why does my heart go on beating",
 	"Why do these eyes of mine cry",
 	"Don't they know it's the end of the world",
@@ -112539,14 +112542,14 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1614747627828, "song": 
+{ "file": "", "lastModifiedDate": 1646258095958, "song": 
 {
 "title": "Too Late for Goodbyes",
 "artist": "Julian Lennon",
 "user": "Shari",
-"lastModifiedDate": 1614747627828,
+"lastModifiedDate": 1646258095958,
 "copyright": "1984 Atlantic",
-"key": "G",
+"key": "A",
 "defaultBpm": 123,
 "timeSignature": "4/4",
 "chords": 
