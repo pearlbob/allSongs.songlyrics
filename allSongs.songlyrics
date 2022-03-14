@@ -3512,15 +3512,15 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1620358386446, "song": 
+{ "file": "", "lastModifiedDate": 1647234829273, "song": 
 {
 "title": "Allison Road",
 "artist": "Gin Blossoms, The",
-"user": "Shari",
-"lastModifiedDate": 1620358386446,
+"user": "shari",
+"lastModifiedDate": 1647234829273,
 "copyright": "1994 A&M",
 "key": "D",
-"defaultBpm": 120,
+"defaultBpm": 134,
 "timeSignature": "4/4",
 "chords": 
     [
@@ -3532,6 +3532,8 @@
 	"G D A A",
 	"V:",
 	"AE DA AE DA x4",
+	"V2:",
+	"AE DA AE DA x2",
 	"PC:",
 	"Bm D A E",
 	"Bm D A",
@@ -3542,39 +3544,38 @@
 "lyrics": 
     [
 	"I1:",
-	"(Instrumental) I've",
+	"(Instrumental) ",
 	"",
 	"V:",
-	"Lost my mind on what I’d find",
+	"(I've) Lost my mind on what I’d find",
 	"All of the pressure that I left behind on Allison Road",
 	"Fools in the rain, if the sun gets through",
-	"Fire’s in the heaven of the eyes I knew on Allison Road",
+	"Fire’s in the heaven of the eyes I knew, on Allison Road",
 	"",
 	"PC:",
-	"Dark clouds fall when the moon was near",
-	"Birds fly by a.m. in her bedroom stare",
+	"Dark clouds fall when the moon was near, birds fly by a.m. in her bedroom stare",
 	"There’s no telling what I might find, and I couldn’t see I was ",
 	"Lost at the time",
 	"",
 	"C: ",
-	"on Allison Road",
-	"Yeah I didn’t know I was lost at the time on Allison Road",
+	"...On Allison Road, yeah",
+	"I didn’t know I was lost at the time on Allison Road",
 	"",
 	"V:",
-	"So she fills up her sails with my wasted breath, and",
+	"(So she) fills up her sails with my wasted breath, and",
 	"Each one’s more wasted that the others you can bet on Allison Road, now",
-	"I can’t hide on Allison Road so why not drive on Allison Road I",
-	"Know I wanna love her but I can’t decide on Allison Road, and",
+	"I can’t hide on Allison Road so why not drive on Allison Road, I",
+	"Know I wanna love her but I can’t decide on Allison Road",
 	"",
 	"PC:",
 	"I didn’t know I was lost at the time",
-	"Eyes in the sun, road wasn’t wide, and",
+	"Eyes in the sun where the road wasn’t wide, and",
 	"I went looking for an exit sign, all I wanted to ",
 	"Find tonight",
 	"",
 	"C: ",
-	"on Allison Road",
-	"Yeah I didn’t know I was lost at the time on Allison Road",
+	"...On Allison Road, yeah",
+	"I didn’t know I was lost at the time on Allison Road",
 	"",
 	"I2:",
 	"(Instrumental)",
@@ -3582,11 +3583,13 @@
 	"I1:",
 	"(Instrumental)",
 	"",
-	"V:",
+	"V2:",
 	"I’ve lost my mind, if the sun gets through",
-	"Fire’s in the heaven of the eyes I knew on Allison Road, on",
-	"Allison Road, Allison Road I left to know",
-	"on Allison Road"
+	"Fire’s in the heaven of the eyes I knew on Allison Road",
+	"",
+	"C:",
+	"(On) Allison Road, Allison Road, I left to know",
+	"-"
     ]
 }
 },
@@ -4383,14 +4386,14 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1629249421030, "song": 
+{ "file": "", "lastModifiedDate": 1647218705650, "song": 
 {
 "title": "And I Love Her",
 "artist": "Beatles, The",
-"user": "Shari",
-"lastModifiedDate": 1629249421030,
+"user": "shari",
+"lastModifiedDate": 1647218705650,
 "copyright": "1964 Capitol Records",
-"key": "F#",
+"key": "E",
 "defaultBpm": 80,
 "timeSignature": "4/4",
 "chords": 
@@ -28397,7 +28400,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1646624638470, "song": 
+{ "file": "", "lastModifiedDate": 1646624638470, "song": 
 {
 "title": "Don't Let the Sun Go Down on Me",
 "artist": "Elton John",
@@ -28831,7 +28834,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1646613999610, "song": 
+{ "file": "", "lastModifiedDate": 1646613999610, "song": 
 {
 "title": "Don't Talk",
 "artist": "10,000 Maniacs",
@@ -33781,7 +33784,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1646627872624, "song": 
+{ "file": "", "lastModifiedDate": 1646627872624, "song": 
 {
 "title": "Eyes Without A Face",
 "artist": "Billy Idol",
@@ -46216,7 +46219,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1646631659232, "song": 
+{ "file": "", "lastModifiedDate": 1646631659232, "song": 
 {
 "title": "Heartbreaker",
 "artist": "Pat Benatar",
@@ -53742,6 +53745,95 @@
 	"O: ",
 	"Saw her standing there, yeah well since I",
 	"Saw her standing there"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1647236109585, "song": 
+{
+"title": "I Saw the Light",
+"artist": "Todd Rundgren",
+"user": "shari",
+"lastModifiedDate": 1647236109585,
+"copyright": "1972 Bearsville",
+"key": "C",
+"defaultBpm": 121,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Dm7 G Dm7 G",
+	"I2:",
+	"Dm7 G Dm7 G",
+	"Dm7 G Cmaj7 C7",
+	"V1:",
+	"Dm7 G Dm7 G",
+	"Dm7 G Cmaj7 Em7",
+	"V2:",
+	"Dm7 G Dm7 G",
+	"Dm7 G Cmaj7 C7",
+	"C:",
+	"Fmaj7 Em7 Am D7",
+	"Dm7 G",
+	"Cmaj7 Dm7 Cmaj7 Dm7",
+	"C2:",
+	"Fmaj7 Em7 Am D7",
+	"Dm7 G",
+	"Cmaj7 Dm7 Cmaj7 Dm7 x2",
+	"Cmaj7"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V1:",
+	"(It was) late last night, I was ",
+	"Feeling something wasn't right, there was",
+	"Not another soul in sight, only ",
+	"You, only you",
+	"",
+	"V2:",
+	"(So we) walked along, though I",
+	"Knew that there was something wrong, and a",
+	"Feeling hit me, oh so strong, about",
+	"You",
+	"",
+	"C:",
+	"(Then you) gazed up at me, and the answer was plain to see, 'cause I ",
+	"Saw the light in your",
+	"Eyes (in your eyes), in your eyes (in your eyes)",
+	"",
+	"V1:",
+	"(Though we) had our fling (we had our fling), I just",
+	"Never would suspect a thing (suspect a thing), 'til that",
+	"Little bell began to ring (began to ring) in my ",
+	"Head, in my head",
+	"",
+	"V2:",
+	"(But I) tried to run (I tried to run), though I ",
+	"Knew it wouldn't help me none (not help me none), 'cause I",
+	"Couldn't ever love no one, or so I ",
+	"Said",
+	"",
+	"C:",
+	"(But my) feelings for you, were just something I never knew, 'til I",
+	"Saw the light in your",
+	"Eyes (in your eyes), in your eyes (in your eyes)",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"V2:",
+	"(But I) love you best, it's not ",
+	"Something that I say in jest, 'cause you're ",
+	"Different, girl, from all the rest, in my ",
+	"Eyes",
+	"",
+	"C2:",
+	"(And I) ran out before, but I won't do it anymore, can't you",
+	"See the light in my",
+	"Eyes? (In my eyes) in my eyes (in my eyes), in my",
+	"Eyes? (In my eyes) in my eyes (in my eyes)"
     ]
 }
 },
@@ -66135,7 +66227,7 @@
 { "file": "", "lastModifiedDate": 1646611863786, "song": 
 {
 "title": "Letter, The",
-"artist": "Box Tops, The ",
+"artist": "Box Tops, The",
 "user": "Shari",
 "lastModifiedDate": 1646611863786,
 "copyright": "1967 Mala, written by Wayne Carson",
@@ -79375,12 +79467,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1611724014311, "song": 
+{ "file": "", "lastModifiedDate": 1647233228773, "song": 
 {
 "title": "Nobody Does It Better",
 "artist": "Carly Simon",
-"user": "Shari",
-"lastModifiedDate": 1611724014311,
+"user": "shari",
+"lastModifiedDate": 1647233228773,
 "copyright": "1977 Elektra, Marvin Hamlisch and Carole Bayer Sager",
 "key": "F",
 "defaultBpm": 130,
@@ -79420,11 +79512,10 @@
 	"Baby, you're the best",
 	"",
 	"V:",
-	"I wasn't looking but somehow you found me",
+	"I wasn't looking, but somehow you found me",
 	"I tried to hide from your love light",
-	"But like Heaven above me",
-	"The spy who loved me",
-	"Is keeping all my secrets safe tonight",
+	"But like Heaven above me, the spy who loved me, is",
+	"Keeping all my secrets safe tonight",
 	"",
 	"C:",
 	"And nobody does it better",
@@ -79433,11 +79524,9 @@
 	"Why'd you have to be so good?",
 	"",
 	"V:",
-	"The way that you hold me",
-	"Whenever you hold me",
+	"The way that you hold me, whenever you hold me",
 	"There's some kind of magic inside you",
-	"That keeps me from running",
-	"But just keep it coming",
+	"That keeps me from running, but just keep it coming",
 	"How'd you learn to do the things you do?",
 	"",
 	"C2:",
@@ -89814,6 +89903,107 @@
 	"T:",
 	"Oh I know where I’ve been",
 	"Yes I know where I’ve been"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1647233947700, "song": 
+{
+"title": "Road to Nowhere",
+"artist": "Talking Heads",
+"user": "shari",
+"lastModifiedDate": 1647233947700,
+"copyright": "1985 Sire Records",
+"key": "E",
+"defaultBpm": 112,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I1:",
+	"G D7 C/E G/D",
+	"G D7 C/E EbD",
+	"G D7 C/E EbF",
+	"G D7 C/E EbD",
+	"I2:",
+	"E E E E",
+	"V:",
+	"A A E B",
+	"A A E B",
+	"C:",
+	"E E C#m C#m x2",
+	"C2:",
+	"E E C#m C#m x3",
+	"Br:",
+	"E E C#m C#m x4",
+	"O:",
+	"EX"
+    ],
+"lyrics": 
+    [
+	"I1:",
+	"(a capella) (Well we) know where we're going, but we",
+	"Don't know where we've been, and we",
+	"Know what we're knowing, but we can't ",
+	"Say what we've seen, and we're ",
+	"Not little children, and we know what we want, and the ",
+	"Future is certain, give us time to work it out",
+	"",
+	"I2:",
+	"(instrumental) Yeah",
+	"",
+	"C:",
+	"We're on a road to nowhere, come on inside",
+	"Taking that ride to nowhere, we'll take that ride",
+	"",
+	"V:",
+	"I'm feelin' okay this morning, and you know",
+	"We're on a road to paradise, here we go, here we go",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"C:",
+	"We're on a ride to nowhere, come on inside",
+	"Taking that ride to nowhere, we'll take that ride",
+	"",
+	"V:",
+	"Maybe you wonder where you are, I don't care",
+	"Here is where time is on our side, take you there, take you there",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"C2:",
+	"We're on a road to nowhere, ha, ha",
+	"We're on a road to nowhere, ha, ha",
+	"We're on a road to nowhere, ha, ha",
+	"",
+	"BR:",
+	"There's a city in my mind, come along and take that ride and it's all",
+	"Right, baby it's all right, and it's",
+	"Very far away, but it's growing day by day and it's all",
+	"Right, baby it's all right",
+	"Would you like to come along? And you could help me sing this song and it's all ",
+	"Right, baby it's all right, they can ",
+	"Tell you what to do but they'll make a fool of you and it's all ",
+	"Right, baby it's all right",
+	"",
+	"BR:",
+	"There's a city in my mind, come along and take that ride and it's all",
+	"Right, baby it's all right, and it's",
+	"Very far away, but it's growing day by day and it's all",
+	"Right, baby it's all right",
+	"Would you like to come along? And you could help me sing this song and it's all ",
+	"Right, baby it's all right, they can ",
+	"Tell you what to do but they'll make a fool of you and it's all ",
+	"Right, baby it's all right",
+	"",
+	"C2:",
+	"We're on a road to nowhere, hey, hey",
+	"We're on a road to nowhere, ha, ha",
+	"We're on a road to nowhere, ha, ha",
+	"",
+	"O:",
+	"We're on a road to nowhere"
     ]
 }
 },
@@ -101824,7 +102014,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1646629024500, "song": 
+{ "file": "", "lastModifiedDate": 1646629024500, "song": 
 {
 "title": "Sparks Fly",
 "artist": "Taylor Swift",
@@ -125775,6 +125965,109 @@
 	"",
 	"O:",
 	"(instrumental)"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1647238168532, "song": 
+{
+"title": "You Can't Hurry Love",
+"artist": "Supremes, The",
+"user": "shari",
+"lastModifiedDate": 1647238168532,
+"copyright": "1966 Motown",
+"key": "Bb",
+"defaultBpm": 192,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Bb Bb Bb Bb",
+	"Bb Bb",
+	"I2:",
+	"Bb Bb",
+	"V1:",
+	"Bb Bb Eb Bb",
+	"Dm Gm Eb F7",
+	"V2:",
+	"Dm Dm Dm Dm",
+	"Gm Gm Gm Gm",
+	"Eb6 Eb6 Eb6 Eb6",
+	"F Dm/F Eb/F F7",
+	"C:",
+	"Bb Bb Eb Bb |",
+	"Dm Gm Eb F7 | x2",
+	"Br:",
+	"Bb Bb Eb Bb |",
+	"Dm Gm7 Eb F7 | x3",
+	"O:",
+	"Bb Bb Eb Bb |",
+	"Dm Gm Eb F7 | x2",
+	"Bb"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V1:",
+	"(I need) love, love, to ease my mind, I need to",
+	"Find, find someone to call mine, but mama said",
+	"",
+	"C:",
+	"(You) can't hurry love, no, you just have to wait, she said",
+	"Love don't come easy, it's a game of give and take, you",
+	"Can't hurry love, no, you just have to wait, you got to",
+	"Trust, give it time, no matter how long it takes",
+	"",
+	"V2:",
+	"(But) how many heartaches must I stand, before I ",
+	"Find a love, to let me live again, right now the",
+	"Only thing, that keeps me hangin' on, when I",
+	"Feel my strength, yeah, it's almost gone, I remember mama said",
+	"",
+	"C:",
+	"(You) can't hurry love, no, you just have to wait, she said",
+	"Love don't come easy, it's a game of give and take, you",
+	"Can't hurry love, no, you just have to wait, you got to",
+	"Trust, give it time, no matter how long it takes",
+	"",
+	"C:",
+	"(How) long must I wait, how much ",
+	"More can I take, before ",
+	"Loneliness will cause my ",
+	"Heart, heart to break?",
+	"",
+	"V2:",
+	"(No) I can't bear to live my life alone, I grow ",
+	"Impatient for a love to call my own, but when I",
+	"Feel that I, I can't go on, these ",
+	"Precious words keeps me hangin' on, I remember mama said",
+	"",
+	"C:",
+	"(You) can't hurry love, no, you just have to wait, she said",
+	"Love don't come easy, it's a game of give and take, you",
+	"Can't hurry love, no, you just have to wait, you got to",
+	"Trust, give it time, no matter how long it takes",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"BR:",
+	"(No) love, love don't come easy, but I ",
+	"Keep on waiting, anticipating for that ",
+	"Soft voice, to talk to me at night, for some",
+	"Tender arms, to hold me tight",
+	"(I keep) waiting, I keep on waiting, but it ain't",
+	"Easy, it ain't easy, but mama said",
+	"",
+	"C:",
+	"(You) can't hurry love, no, you just have to wait, she said",
+	"Love don't come easy, it's a game of give and take, you",
+	"Can't hurry love, no, you just have to wait, you got to",
+	"Trust, give it time, no matter how long it takes",
+	"",
+	"O:",
+	"(You) can't hurry love"
     ]
 }
 },
