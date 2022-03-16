@@ -5009,12 +5009,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1647042146787, "song": 
+{ "file": "", "lastModifiedDate": 1647405368329, "song": 
 {
 "title": "Angel of the Morning",
 "artist": "Juice Newton",
 "user": "Shari",
-"lastModifiedDate": 1647042146787,
+"lastModifiedDate": 1647405368329,
 "copyright": "`98 Capitol",
 "key": "Ab",
 "defaultBpm": 73,
@@ -5034,6 +5034,9 @@
 	"Db Db DbAb DbEb",
 	"V:",
 	"Ab Db Eb Db x2",
+	"V2:",
+	"Ab Db Eb Db",
+	"Ab Db Eb DbAb/C",
 	"PC:",
 	"Bbm Db Eb Eb x2",
 	"C:",
@@ -5059,7 +5062,7 @@
 	"Heart",
 	"-",
 	"",
-	"V:",
+	"V2:",
 	"There's no need to take a ",
 	"Stand, for it was I who chose to ",
 	"Start",
@@ -5084,7 +5087,7 @@
 	"Anyhow",
 	"-",
 	"",
-	"V:",
+	"V2:",
 	"If morning's echo says we've ",
 	"Sinned, well, it was what I wanted ",
 	"Now",
@@ -39632,12 +39635,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1615173060292, "song": 
+{ "file": "", "lastModifiedDate": 1647405734804, "song": 
 {
 "title": "Gambler, The",
 "artist": "Kenny Rogers",
 "user": "Shari",
-"lastModifiedDate": 1615173060292,
+"lastModifiedDate": 1647405734804,
 "copyright": "1978 United Artists, written by Don Schlitz ",
 "key": "Eb",
 "defaultBpm": 89,
@@ -39671,16 +39674,16 @@
 	"C2:",
 	"E E A E",
 	"A E E B",
-	"E Eb A E",
+	"E E A E",
 	"A E B E"
     ],
 "lyrics": 
     [
 	"i:",
-	"(instrumental) On a",
+	"(instrumental) NOTE KEY CHANGE ON V3",
 	"",
 	"v:",
-	"Warm summer's eve on a train bound for nowhere, I",
+	"(On a) warm summer's eve on a train bound for nowhere, I",
 	"Met up with the gambler we were both too tired to sleep, so",
 	"We took turns a-starin' out the window at the darkness, the",
 	"Boredom overtook us, he began to speak, he said",
@@ -74880,13 +74883,13 @@
     ]
 }
 },
-{ "file": "Middle, The (1).songlyrics", "lastModifiedDate": 1575857089048, "song": 
+{ "file": "Middle, The (1).songlyrics", "lastModifiedDate": 1647413353964, "song": 
 {
 "title": "Middle, The",
 "artist": "Zedd",
-"user": "Vicki",
-"lastModifiedDate": 1575857089048,
-"copyright": "© Universal Music Corp., BMG Platinum Songs, Sony/ATV Music Publishing Allegro (Aust) Pty, R8d Music, Zedd Music Empire, Solo Ace Publishing, Songs Of Bbmg, SONGS OF UNIVERSAL INC.",
+"user": "Shari",
+"lastModifiedDate": 1647413353964,
+"copyright": "2018 Sony Music",
 "key": "C",
 "defaultBpm": 106,
 "timeSignature": "4/4",
@@ -74901,75 +74904,76 @@
 	"C GD C GD",
 	"C:",
 	"C GD C EmD",
-	"C EmD C GD",
-	"C2:",
 	"C GD C EmD",
-	"C GD C EmD",
-	"B:",
-	"Am G/B C GD",
-	"Am G/B C EmD",
-	"O:",
-	"C GD C GD x2",
-	"C GD C EmD x4"
+	"Br:",
+	"Am Em G D",
+	"Am Em Em D"
     ],
 "lyrics": 
     [
-	"I: DRUMS",
+	"I: Drums only",
+	"",
 	"V:",
 	"Take a seat right over there, sat on the stairs",
-	"Stay or leave, the cabinets are bare and I'm unaware",
-	"Of just how we got into this mess, got so aggressive",
+	"Stay or leave, the cabinets are bare and I'm unaware of",
+	"Just how we got into this mess, got so aggressive",
 	"I know we meant all good intentions",
+	"",
 	"PC:",
-	"So pull me closer",
-	"Why don't you pull me close?",
-	"Why don't you come on over?",
-	"I can't just let you go",
+	"(So pull me) closer, why don't you pull me close? Why don't you come on",
+	"Over? I can't just let you go",
+	"",
 	"C:",
-	"Oh, baby, why don't you just meet me in the middle?",
-	"I'm losing my mind just a little",
-	"So why don't you just meet me in the middle?",
-	"In the middle",
-	"C2:",
-	"Baby, why don't you just meet me in the middle?",
-	"I'm losing my mind just a little",
-	"So why don't you just meet me in the middle?",
-	"In the middle",
+	"(Oh) baby, why don't you just meet me in the ",
+	"Middle? I'm losing my mind just a ",
+	"Little, so why don't you just meet me in the ",
+	"Middle? In the middle",
+	"",
+	"C:",
+	"(Oh) baby, why don't you just meet me in the ",
+	"Middle? I'm losing my mind just a ",
+	"Little, so why don't you just meet me in the ",
+	"Middle? In the middle",
+	"",
 	"V:",
-	"Oh, take a step back for a minute, into the kitchen",
-	"Floors are wet and taps are still running, dishes are broken",
+	"(Oh) take a step back for a minute, into the kitchen",
+	"Floors are wet, and taps are still running, dishes are broken",
 	"How did we get into this mess? Got so aggressive",
 	"I know we meant all good intentions",
+	"",
 	"PC:",
-	"So pull me closer",
-	"Why don't you pull me close?",
-	"Why don't you come on over?",
-	"I can't just let you go, oh",
+	"(So pull me) closer, why don't you pull me close? Why don't you come on",
+	"Over? I can't just let you go",
+	"",
 	"C:",
-	"Oh, baby, why don't you just meet me in the middle?",
-	"I'm losing my mind just a little",
-	"So why don't you just meet me in the middle?",
-	"In the middle",
-	"B:",
-	"Looking at you I can't lie",
-	"Just pouring out admission",
-	"Regardless of my objection, oh-oh",
-	"And it's not about my pride",
-	"I need you on my skin",
-	"Just come over, pull me in, just-",
-	"O:",
-	"Oh, baby, why don't you just meet me in the middle?",
-	"I'm losing my mind just a little",
-	"So why don't you just meet me in the middle?",
-	"In the middle, no, no",
-	"Baby, why don't you just meet me in the middle? Oh, yeah",
-	"I'm losing my mind just a little",
-	"So why don't you just meet me in the middle? Oh",
-	"In the middle",
-	"Baby, why don't you just meet me in the middle, baby?",
-	"I'm losing my mind just a little",
-	"So why don't you just meet me in the middle, middle?",
-	"In the middle, middle"
+	"(Oh) baby, why don't you just meet me in the ",
+	"Middle? I'm losing my mind just a ",
+	"Little, so why don't you just meet me in the ",
+	"Middle? In the middle",
+	"",
+	"BR:",
+	"Looking at you I can't lie, just pouring out ",
+	"Admission, regardless of my objection, oh-oh",
+	"And it's not about my pride, I need you on my ",
+	"Skin just come over, pull me in just",
+	"",
+	"C:",
+	"(Oh) baby, why don't you just meet me in the ",
+	"Middle? I'm losing my mind just a ",
+	"Little, so why don't you just meet me in the ",
+	"Middle? In the middle, no no",
+	"",
+	"C:",
+	"(Oh) baby, why don't you just meet me in the ",
+	"Middle? I'm losing my mind just a ",
+	"Little, so why don't you just meet me in the ",
+	"Middle? In the middle",
+	"",
+	"C:",
+	"Baby, why don't you just meet me in the ",
+	"Middle baby? I'm losing my mind just a ",
+	"Little, so why don't you just meet me in the ",
+	"Middle? In the middle"
     ]
 }
 },
@@ -101724,36 +101728,35 @@
     ]
 }
 },
-{ "file": "Sour Girl (2).songlyrics", "lastModifiedDate": 1536548091607, "song": 
+{ "file": "Sour Girl (2).songlyrics", "lastModifiedDate": 1647407481167, "song": 
 {
 "title": "Sour Girl",
 "artist": "Stone Temple Pilots",
-"user": "Unknown",
-"lastModifiedDate": 1536548091607,
+"user": "Shari",
+"lastModifiedDate": 1647407481167,
 "copyright": "1999 Atlantic",
 "key": "F",
-"defaultBpm": 120,
+"defaultBpm": 104,
 "timeSignature": "4/4",
 "chords": 
     [
 	"I1:",
-	"FC EbBb CF G",
+	"Fsus2C/E EbBm/D Csus2G/B FG x2",
 	"I2:",
-	"Am7Bb7 FG Am7Bb7 FG",
+	"D/F#Bbmaj7 FG D/F#Bbmaj7 FG",
 	"V:",
-	"D5Bb7 FG D5Bb7 FG x4",
+	"D/F#Bbmaj7 FG D/F#Bbmaj7 FG x2",
 	"C:",
-	"Bb F C G",
+	"Bb F/A C G",
 	"Bb F G G",
 	"Br:",
-	"FC C EbBm Bm",
-	"CF G",
+	"FC/E C/E Eb6Bm/D Bm/D",
+	"Csus2G/B FG",
 	"O:",
-	"Am7Bb7 FG Am7Bb7 FG x4"
+	"D/F#Bbmaj7 FG D/F#Bbmaj7 FG x4"
     ],
 "lyrics": 
     [
-	"I1: (Instrumental)",
 	"I1: (Instrumental)",
 	"",
 	"V:",
@@ -104776,12 +104779,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1646536922484, "song": 
+{ "file": "", "lastModifiedDate": 1647408929940, "song": 
 {
 "title": "Stumblin' In",
 "artist": "Chris Norman and Suzi Quatro",
 "user": "Shari",
-"lastModifiedDate": 1646536922484,
+"lastModifiedDate": 1647408929940,
 "copyright": "1978 RSO, written by Mike Chapman and Nicky Chinn",
 "key": "C",
 "defaultBpm": 129,
@@ -104795,7 +104798,9 @@
 	"Am D G Em x4",
 	"Am D7 G G",
 	"C:",
-	"Am D G Em x4"
+	"Am D G Em x4",
+	"O:",
+	"Am"
     ],
 "lyrics": 
     [
@@ -104844,7 +104849,9 @@
 	"(Oh stumblin') in, I'm stumblin' in, foolishly ",
 	"Laying our hearts on the table, stumblin' in, oh stumblin' ",
 	"In, ah stumblin' in, I'm stumblin' in, we were stumblin' in, now and then ",
-	"Firelight will catch us, stumblin' in"
+	"Firelight will catch us, stumblin' in",
+	"",
+	"O:"
     ]
 }
 },
@@ -120343,12 +120350,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1645830175880, "song": 
+{ "file": "", "lastModifiedDate": 1647408894646, "song": 
 {
 "title": "(What's So Funny 'Bout) Peace Love And Understanding, cover by Elvis Costello & The Attractions",
 "artist": "Nick Lowe",
 "user": "Shari",
-"lastModifiedDate": 1645830175880,
+"lastModifiedDate": 1647408894646,
 "copyright": "1978 Columbia",
 "key": "G",
 "defaultBpm": 140,
@@ -120357,6 +120364,9 @@
     [
 	"I:",
 	"G C G C x2",
+	"I2:",
+	"G C G C x3",
+	"Em A D C",
 	"V:",
 	"G C G C |",
 	"Em A D C | x2",
@@ -120405,10 +120415,7 @@
 	"What's so funny 'bout peace love and understanding? Oh",
 	"What's so funny 'bout peace love and understanding?",
 	"",
-	"I:",
-	"(instrumental)",
-	"",
-	"I:",
+	"I2:",
 	"(instrumental)",
 	"",
 	"",
@@ -123935,12 +123942,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1644822329855, "song": 
+{ "file": "", "lastModifiedDate": 1647410366470, "song": 
 {
 "title": "Without You",
 "artist": "Harry Nilsson",
-"user": "pillyweed",
-"lastModifiedDate": 1644822329855,
+"user": "Shari",
+"lastModifiedDate": 1647410366470,
 "copyright": "1971 RCA Victor",
 "key": "E",
 "defaultBpm": 63,
@@ -123951,7 +123958,7 @@
 	"Eadd9E Eadd9E",
 	"V:",
 	"Eadd9E G#m F#m G#7",
-	"C#mE/B F#7/Bb Eadd9 B7",
+	"C#mE/B F#/Bb Eadd9 B7",
 	"C:",
 	"E C#m F#m B7",
 	"E C#m F#m B7 B7.",
@@ -125968,12 +125975,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1647238168532, "song": 
+{ "file": "", "lastModifiedDate": 1647405003602, "song": 
 {
 "title": "You Can't Hurry Love",
 "artist": "Supremes, The",
-"user": "shari",
-"lastModifiedDate": 1647238168532,
+"user": "Shari",
+"lastModifiedDate": 1647405003602,
 "copyright": "1966 Motown",
 "key": "Bb",
 "defaultBpm": 192,
@@ -126011,7 +126018,7 @@
 	"",
 	"V1:",
 	"(I need) love, love, to ease my mind, I need to",
-	"Find, find someone to call mine, but mama said",
+	"Find find someone to call mine, but mama said",
 	"",
 	"C:",
 	"(You) can't hurry love, no, you just have to wait, she said",
@@ -126029,7 +126036,7 @@
 	"(You) can't hurry love, no, you just have to wait, she said",
 	"Love don't come easy, it's a game of give and take, you",
 	"Can't hurry love, no, you just have to wait, you got to",
-	"Trust, give it time, no matter how long it takes",
+	"Trust give it time, no matter how long it takes",
 	"",
 	"C:",
 	"(How) long must I wait, how much ",
@@ -126047,7 +126054,7 @@
 	"(You) can't hurry love, no, you just have to wait, she said",
 	"Love don't come easy, it's a game of give and take, you",
 	"Can't hurry love, no, you just have to wait, you got to",
-	"Trust, give it time, no matter how long it takes",
+	"Trust give it time, no matter how long it takes",
 	"",
 	"I2:",
 	"(instrumental)",
@@ -126056,15 +126063,15 @@
 	"(No) love, love don't come easy, but I ",
 	"Keep on waiting, anticipating for that ",
 	"Soft voice, to talk to me at night, for some",
-	"Tender arms, to hold me tight",
-	"(I keep) waiting, I keep on waiting, but it ain't",
+	"Tender arms, to hold me tight, I keep",
+	"Waiting, I keep on waiting, but it ain't",
 	"Easy, it ain't easy, but mama said",
 	"",
 	"C:",
 	"(You) can't hurry love, no, you just have to wait, she said",
 	"Love don't come easy, it's a game of give and take, you",
 	"Can't hurry love, no, you just have to wait, you got to",
-	"Trust, give it time, no matter how long it takes",
+	"Trust give it time, no matter how long it takes",
 	"",
 	"O:",
 	"(You) can't hurry love"
