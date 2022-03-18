@@ -33787,12 +33787,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1646627872624, "song": 
+{ "file": "", "lastModifiedDate": 1647561499795, "song": 
 {
 "title": "Eyes Without A Face",
 "artist": "Billy Idol",
 "user": "Shari",
-"lastModifiedDate": 1646627872624,
+"lastModifiedDate": 1647561499795,
 "copyright": "1983 Chrysalis Records",
 "key": "E",
 "defaultBpm": 86,
@@ -33820,6 +33820,10 @@
 	"C:",
 	"A B A B",
 	"A B F#m G#m7",
+	"C2:",
+	"A B A B",
+	"A B F#m G#m7",
+	"F#m G#m7",
 	"Br:",
 	"E D E D x3",
 	"O:",
@@ -33892,11 +33896,11 @@
 	"Once so alive and new, but it's gone from your",
 	"Eyes, I'd better realize",
 	"",
-	"C:",
+	"C2:",
 	"(Les yeux sans visage) Eyes without a face",
 	"(Les yeux sans visage) Eyes without a face",
-	"(Les yeux sans visage) Eyes without a face",
-	"Got no human grace, your eyes without a ",
+	"(Les yeux sans visage) Eyes without a",
+	"Face, got no human grace, your eyes without a ",
 	"Face, such a human waste, your eyes without a face",
 	"",
 	"I3:",
@@ -82343,6 +82347,88 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1647550528566, "song": 
+{
+"title": "Ophelia",
+"artist": "Lumineers, The",
+"user": "shari",
+"lastModifiedDate": 1647550528566,
+"copyright": "2016 Dualtone Records",
+"key": "F",
+"defaultBpm": 75,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"X X X X",
+	"I2:",
+	"Dm Bb F F x2",
+	"V:",
+	"Dm Bb F F x4",
+	"V2:",
+	"Dm Bb F F x2",
+	"C Bb F F",
+	"Dm Bb F F",
+	"C:",
+	"DmBb F BbC F x2",
+	"Br:",
+	"BbF FC F F"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(drums)",
+	"",
+	"V:",
+	"I, I, when I was younger",
+	"I, I, should have known better",
+	"And I can't feel no remorse",
+	"And you don't feel nothing back",
+	"",
+	"I2:",
+	"(instrumental piano)",
+	"",
+	"V:",
+	"I, I, got a new girlfriend",
+	"Feels like he's on top",
+	"And I don't feel no remorse",
+	"And you can't see past my blinders",
+	"",
+	"C:",
+	"Oh Ophelia, you've been on my ",
+	"Mind girl since the flood",
+	"Oh Ophelia, heaven help a ",
+	"Fool who falls in love",
+	"",
+	"V2:",
+	"I, I, got a little paycheck",
+	"You got big plans and you gotta move",
+	"And I don't feel nothing at all",
+	"And you can't feel nothing small",
+	"",
+	"BR:",
+	"(Honey I) love you, that's all she wrote",
+	"",
+	"C:",
+	"Oh Ophelia, you've been on my ",
+	"Mind girl like a drug",
+	"Oh Ophelia, heaven help a ",
+	"Fool who falls in love",
+	"",
+	"C:",
+	"Oh Ophelia, you've been on my ",
+	"Mind girl since the flood",
+	"Oh Ophelia, heaven help a ",
+	"Fool who falls in love",
+	"",
+	"C:",
+	"Oh Ophelia, you've been on my ",
+	"Mind girl like a drug",
+	"Oh Ophelia, heaven help a ",
+	"Fool who falls in love"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1615185681254, "song": 
 {
 "title": "Ordinary World",
@@ -101728,12 +101814,12 @@
     ]
 }
 },
-{ "file": "Sour Girl (2).songlyrics", "lastModifiedDate": 1647407481167, "song": 
+{ "file": "Sour Girl (2).songlyrics", "lastModifiedDate": 1647560973815, "song": 
 {
 "title": "Sour Girl",
 "artist": "Stone Temple Pilots",
 "user": "Shari",
-"lastModifiedDate": 1647407481167,
+"lastModifiedDate": 1647560973815,
 "copyright": "1999 Atlantic",
 "key": "F",
 "defaultBpm": 104,
@@ -101744,6 +101830,8 @@
 	"Fsus2C/E EbBm/D Csus2G/B FG x2",
 	"I2:",
 	"D/F#Bbmaj7 FG D/F#Bbmaj7 FG",
+	"I3:",
+	"Fsus2C/E EbBm/D Csus2G/B FG",
 	"V:",
 	"D/F#Bbmaj7 FG D/F#Bbmaj7 FG x2",
 	"C:",
@@ -101801,7 +101889,7 @@
 	"What would you do if I follow you?",
 	"What would you do? I follow",
 	"",
-	"I1:",
+	"I3:",
 	"(Instrumental)",
 	"",
 	"BR:",
@@ -105431,15 +105519,15 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1636354027289, "song": 
+{ "file": "", "lastModifiedDate": 1647561699203, "song": 
 {
 "title": "Sultans of Swing",
 "artist": "Dire Straits",
 "user": "Shari",
-"lastModifiedDate": 1636354027289,
+"lastModifiedDate": 1647561699203,
 "copyright": "1978 Warner Bros",
 "key": "F",
-"defaultBpm": 110,
+"defaultBpm": 148,
 "timeSignature": "4/4",
 "chords": 
     [
@@ -106027,12 +106115,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1645590832005, "song": 
+{ "file": "", "lastModifiedDate": 1647561778922, "song": 
 {
 "title": "Sunny Afternoon",
 "artist": "Kinks, The",
 "user": "Shari",
-"lastModifiedDate": 1645590832005,
+"lastModifiedDate": 1647561778922,
 "copyright": "1966 Reprise",
 "key": "D",
 "defaultBpm": 124,
@@ -106058,6 +106146,7 @@
 	"Dm Dm G7 C",
 	"F F A7 A7",
 	"Dm Dm/C Dm/B Dm/Bb",
+	"C2:",
 	"A A/G A/F A/E",
 	"Dm Dm/C Dm/B Dm/Bb",
 	"A A/G A/F A/E",
@@ -106092,6 +106181,8 @@
 	"Live this life of luxury",
 	"Lazing on a sunny",
 	"Afternoon, in the ",
+	"",
+	"C2:",
 	"Summertime, in the ",
 	"Summertime, in the ",
 	"Summertime",
@@ -106118,6 +106209,8 @@
 	"('Cause I) love to live so pleasantly",
 	"Live this life of luxury",
 	"Lazing on a sunny afternoon",
+	"",
+	"C2:",
 	"In the summertime",
 	"In the summertime",
 	"In the summertime",
@@ -106132,6 +106225,8 @@
 	"('And I) love to live so pleasantly",
 	"Live this life of luxury",
 	"Lazing on a sunny afternoon",
+	"",
+	"C2:",
 	"In the summertime",
 	"In the summertime",
 	"In the summertime",
@@ -125112,12 +125207,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1630442383213, "song": 
+{ "file": "", "lastModifiedDate": 1647560929889, "song": 
 {
 "title": "Year of the Cat",
 "artist": "Al Stewart",
 "user": "Shari",
-"lastModifiedDate": 1630442383213,
+"lastModifiedDate": 1647560929889,
 "copyright": "1976 Janus, written by Al Stewart and Peter Wood",
 "key": "G",
 "defaultBpm": 116,
@@ -125143,7 +125238,9 @@
 	"B:",
 	"B C G D",
 	"B C G",
-	"FC D DX"
+	"FC D DX",
+	"O:",
+	"Cmaj7"
     ],
 "lyrics": 
     [
@@ -125209,7 +125306,9 @@
 	"I:",
 	"I2:",
 	"I: ",
-	"I:"
+	"I:",
+	"",
+	"O:"
     ]
 }
 },
