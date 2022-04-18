@@ -5664,7 +5664,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1650084695068, "song": 
+{ "file": "", "lastModifiedDate": 1650084695068, "song": 
 {
 "title": "Any Day Now",
 "artist": "Chuck Jackson",
@@ -53028,84 +53028,13 @@
     ]
 }
 },
-{ "file": "I Don't Want To Talk About It.songlyrics", "lastModifiedDate": 1598829657453, "song": 
-{
-"title": "I Don't Want To Talk About It",
-"artist": "Danny Whitten",
-"user": "songs",
-"lastModifiedDate": 1598829657453,
-"copyright": "Crazy Horse Music",
-"key": "G",
-"defaultBpm": 133,
-"timeSignature": "6/8",
-"chords": 
-    [
-	"I1:",
-	"Am Am D D",
-	"G G G G",
-	"I2:",
-	"Am Am D D",
-	"G G G G",
-	"V:",
-	"Am Am D D |",
-	"G G G G | x2",
-	"C:",
-	"C C D D",
-	"G Bm Em Em",
-	"C C D D",
-	"C C DX",
-	"Am Am D D",
-	"G G G G"
-    ],
-"lyrics": 
-    [
-	"I1:",
-	"Intro",
-	"",
-	"V:",
-	"I can tell by your eyes that you've probably been cryin' ",
-	"forever",
-	"And the stars in the sky don't mean nothin' to you, they're ",
-	"a mirror",
-	"",
-	"C:",
-	"I don't want to talk about it, ",
-	"how you broke my heart",
-	"If I stay here just a little bit longer",
-	"If I stay here, won't you listen to my heart, whoa, ",
-	"heart?",
-	"",
-	"V:",
-	"If I stand all alone, will the shadow hide the color of my heart",
-	"Blue for the tears, black for the night's fears",
-	"The star in the sky don't mean nothin' to you, they're ",
-	"a mirror",
-	"",
-	"C:",
-	"I don't want to talk about it, ",
-	"how you broke my heart",
-	"If I stay here just a little bit longer",
-	"If I stay here, won't you listen to my heart, whoa, ",
-	"heart?",
-	"",
-	"I2:",
-	"Solo",
-	"",
-	"C:",
-	"I don't want to talk about it, how you broke this old heart",
-	"If I stay here just a little bit longer",
-	"If I stay here, won't you listen to my heart, whoa, heart?",
-	"My heart, whoa, heart"
-    ]
-}
-},
-{ "file": "", "lastModifiedDate": 1649655345553, "song": 
+{ "file": "", "lastModifiedDate": 1650251198239, "song": 
 {
 "title": "I Don't Want To Talk About It, cover by Rod Stewart",
-"artist": "Danny Whitten",
-"user": "shari",
-"lastModifiedDate": 1649655345553,
-"copyright": "1977 Reprise",
+"artist": "Crazy Horse",
+"user": "my",
+"lastModifiedDate": 1650251198239,
+"copyright": "1977 Riva, written by Danny Whitten",
 "key": "Bb",
 "defaultBpm": 68,
 "timeSignature": "4/4",
@@ -54514,13 +54443,13 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1650163186872, "song": 
+{ "file": "", "lastModifiedDate": 1650250560239, "song": 
 {
 "title": "I Love a Rainy Night",
 "artist": "Eddie Rabbitt",
 "user": "pillyweed",
-"lastModifiedDate": 1650163186872,
-"copyright": "1980 Elektra",
+"lastModifiedDate": 1650250560239,
+"copyright": "1980 Elektra, written David Malloy, Eddie Rabbitt, Even Stevens",
 "key": "C",
 "defaultBpm": 130,
 "timeSignature": "4/4",
@@ -88160,6 +88089,84 @@
     ]
 }
 },
+{ "file": null, "lastModifiedDate": 1650250146324, "song": 
+{
+"title": "Porch Step",
+"artist": "Paul Kub & Jennifer Brandlon",
+"user": "pillyweed",
+"lastModifiedDate": 1650250146324,
+"copyright": "2022 Paul Kub & Jennifer Brandlon",
+"key": "C",
+"defaultBpm": 100,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"C C C C",
+	"I2:",
+	"C C",
+	"I3:",
+	"G G C C x2",
+	"V:",
+	"G G C C x2",
+	"PC:",
+	"F F C C x2",
+	"C:",
+	"Bb F Bb F",
+	"Bb F C C",
+	"O:",
+	"C C"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V:",
+	"You don’t need to tell me you’ve lost a lot",
+	"Too many years spent as an after-thought",
+	"",
+	"PC:",
+	"This might take me a little time, I'll",
+	"Find a way to ease your troubled mind",
+	"",
+	"C:",
+	"(But if) you’re not ready to come inside, I know what to do",
+	"Sit on the porch step and stay right here with you",
+	"",
+	"V:",
+	"I don’t what you need, but I can learn ",
+	"Go if you have to, but please return",
+	"",
+	"PC:",
+	"I meant every word I said, my",
+	"Shoulder waits for your weary head",
+	"",
+	"C:",
+	"(But if) you’re not ready to come inside I know what to do",
+	"Sit on the porch step and stay right here with you",
+	"",
+	"I2:",
+	"",
+	"I3:",
+	"(instrumental)",
+	"",
+	"PC:",
+	"I meant every word I said, my",
+	"Shoulder waits for your weary head",
+	"",
+	"C:",
+	"(But if) you’re not ready to, I know what I'll do",
+	"Sit on the porch step and stay right here with you",
+	"",
+	"C:",
+	"But if you’re not ready to come inside I know what to do",
+	"I will stay here with you",
+	"",
+	"O:"
+    ]
+}
+},
 { "file": "Port Orford (4).songlyrics", "lastModifiedDate": 1545878844635, "song": 
 {
 "title": "Port Orford",
@@ -90271,16 +90278,16 @@
     ]
 }
 },
-{ "file": "Reasons Why.songlyrics", "lastModifiedDate": 1558893551530, "song": 
+{ "file": "Reasons Why.songlyrics", "lastModifiedDate": 1650248241881, "song": 
 {
 "title": "Reasons Why",
 "artist": "Nickel Creek",
-"user": "Unknown",
-"lastModifiedDate": 1558893551530,
+"user": "pillyweed",
+"lastModifiedDate": 1650248241881,
 "copyright": "2000 Sugar Hill",
 "key": "Ab",
-"defaultBpm": 152,
-"timeSignature": "4/4",
+"defaultBpm": 76,
+"timeSignature": "2/4",
 "chords": 
     [
 	"I1:",
@@ -106045,12 +106052,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1628655045095, "song": 
+{ "file": "", "lastModifiedDate": 1650247862976, "song": 
 {
 "title": "Steal Away",
 "artist": "Robbie Dupree",
-"user": "Shari",
-"lastModifiedDate": 1628655045095,
+"user": "pillyweed",
+"lastModifiedDate": 1650247862976,
 "copyright": "1980 Elektra",
 "key": "D",
 "defaultBpm": 121,
@@ -106115,7 +106122,6 @@
 	"C3:",
 	"Steal away, why don't we steal away, why don't we",
 	"Steal away, why don't we steal away, into the",
-	"",
 	"",
 	"O:",
 	"Night, I know it ain't right, into the",
