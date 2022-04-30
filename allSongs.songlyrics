@@ -128566,12 +128566,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1648441811487, "song": 
+{ "file": "", "lastModifiedDate": 1651243345971, "song": 
 {
 "title": "Wonderwall",
 "artist": "Oasis",
-"user": "shari",
-"lastModifiedDate": 1648441811487,
+"user": "bob",
+"lastModifiedDate": 1651243345971,
 "copyright": "1995 Creation",
 "key": "A",
 "defaultBpm": 87,
@@ -128587,7 +128587,8 @@
 	"Dadd9E AF#m7 B7sus4 B7sus4",
 	"C:",
 	"Dadd9F#m7 AF#m7 Dadd9F#m7 AF#m7",
-	"Dadd9F#m7 AF#m7 Dadd9F#m7 A. F#m7X X",
+	"Dadd9F#m7 AF#m7 Dadd9F#m7 A.",
+	"F#m7X X",
 	"C2:",
 	"Dadd9F#m7 AF#m7 Dadd9F#m7 AF#m7",
 	"Dadd9F#m7 AF#m7 Dadd9F#m7 AF#m7",
