@@ -24808,6 +24808,87 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1650858210366, "song": 
+{
+"title": "Dance with Me",
+"artist": "Orleans",
+"user": "pillyweed",
+"lastModifiedDate": 1650858210366,
+"copyright": "1975 Asylum",
+"key": "D",
+"defaultBpm": 99,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"A/DD D D D",
+	"A/GG G G G",
+	"Em Em G/A D/AA",
+	"A/DD D D D",
+	"V:",
+	"A/DD D D D",
+	"A/GG G G G",
+	"Em Em G/A D/AA",
+	"A/DD D D D",
+	"C:",
+	"Gmaj7 Gmaj7 A A",
+	"Gmaj7 Gmaj7 E E",
+	"Gmaj7 Gmaj7 A A#dim7",
+	"Bm Bm G/A D/AA",
+	"O:",
+	"A/DD D G G",
+	"A/DD D G G",
+	"A/DD D G G",
+	"D D BmA D"
+    ],
+"lyrics": 
+    [
+	"I: ",
+	"(instrumental)",
+	"",
+	"V:",
+	"Dance with me, I want to be your partner",
+	"Can't you see the music is just starting",
+	"Night is calling and I am falling",
+	"Dance with me",
+	"",
+	"V:",
+	"Fantasy could never be so killing",
+	"I feel free, I hope that you are willing",
+	"Pick the beat up and kick your feet up",
+	"Dance with me",
+	"",
+	"C:",
+	"Let it lift you off the ground",
+	"Starry eyes and love is all around us",
+	"I can take you where you want to go",
+	"...Ohh oh",
+	"",
+	"V:",
+	"Dance with me, I want to be your partner",
+	"Can't you see the music is just starting",
+	"Night is calling and I am falling",
+	"Dance with me",
+	"",
+	"I:",
+	"(instrumental melodica)",
+	"",
+	"C:",
+	"Let it lift you off the ground",
+	"Starry eyes, and love is all around us",
+	"I can take you where you want to go",
+	"",
+	"V:",
+	"Dance with me, I want to be your partner",
+	"Can't you see the music is just starting",
+	"Night is calling, and I am falling",
+	"Dance with me",
+	"",
+	"O:",
+	"(instrumental)"
+    ]
+}
+},
 { "file": "Dancefloors.songlyrics", "lastModifiedDate": 1615780973811, "song": 
 {
 "title": "Dancefloors",
@@ -34130,7 +34211,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1651448808163, "song": 
+{ "file": "", "lastModifiedDate": 1651448808163, "song": 
 {
 "title": "Everything I Own",
 "artist": "Bread",
@@ -47969,7 +48050,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1651388492115, "song": 
+{ "file": "", "lastModifiedDate": 1651388492115, "song": 
 {
 "title": "Heavy",
 "artist": "Collective Soul",
@@ -69041,7 +69122,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1651444789937, "song": 
+{ "file": "", "lastModifiedDate": 1651444789937, "song": 
 {
 "title": "Life is a Highway",
 "artist": "Tom Cochrane",
@@ -84868,7 +84949,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1651466462831, "song": 
+{ "file": "", "lastModifiedDate": 1651466462831, "song": 
 {
 "title": "One on One",
 "artist": "Daryl Hall & John Oates",
