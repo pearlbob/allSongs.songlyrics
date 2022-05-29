@@ -3798,12 +3798,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1642575800846, "song": 
+{ "file": "", "lastModifiedDate": 1653686895499, "song": 
 {
 "title": "Alone",
-"artist": "Heart",
-"user": "Shari",
-"lastModifiedDate": 1642575800846,
+"artist": "i-Ten",
+"user": "shari",
+"lastModifiedDate": 1653686895499,
 "copyright": "1987 Capitol",
 "key": "Db",
 "defaultBpm": 87,
@@ -44997,7 +44997,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1653029495802, "song": 
+{ "file": "", "lastModifiedDate": 1653029495802, "song": 
 {
 "title": "Great Balls of Fire",
 "artist": "Jerry Lee Lewis",
@@ -81101,6 +81101,89 @@
 	"For you it's breaking",
 	"I:",
 	"O:"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1653686730420, "song": 
+{
+"title": "My Pack Pages",
+"artist": "Bob Dylan",
+"coverArtist": "Roger McGuinn, Tom Petty, Neil Young, Eric Clapton, Bob Dylan, George Harrison",
+"user": "shari",
+"lastModifiedDate": 1653686730420,
+"copyright": "1964 Warner Brothers",
+"key": "E",
+"defaultBpm": 130,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"EEsus4 EEsus4 EEsus4 EEsus4 x2",
+	"I2:",
+	"EC#m G#m AB EEsus4",
+	"EC#m G#m A B",
+	"C#m G#m A B",
+	"I3:",
+	"E AE AB EEsus4 EEsus4",
+	"V:",
+	"EC#m G#m AB EEsus4",
+	"EC#m G#m A B",
+	"C#m G#m A B",
+	"C:",
+	"E AE AB EEsus4 EEsus4",
+	"O:",
+	"EEsus4 EEsus4 E"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental)",
+	"V: Crimson flames tied through my ears rolling high and mighty traps",
+	" Pounced with fire on flaming roads using ideas as my maps, \"We'll",
+	"Meet on edges soon” said I, proud ’neath heated brow",
+	"",
+	" C: (Ah, but) I was so much older then I’m younger than that now",
+	" ",
+	" V: Half-wracked prejudice leaped forth “Rip down all hate,” I screamed",
+	" Lies that life is black and white spoke from my skull I dreamed",
+	" Romantic facts of musketeers, foundationed deep somehow",
+	"",
+	" C: (Ah, but) I was so much older then, I'm younger than that now",
+	" ",
+	" V: (Girls’) faces formed the forward path from phony jealousy, to",
+	"Memorizing politics of ancient history, flung",
+	" Down by corpse evangelists unthought of, though, somehow",
+	"",
+	" C: (Ah, but) I was so much older then I’m younger than that now",
+	"",
+	"I2: (instrumental solo)",
+	"",
+	"I3: (instrumental solo)",
+	"",
+	" V: A self-ordained professor’s tongue too serious to fool",
+	" Spouted out that liberty iss just equality in school",
+	" “Equality,” I spoke the word as if a wedding vow",
+	"",
+	" C: (Ah, but)I was so much older then I’m younger than that now",
+	"",
+	" V: ",
+	"(In a) soldier’s stance, I aimed my hand at the mongrel dogs who teach, fearing",
+	"Not that I’d become my enemy in the instant that I preach, my",
+	"Existence led by confusion boats mutiny from stern to bow",
+	"",
+	" C: (Ah, but) I was so much older then I’m younger than that now",
+	" ",
+	" V: ",
+	"(Yes, my) guard stood hard when abstract threats too noble to neglect",
+	" Deceived me into thinking I had something to protect",
+	" Good and bad, I define these terms quite clear no doubt somehow",
+	"",
+	" C: (Ah, but) I was so much older then I’m younger than that now",
+	"",
+	"I2: (instrumental solo)",
+	"",
+	"C: (Ah, but) I was so much older then I’m younger than that now",
+	"",
+	"O: "
     ]
 }
 },
