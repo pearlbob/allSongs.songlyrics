@@ -46880,12 +46880,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1646536632775, "song": 
+{ "file": "", "lastModifiedDate": 1655353631435, "song": 
 {
 "title": "Hard Sun, cover by Eddie Vedder",
 "artist": "Indio",
-"user": "Shari",
-"lastModifiedDate": 1646536632775,
+"user": "pillyweed",
+"lastModifiedDate": 1655353631435,
 "copyright": "1989 A&M",
 "key": "Eb",
 "defaultBpm": 144,
@@ -46902,6 +46902,9 @@
 	"V:",
 	"D# D# C# C# |",
 	"G# G# D# D# | x2",
+	"V2:",
+	"D# D# C# C#",
+	"G# G# D# D#",
 	"C:",
 	"D# D# A#m A#m",
 	"G# G# D# D#",
@@ -46943,7 +46946,7 @@
 	"i2:",
 	"(instrumental)",
 	"",
-	"v:",
+	"v2:",
 	"When I go to cross that river, she is comfort by my side",
 	"When I try to understand, she just opens up her hands",
 	"",
@@ -58734,12 +58737,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1655095870977, "song": 
+{ "file": "", "lastModifiedDate": 1655342157064, "song": 
 {
 "title": "I'll Be",
 "artist": "Edwin McCain",
 "user": "pillyweed",
-"lastModifiedDate": 1655095870977,
+"lastModifiedDate": 1655342157064,
 "copyright": "1998 Lava",
 "key": "E",
 "defaultBpm": 136,
@@ -58754,7 +58757,8 @@
 	"I3:",
 	"B B B B",
 	"V:",
-	"B E F#/Bb E/G# x2",
+	"B B E E |",
+	"B B F#/Bb E/G# | x2",
 	"PC:",
 	"B F#/Bb E F#/Bb x3",
 	"B B F#/Bb F#/Bb",
@@ -59764,12 +59768,12 @@
     ]
 }
 },
-{ "file": "I'm Looking Through You.songlyrics", "lastModifiedDate": 1655261745511, "song": 
+{ "file": "I'm Looking Through You.songlyrics", "lastModifiedDate": 1655350159268, "song": 
 {
 "title": "I'm Looking Through You",
 "artist": "Beatles, The",
-"user": "Cassandra",
-"lastModifiedDate": 1655261745511,
+"user": "pillyweed",
+"lastModifiedDate": 1655350159268,
 "copyright": "1965 EMI, London",
 "key": "Ab",
 "defaultBpm": 171,
@@ -59778,21 +59782,21 @@
     [
 	"I:",
 	"Ab Eb",
-	"AbDbadd9 AbDbadd9 AbDbadd9",
+	"AbDb AbDb AbDb",
 	"I2:",
-	"AbDbadd9 AbDbadd9 AbDbadd9",
+	"AbDb AbDb AbDb",
 	"I3:",
-	"AbDbadd9 AbDbadd9 AbDbadd9 AbDbadd9",
+	"AbDb AbDb AbDb AbDb",
 	"V:",
-	"AbDbadd9 Bbm Fm Eb x2",
+	"AbDb Bbm Fm Eb x2",
 	"C:",
-	"Fm Bb7sus4 AbDbadd9 Eb",
-	"AbDbadd9 Bbm Dbadd9",
+	"Fm Bb7sus4 AbDb Eb",
+	"AbDb Bbm Db7",
 	"Br:",
-	"Dbadd9 Dbadd9 Ab Ab",
-	"Dbadd9 Dbadd9 Ebsus4 Eb",
+	"Db Db Ab Ab",
+	"Db Db Ebsus4 Eb",
 	"O:",
-	"AbDbadd9 AbDbadd9 AbDbadd9 AbDbadd9 x2",
+	"AbDb AbDb AbDb AbDb x2",
 	"Ab"
     ],
 "lyrics": 
@@ -106069,16 +106073,16 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1651781259541, "song": 
+{ "file": "", "lastModifiedDate": 1655414050671, "song": 
 {
 "title": "Something",
 "artist": "Beatles, The",
 "user": "pillyweed",
-"lastModifiedDate": 1651781259541,
+"lastModifiedDate": 1655414050671,
 "copyright": "1969 Apple",
 "key": "C",
-"defaultBpm": 140,
-"timeSignature": "4/4",
+"defaultBpm": 65,
+"timeSignature": "2/4",
 "chords": 
     [
 	"I1:",
@@ -106411,12 +106415,12 @@
     ]
 }
 },
-{ "file": "Somewhere Out There.songlyrics", "lastModifiedDate": 1592362921503, "song": 
+{ "file": "Somewhere Out There.songlyrics", "lastModifiedDate": 1655343431429, "song": 
 {
 "title": "Somewhere Out There",
 "artist": "Linda Ronstadt, James Ingram",
-"user": "Shari",
-"lastModifiedDate": 1592362921503,
+"user": "pillyweed",
+"lastModifiedDate": 1655343431429,
 "copyright": "1986 MCA Records",
 "key": "C",
 "defaultBpm": 80,
@@ -106430,7 +106434,7 @@
 	"F F G G",
 	"I2:",
 	"C D7 C D7",
-	"C A# C/A# D",
+	"C A# Am/A# D",
 	"D",
 	"V:",
 	"C Cmaj7/E C/F G",
@@ -106443,21 +106447,20 @@
 	"Dm7 G Em Am",
 	"FEm Dm7 C C",
 	"V2:",
-	"C Cmaj7/E C/F G",
+	"C Cmaj7/E Fmaj9 G",
 	"C Cmaj7/E F F",
-	"Dm7 G Em Am",
+	"Dm7 G/F Em7 Am7",
 	"F F G G",
 	"C:",
 	"F G F G",
 	"F G F G",
 	"G# A# G# A#",
-	"G# A# A# Gmaj7",
-	"G",
+	"G# A# A# G G",
 	"Br:",
-	"A A/C# D E",
-	"A A/C# D D",
-	"Bm E C#m F#m",
-	"Bm D A A",
+	"A C#m7 D E",
+	"A C#m7 A/D D",
+	"Bm7 Dmaj7 C#m F#m",
+	"BmC#m7 D/E A A",
 	"O:",
 	"C Cmaj7/E C/F G",
 	"C"
@@ -109151,12 +109154,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1648697887173, "song": 
+{ "file": "", "lastModifiedDate": 1655349363961, "song": 
 {
 "title": "Steamboat Row",
 "artist": "Humblebums, The",
-"user": "Shari",
-"lastModifiedDate": 1648697887173,
+"user": "pillyweed",
+"lastModifiedDate": 1655349363961,
 "copyright": "1970 Transatlantic Records, written by Gerry Rafferty",
 "key": "D",
 "defaultBpm": 89,
@@ -109164,8 +109167,8 @@
 "chords": 
     [
 	"I:",
-	"B Bm7 A D |",
-	"E Bm7 EA E E | x2",
+	"B Bm7 A D",
+	"E Bm7 EA E",
 	"V:",
 	"B B A A",
 	"E A B B",
