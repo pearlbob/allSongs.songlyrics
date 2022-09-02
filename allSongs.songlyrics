@@ -83407,6 +83407,69 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1662080066759, "song": 
+{
+"title": "Moonage Daydream",
+"artist": "David Bowie",
+"user": "Shari",
+"lastModifiedDate": 1662080066759,
+"copyright": "1972 RCA",
+"key": "D",
+"defaultBpm": 144,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"V:",
+	"DX X F#X X",
+	"Bm Bm7/A E E",
+	"G G D D",
+	"F# F# Bm Bm7/A E E",
+	"C:",
+	"G Bm E E",
+	"G Bm E E",
+	"G Bm E E",
+	"D D E E",
+	"Br:",
+	"Bm A G F# x2",
+	"O:",
+	"Bm A G F# x6"
+    ],
+"lyrics": 
+    [
+	"V: I'm an alligator",
+	"I'm a mama-papa comin' for you",
+	"I'm the space invader",
+	"I'll be a rock 'n' rollin' bitch for you",
+	"Keep your mouth shut",
+	"You're squawking like a pink monkey bird",
+	"And I'm bustin' up my brains for the words",
+	"",
+	"C: Keep your 'lectric eye on me, babe",
+	"Put your ray gun to my head",
+	"Press your space face close to mine, love",
+	"Freak out in a moonage daydream, oh yeah!",
+	"V: Don't fake it baby, lay the real thing on me",
+	"The church of man, love, is such a holy place to be",
+	"Make me baby, make me know you really care",
+	"Make me jump into the air",
+	"C: Keep your 'lectric eye on me, babe",
+	"Put your ray gun to my head",
+	"Press your space face close to mine, love",
+	"Freak out in a moonage daydream, oh yeah!",
+	"Br: (Instrumental)",
+	"C: Keep your 'lectric eye on me, babe",
+	"Put your ray gun to my head",
+	"Press your space face close to mine, love",
+	"Freak out in a moonage daydream, oh yeah!",
+	"C: Keep your 'lectric eye on me, babe",
+	"Put your ray gun to my head",
+	"Press your space face close to mine, love",
+	"Freak out in a moonage daydream, oh yeah!",
+	"O: (Instrumental)",
+	"Freak out, far out, in out"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1656898380216, "song": 
 {
 "title": "Moondance",
@@ -119168,89 +119231,10 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1661919861270, "song": 
+{ "file": "", "lastModifiedDate": 1661919580108, "song": 
 {
 "title": "Sweet Virginia",
 "artist": "Rolling Stones, The",
-"user": "Shari",
-"lastModifiedDate": 1661919861270,
-"copyright": "1972 Rolling Stones Records",
-"key": "A",
-"defaultBpm": 107,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I:",
-	"A E AD A",
-	"I2:",
-	"D B A A",
-	"D B A A",
-	"D B A D",
-	"A E AD A",
-	"V:",
-	"D B A A",
-	"D B A A",
-	"D B A D",
-	"A E AD A",
-	"C:",
-	"D B A A",
-	"D B A A",
-	"D B A D",
-	"A E AD A",
-	"C2:",
-	"D B A A",
-	"D B A A",
-	"D B A D",
-	"A E D A"
-    ],
-"lyrics": 
-    [
-	"I:",
-	"(instrumental)",
-	"",
-	"I2:",
-	"(instrumental harmonica)",
-	"",
-	"V:",
-	"Wadin' through the waste stormy winter",
-	"And there's not a friend to help you through",
-	"Trying to stop the waves behind your eyeballs",
-	"Drop your reds, drop your greens and blues",
-	"",
-	"V:",
-	"Thank you for your wine, California",
-	"Thank you for your sweet and bitter fruits",
-	"Yes I got the desert in my toenail",
-	"And I hid the speed inside my shoe",
-	"",
-	"C:",
-	"But come on, come on down, Sweet Virginia",
-	"Come on, honey child, beg you",
-	"Come on, come on down, you got it in you",
-	"Got to scrape the shit right off your shoes",
-	"",
-	"I2:",
-	"(instrumental solo)",
-	"",
-	"C:",
-	"I want you to come on, come on down, Sweet Virginia",
-	"I said I want you to come on, honey child, I beg you",
-	"I want you to come on honey child, you got it in you",
-	"Got to scrape that shit right off your shoes",
-	"",
-	"C2:",
-	"Come on, come on down, Sweet Virginia",
-	"Come on, come on down, I beg of you",
-	"Come on, come on down, you got it in you",
-	"Got to scrape that shit right off your shoes",
-	""
-    ]
-}
-},
-{ "file": null, "lastModifiedDate": 1661919580108, "song": 
-{
-"title": "Sweet Virginia",
-"artist": "Rolling Stones, The ",
 "user": "Shari",
 "lastModifiedDate": 1661919580108,
 "copyright": "1972 Rolling Stones Records",
@@ -141688,7 +141672,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1661913128532, "song": 
+{ "file": "", "lastModifiedDate": 1661913128532, "song": 
 {
 "title": "You're So Vain",
 "artist": "Carly Simon",
