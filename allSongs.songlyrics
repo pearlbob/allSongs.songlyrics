@@ -22728,7 +22728,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1663808621944, "song": 
+{ "file": "", "lastModifiedDate": 1663808621944, "song": 
 {
 "title": "Come Away With Me",
 "artist": "Norah Jones",
@@ -32867,7 +32867,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1663806842639, "song": 
+{ "file": "", "lastModifiedDate": 1663806842639, "song": 
 {
 "title": "Don't You Forget About Me",
 "artist": "Simple Minds",
@@ -98104,112 +98104,13 @@
     ]
 }
 },
-{ "file": "Prodigal Son (2).songlyrics", "lastModifiedDate": 1662265767688, "song": 
+{ "file": "Prodigal Son (2).songlyrics", "lastModifiedDate": 1663880310437, "song": 
 {
 "title": "Prodigal Son",
 "artist": "Robert Timothy Wilkins",
-"coverArtist": "Rolling Stones, The ",
-"user": "Shari",
-"lastModifiedDate": 1662265767688,
-"copyright": "1968 Decca",
-"key": "E",
-"defaultBpm": 102,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I:",
-	"E A/C# E A/C#",
-	"E E",
-	"V:",
-	"E E E E",
-	"E E",
-	"A/C# A/C# E E",
-	"A A E E",
-	"C:",
-	"E/C# E/DE/D# E E",
-	"O:",
-	"E/C# E/DE/D# E E x2"
-    ],
-"lyrics": 
-    [
-	"I:",
-	"(instrumental)",
-	"",
-	"v:",
-	"(Well a) poor boy took his father's bread and started down the road",
-	"Started down the road, took ",
-	"All he had and started down the ",
-	"Road, going ",
-	"Out in this world, where God only knows",
-	"",
-	"c:",
-	"And that'll be the way to get along",
-	"",
-	"v:",
-	"(Well) poor boy spent all he had, famine come in the land",
-	"Famine come in the land, spent ",
-	"All he had and famine come in the ",
-	"Land, said \"I believe I'll go and hire me to some",
-	"Man\"",
-	"",
-	"c:",
-	"And that'll be the way I'll get along",
-	"v:",
-	"(Well) man said, \"I'll give you a job for to feed my swine",
-	"For to feed my swine, I'll ",
-	"Give you a job for to feed my swine\"",
-	"Boy stood there and hung his head and cried",
-	"",
-	"c:",
-	"Because that is no way to get along",
-	"",
-	"v:",
-	"Said \"I believe I'll ride, believe I'll go back home",
-	"Believe I'll go back home",
-	"Believe I'll ride, believe I'll go back home, or",
-	"Down the road as far as I can go\"",
-	"",
-	"c:",
-	"And that'll be the way to get along",
-	"",
-	"v:",
-	"(Well) father said, \"See my son coming after me",
-	"Coming home to me\"",
-	"Father ran and fell down on his knees, said",
-	"\"Sing and praise, Lord have mercy on me\"",
-	"",
-	"c:",
-	"Mercy",
-	"",
-	"v:",
-	"Oh poor boy stood there, hung his head and cried",
-	"Hung his head and cried",
-	"Poor boy stood and hung his head and cried, said",
-	"Father will you look on me as a child? Yeah",
-	"",
-	"ch:",
-	"",
-	"v:",
-	"(Well) father said, \"Eldest son, kill the fatted calf",
-	"Call the family round",
-	"Kill that calf and call the family round",
-	"My son was lost but now he is found",
-	"",
-	"ch:",
-	"(Because) that's the way for us to get along\" Hey",
-	"",
-	"O:",
-	"(instrumental)"
-    ]
-}
-},
-{ "file": "Prodigal Son (2).songlyrics", "lastModifiedDate": 1662360536095, "song": 
-{
-"title": "Prodigal Son - correct",
-"artist": "Robert Timothy Wilkins",
 "coverArtist": "Rolling Stones, The",
 "user": "Shari",
-"lastModifiedDate": 1662360536095,
+"lastModifiedDate": 1663880310437,
 "copyright": "1968 Decca",
 "key": "E",
 "defaultBpm": 102,
@@ -112759,7 +112660,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1663735949972, "song": 
+{ "file": "", "lastModifiedDate": 1663735949972, "song": 
 {
 "title": "Soak Up The Sun",
 "artist": "Sheryl Crow",
@@ -120604,7 +120505,7 @@
 {
 "title": "Sway",
 "artist": "Pablo Beltrán Ruiz",
-"coverArtist": "CJ ",
+"coverArtist": "CJ",
 "user": "Shari",
 "lastModifiedDate": 1649022593039,
 "copyright": "1953 RCA",
