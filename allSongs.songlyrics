@@ -22728,7 +22728,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1663808621944, "song": 
+{ "file": null, "lastModifiedDate": 1663808621944, "song": 
 {
 "title": "Come Away With Me",
 "artist": "Norah Jones",
@@ -32867,12 +32867,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1663806842639, "song": 
+{ "file": null, "lastModifiedDate": 1663882633828, "song": 
 {
 "title": "Don't You Forget About Me",
 "artist": "Simple Minds",
 "user": "Shari",
-"lastModifiedDate": 1663806842639,
+"lastModifiedDate": 1663882633828,
 "copyright": "A&M Records",
 "key": "E",
 "defaultBpm": 111,
@@ -32935,8 +32935,8 @@
 	"",
 	"V:",
 	"Don't you try to pretend",
-	"It's my feeling we'll win in the end",
-	"I won't harm you or touch your defenses",
+	"It's my feeling we'll win in the end, I won't ",
+	"Harm you or touch your defenses",
 	"Vanity, insecurity, ah",
 	"",
 	"V:",
@@ -98104,13 +98104,13 @@
     ]
 }
 },
-{ "file": "Prodigal Son (2).songlyrics", "lastModifiedDate": 1663880310437, "song": 
+{ "file": "Prodigal Son (2).songlyrics", "lastModifiedDate": 1662265767688, "song": 
 {
 "title": "Prodigal Son",
 "artist": "Robert Timothy Wilkins",
 "coverArtist": "Rolling Stones, The",
 "user": "Shari",
-"lastModifiedDate": 1663880310437,
+"lastModifiedDate": 1662360536095,
 "copyright": "1968 Decca",
 "key": "E",
 "defaultBpm": 102,
@@ -112660,7 +112660,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1663735949972, "song": 
+{ "file": null, "lastModifiedDate": 1663735949972, "song": 
 {
 "title": "Soak Up The Sun",
 "artist": "Sheryl Crow",
@@ -120505,7 +120505,7 @@
 {
 "title": "Sway",
 "artist": "Pablo Beltrán Ruiz",
-"coverArtist": "CJ",
+"coverArtist": "CJ ",
 "user": "Shari",
 "lastModifiedDate": 1649022593039,
 "copyright": "1953 RCA",
@@ -140979,12 +140979,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1662267901768, "song": 
+{ "file": "", "lastModifiedDate": 1663882762213, "song": 
 {
 "title": "Yesterday",
 "artist": "Beatles, The",
 "user": "Shari",
-"lastModifiedDate": 1662267901768,
+"lastModifiedDate": 1663882762213,
 "copyright": "1965 Capitol",
 "key": "F",
 "defaultBpm": 99,
@@ -140999,8 +140999,8 @@
 	"Bbmaj7 C7 Bb F",
 	"Dm7 G7 Bb F",
 	"C:",
-	"Em7 A7 DmC Bbmaj7Am7",
-	"Gm C F F",
+	"Em7 A7 DmC Bbmaj7Am7 |",
+	"Gm C F F | x2",
 	"O:",
 	"F G7 Bb F F"
     ],
