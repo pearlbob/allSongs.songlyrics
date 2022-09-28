@@ -28463,7 +28463,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1664176197200, "song": 
+{ "file": "", "lastModifiedDate": 1664176197200, "song": 
 {
 "title": "December, 1963",
 "artist": "Frankie Valli & The Four Seasons",
@@ -66808,7 +66808,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1664332015618, "song": 
+{ "file": "", "lastModifiedDate": 1664332015618, "song": 
 {
 "title": "It's My Life",
 "artist": "Talk Talk",
@@ -92792,7 +92792,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1664173516413, "song": 
+{ "file": "", "lastModifiedDate": 1664173516413, "song": 
 {
 "title": "Orange Crush",
 "artist": "R.E.M.",
@@ -93737,7 +93737,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1664170741998, "song": 
+{ "file": "", "lastModifiedDate": 1664170741998, "song": 
 {
 "title": "Pancho and Lefty",
 "artist": "Townes Van Zandt",
@@ -97690,7 +97690,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1664337694967, "song": 
+{ "file": "", "lastModifiedDate": 1664337694967, "song": 
 {
 "title": "Power Of Love, The",
 "artist": "Huey Lewis & The News",
@@ -119134,12 +119134,12 @@
     ]
 }
 },
-{ "file": "Suffragette City.songlyrics", "lastModifiedDate": 1664344166584, "song": 
+{ "file": "Suffragette City.songlyrics", "lastModifiedDate": 1664393095030, "song": 
 {
 "title": "Suffragette City",
 "artist": "David Bowie",
 "user": "Shari",
-"lastModifiedDate": 1664344166584,
+"lastModifiedDate": 1664393095030,
 "copyright": "1972 RCA",
 "key": "C",
 "defaultBpm": 141,
@@ -119167,13 +119167,13 @@
 	"F C G G",
 	"B1:",
 	"E E E E",
-	"E E EX X",
+	"E E AX X",
 	"X X",
 	"B2:",
 	"E E E E",
-	"E E EX",
+	"E E AX",
 	"O:",
-	"A A F F x7"
+	"A A F F x8"
     ],
 "lyrics": 
     [
@@ -119249,7 +119249,7 @@
 	"...Wham bam thank you ma’m",
 	"",
 	"O:",
-	"...My Suffragette City (x7)",
+	"...My Suffragette City (x8)",
 	"",
 	"B2:",
 	"...Suffragette"
