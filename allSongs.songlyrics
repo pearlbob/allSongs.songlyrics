@@ -82054,68 +82054,6 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1597380599310, "song": 
-{
-"title": "Make You Feel My Love, cover by Adele",
-"artist": "Bob Dylan",
-"user": "Shari",
-"lastModifiedDate": 1597380599310,
-"copyright": "1987 Columbia",
-"key": "Bb",
-"defaultBpm": 72,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I:",
-	"Bb F/A Ab Eb/G",
-	"Ebm/Gb Bb C7F7 Bb",
-	"V:",
-	"Bb F/A Ab Eb/G",
-	"Ebm/Gb Bb C7F7 Bb",
-	"Br:",
-	"Eb Bb D7Eb Bb",
-	"Eb Bb C7 F7",
-	"O:",
-	"C7 F7 Bb"
-    ],
-"lyrics": 
-    [
-	"I: (Instrumental)",
-	"V:",
-	"When the rain is blowing in your face",
-	"And the whole world is on your case",
-	"I could offer you a warm embrace",
-	"To make you feel my love",
-	"V:",
-	"When the evening shadows and the stars appear",
-	"And there is no one there to dry your tears",
-	"Oh, I hold you for a million years",
-	"To make you feel my love",
-	"Br:",
-	"I know you haven't made your mind up yet",
-	"But I will never do you wrong",
-	"I've known it from the moment that we met",
-	"No doubt in my mind where you belong",
-	"V:",
-	"I'd go hungry; I'd go black and blue",
-	"And I'd go crawling down the avenue",
-	"No, there's nothing that I wouldn't do",
-	"To make you feel my love",
-	"I: (Instrumental)",
-	"Br:",
-	"The storms are raging on the rolling sea",
-	"And on the highway of regret",
-	"The winds of change are blowing wild and free",
-	"You ain't seen nothing like me yet",
-	"V:",
-	"I could make you happy, make your dreams come true",
-	"There's nothing that I wouldn't do",
-	"Go to the ends of this Earth for you",
-	"To make you feel my love, oh yes",
-	"O: To make you feel my love"
-    ]
-}
-},
 { "file": "", "lastModifiedDate": 1660110408755, "song": 
 {
 "title": "Make a Space",
@@ -129023,7 +128961,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1665296652044, "song": 
+{ "file": "", "lastModifiedDate": 1665296652044, "song": 
 {
 "title": "Tracks of My Tears, The",
 "artist": "Miracles, The",
