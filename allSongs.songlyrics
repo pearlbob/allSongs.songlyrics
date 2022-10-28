@@ -7888,7 +7888,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1666752149114, "song": 
+{ "file": "", "lastModifiedDate": 1666752149114, "song": 
 {
 "title": "Baby It's You",
 "artist": "Shirelles, The",
@@ -16700,7 +16700,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1666757462612, "song": 
+{ "file": "", "lastModifiedDate": 1666757462612, "song": 
 {
 "title": "Bring It On Home to Me",
 "artist": "Sam Cooke",
@@ -103912,6 +103912,89 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1666993847490, "song": 
+{
+"title": "Rock & Roll",
+"artist": "Velvet Underground, The",
+"user": "Ben",
+"lastModifiedDate": 1666993847490,
+"copyright": "1970 Atlantic",
+"key": "F",
+"defaultBpm": 132,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"C C Bb6 Bb6 F6 F6 C C",
+	"I2:",
+	"C C C C x2",
+	"I3:",
+	"C Bb6 x3",
+	"V:",
+	"C Bb6 F6 C C",
+	"C Bb6 F6 C C",
+	"C Bb6 F6 C C",
+	"C Bb6 F6 C C",
+	"C:",
+	"Dm F G F",
+	"C F C F",
+	"C2:",
+	"Dm F G FX",
+	"O:",
+	"C Bb6 x19"
+    ],
+"lyrics": 
+    [
+	"I: [Instrumental] ",
+	"V: Jenny said when she was just 5 years old there was nothing happening at all",
+	"Every time she puts on the radio, there was nothing going down at all, not at all",
+	"Then one fine morning, she puts on a New York station, you know, she don't believe what she heard at all",
+	"She started shaking to that fine, fine music, you know, her life was saved by rock and roll",
+	"C: (De)-spite all the amputations",
+	"You know, you could just go out and dance to the rock and roll station. It was all",
+	"right (It was all right), hey, baby, you know, it was all right (It was all right)",
+	"I: [Intrumental slide guitar ]",
+	"V: Jenny said when she was just about 5 years old, \"You know, my parents are gonna be the death of us all",
+	"Two TV sets and two Cadillac cars, well, you know, ain't gonna help me at all, not just a tiny bit\"",
+	"Then one fine morning, she turns on a New York station, she doesn't believe what she hears at all",
+	"Ooh, she started dancing to that fine, fine music, you know, her life was saved by rock and roll, yeah, rock and roll",
+	"C: (De)-spite all the comp-u-ta-tions, you could just change it to that rock and roll station, and baby it was all",
+	"Right (It was all right), hey, it was all right (It was all right), hey, here she comes now",
+	"I2: [Instrumental Solo]",
+	"I: [Instrumental slide guitar]",
+	"V: Now, Jenny said when she was just about 5 years old, \"Hey, you know, there's nothing happening at all, not at all",
+	"Every time I put on the radio, you know, there's nothing going down at all, not at all\"",
+	"But one fine morning, she hears a New York station, she doesn't believe what she heard at all, hey, not at all",
+	"She started dancing to that fine, fine music, you know, her life was saved by rock and roll, yes, rock and roll",
+	"C2: (Ooh, de)-spite all the computation",
+	"You know, you could just dance to a rock and roll station",
+	"I3: [Instrumental Guitar Solo]",
+	"O: [OUTRO SPEEDS UP GRADUALLY TO 140BPM]",
+	"All right, all right, man, it was all right",
+	"Are you listening to me now?",
+	"And it was all right",
+	"Come on now, live it",
+	"It was all right, it was all right",
+	"Man, it was all right (All right)",
+	"It's all right (All right)",
+	"Baby, it's all right now (All right)",
+	"Baby, it's all right now (All right)",
+	"Man, it's all right (All right)",
+	"Said all right now (All right)",
+	"It's all right right now (All right)",
+	"It's all right now (All right)",
+	"Oh, baby (All right)",
+	"Oh, baby (All right)",
+	"Oh, baby (All right)",
+	"Yeah, yeah, yeah, yeah (All right)",
+	"Now it's all right now (All right)",
+	"Ooh, it's all right now (All right)",
+	"Oh, oh (All right)",
+	"All right now (All right)",
+	"[Guitar solo to fade]"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1645347337325, "song": 
 {
 "title": "Rocket Man",
@@ -116411,7 +116494,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1666586903038, "song": 
+{ "file": "", "lastModifiedDate": 1666586903038, "song": 
 {
 "title": "Sorcerer",
 "artist": "Stevie Nicks",
