@@ -7137,15 +7137,15 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1610945341354, "song": 
+{ "file": "", "lastModifiedDate": 1667367956419, "song": 
 {
 "title": "As Tears Go By",
 "artist": "Rolling Stones, The",
-"user": "Shari",
-"lastModifiedDate": 1610945341354,
+"user": "pillyweed",
+"lastModifiedDate": 1667367956419,
 "copyright": "1965 London",
 "key": "G",
-"defaultBpm": 111,
+"defaultBpm": 115,
 "timeSignature": "4/4",
 "chords": 
     [
@@ -130416,12 +130416,12 @@
     ]
 }
 },
-{ "file": "True Faith (3).songlyrics", "lastModifiedDate": 1660696380853, "song": 
+{ "file": "True Faith (3).songlyrics", "lastModifiedDate": 1667360463575, "song": 
 {
 "title": "True Faith",
 "artist": "New Order",
-"user": "Shari",
-"lastModifiedDate": 1660696380853,
+"user": "pillyweed",
+"lastModifiedDate": 1667360463575,
 "copyright": "1987 Factory",
 "key": "F",
 "defaultBpm": 117,
@@ -130441,7 +130441,7 @@
 	"Bb",
 	"V1:",
 	"Dm BbC Am C",
-	"Dm BbC Am CC/G",
+	"Dm BbC Am CC/E",
 	"V2:",
 	"Dm C Bb Am",
 	"C Bb Am A",
@@ -130460,7 +130460,7 @@
 	"I: (instrumental)",
 	"",
 	"V1: ",
-	"I feel so extroadinary",
+	"I feel so extraordinary",
 	"Something's got a hold on me",
 	"I get this feeling I'm in motion",
 	"A sudden sense of liberty",
@@ -142786,12 +142786,12 @@
     ]
 }
 },
-{ "file": "Wrapped Around Your Finger (3).songlyrics", "lastModifiedDate": 1666842169915, "song": 
+{ "file": "Wrapped Around Your Finger (3).songlyrics", "lastModifiedDate": 1667367909621, "song": 
 {
 "title": "Wrapped Around Your Finger",
 "artist": "Police, The",
-"user": "Shari",
-"lastModifiedDate": 1666842169915,
+"user": "pillyweed",
+"lastModifiedDate": 1667367909621,
 "copyright": "1984 A&M Records",
 "key": "C",
 "defaultBpm": 128,
@@ -142824,8 +142824,7 @@
 	"Am Em7 Fmaj7 G",
 	"Dm7 Em7 Fmaj7 Fmaj7",
 	"O:",
-	"Am AmEm7 Am AmEm7",
-	"Am AmEm7 Am AmEm7"
+	"Am AmEm7 Am AmEm7 x4"
     ],
 "lyrics": 
     [
