@@ -96162,12 +96162,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1668575976847, "song": 
+{ "file": "", "lastModifiedDate": 1668631516407, "song": 
 {
 "title": "Panic In Detroit",
 "artist": "David Bowie",
 "user": "Shari",
-"lastModifiedDate": 1668575976847,
+"lastModifiedDate": 1668631516407,
 "copyright": "1973 RCA",
 "key": "D",
 "defaultBpm": 93,
@@ -96178,11 +96178,11 @@
 	"B5..G5 A5 B5..G5 A5",
 	"B5..G5 A5 B5..G5 A5",
 	"I2:",
-	"DG E DG E",
+	"D E D E",
 	"I3:",
 	"G Dm G",
 	"V:",
-	"DG E DG E",
+	"D E D E",
 	"GA GA",
 	"C:",
 	"DC DC DG A AX",
@@ -96190,7 +96190,7 @@
 	"D Cadd9G.. BmCadd9 G",
 	"D Cadd9 BmCadd9 D",
 	"T:",
-	"DG E DG E",
+	"D E D E",
 	"O:",
 	"B5..G5 A5 B5..G5 A5 x7"
     ],
