@@ -9589,12 +9589,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1664339410867, "song": 
+{ "file": "", "lastModifiedDate": 1671151517231, "song": 
 {
 "title": "Baker Street",
 "artist": "Gerry Rafferty",
 "user": "Shari",
-"lastModifiedDate": 1664339410867,
+"lastModifiedDate": 1671151517231,
 "copyright": "1978 United Artists Records",
 "key": "G",
 "defaultBpm": 113,
@@ -9602,9 +9602,7 @@
 "chords": 
     [
 	"I1:",
-	"A7sus4 F7sus4 G7sus4 G7sus4",
-	"A7sus4 F7sus4 G7sus4 G7sus4",
-	"A7sus4 F7sus4 G7sus4 G7sus4",
+	"A7sus4 F7sus4 G7sus4 G7sus4 x3",
 	"I2:",
 	"D DF D DF",
 	"C A7sus4 G G",
@@ -9623,7 +9621,7 @@
     [
 	"I1:",
 	"(Instrumental stabs in orig G key - G/A | Eb/F | F/G | F/G)",
-	"(Instrumental stabs in C key - C/D | Ab/C | Bb/C | Bb/C)",
+	"(Instrumental stabs in C key - C/D | Ab/Bb | Bb/C | Bb/C)",
 	"",
 	"I2:",
 	"(Instrumental sax)",
@@ -9678,7 +9676,7 @@
 	"",
 	"I1:",
 	"(Instrumental stabs, piano G/A | Eb/F | F/G | F/G)",
-	"(Instrumental stabs in C key - C/D | Ab/C | Bb/C | Bb/C)",
+	"(Instrumental stabs in C key - C/D | Ab/Bb | Bb/C | Bb/C)",
 	"",
 	"I2:",
 	"(Instrumental sax) ",
@@ -12630,80 +12628,6 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 0, "song": 
-{
-"title": "Black Velvet Band",
-"artist": "Dubliners, The",
-"user": "Unknown",
-"lastModifiedDate": 0,
-"copyright": "Carlin America Inc",
-"key": "C",
-"defaultBpm": 100,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"V:",
-	"G G G D",
-	"G Em CD G",
-	"C:",
-	"G G G D",
-	"G Em CD G"
-    ],
-"lyrics": 
-    [
-	"v:",
-	"Well, I was out strolling one evening ",
-	"Not intending to stay very long ",
-	"When I met a frolicsome damsel",
-	"As she came tripping along",
-	"v:",
-	"A watch she pulled out her pocket",
-	"And slipped it right into my hand ",
-	"On the very first night that I met her,",
-	"Bad luck to the black velvet band ",
-	"c:",
-	"Her eyes they shone like the diamonds ",
-	"You'd think she was queen of the land ",
-	"And her hair hung over her shoulder ",
-	"Tied up in a black velvet band",
-	"v:",
-	"Before judge and jury next morning ",
-	"Both of us did appear ",
-	"A gentleman claimed his jewelry",
-	"And the case against us was clear ",
-	"v:",
-	"Now seven long years transportation ",
-	"Right down to Van Dieman's land ",
-	"Far away from my friends and companions ",
-	"To follow the black velvet band ",
-	"c:",
-	"Her eyes they shone like the diamonds ",
-	"You'd think she was queen of the land ",
-	"And her hair hung over her shoulder ",
-	"Tied up with a black velvet band ",
-	"v:",
-	"So come all you jolly young fellows ",
-	"I'd have you take warning by me ",
-	"Whenever you're out on the liquor ",
-	"Beware of the pretty colleen",
-	"v:",
-	"She'll fill you with whiskey and porter ",
-	"Until you're not able to stand",
-	"And the very next thing you'd know",
-	"You've landed in Van Dieman's Land. ",
-	"c:",
-	"Her eyes they shone like the diamonds ",
-	"You'd think she was queen of the land ",
-	"And her hair hung over her shoulder ",
-	"Tied up with a black velvet band ",
-	"c:",
-	"Her eyes they shone like the diamonds ",
-	"You'd think she was queen of the land ",
-	"And her hair hung over her shoulder ",
-	"Tied up with a black velvet band"
-    ]
-}
-},
 { "file": "", "lastModifiedDate": 1615346730739, "song": 
 {
 "title": "Black Velvet Band, cover by The Dubliners",
@@ -13631,51 +13555,6 @@
 	"",
 	"v2:  (Lyrics for both)",
 	"v4:  (Lyrics for both)"
-    ]
-}
-},
-{ "file": "", "lastModifiedDate": 1606711509103, "song": 
-{
-"title": "Blue Christmas",
-"artist": "Elvis Presley",
-"user": "Shari",
-"lastModifiedDate": 1606711509103,
-"copyright": "Universal Music Publishing Group",
-"key": "E",
-"defaultBpm": 100,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"V:",
-	"A A E E",
-	"E7 E7 A A",
-	"A A7 D D",
-	"B7 B7 E7 E7",
-	"V1:",
-	"A A E E",
-	"E7 E7 A A",
-	"A A7 D Ebdim",
-	"E7 E7 A A",
-	"O:",
-	"E7 E7 A A"
-    ],
-"lyrics": 
-    [
-	"V: I'll have a Blue Christmas without you",
-	"I'll be so blue just thinking about you",
-	"Decorations of red on a green Christmas tree",
-	"Won't be the same dear, if you're not here with me",
-	"",
-	"V1: And when those blue snowflakes start falling",
-	"That's when those blue memories start calling",
-	"You'll be doin' all right, with your Christmas of white",
-	"But I'll have a blue, blue blue blue Christmas",
-	"",
-	"V1: (instrumental) +",
-	"You'll be doin' all right, with your Christmas of white",
-	"But I'll have a blue, blue blue blue Christmas",
-	"",
-	"O: Yes, I'll have a blue, blue blue blue Christmas."
     ]
 }
 },
@@ -36815,15 +36694,15 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1620173809231, "song": 
+{ "file": "", "lastModifiedDate": 1671153300321, "song": 
 {
 "title": "Eight Days a Week",
 "artist": "Beatles, The",
 "user": "Shari",
-"lastModifiedDate": 1620173809231,
+"lastModifiedDate": 1671153300321,
 "copyright": "1964 Capitol",
 "key": "D",
-"defaultBpm": 100,
+"defaultBpm": 139,
 "timeSignature": "4/4",
 "chords": 
     [
@@ -36902,10 +36781,8 @@
 	"",
 	"C2:",
 	"Hold me, love me, hold me, love me",
-	"Ain't got nothing but love, babe",
-	"Eight days a week",
-	"Eight days a week",
-	"Eight days a week",
+	"I ain't got nothing but love, babe, eight days a week",
+	"Eight days a week, eight days a week",
 	"",
 	"O:",
 	"(instrumental)"
@@ -41821,36 +41698,45 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1636049000438, "song": 
+{ "file": "", "lastModifiedDate": 1671153123808, "song": 
 {
 "title": "Fire on the Mountain",
 "artist": "Marshall Tucker Band, The",
 "user": "Shari",
-"lastModifiedDate": 1636049000438,
+"lastModifiedDate": 1671153123808,
 "copyright": "1975 Capricorn",
 "key": "G",
-"defaultBpm": 102,
+"defaultBpm": 100,
 "timeSignature": "4/4",
 "chords": 
     [
 	"I:",
-	"Em C Em C x2",
+	"GX DX AmX CXGX X.",
 	"I2:",
+	"Em Em C C x2",
+	"I3:",
+	"Em C Em C",
+	"I4:",
 	"G D Am C. G",
 	"G D Am C.",
+	"I5:",
+	"Em C Em C x2",
 	"V:",
 	"Em C Em C x2",
 	"C:",
 	"G D Am Am.",
-	"Em C Em C",
-	"O:",
+	"C2:",
 	"G D Am Am. G",
 	"G D Am Am.",
-	"Em C G G"
+	"O:",
+	"EmX CX GX"
     ],
 "lyrics": 
     [
 	"I:",
+	"(instrumental leggiero)",
+	"",
+	"I2:",
 	"(instrumental)",
 	"",
 	"V:",
@@ -41861,8 +41747,10 @@
 	"",
 	"C:",
 	"Fire on the mountain, lightning in the air",
-	"Gold in them hills and it's waiting for me ",
-	"There",
+	"Gold in them hills and it's waiting for me there",
+	"",
+	"I3:",
+	"(instrumental)",
 	"",
 	"V:",
 	"We were digging and sifting from five to five",
@@ -41872,25 +41760,29 @@
 	"",
 	"C:",
 	"Fire on the mountain, lightning in the air",
-	"Gold in them hills and it's waiting for me ",
-	"There",
+	"Gold in them hills and it's waiting for me there",
 	"",
-	"I2:",
+	"I3:",
 	"(instrumental)",
 	"",
-	"I:",
+	"I4:",
+	"(instrumental flute solo)",
+	"",
+	"I5:",
 	"(instrumental flute solo)",
 	"",
 	"V:",
 	"Dance hall girls were the evening treat",
 	"Empty cartridges and blood lined the gutters of the street",
 	"Men were shot down for the sake of fun",
-	"Or just to hear the noise of their forty four guns, and there's",
+	"Or just to hear the noise of their forty-four guns, and there's",
 	"",
 	"C:",
 	"Fire on the mountain, lightning in the air",
-	"Gold in them hills and it's waiting for me ",
-	"There",
+	"Gold in them hills and it's waiting for me there",
+	"",
+	"I3:",
+	"(instrumental)",
 	"",
 	"V:",
 	"Now my widow she weeps by my grave",
@@ -41898,13 +41790,15 @@
 	"Shot down in cold blood by a gun that carried fame",
 	"All for a useless and no good worthless claim, and there's",
 	"",
+	"C2:",
+	"Fire on the mountain, lightning in the air",
+	"Gold in them hills and it's waiting for me there",
+	"Fire on the mountain, lightning in the air",
+	"Gold in them hills and it's waiting for me there",
+	"",
 	"O:",
-	"Fire on the mountain, lightning in the air",
-	"Gold in them hills and it's waiting for me ",
-	"There",
-	"Fire on the mountain, lightning in the air",
-	"Gold in them hills and it's waiting for me ",
-	"There, waiting for me there"
+	"(instrumental)",
+	"Waiting for me there"
     ]
 }
 },
@@ -51112,15 +51006,15 @@
     ]
 }
 },
-{ "file": "Happy Christmas War is Over.songlyrics", "lastModifiedDate": 1670836606864, "song": 
+{ "file": "Happy Christmas War is Over.songlyrics", "lastModifiedDate": 1671152229543, "song": 
 {
 "title": "Happy Christmas War is Over",
 "artist": "John Lennon",
 "user": "Shari",
-"lastModifiedDate": 1670836606864,
-"copyright": "© Downtown Music Publishing, BMG Rights Management",
+"lastModifiedDate": 1671152229543,
+"copyright": "1972 Apple",
 "key": "A",
-"defaultBpm": 106,
+"defaultBpm": 150,
 "timeSignature": "6/8",
 "chords": 
     [
@@ -51492,16 +51386,16 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1655353631435, "song": 
+{ "file": "", "lastModifiedDate": 1671151668632, "song": 
 {
 "title": "Hard Sun, cover by Eddie Vedder",
 "artist": "Indio",
 "user": "Shari",
-"lastModifiedDate": 1655353631435,
+"lastModifiedDate": 1671151668632,
 "copyright": "1989 A&M",
 "key": "Eb",
-"defaultBpm": 144,
-"timeSignature": "4/4",
+"defaultBpm": 72,
+"timeSignature": "2/4",
 "chords": 
     [
 	"I:",
@@ -51528,7 +51422,7 @@
 "lyrics": 
     [
 	"i:",
-	"(intro)",
+	"(instrumental)",
 	"v:",
 	"When I walk beside her, I am the better man",
 	"When I look to leave her, I always stagger back again",
@@ -51536,9 +51430,9 @@
 	"When I climbed down to be set free, she took me in again",
 	"",
 	"ch:",
-	"There's a big, a big hard sun",
-	"Beating on the big people",
-	"In the big hard world",
+	"(There's a) big, a big hard sun, beating on the big ",
+	"People, in the big hard world",
+	"",
 	"v:",
 	"When she comes to greet me, she is mercy at my feet",
 	"When I see her bitter charm, she just throws it back at me",
@@ -51546,14 +51440,12 @@
 	"She just smiled and laughed at me and took her blues back again",
 	"",
 	"ch:",
-	"There's a big, a big hard sun",
-	"Beating on the big people",
-	"In the big hard world",
+	"(There's a) big, a big hard sun, beating on the big ",
+	"People, in the big hard world",
 	"",
 	"ch:",
-	"There's a big, a big hard sun",
-	"Beating on the big people",
-	"In the big hard world",
+	"(There's a) big, a big hard sun, beating on the big ",
+	"People, in the big hard world",
 	"",
 	"i2:",
 	"(instrumental)",
@@ -51566,9 +51458,8 @@
 	"Ooh, aah",
 	"",
 	"ch:",
-	"There's a big, a big hard sun",
-	"Beating on the big people",
-	"In the big hard world",
+	"(There's a) big, a big hard sun, beating on the big ",
+	"People, in the big hard world",
 	"",
 	"i2:",
 	"(instrumental)",
@@ -51580,19 +51471,16 @@
 	"Forty days and forty nights and it's still coming down on me",
 	"",
 	"ch:",
-	"There's a big, a big hard sun",
-	"Beating on the big people",
-	"In the big hard world",
+	"(There's a) big, a big hard sun, beating on the big ",
+	"People, in the big hard world",
 	"",
 	"ch:",
-	"There's a big, a big hard sun",
-	"Beating on the big people",
-	"In the big hard world",
+	"(There's a) big, a big hard sun, beating on the big ",
+	"People, in the big hard world",
 	"",
 	"O:",
-	"There's a big, a big hard sun",
-	"Beating on the big people",
-	"In the big hard world"
+	"(There's a) big, a big hard sun, beating on the big ",
+	"People, in the big hard world"
     ]
 }
 },
@@ -59130,15 +59018,15 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1592710749988, "song": 
+{ "file": "", "lastModifiedDate": 1671152124332, "song": 
 {
 "title": "I Can See Clearly Now",
 "artist": "Johnny Nash",
 "user": "Shari",
-"lastModifiedDate": 1592710749988,
+"lastModifiedDate": 1671152124332,
 "copyright": "1972 Epic",
 "key": "D",
-"defaultBpm": 123,
+"defaultBpm": 121,
 "timeSignature": "4/4",
 "chords": 
     [
@@ -59157,10 +59045,7 @@
 	"F F C C",
 	"F F A A",
 	"C#m G C#m G",
-	"C Bm A A",
-	"O:",
-	"C G D D",
-	"C G D D"
+	"C Bm A A"
     ],
 "lyrics": 
     [
@@ -59173,8 +59058,8 @@
 	"Gone are the dark clouds that had me blind",
 	"",
 	"C1:",
-	"It's gonna be a bright (bright) bright (bright) sunshiny day",
-	"It's gonna be a bright (bright) bright (bright) sunshiny day",
+	"(It's gonna be a) bright (bright) bright (bright) sunshiny day, it's gonna be a",
+	"Bright (bright) bright (bright) sunshiny day",
 	"",
 	"V:",
 	"I think I can make it now the pain is gone",
@@ -59182,11 +59067,13 @@
 	"Here is that rainbow I've been praying for",
 	"",
 	"C2:",
-	"It's gonna be a bright (bright) bright (bright) sunshiny day",
+	"(It's gonna be a) bright (bright) bright (bright) sunshiny day",
 	"",
 	"BR:",
 	"Look all around, there's nothing but blue skies",
 	"Look straight ahead, there's nothing but blue skies",
+	"-",
+	"-",
 	"",
 	"V:",
 	"I can see clearly now the rain is gone",
@@ -59194,12 +59081,12 @@
 	"Gone are the dark clouds that had me blind",
 	"",
 	"C1:",
-	"It's gonna be a bright (bright) bright (bright) sunshiny day",
-	"It's gonna be a bright (bright) bright (bright) sunshiny day",
+	"(It's gonna be a) bright (bright) bright (bright) sunshiny day, it's gonna be a",
+	"Bright (bright) bright (bright) sunshiny day",
 	"",
-	"O:",
-	"It's gonna be a bright (bright) bright (bright) sunshiny day",
-	"Oh what a bright (bright) bright (bright) sunshiny day"
+	"C1:",
+	"(Gonna be a) bright (bright) bright (bright) sunshiny day, it's gonna be a",
+	"Bright (bright) bright (bright) sunshiny day"
     ]
 }
 },
@@ -132230,15 +132117,15 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1602641720205, "song": 
+{ "file": "", "lastModifiedDate": 1671151050586, "song": 
 {
 "title": "Time of the Season",
 "artist": "Zombies, The",
 "user": "Shari",
-"lastModifiedDate": 1602641720205,
+"lastModifiedDate": 1671151050586,
 "copyright": "1968 Date Record",
 "key": "G",
-"defaultBpm": 115,
+"defaultBpm": 123,
 "timeSignature": "4/4",
 "chords": 
     [
@@ -132250,11 +132137,13 @@
 	"C G/B AmE X",
 	"V:",
 	"Em Em C Em x2",
+	"PC:",
 	"G Em G Em",
 	"C:",
-	"C G/B AmE X",
+	"CX G/B AmE X",
 	"O:",
-	"Em Em C Em x4"
+	"Em Em C Em x4",
+	"Em"
     ],
 "lyrics": 
     [
@@ -132262,42 +132151,50 @@
 	"(instrumental)",
 	"",
 	"V:",
-	"It's the time of the season when love runs high",
-	"And this time, give it to me easy and let me try with pleasured ",
-	"Hands, to take you in the sun to promised lands, to show you every one, it's the ",
+	"(It's the) time of the season ",
+	"When love runs high, and this",
+	"Time, give it to me easy ",
+	"And let me try with pleasured hands",
+	"",
+	"PC:",
+	"To take you in the sun to promised lands",
+	"To show you every one, it's the ",
 	"",
 	"C:",
-	"time of the season for loving",
+	"Time of the season for loving",
 	"",
 	"I:",
 	"(instrumental)",
 	"",
 	"V:",
-	"What's your name? (What's your name) Who's your daddy? (Who's your daddy)",
-	"(He rich) Is he rich like me?",
-	"Has he taken (has he taken), any time (any time)",
-	"(To show) to show you what you need to ",
-	"Live, tell it to me slowly (tell me what)",
+	"(What's your) name? (What's your name) Who's your daddy? (Who's your daddy)",
+	"(He rich) Is he rich like me? Has he",
+	"Taken (has he taken), any time (any time)",
+	"(To show) to show you what you need to live",
+	"",
+	"PC:",
+	"Tell it to me slowly (tell me what) ",
 	"I really want to know, it's the ",
 	"",
 	"C:",
-	"time of the season for loving",
+	"Time of the season for loving",
 	"",
 	"I2: (instrumental organ solo)",
-	" (continued solo)",
 	"",
 	"I: (instrumental)",
 	"",
 	"V:",
-	"What's your name? (What's your name) Who's your daddy? (Who's your daddy)",
-	"(He rich) Is he rich like me?",
-	"Has he taken (has he taken), any time (any time)",
-	"(To show) to show you what you need to ",
-	"Live, tell it to me slowly (tell me what)",
+	"(What's your) name? (What's your name) Who's your daddy? (Who's your daddy)",
+	"(He rich) Is he rich like me? Has he",
+	"Taken (has he taken), any time (any time)",
+	"(To show) to show you what you need to live",
+	"",
+	"PC:",
+	"Tell it to me slowly (tell me what) ",
 	"I really want to know, it's the ",
 	"",
 	"C:",
-	"time of the season for loving",
+	"Time of the season for loving",
 	"",
 	"O: (instrumental organ solo)"
     ]
@@ -135858,12 +135755,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1670822678510, "song": 
+{ "file": "", "lastModifiedDate": 1671151869351, "song": 
 {
 "title": "Under the Milky Way",
 "artist": "Church, The",
 "user": "Shari",
-"lastModifiedDate": 1670822678510,
+"lastModifiedDate": 1671151869351,
 "copyright": "1988 Mushroom, Arista",
 "key": "C",
 "defaultBpm": 136,
@@ -135877,18 +135774,11 @@
 	"I3:",
 	"Am Asus4/F# Fmaj7 G6/E",
 	"V:",
-	"Am Asus4/F# Fmaj7 G6/E",
-	"Am Asus4/F# Fmaj7 G6/E",
-	"Am Asus4/F# Fmaj7 G6/E",
-	"Am Asus4/F# Fmaj7 G6/E",
+	"Am Asus4/F# Fmaj7 G6/E x4",
 	"C1:",
-	"G G Fmaj7 Fmaj7",
-	"G G Fmaj7 Fmaj7",
+	"G G Fmaj7 Fmaj7 x2",
 	"C2:",
-	"G G Fmaj7 Fmaj7",
-	"G G Fmaj7 Fmaj7",
-	"G G Fmaj7 Fmaj7",
-	"G G Fmaj7 Fmaj7",
+	"G G Fmaj7 Fmaj7 x4",
 	"T:",
 	"Am Asus4/F# Fmaj7 G6/E x3",
 	"O:",
