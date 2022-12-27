@@ -39,9 +39,10 @@ if ( $status != 0 ) then
 endif
 
 #	copy to local pages
-cp $f /var/www/html/public_html/bsteeleMusicApp/$f
-cp $fm /var/www/html/public_html/bsteeleMusicApp/$fm
-cp $fp /var/www/html/public_html/bsteeleMusicApp/$fp
+set www=/srv/http
+cp $f $www/public_html/bsteeleMusicApp/$f
+cp $fm $www/public_html/bsteeleMusicApp/$fm
+cp $fp $www/public_html/bsteeleMusicApp/$fp
 
 
 #	copy to web
