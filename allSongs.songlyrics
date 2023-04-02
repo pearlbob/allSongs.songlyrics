@@ -4812,7 +4812,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1680063029226, "song": 
+{ "file": "", "lastModifiedDate": 1680063029226, "song": 
 {
 "title": "Almost Paradise",
 "artist": "Mike Reno, Ann Wilson",
@@ -55095,7 +55095,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1679892340608, "song": 
+{ "file": "", "lastModifiedDate": 1679892340608, "song": 
 {
 "title": "Heart and Soul",
 "artist": "T'Pau",
@@ -63589,7 +63589,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1680067744296, "song": 
+{ "file": "", "lastModifiedDate": 1680067744296, "song": 
 {
 "title": "I Kissed A Girl",
 "artist": "Katy Perry",
@@ -69301,56 +69301,62 @@
     ]
 }
 },
-{ "file": "In Bloom.songlyrics", "lastModifiedDate": 1673918842259, "song": 
+{ "file": "In Bloom.songlyrics", "lastModifiedDate": 1680334351696, "song": 
 {
 "title": "In Bloom",
 "artist": "Nirvana",
 "user": "Unknown",
-"lastModifiedDate": 1673918842259,
-"copyright": "BMG Rights Management US, LLC",
-"key": "A",
-"defaultBpm": 106,
+"lastModifiedDate": 1680334351696,
+"copyright": "1991 DGC",
+"key": "Bb",
+"defaultBpm": 80,
 "timeSignature": "4/4",
 "chords": 
     [
 	"I:",
-	"A F# E G x2",
-	"A F D BbG# x2",
+	"Bb G F G#",
+	"Bb G F GX",
 	"I2:",
-	"A F# E G x2",
+	"Bb F# D# BA x2",
 	"I3:",
-	"A F D BbG# x3",
-	"A F D BbC#",
+	"F G# Bb G x2",
 	"I4:",
-	"B D B D",
-	"A F# E G",
-	"A F# E G A",
+	"Bb F# D# BA x4",
 	"V:",
-	"A F D BbG x3",
-	"A F D BbC#",
+	"Bb F# D# BA x4",
 	"C:",
-	"A F#m A F#m x2",
-	"B D B D",
-	"A F#m A F#m x2",
-	"B D B D"
+	"Bb G Bb G",
+	"Bb G Bb G",
+	"C D# C D#",
+	"T:",
+	"C D# C D#",
+	"O:",
+	"Bb G F G# x2",
+	"BbX"
     ],
 "lyrics": 
     [
 	"I:",
 	"(instrumental)",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
 	"V:",
 	"Sell the kids for food ",
 	"Weather changes moods",
 	"Spring is here again",
 	"Reproductive glands",
 	"C:",
-	"Hey - he's the one, who like all our pretty songs",
-	"And he likes to sing along, and he likes to shoot his gun",
-	"But he don't know what it means, don't know what it means, And I say:",
-	"he's the one, who like all our pretty songs",
-	"And he likes to sing along, and he likes to shoot his gun",
-	"But he knows not know what it means, knows not what it means, and I say yeah",
-	"I2:",
+	"(Hey) he's the one, who like all our pretty songs and he",
+	"Likes to sing along, and he likes to shoot his gun but he",
+	"Knows not what it means, knows not what it means",
+	"",
+	"C:",
+	"(And I say) He's the one, who like all our pretty songs and he",
+	"Likes to sing along, and he likes to shoot his gun but he",
+	"Knows not know what it means, knows not what it means, and I say yeah",
+	"I3:",
 	"(instrumental)",
 	"V:",
 	"We can have some more",
@@ -69358,27 +69364,38 @@
 	"Bruises on the fruit",
 	"Tender age in bloom",
 	"C:",
-	"Hey - he's the one, who like all our pretty songs",
-	"And he likes to sing along, and he likes to shoot his gun",
-	"But he don't know what it means, don't know what it means, And I say:",
-	"he's the one, who like all our pretty songs",
-	"And he likes to sing along, and he likes to shoot his gun",
-	"But he knows not know what it means, knows not what it means, and I say yeah",
-	"I2:",
-	"(instrumental)",
-	"I3:",
-	"(solo)",
+	"(Hey) he's the one, who like all our pretty songs and he",
+	"Likes to sing along, and he likes to shoot his gun but he",
+	"Knows not what it means, knows not what it means",
+	"",
 	"C:",
-	"Hey - he's the one, who like all our pretty songs",
-	"And he likes to sing along, and he likes to shoot his gun",
-	"But he don't know what it means, don't know what it means, And I say:",
-	"he's the one, who like all our pretty songs",
-	"And he likes to sing along, and he likes to shoot his gun",
-	"But he knows not know what it means, knows not what it means, when I say",
+	"(And I say) ",
+	"He's the one, who like all our pretty songs and he",
+	"Likes to sing along, and he likes to shoot his gun but he",
+	"Knows not know what it means, knows not what it means, and I say yeah",
+	"",
+	"I3:",
+	"(instrumental)",
+	"",
 	"I4:",
-	"knows not what it means, knows not what it means and I say",
-	"Yeah. Ooh.",
-	"Ooh.  Ooh."
+	"(solo)",
+	"",
+	"C:",
+	"(Hey) he's the one, who like all our pretty songs and he",
+	"Likes to sing along, and he likes to shoot his gun but he",
+	"Knows not what it means, knows not what it means",
+	"",
+	"C:",
+	"(And I say) ",
+	"He's the one, who like all our pretty songs and he",
+	"Likes to sing along, and he likes to shoot his gun but he",
+	"Knows not know what it means, knows not what it means",
+	"",
+	"T:",
+	"Knows not what it means, knows not what it means and I say yeah",
+	"",
+	"O:",
+	"(instrumental)"
     ]
 }
 },
@@ -93478,7 +93495,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1680070534300, "song": 
+{ "file": "", "lastModifiedDate": 1680070534300, "song": 
 {
 "title": "Morning Train",
 "artist": "Sheena Easton",
@@ -96800,7 +96817,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1679900884731, "song": 
+{ "file": "", "lastModifiedDate": 1679900884731, "song": 
 {
 "title": "Night Moves",
 "artist": "Bob Seger & The Silver Bullet Band",
@@ -124349,7 +124366,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1680062251743, "song": 
+{ "file": "", "lastModifiedDate": 1680062251743, "song": 
 {
 "title": "So Into You",
 "artist": "Atlanta Rhythm Section",
@@ -136273,6 +136290,81 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1680146158799, "song": 
+{
+"title": "Tears of Joy",
+"artist": "Craig Nielsen",
+"user": "Craig",
+"lastModifiedDate": 1680146158799,
+"copyright": "2019 Craig Nielsen",
+"key": "G",
+"defaultBpm": 159,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"CG DG CG DG |",
+	"CG DG CG DG |",
+	"C C D D | x2",
+	"G G",
+	"I2:",
+	"CG DG CG DG |",
+	"CG DG CG DG |",
+	"C C D D | x2",
+	"I3:",
+	"DA EA DA EA x2",
+	"D D E E",
+	"A",
+	"V:",
+	"CG DG CG DG x2",
+	"C C D DX",
+	"V2:",
+	"DA EA DA EA x2",
+	"D D E E x2",
+	"D D E EX",
+	"A A A A"
+    ],
+"lyrics": 
+    [
+	"i: (Instrumental)",
+	"",
+	"v: You blazed a trail to paradise",
+	"Kept it clear and open wide",
+	"Stretched it out around the world",
+	"Made the maps and spread the word",
+	"So I want to thank you again",
+	"",
+	"i2: (Instrumental)",
+	"",
+	"v: You brought me here upon your back",
+	"And dropped it all right in my lap",
+	"You gave and gave with no concern",
+	"And asked for nothing in return",
+	"So I want to thank you again",
+	"",
+	"i2: (Instrumental)",
+	"",
+	"v: The path is steep the wind is cold",
+	"Never gonna make it on my own",
+	"You pull me up and spur me on",
+	"We'll hit the top before too long",
+	"So I want to thank you again",
+	"",
+	"i2: (Instrumental)",
+	"",
+	"v2: We made it up the mountainside",
+	"Never thought we'd get so high",
+	"Sun is shining sky is blue",
+	"And it's all because of you",
+	"So we want to thank you again",
+	"So we want to thank you again",
+	"We just want to thank you again",
+	"(You gave us these tears of) joy",
+	"",
+	"i3: (Instrumental)"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1637135193508, "song": 
 {
 "title": "Teenage Dirtbag",
@@ -143945,6 +144037,91 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1680152750398, "song": 
+{
+"title": "Upside Down",
+"artist": "Jack Johnson",
+"user": "Craig",
+"lastModifiedDate": 1680152750398,
+"copyright": "\t2006 Brushfire, Universal",
+"key": "E",
+"defaultBpm": 102,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"X X X X",
+	"E E F#m F#m x2",
+	"I2:",
+	"E E F#m F#m x2",
+	"V:",
+	"E E F#m F#m x2",
+	"C:",
+	"EF#m AB EF#m AB x2",
+	"C2:",
+	"EF#m AB EF#m AB",
+	"Br:",
+	"G#m F#m G#m AB",
+	"O:",
+	"E E F#m F#m x3",
+	"E E F#m F#mA",
+	"E F#mA E"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(Instrumental)",
+	"",
+	"V:",
+	"Who's to say, what's impossible well ",
+	"They forgot, this world keeps spinning and with ",
+	"Each new day, I can feel a change in ",
+	"Everything",
+	"",
+	"V:",
+	"(And as the surface breaks) reflections fade but in some ways they ",
+	"Remain the same, and as my mind begins to ",
+	"Spread its wings, there's no stopping ",
+	"Curiosity",
+	"",
+	"C:",
+	"(I want to turn the whole thing) upside down, I'll find the things they say just ",
+	"Can't be found, I'll share this love I find with ",
+	"Everyone, we'll sing and dance to Mother ",
+	"Nature's songs, I don't want this feeling to go away",
+	"",
+	"I2: ",
+	"(Instrumental)",
+	"",
+	"V:",
+	"Who's to say, I can't do everything well ",
+	"I can try, and as I roll along I ",
+	"Begin to find, things aren't always just ",
+	"What they seem",
+	"",
+	"C:",
+	"(I want to turn the whole thing) upside down, I'll find the things they say just ",
+	"Can't be found, I'll share this love I find with",
+	"Everyone, we'll sing and dance to Mother ",
+	"Nature's songs",
+	"",
+	"BR:",
+	"(This world keeps spinning and there's) no time to waste, well it ",
+	"All, keeps spinning spinning round and round and",
+	"",
+	"C2:",
+	"Upside down, who's to say what's impossible and ",
+	"Can't be found, I don't want this feeling to go away",
+	"",
+	"O:",
+	"...Please don't go away",
+	"...Please don't go away",
+	"...Please don't go away",
+	"...Is this how it's supposed to be",
+	"Is this how it's supposed to be"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1636962818531, "song": 
 {
 "title": "Uptight (Everything's Alright)",
@@ -151165,12 +151342,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1679457027668, "song": 
+{ "file": "", "lastModifiedDate": 1680334980792, "song": 
 {
 "title": "Who'll Stop The Rain",
 "artist": "Creedence Clearwater Revival",
 "user": "Shari",
-"lastModifiedDate": 1679457027668,
+"lastModifiedDate": 1680334980792,
 "copyright": "1970 Fantasy Records",
 "key": "G",
 "defaultBpm": 124,
@@ -151187,14 +151364,14 @@
 	"C D Em G G",
 	"V2:",
 	"G G C G",
-	"G G C G",
+	"G Bm C G",
 	"C G C G",
 	"C D EmX X",
 	"Br:",
-	"CG D AmC Em..D",
+	"C.GD D Am.CEm Em..D",
 	"G G",
 	"O:",
-	"G G Em Em x4",
+	"G G..D Em Em..D x4",
 	"G"
     ],
 "lyrics": 
@@ -151208,7 +151385,7 @@
 	"Good men through the ages, trying to find the sun",
 	"And I wonder, still I wonder, who'll stop the rain?",
 	"",
-	"V:",
+	"V2:",
 	"I went down Virginia, seeking shelter from the storm",
 	"Caught up in the fable, I watched the tower grow",
 	"Five Year Plans and New Deals, wrapped in golden chains",
