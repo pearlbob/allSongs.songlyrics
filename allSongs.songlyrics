@@ -5788,7 +5788,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1681108072074, "song": 
+{ "file": "", "lastModifiedDate": 1681108072074, "song": 
 {
 "title": "American Woman",
 "artist": "Guess Who, The",
@@ -23537,7 +23537,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1681336892651, "song": 
+{ "file": "", "lastModifiedDate": 1681336892651, "song": 
 {
 "title": "Change the World",
 "artist": "Wynonna Judd",
@@ -25007,7 +25007,89 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1681335908285, "song": 
+{ "file": null, "lastModifiedDate": 1681708007253, "song": 
+{
+"title": "Cold Beer Hello",
+"artist": "V-Roys, The",
+"user": "Shari",
+"lastModifiedDate": 1681708007253,
+"copyright": "1996 E-Squared Records",
+"key": "E",
+"defaultBpm": 134,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"E E",
+	"I2:",
+	"E E A A",
+	"B7 B7 E B7X",
+	"E E A A",
+	"B7 B7 E EX",
+	"V:",
+	"C# C# F# F#",
+	"B B EX E",
+	"C# C# F# F#",
+	"B B E EX",
+	"C:",
+	"E E A A",
+	"B7 B7 E B7X",
+	"E E A A",
+	"B7 B7X E E",
+	"Br:",
+	"A A A A",
+	"A A B7 B7X",
+	"T:",
+	"B7 B7X E E"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"C:",
+	"(Cold beer) hello, I got something to say, I can't keep you ",
+	"Long, but I can put you away, well you look so ",
+	"Smooth, I just can't say no, tell the world ",
+	"Goodbye, cold beer hello",
+	"",
+	"V:",
+	"(Well) I can't wait to see you on my lips, and ",
+	"I can't wait to feel your body, well you ",
+	"Make my knees so weak when you look like this, and you'll ",
+	"Have me on the floor before no time",
+	"",
+	"C:",
+	"(Cold beer) hello, I got something to say, I can't keep you ",
+	"Long, but I can put you away, well you look so ",
+	"Smooth, I just can't say no, tell the world ",
+	"Goodbye, cold beer hello",
+	"",
+	"BR:",
+	"(Well) beer thirty comes but once a day, and I can't let you slip away, but ",
+	"If you do someone will take your place",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"V:",
+	"(Well) I cannot believe he took you away, and ",
+	"He said that I can't see you no moore, well we'll ",
+	"Have to meet again some other day, your ",
+	"Man is trying to throw me out the door",
+	" ",
+	"C:",
+	"(Cold beer) hello, I got something to say, I can't keep you ",
+	"Long, but I can put you away, well you look so ",
+	"Smooth, I just can't say no, tell the world ",
+	"Goodbye, cold beer hello",
+	"",
+	"T:",
+	"(Tell the world) goodbye, cold beer hello"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1681335908285, "song": 
 {
 "title": "Cold",
 "artist": "Annie Lennox",
@@ -39295,7 +39377,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1681271781274, "song": 
+{ "file": "", "lastModifiedDate": 1681271781274, "song": 
 {
 "title": "Electrical Storm",
 "artist": "U2",
@@ -49760,6 +49842,91 @@
 	"It’s all becoming clear",
 	"Every time I try to pull you close, you disappear",
 	"Every time I try to pull you close, you disappe"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1681711295930, "song": 
+{
+"title": "Ghost in You, The",
+"artist": "Psychedelic Furs, The",
+"user": "Shari",
+"lastModifiedDate": 1681711295930,
+"copyright": "1984 Columbia Records",
+"key": "Bb",
+"defaultBpm": 124,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Bb Bb D#maj7 D#maj7 x2",
+	"D# D# Dm Dm x2",
+	"V:",
+	"Bb Bb D#maj7 D#maj7 x2",
+	"PC:",
+	"D# D# Dm Dm x2",
+	"C:",
+	"F F D#maj7 D#maj7",
+	"F F D# D#",
+	"F F D#maj7 D#maj7",
+	"O:",
+	"F F D# D#",
+	"F F D#maj7 D#maj7",
+	"Bb"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V:",
+	"A man in my shoes runs a light and all the papers lied tonight, but ",
+	"Falling over you is the news of the day",
+	"",
+	"PC:",
+	"Angels fall like rain, and ",
+	"Love (love, love, love) is all of heaven away",
+	"",
+	"C:",
+	"Inside you the time moves and she don't fade",
+	"The ghost in you she don't fade",
+	"Inside you the time moves and she don't fade",
+	"",
+	"V:",
+	"A race is on I'm on your side and hearing you my engines die, I'm ",
+	"In a mood for you for running away",
+	"",
+	"PC:",
+	"Stars come down in you, and ",
+	"Love (love, love, love) you can't give it away",
+	"",
+	"C:",
+	"Inside you the time moves and she don't fade",
+	"The ghost in you she don't fade",
+	"Inside you the time moves and she don't fade",
+	"",
+	"I:",
+	"(instrumental)",
+	"",
+	"V:",
+	"Don't you go it makes no sense when all your talking supermen just ",
+	"Take away the time, and get in the way",
+	"",
+	"PC:",
+	"Ain't it just like rain, and ",
+	"Love (love, love, love) is only heaven away",
+	"",
+	"C:",
+	"Inside you the time moves and she don't fade, the",
+	"Ghost in you she don't fade",
+	"Inside you the time moves and she don't fade",
+	"",
+	"C:",
+	"The ghost in you she don't fade",
+	"Inside you the time moves and she don't fade, the",
+	"Ghost in you she don't fade",
+	"",
+	"O:",
+	""
     ]
 }
 },
@@ -63630,6 +63797,127 @@
     ]
 }
 },
+{ "file": null, "lastModifiedDate": 1681714568686, "song": 
+{
+"title": "I Go Blind",
+"artist": "54-40",
+"coverArtist": "Hootie & The Blowfish",
+"user": "Shari",
+"lastModifiedDate": 1681714568686,
+"copyright": "1994 BMG Direct Marketing Inc.",
+"key": "C",
+"defaultBpm": 123,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"G C G/B C",
+	"G C G/B A7sus4",
+	"A1:",
+	"G C G/B C",
+	"G C G/B A7sus4",
+	"G C G/B C",
+	"G C G/B A7sus4",
+	"A2:",
+	"G C G/B C",
+	"G C G/B A7sus4",
+	"G C G/B C",
+	"A3:",
+	"G C G/B C",
+	"G C G/B A7sus4",
+	"B:",
+	"C C C C",
+	"C C C C",
+	"Br:",
+	"C F Am F x2",
+	"O1:",
+	"G C G/B C |",
+	"G C G/B A7sus4 | x2",
+	"O2:",
+	"X X X X x4",
+	"O3:",
+	"G C G/B C",
+	"G C G/B A7sus4",
+	"G C G/B C",
+	"G C G/B D",
+	"G"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"A1:",
+	"Every time I look at you, I go blind",
+	"(Every time I look at you, I go blind)",
+	"Every time I look at you, I go blind",
+	"(Every time I look at you, I go blind)",
+	"",
+	"A2:",
+	"In the morning I get up ",
+	"And I try to feel alive, but I can't ",
+	"(Every time I look at you, I go blind)",
+	"",
+	"A3:",
+	"I don't know what it is",
+	"Something in me just won't give me a chance",
+	"",
+	"I:",
+	"(instrumental)",
+	"",
+	"B:",
+	"I think it's that I feel more ",
+	"Confused by the deal love has shown me",
+	"",
+	"I:",
+	"(instrumental)",
+	"",
+	"A1:",
+	"Little child, did you know that there's a light",
+	"(And it's gonna shine right through your eyes)",
+	"What do you think that life is like?",
+	"(Every time I look at you, I go blind)",
+	"",
+	"BR:",
+	"-",
+	"I go blind",
+	"",
+	"A2:",
+	"(Well) somewhere over there",
+	"There's a purpose, there's a care for ",
+	"Free",
+	"",
+	"A3:",
+	"In me, there's no body",
+	"No one plan, no one stand to be free",
+	"",
+	"I:",
+	"(instrumental)",
+	"",
+	"B:",
+	"I think it's that because I have ",
+	"Seen all the fuss and it's no big deal",
+	"",
+	"I:",
+	"(instrumental) No big deal",
+	"",
+	"O1:",
+	"Hold me, hold me 'cause I wanna get higher and higher",
+	"(Every time I look at you, I go blind) Higher than",
+	"Hold me, hold me 'cause I wanna get higher and higher",
+	"(Every time I look at you, I go blind) Higher than",
+	"",
+	"O2:",
+	"Hold me, hold me 'cause I wanna get higher and higher",
+	"(Every time I look at you, I go blind) Higher than",
+	"Hold me, hold me 'cause I wanna get higher and higher",
+	"(Every time I look at you, I go blind) Higher than life",
+	"",
+	"O3:",
+	"(instrumental)"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1632282584239, "song": 
 {
 "title": "I Go to Extremes",
@@ -69597,7 +69885,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1681279095835, "song": 
+{ "file": "", "lastModifiedDate": 1681279095835, "song": 
 {
 "title": "I'm Not In Love",
 "artist": "10cc",
@@ -85659,6 +85947,108 @@
     ]
 }
 },
+{ "file": null, "lastModifiedDate": 1681710155888, "song": 
+{
+"title": "(Looking For) The Heart of Saturday Night",
+"artist": "Tom Waits",
+"user": "Shari",
+"lastModifiedDate": 1681710155888,
+"copyright": "1974 Asylum",
+"key": "D",
+"defaultBpm": 95,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"D D/A D D/A",
+	"G/B G/A G G/F#",
+	"Em7 Em7 A7 A7",
+	"D D/A D D/A",
+	"A:",
+	"D D/A D D/A",
+	"G/B G/A G G/F#",
+	"Em7 Em7 A7 A7",
+	"D D/A D D/A",
+	"B:",
+	"G/B G/B A7 A7",
+	"D D/A D D/A",
+	"G/B G/A G G/F#",
+	"Em7 Em7 A7 A7",
+	"T:",
+	"Em7 Em7 A7 A7",
+	"D D/A D D/A",
+	"O:",
+	"Em7 Em7 A7 A7",
+	"D D/A D D"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"A:",
+	"(Well you) gassed her up behind the wheel, with your ",
+	"Arm around your sweet one in your Oldsmobile",
+	"Barreling down the boulevard, you're looking for the heart of ",
+	"Saturday night",
+	"",
+	"A:",
+	"(And you got) paid on Friday and your pockets are jingling",
+	"And you see the lights, you get all tingling cause you're ",
+	"Cruising with a six, and you're looking for the heart of ",
+	"Saturday night",
+	"",
+	"B:",
+	"(Then you) comb your hair, shave your face",
+	"Trying to wipe out every trace",
+	"All the other days, in the week you know that ",
+	"This'll be the Saturday you're reaching your peak",
+	"",
+	"A:",
+	"(Stopping on the) reds, you're going on the greens, 'cause ",
+	"Tonight'll be like nothing you've ever seen and you're ",
+	"Barreling down the boulevard, looking for the heart of ",
+	"Saturday night",
+	"",
+	"B:",
+	"(Tell me is it the) crack of the pool balls, neon buzzing? ",
+	"Telephone's ringing, it's your second cousin, is it the ",
+	"Barmaid that's smiling from the corner of her eye?",
+	"Magic of the melancholy tear in your eye",
+	"",
+	"A:",
+	"Makes it kind of quiver down in the core, 'cause you're ",
+	"Dreaming of them Saturdays that came before, and now you're ",
+	"Stumbling, you're stumbling onto the heart of ",
+	"Saturday night",
+	"",
+	"A:",
+	"(Well you) gassed her up and your behind the wheel, with your ",
+	"Arm around your sweet one in your Oldsmobile",
+	"Barreling down the boulevard, you're looking for the heart of ",
+	"Saturday night",
+	"",
+	"B:",
+	"(Is it the) crack of the pool balls, neon buzzing? ",
+	"Telephone's ringing, it's your second cousin, and the ",
+	"Barmaid that's smiling from the corner of her eye",
+	"Magic of the melancholy tear in your eye",
+	"",
+	"A:",
+	"Makes it kind of quiver down in the core, 'cause you're ",
+	"Dreaming of them Saturdays that came before, it's found you",
+	"Stumbling, stumbling onto the heart of ",
+	"Saturday night",
+	"",
+	"T:",
+	"(And you're) stumbling, stumbling onto the heart of ",
+	"Saturday night",
+	"",
+	"O:",
+	"Mmm, mmm"
+    ]
+}
+},
 { "file": "Looking at Lightning.songlyrics", "lastModifiedDate": 1580165146000, "song": 
 {
 "title": "Looking at Lightning",
@@ -99468,7 +99858,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1681276695709, "song": 
+{ "file": "", "lastModifiedDate": 1681276695709, "song": 
 {
 "title": "Nothing Compares 2 U",
 "artist": "Sinead O'Connor",
@@ -99859,7 +100249,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1680672498246, "song": 
+{ "file": "", "lastModifiedDate": 1680672498246, "song": 
 {
 "title": "Ocean Pearl",
 "artist": "54-40",
@@ -110726,6 +111116,93 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1681612702183, "song": 
+{
+"title": "Rat In Mi Kitchen",
+"artist": "UB40",
+"user": "Shari",
+"lastModifiedDate": 1681612702183,
+"copyright": "1987 DEP International",
+"key": "E",
+"defaultBpm": 91,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Bm A/B E E x4",
+	"I2:",
+	"Bm A/B E E x2",
+	"V:",
+	"Bm A/B E E x2",
+	"C:",
+	"Bm A/B E E x2"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental) ",
+	"",
+	"I2:",
+	"Woah, woah woah yeah",
+	"Oh yeah, yeah",
+	"",
+	"C:",
+	"There's a rat in me kitchen what am I gonna do? There's a rat in me kitchen what am I gonna do, I'm gonna ",
+	"Fix that rat that's what I'm gonna do, I'm gonna fix that rat",
+	"",
+	"V:",
+	"When you open your mouth you don't talk, you shout and you give every body the blame, when they Catch you up, they will shut you up, and you got no one to blame",
+	"",
+	"C:",
+	"There's a rat in me kitchen what am I gonna do? There's a rat in me kitchen what am I gonna do, I'm gonna ",
+	"Fix that rat that's what I'm gonna do, I'm gonna fix that rat",
+	"",
+	"I2:",
+	"Woah, woah woah yeah",
+	"Oh yeah, yeah",
+	"",
+	"C:",
+	"There's a rat in me kitchen what am I gonna do? There's a rat in me kitchen what am I gonna do, I'm gonna ",
+	"Fix that rat that's what I'm gonna do, I'm gonna fix that rat",
+	"",
+	"V:",
+	"When you out on the street, you practice lies and deceit, and you scandalize my name, but when I ",
+	"Catch you up, I'm gonna pull you up, I'm gonna check-out inside your brain",
+	"",
+	"C:",
+	"There's a rat in me kitchen what am I gonna do? There's a rat in me kitchen what am I gonna do, I'm gonna ",
+	"Fix that rat that's what I'm gonna do, I'm gonna fix that rat",
+	"",
+	"I2:",
+	"Woah, woah woah yeah",
+	"Oh yeah, yeah",
+	"",
+	"C:",
+	"There's a rat in me kitchen what am I gonna do? There's a rat in me kitchen what am I gonna do, I'm gonna ",
+	"Fix that rat that's what I'm gonna do, I'm gonna fix that rat",
+	"",
+	"V:",
+	"When yo deh pon the scene, you make everyone scream because they know your so unjust, but when they ",
+	"Catch you up, they will kick you up, because you someone they cannot trust",
+	"",
+	"C:",
+	"There's a rat in me kitchen what am I gonna do? There's a rat in me kitchen what am I gonna do, I'm gonna ",
+	"Fix that rat that's what I'm gonna do, I'm gonna fix that rat",
+	"",
+	"I2:",
+	"Woah, woah woah yeah",
+	"Oh yeah, yeah",
+	"",
+	"C:",
+	"There's a rat in me kitchen what am I gonna do? There's a rat in me kitchen what am I gonna do, I'm gonna ",
+	"Fix that rat that's what I'm gonna do, I'm gonna fix that rat",
+	"",
+	"C:",
+	"There's a rat in me kitchen what am I gonna do? There's a rat in me kitchen what am I gonna do, I'm gonna ",
+	"Fix that rat that's what I'm gonna do, I'm gonna fix that rat"
+    ]
+}
+},
 { "file": "Re_ Your Brains.songlyrics", "lastModifiedDate": 1540694317181, "song": 
 {
 "title": "Re: Your Brains",
@@ -113293,7 +113770,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1681274162060, "song": 
+{ "file": "", "lastModifiedDate": 1681274162060, "song": 
 {
 "title": "Rita",
 "artist": "Willy Porter",
@@ -115770,6 +116247,113 @@
 	"O:",
 	"(instrumental)",
 	"Sing along, sing along"
+    ]
+}
+},
+{ "file": null, "lastModifiedDate": 1681712451587, "song": 
+{
+"title": "Ruby Tuesday",
+"artist": "Rolling Stones, The",
+"user": "Shari",
+"lastModifiedDate": 1681712451587,
+"copyright": "1967 Decca Records",
+"key": "C",
+"defaultBpm": 105,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"V:",
+	"Am G F F",
+	"C C C C",
+	"Am G F C",
+	"G G G G",
+	"PC:",
+	"Am D7 G G",
+	"Am D7 G G",
+	"C C C C",
+	"G G G G",
+	"C:",
+	"C G C C",
+	"C G C C",
+	"C G Bb F",
+	"G C GX X",
+	"C2:",
+	"C G C C",
+	"C G C C",
+	"C G Bb F",
+	"G C G G",
+	"O:",
+	"Am G F G",
+	"C"
+    ],
+"lyrics": 
+    [
+	"V:",
+	"She would never say where she came ",
+	"From",
+	"Yesterday don't matter if it's ",
+	"Gone",
+	"",
+	"PC:",
+	"While the sun is bright, or in the darkest ",
+	"Night",
+	"No one knows, she comes and ",
+	"Goes",
+	"",
+	"C:",
+	"Goodbye, Ruby Tuesday",
+	"Who could hang a name on you?",
+	"When you change with every new day",
+	"Still I'm gonna miss you",
+	"",
+	"V:",
+	"(Don't) question why she needs to be so ",
+	"Free, she'll ",
+	"Tell you it's the only way to ",
+	"Be",
+	"",
+	"PC:",
+	"She just can't be chained, to a life where nothing's gained and nothing's ",
+	"Lost, at such a cost",
+	"",
+	"C:",
+	"Goodbye, Ruby Tuesday",
+	"Who could hang a name on you?",
+	"When you change with every new day",
+	"Still I'm gonna miss you",
+	"",
+	"V:",
+	"\"There's no time to lose, \" I heard her ",
+	"Say",
+	"Catch your dreams before they slip ",
+	"Away",
+	"",
+	"PC:",
+	"Dying all the time",
+	"Lose your dreams and you will lose your ",
+	"Mind, ain't life ",
+	"Unkind?",
+	"",
+	"C:",
+	"Goodbye, Ruby Tuesday",
+	"Who could hang a name on you?",
+	"When you change with every new day",
+	"Still I'm gonna miss you",
+	"",
+	"C2:",
+	"Goodbye, Ruby Tuesday",
+	"Who could hang a name on you?",
+	"When you change with every new day",
+	"Still I'm gonna miss you",
+	"",
+	"C:",
+	"Goodbye, Ruby Tuesday",
+	"Who could hang a name on you?",
+	"When you change with every new day",
+	"Still I'm gonna miss you",
+	"",
+	"O:",
+	"(instrumental)"
     ]
 }
 },
@@ -139872,7 +140456,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1680673057338, "song": 
+{ "file": "", "lastModifiedDate": 1680673057338, "song": 
 {
 "title": "Things We Do For Love, The",
 "artist": "10cc",
@@ -143161,7 +143745,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1681104045689, "song": 
+{ "file": "", "lastModifiedDate": 1681104045689, "song": 
 {
 "title": "Tunnel of Love",
 "artist": "Bruce Springsteen",
