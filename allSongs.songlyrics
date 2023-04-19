@@ -8028,6 +8028,89 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1681878746301, "song": 
+{
+"title": "Are You Gonna Be My GIrl",
+"artist": "Jet",
+"user": "Ben",
+"lastModifiedDate": 1681878746301,
+"copyright": "2003 Elektra",
+"key": "D",
+"defaultBpm": 105,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"X X X X",
+	"A5 A5 A5 A5X",
+	"I2:",
+	"A5 A5 A5 A5",
+	"V:",
+	"A5X X A5",
+	"A5X A5",
+	"A5X X A5 A5",
+	"PC:",
+	"D5..C5 D5..C5 D5..C5 D5..C5",
+	"C:",
+	"A5 C5 D5 A5",
+	"A5 C5 D5 A5",
+	"E5..X G5X X",
+	"C2:",
+	"A5 C5 D5 A5",
+	"A5 C5 D5 A5",
+	"E5..X G5X X X.",
+	"Br:",
+	"A5 C5 D5 A5 x2",
+	"O:",
+	"A5 C5 D5 A5",
+	"A5 C5 D5 A5",
+	"A5 C5 D5 A5",
+	"D5X"
+    ],
+"lyrics": 
+    [
+	"I: (instrumental build)",
+	"",
+	"I2: (instrumental) ",
+	"",
+	"V: ",
+	"(So) one, two, three, take my hand and come with me, because you look so fine that I really wanna make you mine, I say you ",
+	"Look so fine that I really wanna make you mine",
+	"(Oh) four, five, six, c'mon and get your kicks, now you don't need the money when you look like that do you honey",
+	"",
+	"PC: Big black boots, long brown hair",
+	"She's so sweet with her, get-back stare",
+	"",
+	"C: ...Well I could see, you home with me, but you were with another man, yeah",
+	"I know we ain't got much to say, before I let you get away, yeah",
+	"...I said, are you gonna be my girl?",
+	"",
+	"I2: (instrumental riff) ",
+	"",
+	"V: Well it's one, two, three, take my hand and come with me, because you look so fine that I really wanna make you mine, I say you ",
+	"Look so fine that I really wanna make you mine",
+	"Oh four, five, six, c'mon and get your kicks, now you don't need the money with a face like that do ya",
+	"",
+	"PC: Big black boots, long brown hair",
+	"She's so sweet with her, get-back stare",
+	"",
+	"C2: ...Well I could see, you home with me, but you were with another man, yeah",
+	"I know we ain't got much to say, before I let you get away, yeah",
+	"...I said, are you gonna be my girl?",
+	"",
+	"I2: (instrumental) ",
+	"",
+	"BR: Oh yeah, oh yeah, c'mon",
+	"-",
+	"",
+	"O:",
+	"...Well I could see, you home with me, but you were with another man, yeah",
+	"I know we ain't got much to say, before I let you get away, yeah",
+	"...Be my girl, be my girl, are you gonna be my girl? ",
+	"Yeah"
+    ]
+}
+},
 { "file": "Arlington (1).songlyrics", "lastModifiedDate": 1533184352590, "song": 
 {
 "title": "Arlington",
@@ -156209,12 +156292,12 @@
     ]
 }
 },
-{ "file": "Words Get in the Way.songlyrics", "lastModifiedDate": 1644999469359, "song": 
+{ "file": "Words Get in the Way.songlyrics", "lastModifiedDate": 1681878671004, "song": 
 {
 "title": "Words Get in the Way",
 "artist": "Gloria Estefan and Miami Sound Machine",
 "user": "Shari",
-"lastModifiedDate": 1644999469359,
+"lastModifiedDate": 1681878671004,
 "copyright": "1985 Epic, written by Gloria Estefan",
 "key": "F",
 "defaultBpm": 79,
@@ -156223,7 +156306,7 @@
     [
 	"V:",
 	"F69 Fmaj9 Dm9 Dm7",
-	"Bbm7 Bbm7 C7sus C7",
+	"Bbmaj7 Bbm7 C7sus C7",
 	"C:",
 	"F69 Fmaj9 G/F G",
 	"Dm7 Bb Bbm Csus4C",
