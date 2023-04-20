@@ -63880,49 +63880,49 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1681714568686, "song": 
+{ "file": null, "lastModifiedDate": 1681967678527, "song": 
 {
 "title": "I Go Blind",
 "artist": "54-40",
 "coverArtist": "Hootie & The Blowfish",
-"user": "Shari",
-"lastModifiedDate": 1681714568686,
+"user": "Ben",
+"lastModifiedDate": 1681967678527,
 "copyright": "1994 BMG Direct Marketing Inc.",
-"key": "C",
+"key": "G",
 "defaultBpm": 123,
 "timeSignature": "2/4",
 "chords": 
     [
 	"I:",
-	"G C G/B C",
-	"G C G/B A7sus4",
+	"G Cadd9 G/B C",
+	"G Cadd9 G/B A7sus4",
 	"A1:",
-	"G C G/B C",
-	"G C G/B A7sus4",
-	"G C G/B C",
-	"G C G/B A7sus4",
+	"G Cadd9 G/B C",
+	"G Cadd9 G/B A7sus4",
+	"G Cadd9 G/B C",
+	"G Cadd9 G/B A7sus4",
 	"A2:",
-	"G C G/B C",
-	"G C G/B A7sus4",
-	"G C G/B C",
+	"G Cadd9 G/B C",
+	"G Cadd9 G/B A7sus4",
+	"G Cadd9 G/B C",
 	"A3:",
-	"G C G/B C",
-	"G C G/B A7sus4",
+	"G Cadd9 G/B C",
+	"G Cadd9 G/B A7sus4",
 	"B:",
 	"C C C C",
 	"C C C C",
 	"Br:",
 	"C F Am F x2",
 	"O1:",
-	"G C G/B C |",
-	"G C G/B A7sus4 | x2",
+	"G Cadd9 G/B C |",
+	"G Cadd9 G/B A7sus4 | x2",
 	"O2:",
 	"X X X X x4",
 	"O3:",
-	"G C G/B C",
-	"G C G/B A7sus4",
-	"G C G/B C",
-	"G C G/B D",
+	"G Cadd9 G/B C",
+	"G Cadd9 G/B A7sus4",
+	"G Cadd9 G/B C",
+	"G Cadd9 G/B D",
 	"G"
     ],
 "lyrics": 
@@ -73240,15 +73240,15 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1681328329795, "song": 
+{ "file": "", "lastModifiedDate": 1682015269580, "song": 
 {
 "title": "It's Hard To Be",
 "artist": "Kieron Dwyer",
-"user": "Shari",
-"lastModifiedDate": 1681328329795,
+"user": "Kieron",
+"lastModifiedDate": 1682015269580,
 "copyright": "2022 Kieron M. Dwyer",
-"key": "C",
-"defaultBpm": 78,
+"key": "G",
+"defaultBpm": 126,
 "timeSignature": "4/4",
 "chords": 
     [
@@ -73268,9 +73268,14 @@
 	"C G D D",
 	"C:",
 	"Em Am G G x2",
+	"B:",
+	"Em Am GD Am",
+	"Em Am GD Em",
+	"Em Am GD Am",
+	"Em Am GD Em",
 	"O:",
 	"Em Am GD Am",
-	"Em G GD Em"
+	"Em Am GD Em"
     ],
 "lyrics": 
     [
@@ -73316,6 +73321,16 @@
 	"It’s hard to be an outlaw when there’s no rules left to break",
 	"It’s hard to be an honest man when you’re always on the take",
 	"\r",
+	"C:",
+	"(Yeah it’s) hard, it's",
+	"Hard to be",
+	"",
+	"B:",
+	"It’s hard to be the chosen one when you’re always left behind",
+	"It’s hard to give yourself a break if you’re not the giving kind",
+	"It’s hard to navigate the stars when you’re always flying blind",
+	"It’s hard to escape from prison if the prison is your mind",
+	"",
 	"C:",
 	"(Yeah it’s) hard, it's",
 	"Hard to be",
@@ -93223,6 +93238,79 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1682015005118, "song": 
+{
+"title": "Misery Forecast",
+"artist": "Craig Nielsen",
+"user": "Ben",
+"lastModifiedDate": 1682015005118,
+"copyright": "2023 Craig Nielsen",
+"key": "E",
+"defaultBpm": 163,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"E B A E x2",
+	"I2:",
+	"E B A E x4",
+	"V:",
+	"E B A E x2",
+	"A E A B B",
+	"C:",
+	"E B E B",
+	"A F#m A B B",
+	"C2:",
+	"E B E B",
+	"A F#m A B",
+	"B EX"
+    ],
+"lyrics": 
+    [
+	"i: (instrumental)",
+	"",
+	"v: Here we go again, a new song's coming in, it",
+	"Has to be Sunday night, I don't know if it's right",
+	"Forecast is calling for misery, so many people are counting on me",
+	"",
+	"v: (I'm gonna) go for it anyway, and did down deep and pray, and",
+	"Have faith that Monday, I'm gonna find my way",
+	"What do you know it's my best day yet, and",
+	"I got four songs and no regrets",
+	"",
+	"c: So don't listen to the misery forecast, that weather man was the bottom of his class",
+	"His only forecast is rain and snow, you're better off if you make your own",
+	"",
+	"v: First time on the big stage, maybe turn a new page, but there's ",
+	"No time to practice, so what's the point of this",
+	"Forecast is saying that storm clouds loom, embarassment and certain doom",
+	"",
+	"v: (Yeah I) feel like backing out, my mind is filled with doubt",
+	"I'm shaking on the inside, but I've gotta give this a try",
+	"What do you know it was such a thrill, time of my life and I'm feeling it still ",
+	"",
+	"c: So don't listen to the misery forecast, that weather man was the bottom of his class",
+	"His only forecast is rain and snow, you're better off if you make your own",
+	"",
+	"i2: (instrumental solos)",
+	"",
+	"v: (I'm) running down a big dream, and ready for a new scene, I'm ",
+	"Looking at this tough job that makes my heart want to stop",
+	"Forecast is saying I'm gonna die, so curl up and say goodbye",
+	"",
+	"v: My intuition says go but my mind is screaming no",
+	"I'm feeling on the edge but I stepped right off that ledge",
+	"Now that it's over I feel so proud, and my new life makes me want to shout out loud",
+	"",
+	"c: So don't listen to the misery forecast, that weather man was the bottom of his class",
+	"His only forecast is rain and snow, you're better off if you make your own",
+	"",
+	"c2: No don't listen to the misery forecast, that weather man was the bottom of his class",
+	"His only forecast is rain and snow, you're better off if you make your own",
+	""
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1678860797738, "song": 
 {
 "title": "Missing You",
@@ -111199,12 +111287,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1681612702183, "song": 
+{ "file": "", "lastModifiedDate": 1681952073419, "song": 
 {
 "title": "Rat In Mi Kitchen",
 "artist": "UB40",
-"user": "Shari",
-"lastModifiedDate": 1681612702183,
+"user": "Ben",
+"lastModifiedDate": 1681952073419,
 "copyright": "1987 DEP International",
 "key": "E",
 "defaultBpm": 91,
@@ -111212,13 +111300,13 @@
 "chords": 
     [
 	"I:",
-	"Bm A/B E E x4",
+	"Bm Bm/A E E x4",
 	"I2:",
-	"Bm A/B E E x2",
+	"Bm Bm/A E E x2",
 	"V:",
-	"Bm A/B E E x2",
+	"Bm Bm/A E E x2",
 	"C:",
-	"Bm A/B E E x2"
+	"Bm Bm/A E E x2"
     ],
 "lyrics": 
     [
@@ -111234,7 +111322,8 @@
 	"Fix that rat that's what I'm gonna do, I'm gonna fix that rat",
 	"",
 	"V:",
-	"When you open your mouth you don't talk, you shout and you give every body the blame, when they Catch you up, they will shut you up, and you got no one to blame",
+	"When you open your mouth you don't talk, you shout and you give everybody the blame, when they ",
+	"Catch you up, they will shut you up, and you got no one to blame",
 	"",
 	"C:",
 	"There's a rat in me kitchen what am I gonna do? There's a rat in me kitchen what am I gonna do, I'm gonna ",
@@ -111250,7 +111339,7 @@
 	"",
 	"V:",
 	"When you out on the street, you practice lies and deceit, and you scandalize my name, but when I ",
-	"Catch you up, I'm gonna pull you up, I'm gonna check-out inside your brain",
+	"Catch you up, I'm gonna pull you up, I'm gonna check out inside your brain",
 	"",
 	"C:",
 	"There's a rat in me kitchen what am I gonna do? There's a rat in me kitchen what am I gonna do, I'm gonna ",
@@ -158573,12 +158662,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1681168715202, "song": 
+{ "file": "", "lastModifiedDate": 1682014759728, "song": 
 {
 "title": "You Got It",
 "artist": "Craig Nielsen",
-"user": "Shari",
-"lastModifiedDate": 1681168715202,
+"user": "Ben",
+"lastModifiedDate": 1682014759728,
 "copyright": "2019 Craig Nielsen",
 "key": "E",
 "defaultBpm": 105,
@@ -158595,7 +158684,7 @@
 	"E7 A B7 B7",
 	"C:",
 	"E7 A E7 A",
-	"E7 A B7 B7X",
+	"E7 A B7X",
 	"O:",
 	"E7 A E7 A",
 	"E7 A B7 B7",
