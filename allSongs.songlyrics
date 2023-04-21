@@ -126304,12 +126304,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1680062251743, "song": 
+{ "file": "", "lastModifiedDate": 1682039452324, "song": 
 {
 "title": "So Into You",
 "artist": "Atlanta Rhythm Section",
 "user": "Shari",
-"lastModifiedDate": 1680062251743,
+"lastModifiedDate": 1682039452324,
 "copyright": "1976 Polydor",
 "key": "Ab",
 "defaultBpm": 86,
@@ -126332,9 +126332,9 @@
 	"Fm7 Fm7 Fm7 Fm7",
 	"Bbm7 Bbm7 Fm7",
 	"PC1:",
-	"Fm7 Dbmaj7. Cm7X",
+	"Fm7 Fm7/Db.Cm7X X.",
 	"PC2:",
-	"Fm7 Fm7 Fm7X",
+	"Fm7 Fm7 Fm7.",
 	"C:",
 	"Fm7 Fm7 Fm7 Fm7",
 	"Bbm7 Bbm7 Fm7",
@@ -140628,12 +140628,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1680673057338, "song": 
+{ "file": "", "lastModifiedDate": 1682038109532, "song": 
 {
 "title": "Things We Do For Love, The",
 "artist": "10cc",
-"user": "Shari",
-"lastModifiedDate": 1680673057338,
+"user": "Kieron",
+"lastModifiedDate": 1682038109532,
 "copyright": "1977 Mercury Records",
 "key": "Db",
 "defaultBpm": 109,
@@ -140701,8 +140701,9 @@
 	"Think you're gonna break up, then she says she wants to make up",
 	"",
 	"C:",
-	"Ooh, you make me love you, ooh, you've got a way",
-	"Ooh, you had me crawling up the wall",
+	"Ooh, you make me love you",
+	"Ooh, you've got a way",
+	"Ooh, you had me crawling...up the wall",
 	"",
 	"I2:",
 	"(instrumental)",
@@ -140717,8 +140718,9 @@
 	"Think you're gonna break up, then she says she wants to make up",
 	"",
 	"C:",
-	"Ooh, you make me love you, ooh, you've got a way",
-	"Ooh, you had me crawling up the wall",
+	"Ooh, you make me love you",
+	"Ooh, you've got a way",
+	"Ooh, you had me crawling...up the wall",
 	"",
 	"I4:",
 	"(instrumental)",
@@ -158164,6 +158166,77 @@
 	"Doo, doo, doo, doo, doo, doo, you're the one who can put out the fire",
 	"Doo, doo, doo, doo, doo, doo, you're the one who can put out the fire",
 	"Doo, doo, doo, doo, doo, doo, you're the one who can put out the fire"
+    ]
+}
+},
+{ "file": "", "lastModifiedDate": 1682038281345, "song": 
+{
+"title": "You Can Have the Crown",
+"artist": "Sturgill Simpson",
+"user": "Ben",
+"lastModifiedDate": 1682038281345,
+"copyright": "2013 Sturgill Simpson",
+"key": "A",
+"defaultBpm": 186,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"A A E A A",
+	"I2:",
+	"D D A A",
+	"A A A E E",
+	"V:",
+	"A A D D",
+	"A A E E",
+	"A A D D",
+	"A E A A",
+	"C:",
+	"D D A A",
+	"A A A E E",
+	"D D A BC#DX X",
+	"A A E A A",
+	"O:",
+	"A A E A A"
+    ],
+"lyrics": 
+    [
+	"I: (Instrumental)",
+	"",
+	"V: (Well, I've been) spending all my money on weed'n pills tryin' to write a song that'll pay the bills",
+	"But it ain't came yet, so I guess I'll have to rob a bank",
+	"I guess it could be worse, it ain't that bad, at least I ain't sittin' in old Baghdad ",
+	"In the middle of a hot damn desert sittin' in a tank",
+	"",
+	"V: (Well, every) time the wife talks, a baby gets mentioned, I'm so broke I can't pay attention",
+	"Lord, how it tears me up to see her cry",
+	"Oh, I've been spendin' all my nights on the internet, looking for a clue but ain't found one yet",
+	"Just a bunch of Mopars, guitars and other stuff I can't buy",
+	"",
+	"C: Well, now Lord, if you can hear me won't you throw a damn dog a bone",
+	"'Cause if the Devil shows up with a better deal this old soul's a-goin' down",
+	"Oh, I sing 'em real pretty, sing 'em real sad, and all the people in the crowd say \"He ain't half bad\"",
+	"Well, they call me King Turd up here on Shit Mountain, if you want it you can have the crown",
+	"",
+	"I2: (Instrumental)",
+	"",
+	"V: (Well, I've been) sittin' on my ass like a bump on a log watchin' Andy and ol' Boss Hog",
+	"I guess I oughta get up and go out and find a job",
+	"Instead of sittin' on the couch trying to find the next line, I'm sure there's gotta be a better use of my time",
+	"Like figuring out which one of these banks I'm gonna go rob",
+	"",
+	"V: (Well, the) name of the game is hurry up and wait but that ain't putting no food on my plate",
+	"Or gas in my car and I drive a Bronco",
+	"So Lord, if I could just get me a record deal, I might not have to worry about my next meal",
+	"But I'll still be trying to figure out what the hell rhymes with Bronco",
+	"",
+	"C: Well, now Lord, if you can hear me won't you throw a damn dog a bone",
+	"'Cause if the Devil shows up with a better deal this old soul's a-goin' down",
+	"Oh, I sing 'em real pretty, sing 'em real sad and all the people in the crowd say \"He ain't half bad\"",
+	"Well, they call me King Turd up here on Shit Mountain, if you want it you can have the crown",
+	"",
+	"O: Well, they call me King Turd up here on Shit Mountain",
+	"If you want it you can have the crown"
     ]
 }
 },
