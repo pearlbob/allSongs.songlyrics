@@ -34092,7 +34092,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1682922974798, "song": 
+{ "file": "", "lastModifiedDate": 1682922974798, "song": 
 {
 "title": "Does It Hurt Today?",
 "artist": "CJ",
@@ -76175,7 +76175,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1682922446037, "song": 
+{ "file": "", "lastModifiedDate": 1682922446037, "song": 
 {
 "title": "Just Breathe",
 "artist": "Pearl Jam",
@@ -97624,7 +97624,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1682917988226, "song": 
+{ "file": "", "lastModifiedDate": 1682917988226, "song": 
 {
 "title": "My Heart Will Go On",
 "artist": "Celine Dion",
@@ -100016,13 +100016,12 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1682918962780, "song": 
+{ "file": "", "lastModifiedDate": 1682948652010, "song": 
 {
 "title": "No More Words",
 "artist": "Berlin",
-"coverArtist": "`",
 "user": "Shari",
-"lastModifiedDate": 1682918962780,
+"lastModifiedDate": 1682948652010,
 "copyright": "1984 Rubelian Remasters",
 "key": "C",
 "defaultBpm": 131,
@@ -102550,7 +102549,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1682921188669, "song": 
+{ "file": "", "lastModifiedDate": 1682921188669, "song": 
 {
 "title": "On the Road Again",
 "artist": "Willie Nelson",
