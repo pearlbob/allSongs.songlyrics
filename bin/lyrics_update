@@ -56,9 +56,6 @@ gsutil -q acl ch -u AllUsers:R $svrDst/$fp
 
 
 #	copy to local development locations, as local copies
-#cp $f /home/bob/github/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$f
-#cp $fm /home/bob/github/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$fm
-#cp $fp /home/bob/github/bsteeleMusicApp/src/main/java/com/bsteele/bsteeleMusicApp/client/resources/$fp
 cp $f /home/bob/github/bsteele_music_flutter/lib/assets/$f
 cp $fm /home/bob/github/bsteele_music_flutter/lib/assets/$fm
 cp $fp /home/bob/github/bsteele_music_flutter/lib/assets/$fp
