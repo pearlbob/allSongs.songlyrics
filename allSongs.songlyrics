@@ -9844,12 +9844,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1665979128780, "song": 
+{ "file": "", "lastModifiedDate": 1684033602099, "song": 
 {
 "title": "Back on the Chain Gang",
 "artist": "Pretenders",
 "user": "Shari",
-"lastModifiedDate": 1665979128780,
+"lastModifiedDate": 1684033602099,
 "copyright": "1984 Sire",
 "key": "D",
 "defaultBpm": 152,
@@ -9866,9 +9866,9 @@
 	"I4:",
 	"Dm A7 Dm A7",
 	"V:",
-	"Dsus2 A Em7 BmG x4",
+	"Dsus2/A A Em7 BmG x4",
 	"V2:",
-	"Dm A Dm A x2",
+	"Dm A7 Dm A7 x2",
 	"V3:",
 	"Dm A Dm A",
 	"Dm A Dm A A",
@@ -9902,7 +9902,7 @@
 	"Now we're back in the fight",
 	"",
 	"C:",
-	"(Oh) We're back on the train (oh ah)",
+	"(Ooh) We're back on the train (oh ah)",
 	"Oh (oh ah) back on the chain gang",
 	"",
 	"I2:",
@@ -9915,8 +9915,8 @@
 	"Threw sand in our eyes and descended like flies",
 	"",
 	"C2:",
-	"(Oh) Put us back on the train (oh ah)",
-	"Oh (oh ah, oh ah) back on the chain gang",
+	"(Ooh) Put us back on the train (ah) (ooh ah)",
+	"Ooh (ooh ah, ooh ah)...back on the chain gang",
 	"",
 	"I3:",
 	"(instrumental)",
@@ -9937,7 +9937,7 @@
 	"For making us part",
 	"",
 	"BR:",
-	"(instrumental KEY CHANGE)",
+	"(instrumental)",
 	"",
 	"V4:",
 	"I found a picture of you, oh oh oh oh",
@@ -9946,8 +9946,8 @@
 	"In the wretched life of a lonely heart",
 	"",
 	"C3:",
-	"(Oh) Now we're back on the train (oh ah)",
-	"Oh (oh ah, oh ah) back on the chain gang",
+	"(Ooh) Now we're back on the train (ooh ah)",
+	"Oh (ooh ah) back on the chain gang",
 	"",
 	"O:",
 	"(instrumental)"
@@ -13311,6 +13311,90 @@
 	"",
 	"O:",
 	"(instrumental)"
+    ]
+}
+},
+{ "file": null, "lastModifiedDate": 1684043020859, "song": 
+{
+"title": "Black Horse And the Cherry Tree",
+"artist": "KT Tunstall",
+"user": "Shari",
+"lastModifiedDate": 1684043020859,
+"copyright": "2004 Relentless Records",
+"key": "G",
+"defaultBpm": 105,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Em B7..Em Em B7..Em",
+	"I2:",
+	"Em Em",
+	"I3:",
+	"Em Em Em Em",
+	"V:",
+	"EmX X Em B7..Em x2",
+	"C:",
+	"EmD DCmaj7 EmD Cadd9Em",
+	"EmD DCmaj7 EmD Cadd9.",
+	"Br:",
+	"Em Em Em Em x2",
+	"O:",
+	"EmD DCmaj7 EmD Cadd9Em",
+	"EmD DCmaj7 EmD Cadd9."
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(Woohoo, woohoo)",
+	"(Woohoo, woohoo)",
+	"",
+	"V:",
+	"(Well my) heart knows me better than I know myself so I'm gonna let it do all the talking",
+	"(Woohoo, woohoo)",
+	"I came across a place in the middle of nowhere with a big black horse and a cherry tree",
+	"(Woohoo, woohoo)",
+	"",
+	"V:",
+	"I felt a little fear upon my back I said don't look back, just keep on walking",
+	"(Woohoo, woohoo)",
+	"Well, the big black horse said \"Look this way\" he said, \"Hey lady, will you marry me?\"",
+	"(Woohoo, woohoo)",
+	"",
+	"C:",
+	"(But I said) \"No, no, no, no, no, no\" I said \"No, no, you're not the one for me",
+	"\"No, no, no, no, no, no\" I said \"No, no, you're not the one for me\"",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"V:",
+	"(And my) heart had a problem in the early hours so I stopped it dead for a beat or two ",
+	"(Woohoo, woohoo)...but I",
+	"Cut some cord, and I shouldn't have done it and it won't forgive me after all these years ",
+	"(Woohoo, woohoo)",
+	"",
+	"V:",
+	"(So I) sent her to a place in the middle of nowhere with a big black horse and a cherry tree ",
+	"(Woohoo, woohoo)...now it ",
+	"Won't come back 'cause it's oh-so-happy and now I've got a hole for the world to see",
+	"(Woohoo, woohoo)",
+	"",
+	"C:",
+	"(And it said) \"No, no, no, no, no, no\" I said \"No, no, you're not the one for me\"",
+	"\"No, no, no, no, no, no\" I said \"No, no, you're not the one for me\"",
+	"",
+	"I3:",
+	"(instrumental) (woo, woohoo) Not the one for ",
+	"Me yeah (woo, woohoo) ",
+	"",
+	"BR:",
+	"(I said) \"No, no, no, no, no, no, no, no, no, you're not the one for me\" ",
+	"(Woohoo) \"No, no, no, no (woohoo) no, no, no (woohoo) no, no, you're not the one for me",
+	"",
+	"O:",
+	"Big black horse and a cherry tree, I can't quite get there 'cause my heart's forsaken me, yeah, yeah, yeah (woohoo)",
+	"Big black horse and a cherry tree, I can't quite get there 'cause my heart's forsaken me"
     ]
 }
 },
@@ -27470,7 +27554,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1683528884814, "song": 
+{ "file": "", "lastModifiedDate": 1683528884814, "song": 
 {
 "title": "Copperhead Road",
 "artist": "Steve Earle",
@@ -32500,12 +32584,12 @@
     ]
 }
 },
-{ "file": "Delta Lady.songlyrics", "lastModifiedDate": 1682396949597, "song": 
+{ "file": "Delta Lady.songlyrics", "lastModifiedDate": 1684031895332, "song": 
 {
 "title": "Delta Lady",
 "artist": "Joe Cocker",
 "user": "Shari",
-"lastModifiedDate": 1682396949597,
+"lastModifiedDate": 1684031895332,
 "copyright": "1969 A&M, written by Leon Russell",
 "key": "C",
 "defaultBpm": 134,
@@ -32521,8 +32605,8 @@
 	"C Em/B C/Bb F/A",
 	"C G7 C",
 	"C:",
-	"C/Bb F C C",
-	"C/Bb F C.C/EF G9X",
+	"Bb F C C",
+	"Bb F C.C/EF G9X",
 	"B:",
 	"Dm G7/B Dm Bb",
 	"F F",
@@ -45158,7 +45242,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1683519289725, "song": 
+{ "file": "", "lastModifiedDate": 1683519289725, "song": 
 {
 "title": "Fire and Rain",
 "artist": "James Taylor",
@@ -64477,12 +64561,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1615188567484, "song": 
+{ "file": "", "lastModifiedDate": 1684046508544, "song": 
 {
 "title": "I Feel the Earth Move",
 "artist": "Carole King",
 "user": "Shari",
-"lastModifiedDate": 1615188567484,
+"lastModifiedDate": 1684046508544,
 "copyright": "1971 Ode",
 "key": "Eb",
 "defaultBpm": 119,
@@ -64498,18 +64582,19 @@
 	"D#maj7 G#maj7 Fm7 G#/A#F/G",
 	"C1:",
 	"Cm7 Cm7F/C Cm7 Cm7",
-	"F7 F7 Cm7 Dm7/CA#",
+	"F7 F7 Cm7 Dm7/C..A#",
 	"C2:",
 	"Cm7 Cm7F/C Cm7 Cm7",
 	"F7 F7 Cm7 Dm7/C",
-	"Cm7 F6",
+	"Cm7 F6X",
 	"C3:",
-	"Cm7 Cm7F/C Cm7 Cm7F/C x2",
+	"Cm7 Cm7F/C Cm7 Cm7F/C",
+	"Cm7 Cm7F/C Cm7 Cm7F/C",
 	"Cm7 F7 Cm7 F7",
 	"Cm7 F7 Cm7 Cm7F/C",
 	"O:",
-	"Cm7 F/C Cm7 F/C",
-	"Cm7 F/C Cm7 Dm7/C",
+	"Cm7 Cm7F/C Cm7 Cm7F/C",
+	"Cm7 Cm7F/C Cm7 Dm7/C",
 	"Cm7 A#maj7/C G#maj7/C A#maj7/C"
     ],
 "lyrics": 
@@ -64527,40 +64612,39 @@
 	"Baby, when I see your face",
 	"Mellow as the month of May, oh",
 	"Darling, I can't stand it, when you",
-	"Look at me that way, I feel the ",
+	"Look at me that way",
 	"",
 	"C2:",
-	"Earth move under my feet, I feel the ",
+	"(I feel the) earth move under my feet, I feel the ",
 	"Sky tumbling down, I feel my ",
-	"Heart start to trembling whenever ",
-	"You're around, ooh",
+	"Heart start to trembling whenever you're around",
+	"Ooh",
 	"",
 	"I2:",
-	"(instrumental) oh",
-	"",
+	"(instrumental)",
 	"",
 	"V1:",
-	"Darling, when you're near me, you",
+	"Ooh darling, when you're near me, and you",
 	"Tenderly call my name, I",
 	"Know that my emotions, are",
 	"Something I just can't tame, I've just got to have you",
 	"",
 	"I:",
 	"Baby, ah ah ah ",
-	"Ah ah ah yeah I feel the ",
+	"Ah ah ah yeah",
 	"",
 	"C3:",
-	"Earth move under my feet, I feel the ",
+	"(I feel the) earth under my feet, I feel the ",
 	"Sky tumbling down, a-tumbling down, I feel the ",
 	"Earth move under my feet, I feel the ",
 	"Sky tumbling down, a-tumbling down, I just",
 	"Lose control, down to my ",
 	"Very soul, I get a ",
 	"Hot and cold, all ",
-	"Over, all over, all over, all over, I feel the",
+	"Over, all over, all over, all over",
 	"",
 	"O:",
-	"Earth move under my feet, I feel the ",
+	"(I feel the) earth move under my feet, I feel the ",
 	"Sky tumbling down, a-tumbling down, I feel the ",
 	"Earth move under my feet, I feel the ",
 	"Sky tumbling down, a-tumbling down",
@@ -64954,6 +65038,127 @@
 	"O:",
 	"I don't know why, I don't know why",
 	"I don't know why, I don't know why"
+    ]
+}
+},
+{ "file": null, "lastModifiedDate": 1684044754541, "song": 
+{
+"title": "I Got You",
+"artist": "Split Enz",
+"user": "Shari",
+"lastModifiedDate": 1684044754541,
+"copyright": "1980 WM Australia",
+"key": "F",
+"defaultBpm": 124,
+"timeSignature": "2/4",
+"chords": 
+    [
+	"I:",
+	"D5 Bb/D D5 Bb/D x2",
+	"V1:",
+	"D5/A Bb5 Bb5",
+	"A5 A5 G5 G5",
+	"D5/A D5/A Bb5 Bb6",
+	"A5 A5 G5 G5",
+	"V2:",
+	"D5/A D5/A Bb5 Bb6",
+	"A5 A5 G5 G5",
+	"D5/A D5/A Bb5 Bb6",
+	"A5 A5 G5 G5",
+	"C:",
+	"G A Em Bm",
+	"D D D D",
+	"G A Em Bm",
+	"A A A A",
+	"Br:",
+	"D E E E E",
+	"D E E E E",
+	"D E E E E",
+	"F F G G",
+	"O:",
+	"D"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V1:",
+	"I got you",
+	"That's all I want",
+	"I won't forget",
+	"That's a whole lot",
+	"",
+	"V2:",
+	"I don't go out",
+	"Now that you're in",
+	"Sometimes we shout",
+	"But that's no problem",
+	"",
+	"C:",
+	"I don't know why sometimes I get ",
+	"Frightened...you can",
+	"See my eyes, you can tell that I'm not ",
+	"Lying",
+	"",
+	"V1:",
+	"Look at you",
+	"You're a pageant",
+	"You're everything",
+	"That I've imagined",
+	"",
+	"V2:",
+	"Something's wrong",
+	"I feel uneasy",
+	"You show me",
+	"Tell me you're not teasing",
+	"",
+	"C:",
+	"I don't know why sometimes I get ",
+	"Frightened...you can",
+	"See my eyes, you can tell that I'm not ",
+	"Lying",
+	"",
+	"C:",
+	"I don't know why sometimes I get ",
+	"Frightened...you can",
+	"See my eyes, you can tell me you're not ",
+	"Flying",
+	"",
+	"BR:",
+	"(instrumental keyboard solo)",
+	"",
+	"V1:",
+	"There's no doubt",
+	"Not when I'm with you",
+	"When I'm without",
+	"I stay in my room",
+	"",
+	"V2:",
+	"Where do you go",
+	"I get no answer",
+	"You're always out",
+	"It gets on my nerves",
+	"",
+	"C:",
+	"I don't know why sometimes I get ",
+	"Frightened...you can",
+	"See my eyes, you can tell that I'm not ",
+	"Lying",
+	"",
+	"C:",
+	"I don't know why sometimes I get ",
+	"Frightened...you can",
+	"See my eyes, you can tell me you're not ",
+	"Flying",
+	"",
+	"C:",
+	"I don't know why sometimes I get ",
+	"Frightened...you can",
+	"See my eyes, you can tell that I'm not ",
+	"Lying",
+	"",
+	"O:"
     ]
 }
 },
@@ -72154,7 +72359,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1683516177273, "song": 
+{ "file": "", "lastModifiedDate": 1683516177273, "song": 
 {
 "title": "In the Summertime",
 "artist": "Mungo Jerry",
@@ -81839,7 +82044,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1683518219905, "song": 
+{ "file": "", "lastModifiedDate": 1683518219905, "song": 
 {
 "title": "Leaving on a Jet Plane",
 "artist": "John Denver",
@@ -122108,7 +122313,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1683526086643, "song": 
+{ "file": "", "lastModifiedDate": 1683526086643, "song": 
 {
 "title": "Send Me On My Way",
 "artist": "Rusted Root",
@@ -152163,12 +152368,12 @@
     ]
 }
 },
-{ "file": "3 am.songlyrics", "lastModifiedDate": 1664176455524, "song": 
+{ "file": "3 am.songlyrics", "lastModifiedDate": 1684047329133, "song": 
 {
 "title": "We Are Family",
 "artist": "Sister Sledge",
 "user": "Shari",
-"lastModifiedDate": 1664176455524,
+"lastModifiedDate": 1684047329133,
 "copyright": "1978 Cotillion",
 "key": "A",
 "defaultBpm": 114,
@@ -152225,12 +152430,12 @@
 	"Get up everybody and sing",
 	"",
 	"V:",
-	"Living life is fun and we've just begun to get out",
+	"Living life is fun and we've just begun to get our",
 	"Share of this world's delights",
 	"(High) high hopes we have for the ",
 	"Future, and our goal's in sight",
 	"(We) no, we don't get depressed, here's what we ",
-	"Call our golden rule",
+	"Call, our golden rule",
 	"Have faith in you and the things you do, you won't go ",
 	"Wrong, oh no this is our family jewel",
 	"",
@@ -164692,7 +164897,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1683521890687, "song": 
+{ "file": "", "lastModifiedDate": 1683521890687, "song": 
 {
 "title": "You've Got a Friend",
 "artist": "Carole King",
