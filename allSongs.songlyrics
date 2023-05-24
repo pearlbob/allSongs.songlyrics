@@ -4259,7 +4259,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684450368918, "song": 
+{ "file": "", "lastModifiedDate": 1684450368918, "song": 
 {
 "title": "All That She Wants",
 "artist": "Ace of Base",
@@ -13425,7 +13425,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684135094658, "song": 
+{ "file": "", "lastModifiedDate": 1684135094658, "song": 
 {
 "title": "Black Horse And The Cherry Tree",
 "artist": "KT Tunstall",
@@ -25067,7 +25067,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684302789224, "song": 
+{ "file": "", "lastModifiedDate": 1684302789224, "song": 
 {
 "title": "Cleaning Windows",
 "artist": "Van Morrison",
@@ -26262,7 +26262,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684136918069, "song": 
+{ "file": "", "lastModifiedDate": 1684136918069, "song": 
 {
 "title": "Come Dancing",
 "artist": "Kinks, The",
@@ -37847,7 +37847,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684448366794, "song": 
+{ "file": "", "lastModifiedDate": 1684448366794, "song": 
 {
 "title": "Down Under",
 "artist": "Men at Work",
@@ -52955,7 +52955,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684910174358, "song": 
+{ "file": "", "lastModifiedDate": 1684910174358, "song": 
 {
 "title": "Gone Gone Gone",
 "artist": "Everly Brothers, The",
@@ -64524,7 +64524,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684739315320, "song": 
+{ "file": "", "lastModifiedDate": 1684739315320, "song": 
 {
 "title": "I Can't Help Myself",
 "artist": "Four Tops",
@@ -65659,7 +65659,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684044754541, "song": 
+{ "file": "", "lastModifiedDate": 1684044754541, "song": 
 {
 "title": "I Got You",
 "artist": "Split Enz",
@@ -70293,86 +70293,6 @@
 	"",
 	"O:",
 	"(instrumental)",
-	"",
-	"",
-	"",
-	""
-    ]
-}
-},
-{ "file": "25 or 6 to 4 (3).songlyrics", "lastModifiedDate": 1684780697368, "song": 
-{
-"title": "If You Want Me To Stay",
-"artist": "Sly and the Family Stone",
-"user": "Frank",
-"lastModifiedDate": 1684780697368,
-"copyright": "1973 Epic",
-"key": "Db",
-"defaultBpm": 105,
-"timeSignature": "4/4",
-"chords": 
-    [
-	"I:",
-	"Bbm7 Bbm7 Bbm7 Bbm7",
-	"I2:",
-	"Bbm7 AbmDb7 Gbmaj7 F7 x2",
-	"V:",
-	"Bbm7 AbmDb7 Gbmaj7 F7",
-	"O:",
-	"Bbm7 AbmDb7 Gbmaj7 F7 x3"
-    ],
-"lyrics": 
-    [
-	"i:",
-	"(bass)",
-	"i2:",
-	"v:",
-	"If you want me to stay",
-	"I'll be around today",
-	"To be available for you to see",
-	"v:",
-	"I'm about to go",
-	"And then you'll know",
-	"For me to stay here I've got to be me",
-	"v:",
-	"You'll never be in doubt",
-	"That's what it's all about",
-	"You can't take me for granted and smile",
-	"v:",
-	"Count the days I'm gone",
-	"Forget reaching me by phone",
-	"Because I promise I'll be gone for a while",
-	"v:",
-	"When you see me again",
-	"I hope that you have been",
-	"The kind of person that you really are now",
-	"v:",
-	"You got to get it straight",
-	"How could I ever be late",
-	"When you're my woman takin' up my time",
-	"v:",
-	"Oh, how could you ever allow",
-	"I guess I wonder how",
-	"How could you get out of pocket for fun",
-	"v:",
-	"How, how",
-	"When you know that you never number two",
-	"Number one gonna be number one",
-	"v:",
-	"Oh, I'll be good",
-	"I wish I could",
-	"Get this message over to you now",
-	"i2: (instrumental)",
-	"v:",
-	"When you see me again",
-	"I hope that you have been",
-	"The kind of person you really are now",
-	"v:",
-	"I'll be so good",
-	"I wish I could",
-	"Get the message over to you now",
-	"o:",
-	"",
 	"",
 	"",
 	"",
@@ -116271,7 +116191,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684301226271, "song": 
+{ "file": "", "lastModifiedDate": 1684301226271, "song": 
 {
 "title": "Rhinestone Cowboy",
 "artist": "Glen Campbell",
@@ -129656,7 +129576,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684910463661, "song": 
+{ "file": "", "lastModifiedDate": 1684910463661, "song": 
 {
 "title": "Smooth",
 "artist": "Santana",
@@ -134873,7 +134793,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684740771718, "song": 
+{ "file": "", "lastModifiedDate": 1684740771718, "song": 
 {
 "title": "Steve McQueen",
 "artist": "Sheryl Crow",
@@ -155850,7 +155770,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684135028176, "song": 
+{ "file": "", "lastModifiedDate": 1684135028176, "song": 
 {
 "title": "Wheel in the Sky",
 "artist": "Journey",
@@ -163134,7 +163054,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684907032662, "song": 
+{ "file": "", "lastModifiedDate": 1684907032662, "song": 
 {
 "title": "You Gotta Be",
 "artist": "Des'ree",
