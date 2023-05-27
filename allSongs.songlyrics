@@ -4259,7 +4259,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684450368918, "song": 
+{ "file": null, "lastModifiedDate": 1684450368918, "song": 
 {
 "title": "All That She Wants",
 "artist": "Ace of Base",
@@ -13425,7 +13425,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684135094658, "song": 
+{ "file": null, "lastModifiedDate": 1684135094658, "song": 
 {
 "title": "Black Horse And The Cherry Tree",
 "artist": "KT Tunstall",
@@ -25067,7 +25067,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684302789224, "song": 
+{ "file": null, "lastModifiedDate": 1684302789224, "song": 
 {
 "title": "Cleaning Windows",
 "artist": "Van Morrison",
@@ -26262,7 +26262,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684136918069, "song": 
+{ "file": null, "lastModifiedDate": 1684136918069, "song": 
 {
 "title": "Come Dancing",
 "artist": "Kinks, The",
@@ -37847,7 +37847,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684448366794, "song": 
+{ "file": null, "lastModifiedDate": 1684448366794, "song": 
 {
 "title": "Down Under",
 "artist": "Men at Work",
@@ -52955,7 +52955,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684910174358, "song": 
+{ "file": null, "lastModifiedDate": 1684910174358, "song": 
 {
 "title": "Gone Gone Gone",
 "artist": "Everly Brothers, The",
@@ -64524,7 +64524,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684739315320, "song": 
+{ "file": null, "lastModifiedDate": 1684739315320, "song": 
 {
 "title": "I Can't Help Myself",
 "artist": "Four Tops",
@@ -65659,7 +65659,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684044754541, "song": 
+{ "file": null, "lastModifiedDate": 1684044754541, "song": 
 {
 "title": "I Got You",
 "artist": "Split Enz",
@@ -66294,12 +66294,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1683095789037, "song": 
+{ "file": "", "lastModifiedDate": 1685137035974, "song": 
 {
 "title": "I Hear Them All",
 "artist": "Old Crow Medicine Show",
 "user": "Paul Kub",
-"lastModifiedDate": 1683095789037,
+"lastModifiedDate": 1685137035974,
 "copyright": "2006 Nettwerk",
 "key": "A",
 "defaultBpm": 96,
@@ -66310,10 +66310,11 @@
 	"D A AE F#mD",
 	"AE A",
 	"I2:",
-	"D A E D",
+	"D A E A",
 	"D A AE F#mD",
+	"AE A",
 	"V:",
-	"D A E D",
+	"D A E A",
 	"D A AE F#mD",
 	"C:",
 	"AE A",
@@ -70293,6 +70294,86 @@
 	"",
 	"O:",
 	"(instrumental)",
+	"",
+	"",
+	"",
+	""
+    ]
+}
+},
+{ "file": "25 or 6 to 4 (3).songlyrics", "lastModifiedDate": 1684780697368, "song": 
+{
+"title": "If You Want Me To Stay",
+"artist": "Sly and the Family Stone",
+"user": "Frank",
+"lastModifiedDate": 1684780697368,
+"copyright": "1973 Epic",
+"key": "Db",
+"defaultBpm": 105,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"Bbm7 Bbm7 Bbm7 Bbm7",
+	"I2:",
+	"Bbm7 AbmDb7 Gbmaj7 F7 x2",
+	"V:",
+	"Bbm7 AbmDb7 Gbmaj7 F7",
+	"O:",
+	"Bbm7 AbmDb7 Gbmaj7 F7 x3"
+    ],
+"lyrics": 
+    [
+	"i:",
+	"(bass)",
+	"i2:",
+	"v:",
+	"If you want me to stay",
+	"I'll be around today",
+	"To be available for you to see",
+	"v:",
+	"I'm about to go",
+	"And then you'll know",
+	"For me to stay here I've got to be me",
+	"v:",
+	"You'll never be in doubt",
+	"That's what it's all about",
+	"You can't take me for granted and smile",
+	"v:",
+	"Count the days I'm gone",
+	"Forget reaching me by phone",
+	"Because I promise I'll be gone for a while",
+	"v:",
+	"When you see me again",
+	"I hope that you have been",
+	"The kind of person that you really are now",
+	"v:",
+	"You got to get it straight",
+	"How could I ever be late",
+	"When you're my woman takin' up my time",
+	"v:",
+	"Oh, how could you ever allow",
+	"I guess I wonder how",
+	"How could you get out of pocket for fun",
+	"v:",
+	"How, how",
+	"When you know that you never number two",
+	"Number one gonna be number one",
+	"v:",
+	"Oh, I'll be good",
+	"I wish I could",
+	"Get this message over to you now",
+	"i2: (instrumental)",
+	"v:",
+	"When you see me again",
+	"I hope that you have been",
+	"The kind of person you really are now",
+	"v:",
+	"I'll be so good",
+	"I wish I could",
+	"Get the message over to you now",
+	"o:",
+	"",
 	"",
 	"",
 	"",
@@ -85323,12 +85404,12 @@
     ]
 }
 },
-{ "file": "Lighthouse's Tale, The.songlyrics", "lastModifiedDate": 1552417724970, "song": 
+{ "file": "Lighthouse's Tale, The.songlyrics", "lastModifiedDate": 1685138343479, "song": 
 {
 "title": "Lighthouse's Tale, The",
 "artist": "Nickel Creek",
-"user": "Unknown",
-"lastModifiedDate": 1552417724970,
+"user": "Keir",
+"lastModifiedDate": 1685138343479,
 "copyright": "1999 Sugar Hill",
 "key": "D",
 "defaultBpm": 106,
@@ -85336,7 +85417,8 @@
 "chords": 
     [
 	"I:",
-	"Em G D D",
+	"Em G D D x2",
+	"I2:",
 	"Em G D D",
 	"V1:",
 	"Em G D D x4",
@@ -85344,6 +85426,11 @@
 	"Em G D D",
 	"Em G D A",
 	"Em G D D",
+	"Em G D DX",
+	"V3:",
+	"EmX GX DX DX",
+	"EmX GX DX AX",
+	"EmX GX DX DX",
 	"Em G D DX",
 	"C:",
 	"C Bm BbC D",
@@ -85353,69 +85440,66 @@
 	"D D D D",
 	"Em G D D",
 	"O:",
-	"Em G D D x3"
+	"Em G D D x2"
     ],
 "lyrics": 
     [
 	"I:",
-	"(Instrumental)",
+	"(instrumental)",
 	"",
 	"V1:",
-	"I am a lighthouse, worn by the weather and the waves",
-	"I keep my lamp lit, to warn the sailors on their way",
-	"I’ll tell a story, paint you a picture from my past",
-	"I was so happy, but joy in this life seldom lasts",
+	"(I am a) lighthouse, worn by the weather and the waves, I keep my ",
+	"Lamp lit, to warn the sailors on their way, I’ll tell a ",
+	"Story, paint you a picture from my past, I was so ",
+	"Happy, but joy in this life seldom lasts",
 	"",
 	"I:",
-	"(Instrumental)",
+	"(instrumental)",
 	"",
-	"V1:",
-	"I had a keeper, he helped me warn the ships at sea",
-	"We had grown closer, ‘till his joy meant everything to me",
-	"And he was to marry, a girl who shone with beauty and light",
-	"And they loved each other",
-	"And with me watched the sunsets into night",
+	"V2:",
+	"(I had a) keeper, he helped me warn the ships at sea, we had grown ",
+	"Closer, ‘till his joy meant everything to me, and he was to ",
+	"Marry, a girl who shone with beauty and light, and they loved each ",
+	"Other, and with me watched the sunsets into night",
 	"",
 	"C:",
-	"And the waves crashing around me, the sand slips out to sea",
-	"And the winds that blow remind me",
-	"Of what has been, and what can never be",
+	"(And the) waves crashing around me, the sand slips out to sea, and the ",
+	"Winds that blow remind me of what has",
+	"Been, and what can never be",
 	"",
 	"I:",
 	"(Instrumental)",
 	"",
 	"V2:",
-	"She’d had to leave us, my keeper he prayed for a safe return",
-	"But when the night came",
-	"The weather to a raging storm had turned",
-	"He watched her ship fight",
-	"But in vain against the wild and terrible wind",
-	"In me so helpless, as dashed against the rock she met her end",
+	"(She had to) leave us, my keeper he prayed for a safe return, but when the ",
+	"Night came, the weather to a raging storm had turned, he watched her Ship fight, but in vain against the wild and terrible wind, in me so ",
+	"Helpless, as dashed against the rock she met her end",
 	"",
 	"C:",
-	"And the waves crashing around me, the sand slips out to sea",
-	"And the winds that blow remind me",
-	"Of what has been, and what can never be",
+	"(And the) waves crashing around me, the sand slips out to sea, and the ",
+	"Winds that blow remind me of what has",
+	"Been, and what can never be",
 	"",
 	"BR:",
-	"(Instrumental)",
+	"(instrumental)",
 	"",
-	"V1:",
-	"Then on the next day, my keeper found her washed up on the shore",
-	"He kissed her cold face",
-	"That they’d be together soon he’d swore",
-	"I saw him crying, watched as he buried her in the sand",
-	"And then he climbed my tower, and off the edge of me he ran",
+	"V3:",
+	"(leggiero) (Then on the) next day, my keeper found her washed up on the shore, he kissed ",
+	"Her cold face, that they’d be together soon he’d swore, I saw him ",
+	"Crying, watched as he buried her in the sand, and then he climbed my ",
+	"Tower, and off the edge of me he ran",
 	"",
 	"C:",
-	"And the waves crashing around me, the sand slips out to sea",
-	"And the winds that blow remind me",
-	"Of what has been, and what can never be",
+	"(And the) waves crashing around me, the sand slips out to sea, and the ",
+	"Winds that blow remind me of what has",
+	"Been, and what can never be",
+	"",
+	"I2:",
+	"(instrumental)",
 	"",
 	"O:",
-	"(Instrumental first line)",
-	"I am a lighthouse, worn by the weather and the waves",
-	"And though I am empty, I still warn the sailors on their way"
+	"(I am a) lighthouse, worn by the weather and the waves, and though I am ",
+	"Empty, I still warn the sailors on their way"
     ]
 }
 },
@@ -103285,6 +103369,74 @@
     ]
 }
 },
+{ "file": "", "lastModifiedDate": 1685137927863, "song": 
+{
+"title": "Octopus's Garden",
+"artist": "Beatles, The",
+"user": "Keir",
+"lastModifiedDate": 1685137927863,
+"copyright": "Apple 1969",
+"key": "E",
+"defaultBpm": 92,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"EC#m AB",
+	"V:",
+	"E C#m A B",
+	"E C#m A B",
+	"PC:",
+	"C#m C#m..G#m A BX",
+	"C:",
+	"E C#m AB E",
+	"B:",
+	"A F#m7 D E",
+	"A F#m7 DE AB",
+	"O:",
+	"E C#m AB C#m",
+	"AB C#m AB E"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V: I'd like to be, under the sea, in an octopus' garden in the shade",
+	"He'd let us in, knows where we've been, in his octopus' garden In the shade",
+	"",
+	"PC:",
+	"I'd ask my friends to come and see an octopus' garden with me",
+	"",
+	"C:",
+	"I'd like to be, under the sea, in an octopus' garden in the shade",
+	"",
+	"V: ",
+	"We would be warm, below the storm, in our little hideaway beneath the waves",
+	"Resting our head, on the seabed, in an octopus' garden near a cave",
+	"",
+	"PC:",
+	"We would sing, and dance around, because we know we can't be found",
+	"",
+	"C:",
+	"I'd like to be, under the sea, in an octopus' garden in the shade",
+	"",
+	"B: ",
+	"(instrumental)",
+	"",
+	"V: We would shout, and swim about, the coral that lies beneath the waves (lies beneath the ocean waves)",
+	"Oh what joy for every girl and boy, knowing they're happy and they're safe (happy and they're safe)",
+	"",
+	"PC:",
+	"We would be so happy, you and me, no one there to tell us what to do",
+	"",
+	"O:",
+	"I'd like to be, under the sea, in an octopus' garden with you",
+	"In an octopus' garden with you, in an octopus' garden with you",
+	""
+    ]
+}
+},
 { "file": "Ode to My Family (1).songlyrics", "lastModifiedDate": 1543698005614, "song": 
 {
 "title": "Ode to My Family",
@@ -116191,7 +116343,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684301226271, "song": 
+{ "file": null, "lastModifiedDate": 1684301226271, "song": 
 {
 "title": "Rhinestone Cowboy",
 "artist": "Glen Campbell",
@@ -118909,12 +119061,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1678689683645, "song": 
+{ "file": "", "lastModifiedDate": 1684980021142, "song": 
 {
 "title": "Rose, The",
 "artist": "Bette Midler",
 "user": "Shari",
-"lastModifiedDate": 1678689683645,
+"lastModifiedDate": 1684980021142,
 "copyright": "1979 Atlantic",
 "key": "C",
 "defaultBpm": 69,
@@ -118924,10 +119076,10 @@
 	"I:",
 	"C C C C",
 	"V:",
-	"C G FG C",
-	"C G FG C",
+	"C G F..G C",
+	"C G F..G C",
 	"Em7 Am F G",
-	"C G FG C C"
+	"C G F..G C C"
     ],
 "lyrics": 
     [
@@ -129576,7 +129728,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684910463661, "song": 
+{ "file": null, "lastModifiedDate": 1684910463661, "song": 
 {
 "title": "Smooth",
 "artist": "Santana",
@@ -134793,7 +134945,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684740771718, "song": 
+{ "file": null, "lastModifiedDate": 1684740771718, "song": 
 {
 "title": "Steve McQueen",
 "artist": "Sheryl Crow",
@@ -153664,12 +153816,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1682394736124, "song": 
+{ "file": "", "lastModifiedDate": 1684982755330, "song": 
 {
 "title": "We Two",
 "artist": "Little River Band",
 "user": "Shari",
-"lastModifiedDate": 1682394736124,
+"lastModifiedDate": 1684982755330,
 "copyright": "1983",
 "key": "A",
 "defaultBpm": 125,
@@ -153715,11 +153867,11 @@
 	"",
 	"C: ",
 	"(Oh why do we) play, and why do we lose",
-	"It's a dangerous life we live, we",
-	"Two",
+	"It's a ",
+	"Dangerous life we live, we ",
 	"",
 	"I2:",
-	"(instrumental)",
+	"Two (instrumental)",
 	"",
 	"V:",
 	"We are fools, we make all these rules",
@@ -153729,8 +153881,7 @@
 	"",
 	"C2:",
 	"(So why do we) run, and why do we cry? It's a ",
-	"Crazy life we live, you ",
-	"And I",
+	"Crazy life we live, you And I",
 	"",
 	"Br:",
 	"Carousels and wishing wells were the things we loved",
@@ -155770,7 +155921,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684135028176, "song": 
+{ "file": null, "lastModifiedDate": 1684135028176, "song": 
 {
 "title": "Wheel in the Sky",
 "artist": "Journey",
@@ -163054,7 +163205,7 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1684907032662, "song": 
+{ "file": null, "lastModifiedDate": 1684907032662, "song": 
 {
 "title": "You Gotta Be",
 "artist": "Des'ree",
