@@ -4383,7 +4383,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684450368918, "song": 
+{ "file": "", "lastModifiedDate": 1684450368918, "song": 
 {
 "title": "All That She Wants",
 "artist": "Ace of Base",
@@ -13558,7 +13558,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684135094658, "song": 
+{ "file": "", "lastModifiedDate": 1684135094658, "song": 
 {
 "title": "Black Horse And The Cherry Tree",
 "artist": "KT Tunstall",
@@ -17805,7 +17805,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1686716629701, "song": 
+{ "file": "", "lastModifiedDate": 1686716629701, "song": 
 {
 "title": "Brass In Pocket",
 "artist": "Pretenders",
@@ -19730,12 +19730,12 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1686721306232, "song": 
+{ "file": "", "lastModifiedDate": 1686782367287, "song": 
 {
 "title": "Build Me Up From Bones",
 "artist": "Sarah Jarosz",
 "user": "Shari",
-"lastModifiedDate": 1686721306232,
+"lastModifiedDate": 1686782367287,
 "copyright": "2013 Sugar Hill Records",
 "key": "C",
 "defaultBpm": 115,
@@ -19752,16 +19752,16 @@
 	"Gm Gm Gm Bb",
 	"C C C C",
 	"C:",
-	"Eb Bb Csus4 Csus4",
-	"Eb Bb Csus4 Csus4",
+	"Eb Bb Bb Csus4",
+	"Eb Bb Bb Csus4",
 	"Dm C Eb Bb",
 	"Abmaj7 Abmaj7 Abmaj7 Bb",
 	"Br:",
 	"Ebmaj7 Ebmaj7 Dbmaj7 Dbmaj7 |",
 	"F F Cm Bb | x2",
 	"O:",
-	"Dm7 Bbsus2 C5 C5 x3",
-	"Dm7 Bbsus2 C5"
+	"Dm7 Bbsus2 C C x3",
+	"Dm7 Bbsus2 C"
     ],
 "lyrics": 
     [
@@ -25391,7 +25391,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684302789224, "song": 
+{ "file": "", "lastModifiedDate": 1684302789224, "song": 
 {
 "title": "Cleaning Windows",
 "artist": "Van Morrison",
@@ -26586,7 +26586,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684136918069, "song": 
+{ "file": "", "lastModifiedDate": 1684136918069, "song": 
 {
 "title": "Come Dancing",
 "artist": "Kinks, The",
@@ -38271,7 +38271,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684448366794, "song": 
+{ "file": "", "lastModifiedDate": 1684448366794, "song": 
 {
 "title": "Down Under",
 "artist": "Men at Work",
@@ -47337,7 +47337,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1685941906554, "song": 
+{ "file": "", "lastModifiedDate": 1685941906554, "song": 
 {
 "title": "Fly Like An Eagle",
 "artist": "Steve Miller Band",
@@ -53582,7 +53582,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684910174358, "song": 
+{ "file": "", "lastModifiedDate": 1684910174358, "song": 
 {
 "title": "Gone Gone Gone",
 "artist": "Everly Brothers, The",
@@ -54594,7 +54594,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1686545303948, "song": 
+{ "file": "", "lastModifiedDate": 1686545303948, "song": 
 {
 "title": "Goody Two Shoes",
 "artist": "Adam Ant",
@@ -65277,7 +65277,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684739315320, "song": 
+{ "file": "", "lastModifiedDate": 1684739315320, "song": 
 {
 "title": "I Can't Help Myself",
 "artist": "Four Tops",
@@ -66412,7 +66412,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684044754541, "song": 
+{ "file": "", "lastModifiedDate": 1684044754541, "song": 
 {
 "title": "I Got You",
 "artist": "Split Enz",
@@ -70978,7 +70978,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1685507888334, "song": 
+{ "file": "", "lastModifiedDate": 1685507888334, "song": 
 {
 "title": "If You Love Somebody Set Them Free",
 "artist": "Sting",
@@ -77282,7 +77282,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1686542086989, "song": 
+{ "file": "", "lastModifiedDate": 1686542086989, "song": 
 {
 "title": "Jeremy",
 "artist": "Pearl Jam",
@@ -90852,7 +90852,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1686711955479, "song": 
+{ "file": "", "lastModifiedDate": 1686711955479, "song": 
 {
 "title": "Love Shack",
 "artist": "B-52s",
@@ -117556,7 +117556,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684301226271, "song": 
+{ "file": "", "lastModifiedDate": 1684301226271, "song": 
 {
 "title": "Rhinestone Cowboy",
 "artist": "Glen Campbell",
@@ -130941,7 +130941,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684910463661, "song": 
+{ "file": "", "lastModifiedDate": 1684910463661, "song": 
 {
 "title": "Smooth",
 "artist": "Santana",
@@ -136158,7 +136158,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684740771718, "song": 
+{ "file": "", "lastModifiedDate": 1684740771718, "song": 
 {
 "title": "Steve McQueen",
 "artist": "Sheryl Crow",
@@ -148706,7 +148706,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1685945625003, "song": 
+{ "file": "", "lastModifiedDate": 1685945625003, "song": 
 {
 "title": "True Blue",
 "artist": "Madonna",
@@ -157256,7 +157256,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684135028176, "song": 
+{ "file": "", "lastModifiedDate": 1684135028176, "song": 
 {
 "title": "Wheel in the Sky",
 "artist": "Journey",
@@ -164540,7 +164540,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1684907032662, "song": 
+{ "file": "", "lastModifiedDate": 1684907032662, "song": 
 {
 "title": "You Gotta Be",
 "artist": "Des'ree",
@@ -167575,12 +167575,12 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1686719967573, "song": 
+{ "file": "", "lastModifiedDate": 1686782724778, "song": 
 {
 "title": "You're the Only Woman",
 "artist": "Ambrosia",
 "user": "Shari",
-"lastModifiedDate": 1686719967573,
+"lastModifiedDate": 1686782724778,
 "copyright": "1980 Warner Bros.",
 "key": "B",
 "defaultBpm": 106,
@@ -167588,32 +167588,41 @@
 "chords": 
     [
 	"I1:",
-	"Abm7 Ebm7 Emaj7 Gb x2",
+	"Abm7/Db Ebm7 Emaj7 Gb",
+	"Abm7 Ebm7/F# Emaj7 Gb/D#",
 	"I2:",
-	"Abm7 Ebm7 Emaj7 Gb x2",
+	"Abm7/Db Ebm7 Emaj7 Gb",
+	"Abm7 Ebm7/F# Emaj7 Gb/D#",
 	"I3:",
 	"Abm7/Db Ebm7 Emaj7 Gb |",
-	"Abm7 Ebm7 Emaj7 Gb | x3",
+	"Abm7 Ebm7/F# Emaj7 Gb/D# | x3",
 	"Abm7/Db Ebm7 Emaj7 Gb",
-	"Abm7 Ebm7 Emaj7X Emaj7",
+	"Abm7 Ebm7/F# Emaj7X Emaj7",
 	"V:",
-	"Abm7 Ebm7 Emaj7 Gb x4",
+	"Abm7/Db Ebm7 Emaj7 Gb",
+	"Abm7 Ebm7/F# Emaj7 Gb/D#",
+	"Abm7/Db Ebm7 Emaj7 Gb",
+	"Abm7 Ebm7/F# Emaj7 Gb/D#",
 	"PC:",
-	"Abm7 Ebm7 Emaj7 Gb x4",
+	"Abm7/Db Ebm7 Emaj7 Gb",
+	"Abm7 Ebm7/F# Emaj7 Gb/D#",
+	"Abm7/Db Ebm7 Emaj7 Gb",
+	"Abm7 Ebm7/F# Emaj7 Gb/D#",
 	"C1:",
 	"Emaj7 Emaj7 Ebm7 Abm7 x3",
 	"C2:",
 	"Abm7/Db Ebm7 Emaj7 Gb",
-	"Abm7 Ebm7 Emaj7 Gb",
+	"Abm7 Ebm7/F# Emaj7 Gb/D#",
 	"Abm7/Db Ebm7 Emaj7 Gb",
-	"Abm7 Ebm7 Emaj7 Gb",
+	"Abm7 Ebm7/F# Emaj7 Gb/D#",
 	"Br:",
 	"Abm Abm Ebm Abm",
 	"Abm Abm Ebm Abm",
 	"Abm Abm Ebm Abm",
 	"Gbm7 Gbm7 Ebm7 Abm",
 	"O:",
-	"Abm7 Ebm7 Emaj7 Gb x6"
+	"Abm7/Db Ebm7 Emaj7 Gb |",
+	"Abm7 Ebm7/F# Emaj7 Gb/D# | x3"
     ],
 "lyrics": 
     [
@@ -167624,8 +167633,10 @@
 	"(instrumental organ) Oh baby",
 	"",
 	"V:",
-	"(Say now) you, you talk about the things I do, but baby",
-	"I, yeah, I'll try and explain the reasons why",
+	"(Say now) you, you talk about the ",
+	"Things I do, but baby",
+	"I, yeah, I'll try and explain the ",
+	"Reasons why",
 	"",
 	"PC:",
 	"('Cause I've been) thinkin' 'bout the things that we said late last night, when every ",
@@ -167645,8 +167656,10 @@
 	"-",
 	"",
 	"V:",
-	"(Baby) see, what a foolish heart has done for me",
-	"Darlin' why, yeah, would you break my heart and make me cry?",
+	"(Baby) see, what a foolish heart has ",
+	"Done for me",
+	"Darlin' why, yeah, would you break my heart and ",
+	"Make me cry?",
 	"",
 	"PC:",
 	"(Well now you) can't go back and change the way things are, and all this ",
