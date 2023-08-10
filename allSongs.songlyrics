@@ -24506,12 +24506,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1688327657833, "song": 
+{ "file": "", "lastModifiedDate": 1691616764910, "song": 
 {
 "title": "Caught Up In the Rapture",
 "artist": "Anita Baker",
 "user": "Shari",
-"lastModifiedDate": 1688327657833,
+"lastModifiedDate": 1691616764910,
 "copyright": "1985 Elektra",
 "key": "D",
 "defaultBpm": 91,
@@ -24540,24 +24540,24 @@
 	"C#m11 F#7#5 Bm9 E13",
 	"G9/A G9/A G9/A G9/A",
 	"C:",
-	"A9/B A9/B A9/B A9/B",
+	"Aadd9/B Aadd9/B Aadd9/B Aadd9/B",
 	"Gmaj7 Gmaj7 Em7 F#7#5",
-	"A9/B A9/B A9/B A9/B",
+	"Aadd9/B Aadd9/B Aadd9/B Aadd9/B",
 	"Gmaj7 Gmaj7 Em7 Em7/A",
 	"Dmaj9 Dmaj9",
 	"C2:",
-	"A9/B A9/B A9/B A9/B",
+	"Aadd9/B Aadd9/B Aadd9/B Aadd9/B",
 	"Gmaj7 Gmaj7 Em7 F#7#5",
-	"A9/B A9/B A9/B A9/B",
+	"Aadd9/B Aadd9/B Aadd9/B Aadd9/B",
 	"Gmaj7 Gmaj7 Em7 Em7/A",
 	"C3:",
-	"A9/B A9/B A9/B A9/B",
+	"Aadd9/B Aadd9/B Aadd9/B Aadd9/B",
 	"Gmaj7 Gmaj7 Em7 Em7/A",
 	"Dmaj9 Dmaj9",
 	"O:",
-	"A9/B A9/B A9/B A9/B |",
+	"Aadd9/B Aadd9/B Aadd9/B Aadd9/B |",
 	"Gmaj7 Gmaj7 Em7 F#7#5 | x4",
-	"A9/B A9/B A9/B A9/B",
+	"Aadd9/B Aadd9/B Aadd9/B Aadd9/B",
 	"Gmaj7"
     ],
 "lyrics": 
@@ -68169,12 +68169,12 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1691614867100, "song": 
+{ "file": null, "lastModifiedDate": 1691696407299, "song": 
 {
 "title": "I Don't Want to Lose You Yet",
 "artist": "Steve Earle",
 "user": "Shari",
-"lastModifiedDate": 1691614867100,
+"lastModifiedDate": 1691696407299,
 "copyright": "2000 Artemis Records",
 "key": "G",
 "defaultBpm": 122,
@@ -68183,17 +68183,17 @@
     [
 	"I:",
 	"G G Em Em",
-	"Am7 Am7 D7 D7",
+	"C C D7 D7",
 	"V:",
 	"G D G D",
 	"G D G D",
-	"Em Bm Am D",
+	"Em Bm C D",
 	"C:",
 	"G G Em Em",
-	"Am7 Am7 D7 D7",
+	"C C D7 D7",
 	"Br:",
-	"Em G Am G",
-	"Em Bm Am D"
+	"Em G C G",
+	"Em Bm C D"
     ],
 "lyrics": 
     [
@@ -68232,7 +68232,7 @@
 	"I don't ever want to let you go, so",
 	"",
 	"V:",
-	"Baby maybe I'm wrong but what it I'm right",
+	"Baby maybe I'm wrong but what if I'm right",
 	"And everything's depending on us tonight",
 	"Maybe we'll pass this way again but honey I don't want to wait 'til then",
 	"",
@@ -118304,16 +118304,16 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1691554228802, "song": 
+{ "file": null, "lastModifiedDate": 1691632830689, "song": 
 {
 "title": "Promises Promises",
 "artist": "Naked Eyes",
 "user": "Shari",
-"lastModifiedDate": 1691554228802,
+"lastModifiedDate": 1691632830689,
 "copyright": "1983 EMI",
 "key": "C",
 "defaultBpm": 115,
-"timeSignature": "4/4",
+"timeSignature": "2/4",
 "chords": 
     [
 	"I:",
@@ -133193,12 +133193,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1689040313821, "song": 
+{ "file": "", "lastModifiedDate": 1691696544086, "song": 
 {
 "title": "Shut Your Eyes",
 "artist": "Snow Patrol",
 "user": "Shari",
-"lastModifiedDate": 1689040313821,
+"lastModifiedDate": 1691696544086,
 "copyright": "2006 Fiction, Polydor, A&M",
 "key": "Gb",
 "defaultBpm": 124,
@@ -133206,24 +133206,24 @@
 "chords": 
     [
 	"I:",
-	"Eb5 Fm7 Ebm7 Ab5 x8",
+	"Eb5/Eb Fm7/Eb Ebm7 Ab5/Eb x8",
 	"I2:",
-	"Eb5 Fm7 Ebm7 Ab5 x4",
+	"Eb5/Eb Fm7/Eb Ebm7 Ab5/Eb x4",
 	"V:",
-	"Eb5 Fm7 Ebm7 Ab5 x4",
+	"Eb5/Eb Fm7/Eb Ebm7 Ab5/Eb x4",
 	"PC:",
 	"B5 B5 Ab5 Ab5",
 	"Db5 Db5 B5 B5",
 	"B5 B5 Ab5 Ab5",
 	"Db5 Db5 Db5 Db5",
 	"C1:",
-	"Eb5 Fm7 Ebm7 Ab5 x2",
+	"Eb5/Eb Fm7/Eb Ebm7 Ab5/Eb x2",
 	"C2:",
-	"Eb5 Fm7 Ebm7 Ab5 x4",
+	"Eb5/Eb Fm7/Eb Ebm7 Ab5/Eb x4",
 	"Br:",
 	"X X X X x2",
 	"O:",
-	"Eb5 Fm7 Ebm7 Ab5 x2",
+	"Eb5/Eb Fm7/Eb Ebm7 Ab5/Eb x2",
 	"Ab5"
     ],
 "lyrics": 
