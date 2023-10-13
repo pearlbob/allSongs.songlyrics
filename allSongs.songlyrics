@@ -12384,7 +12384,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1697006698372, "song": 
+{ "file": "", "lastModifiedDate": 1697006698372, "song": 
 {
 "title": "Bang the Drum All Day",
 "artist": "Todd Rundgren",
@@ -12464,7 +12464,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1693954616391, "song": 
+{ "file": "", "lastModifiedDate": 1693954616391, "song": 
 {
 "title": "Basement Apartment",
 "artist": "Sarah Harmer",
@@ -14184,7 +14184,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1696142251319, "song": 
+{ "file": "", "lastModifiedDate": 1696142251319, "song": 
 {
 "title": "Better Man",
 "artist": "Pearl Jam",
@@ -67120,7 +67120,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1693947060511, "song": 
+{ "file": "", "lastModifiedDate": 1693947060511, "song": 
 {
 "title": "Honky Cat",
 "artist": "Elton John",
@@ -96880,7 +96880,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1696230419633, "song": 
+{ "file": "", "lastModifiedDate": 1696230419633, "song": 
 {
 "title": "Love My Way",
 "artist": "Psychedelic Furs, The",
@@ -105807,7 +105807,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1695701204248, "song": 
+{ "file": "", "lastModifiedDate": 1695701204248, "song": 
 {
 "title": "Mr. Jones",
 "artist": "Counting Crows",
@@ -112800,12 +112800,12 @@
     ]
 }
 },
-{ "file": "", "lastModifiedDate": 1695945752784, "song": 
+{ "file": "", "lastModifiedDate": 1697182363073, "song": 
 {
 "title": "One Headlight",
 "artist": "Wallflowers, The",
 "user": "Shari",
-"lastModifiedDate": 1695945752784,
+"lastModifiedDate": 1697182363073,
 "copyright": "1996 Interscope",
 "key": "D",
 "defaultBpm": 108,
@@ -112829,7 +112829,7 @@
 	"C2:",
 	"G D Em7Em7/G A x2",
 	"O:",
-	"G D Em7 A x4",
+	"G D Em7 A x8",
 	"G"
     ],
 "lyrics": 
@@ -120631,7 +120631,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1696993143849, "song": 
+{ "file": "", "lastModifiedDate": 1696993143849, "song": 
 {
 "title": "Precious",
 "artist": "Pretenders, The",
@@ -123294,7 +123294,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1696230450474, "song": 
+{ "file": "", "lastModifiedDate": 1696230450474, "song": 
 {
 "title": "Rattlesnakes",
 "artist": "Lloyd Cole and The Commotions",
@@ -142957,12 +142957,12 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1697008783661, "song": 
+{ "file": "", "lastModifiedDate": 1697182249946, "song": 
 {
 "title": "Sowing the Seeds",
 "artist": "Tears For Fears",
 "user": "Shari",
-"lastModifiedDate": 1697008783661,
+"lastModifiedDate": 1697182249946,
 "copyright": "1989 Fontana",
 "key": "C",
 "defaultBpm": 84,
@@ -142987,6 +142987,12 @@
 	"V2:",
 	"Gm7 F6 Ebmaj9 Am/D |",
 	"Ebmaj9 Am/D Ebmaj9 Am/D | x2",
+	"V3:",
+	"Gm7 F6 Ebmaj9 Am/D",
+	"Ebmaj9 Am/D Ebmaj9 Am/D",
+	"Ebmaj9 Am/D Ebmaj9 Am/D",
+	"Ebmaj9 Am/D Ebmaj9 Am/D",
+	"Ebmaj9 Am/D Am/D Am/D",
 	"C1:",
 	"C Cmaj7/B Am Am7/G",
 	"F Abmaj7G7",
@@ -142994,10 +143000,15 @@
 	"C Cmaj7/B Am Am7/G",
 	"F Abmaj7G7 G7 Abmaj7G7 G7",
 	"Abmaj7G7 G7",
+	"C3:",
+	"C Cmaj7/B Am Am7/G |",
+	"F Abmaj7G7 | x2",
 	"Br1:",
 	"Fmaj7 Fmaj7 Ebmaj7 Ebmaj7 x4",
 	"Br2:",
-	"Eb D7 D7 D7"
+	"Eb D7 D7 D7",
+	"O:",
+	"C"
     ],
 "lyrics": 
     [
@@ -143056,7 +143067,7 @@
 	"Sowing the seeds, we're sowing the seeds, sowing the seeds",
 	"",
 	"I5:",
-	"(instrumental)...Sowing the seeds of love",
+	"(instrumental organ)...Sowing the seeds of love",
 	"...Sowing the seeds",
 	"Sowing the seeds of love",
 	"Sowing the seeds of love",
@@ -143068,50 +143079,42 @@
 	"Time to eat all your words, swallow your ",
 	"Pride, open your eyes",
 	"",
-	"V2:",
-	"High time we made a stand, and shook up the views of the common man",
-	"Swallow your pride and the love train rides from coast to coast",
-	"Open your eyes",
-	"Every minute of every hour",
-	"I love a sunflower",
-	"Open your eyes",
-	"And I believe in love power",
-	"Open your eyes",
-	"Love power",
-	"Love power",
-	"Open your eyes",
+	"V3:",
+	"(Time to eat all your words, swallow your pride) High time we made a stand, and shook up the views of the common man and the",
+	"Love train rides from coast to coast (open your eyes) every minute of every hour",
+	"I love a sunflower (open your eyes) and I believe in ",
+	"In love power (open your eyes) in love power",
+	"Love power (open your eyes) ",
 	"",
-	"Sowing the seeds of love, seeds of love",
-	"Sowing the seeds",
-	"Sowing the seeds of love, the seeds of love",
-	"Sowing the seeds",
-	"Sowing the seeds",
-	"Sowing the seeds of love, seeds of love",
-	"Sowing the seeds of love, sowing the seeds",
-	"Sowing the seeds",
+	"C3:",
+	"Sowing the seeds of love, seeds of ",
+	"Love, sowing the seeds",
+	"Sowing the seeds of love, seeds of ",
+	"Love, sowing the seeds",
 	"",
-	"An end to need",
-	"And the politics of greed",
-	"With love",
+	"C2:",
+	"Sowing the seeds of love, seeds of ",
+	"Love, sowing the seeds, an end to need, and the ",
+	"Politics of greed",
 	"",
-	"Sowing the seeds of love, seeds of love",
-	"Sowing the seeds of love",
-	"Sowing the seeds of love, seeds of love",
-	"(Anything, anything)",
-	"Sowing the seeds",
-	"Sowing the seeds of love, seeds of love",
-	"Sowing the seeds",
+	"C3:",
+	"Sowing the seeds of love, seeds of ",
+	"Love, sowing the seeds",
+	"Sowing the seeds of love, seeds of ",
+	"Love, sowing the seeds",
 	"",
-	"An end to need",
-	"And the politics of greed",
-	"With love",
+	"C2:",
+	"Sowing the seeds of love, seeds of ",
+	"Love, sowing the seeds, an end to need, and the ",
+	"Politics of greed",
 	"",
-	"Sowing the seeds of love, seeds of love",
-	"Sowing the seeds of love",
-	"Sowing the seeds of love, seeds of love",
-	"Sowing the seeds of love",
-	"Sowing the seeds of love, seeds of love",
-	"Sowing the seeds of love"
+	"C3:",
+	"Sowing the seeds of love, seeds of ",
+	"Love, sowing the seeds",
+	"Sowing the seeds of love, seeds of ",
+	"Love, sowing the seeds",
+	"",
+	"O:"
     ]
 }
 },
@@ -145804,7 +145807,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1693952195335, "song": 
+{ "file": "", "lastModifiedDate": 1693952195335, "song": 
 {
 "title": "Strange Transmissions",
 "artist": "Peter Malick Group, Norah Jones, The",
@@ -145883,7 +145886,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1693947230534, "song": 
+{ "file": "", "lastModifiedDate": 1693947230534, "song": 
 {
 "title": "Strange",
 "artist": "Tori Amos",
@@ -166446,7 +166449,7 @@
     ]
 }
 },
-{ "file": null, "lastModifiedDate": 1695711901641, "song": 
+{ "file": "", "lastModifiedDate": 1695711901641, "song": 
 {
 "title": "What Was I Made For?",
 "artist": "Billie Eilish",
