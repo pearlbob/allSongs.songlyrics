@@ -38672,6 +38672,63 @@
     ]
 }
 },
+{ "file": null, "lastModifiedDate": 1697611519400, "song": 
+{
+"title": "Don't Cry Baby",
+"artist": "Bessie Smith",
+"coverArtist": "Etta James",
+"user": "shari",
+"lastModifiedDate": 1697611519400,
+"copyright": "1929 James P. Johnson, Saul Bernie, Stella Unger",
+"key": "F",
+"defaultBpm": 88,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"F7 Bb7 F7 C7",
+	"V1:",
+	"F7 F7 Bb7 Bb7",
+	"F7 C7 F7 C7",
+	"V2:",
+	"F7 F7 Bb7 Bb7",
+	"F7 C7 F7 F7",
+	"O:",
+	"F7 Bb7 F7 C7",
+	"F7 Bb7 F7 C7",
+	"F7"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"V1:",
+	"Don't cry, don't cry baby, don't cry, baby",
+	"Dry your eyes and let's be sweethearts again, and, oh oh 'cause ",
+	"",
+	"V2:",
+	"You know, you know I didn't mean to ever treat you so mean",
+	"C'mon, c'mon, sweetheart and let's try it over again, and whoa",
+	"",
+	"V1:",
+	"Don't cry, don't cry baby, don't cry, don't cry",
+	"Dry your eyes and let's be sweethearts again, and oh oh",
+	"",
+	"V2:",
+	"('Cause you) know, you know I didn't mean, to ever treat you so mean",
+	"C'mon, c'mon, sweetheart, let's try it over again, oh",
+	"",
+	"V2:",
+	"Don't cry, don't cry, don't cry baby, don't cry, don't cry, don't cry, don't cry",
+	"Dry your eyes, let's be sweethearts again, and oh",
+	"",
+	"O:",
+	"Don't cry, don't cry, don't cry, don't cry, don't cry",
+	"Hmm-mmm, don't cry"
+    ]
+}
+},
 { "file": "", "lastModifiedDate": 1645131863913, "song": 
 {
 "title": "Don't Dream It's Over",
@@ -77152,6 +77209,78 @@
 	"",
 	"O:",
 	"I’ll fly away"
+    ]
+}
+},
+{ "file": null, "lastModifiedDate": 1697610480036, "song": 
+{
+"title": "I'll Never Find Another You",
+"artist": "Seekers, The",
+"user": "shari",
+"lastModifiedDate": 1697610480036,
+"copyright": "1964 EMI Columbia, Capitol",
+"key": "Bb",
+"defaultBpm": 63,
+"timeSignature": "4/4",
+"chords": 
+    [
+	"I:",
+	"BbEb F BbEb F x2",
+	"I2:",
+	"Bb Eb C7 F",
+	"Bb Dm Eb F",
+	"A1:",
+	"Bb Eb C7 F",
+	"Bb Dm Eb F",
+	"Gm Eb FEb DmEb",
+	"BbGm EbF BbEb F",
+	"A2:",
+	"Bb Eb C7 F",
+	"Bb Dm Eb F",
+	"Gm Eb FEb DmEb",
+	"BbGm EbF BbEb Bb",
+	"B:",
+	"Gm Eb BbF Bb",
+	"Gm FEb BbEb F",
+	"T:",
+	"Gm Eb FEb DmEb",
+	"BbGm EbF BbEb F",
+	"BbEb F BbEb Bb"
+    ],
+"lyrics": 
+    [
+	"I:",
+	"(instrumental)",
+	"",
+	"A1:",
+	"(There's a) new world somewhere they call the promised land, and I'll ",
+	"Be there someday, if you will hold my hand, I still ",
+	"Need you there beside me, no matter what I do, for I ",
+	"Know I'll never find another you",
+	"",
+	"A2:",
+	"(There is) always someone for each of us, they say, and you'll ",
+	"Be my someone forever and a day, I could ",
+	"Search the whole world over until my life is through, but I ",
+	"Know I'll never find another you",
+	"",
+	"B:",
+	"(It's a) long, long journey, so stay by my side, when I ",
+	"Walk through the storm you'll be my guide, be my guide",
+	"",
+	"A1:",
+	"(If they) gave me a fortune, my pleasure would be small, I could ",
+	"Lose it all tomorrow and never mind at all, but if ",
+	"I should lose your love dear, I don't know what I'd do, for I ",
+	"Know I'll never find another you",
+	"",
+	"I2:",
+	"(instrumental)",
+	"",
+	"T:",
+	"(But if) I should lose your love dear, I don't know what I'd do, for I ",
+	"Know I'll never find another you, another ",
+	"You, another you"
     ]
 }
 },
