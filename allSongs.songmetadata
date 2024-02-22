@@ -709,7 +709,7 @@
 {"id":"Song_No_Mermaid_by_Sinead_Lohan","metadata":[{"name":"Vocalist","value":"Female"}]},
 {"id":"Song_No_More_Words_by_Berlin","metadata":[{"name":"Vocalist","value":"Female"}]},
 {"id":"Song_No_Ordinary_Love_by_Sade","metadata":[{"name":"Vocalist","value":"Female"}]},
-{"id":"Song_No_Ordinary_Love_cover_by_the_Civil_Wars_by_Sade","metadata":[{"name":"Vocalist","value":"Duet"},{"name":"Vocalist","value":"Female"}]},
+{"id":"Song_No_Ordinary_Love_by_Sade_coverBy_Civil_Wars_The","metadata":[{"name":"Vocalist","value":"Duet"},{"name":"Vocalist","value":"Female"}]},
 {"id":"Song_No_Rain_by_Blind_Melon","metadata":[{"name":"Genre","value":"Rock"},{"name":"Subgenre","value":"Alt rock"}]},
 {"id":"Song_No_Woman_No_Cry_by_Bob_Marley_The_Wailers","metadata":[{"name":"Genre","value":"Rock"},{"name":"Jam","value":"Beginner"},{"name":"Subgenre","value":"Reggae"}]},
 {"id":"Song_Nobody_Does_It_Better_by_Carly_Simon","metadata":[{"name":"Genre","value":"Pop"},{"name":"Vocalist","value":"Female"}]},
